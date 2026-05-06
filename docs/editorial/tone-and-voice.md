@@ -11,12 +11,12 @@ Our editorial voice is **clear, respectful, and serviceable**. We write to conve
 
 - **Prefer concrete to abstract.** "Bhagwan Swaminarayan walked from Loj to Mangrol" is stronger than "Bhagwan Swaminarayan undertook a journey of considerable distance."
 - **Respect the reader's time.** A short sentence beats a long one when both convey the same idea.
-- **Translate, don't transliterate, when meaning is at stake.** Use *aksharbrahman* with a brief gloss on first mention; rely on the reader to remember it after that.
+- **Translate, don't transliterate, when meaning is at stake.** Use *aksharbrahma* with a brief gloss on first mention; rely on the reader to remember it after that.
 - **Avoid honorific inflation.** Where the source text uses a single honorific (e.g. *Shri*), don't compound it in translation.
 
 ## Open questions for the team
 
-- How do we handle direct discourse from Bhagwan Swaminarayan, Aksharbrahman Gunatitanand Swami, and the gurus? Reverent capitalisation? Italics? Quotation marks?
+- How do we handle direct discourse from Bhagwan Swaminarayan, Aksharbrahma Gunatitanand Swami, and the gurus? Reverent capitalisation? Italics? Quotation marks?
 - What's our default audience — devotee or general reader? Do different publications shift this?
 - How do we balance scholarly and devotional registers in the same publication?
 
