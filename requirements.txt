@@ -1,0 +1,8 @@
+# BAPS DTP Style Guide — Python dependencies
+# Version: 1.0
+# Install with: pip install -r requirements.txt
+
+mkdocs-material>=9.5.0
+mkdocs-git-revision-date-localized-plugin>=1.2.4
+mkdocs-glightbox>=0.3.7
+mike>=2.0.0

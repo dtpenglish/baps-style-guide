@@ -1,0 +1,181 @@
+# BAPS DTP Style Guide — MkDocs Configuration
+# Version: 1.0
+# ---------------------------------------------------------------
+# After editing this file, preview locally with:
+#   mkdocs serve
+# Push to main branch to auto-deploy via GitHub Actions.
+
+site_name: BAPS DTP Style Guide
+site_description: >-
+  Editorial, design, and production conventions for BAPS Swaminarayan Sanstha
+  publishing — covering Sanskrit, Gujarati, Hindi, and English materials.
+site_author: BAPS DTP Team
+site_url: https://dtpenglish.github.io/baps-style-guide/
+
+# ---------------------------------------------------------------
+# Repository — enables the "Edit this page" pencil icon
+# ---------------------------------------------------------------
+repo_name: dtpenglish/baps-style-guide
+repo_url: https://github.com/dtpenglish/baps-style-guide
+edit_uri: edit/main/docs/
+
+# ---------------------------------------------------------------
+# Theme
+# ---------------------------------------------------------------
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit         # Pencil icon → opens GitHub web editor
+    - content.action.view         # Eye icon → views raw source
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Noto Sans
+    code: JetBrains Mono
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+# ---------------------------------------------------------------
+# Plugins
+# ---------------------------------------------------------------
+plugins:
+  - search:
+      lang: en
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+      fallback_to_build_date: true
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+
+# ---------------------------------------------------------------
+# Markdown extensions
+# ---------------------------------------------------------------
+markdown_extensions:
+  # Admonitions (note/warning/tip callouts)
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # Tabs and rich content
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  # Standard
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - def_list
+  - abbr
+  - toc:
+      permalink: true
+      permalink_title: Anchor link to this section
+      toc_depth: 3
+
+# ---------------------------------------------------------------
+# Navigation — top-level structure
+# ---------------------------------------------------------------
+nav:
+  - Home: index.md
+  - Editorial:
+      - editorial/index.md
+      - Tone & Voice: editorial/tone-and-voice.md
+      - Capitalisation: editorial/capitalisation.md
+      - Punctuation: editorial/punctuation.md
+  - Diacritics & Transliteration:
+      - diacritics/index.md
+      - Macron-Only Convention: diacritics/macron-convention.md
+      - Glossary Reference: diacritics/glossary-reference.md
+  - InDesign:
+      - indesign/index.md
+      - Paragraph Styles: indesign/paragraph-styles.md
+      - Master Pages: indesign/master-pages.md
+  - EPUB Accessibility:
+      - epub/index.md
+      - Alt Text Guidelines: epub/alt-text.md
+      - Reading Order: epub/reading-order.md
+  - Scripts & Tools:
+      - scripts/index.md
+      - JSX Scripts Reference: scripts/jsx-reference.md
+  - Workflows:
+      - workflows/index.md
+      - File Versioning Rules: workflows/versioning.md
+      - File Naming: workflows/file-naming.md
+  - Contributing: contributing.md
+  - Changelog: changelog.md
+
+# ---------------------------------------------------------------
+# Extra
+# ---------------------------------------------------------------
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dtpenglish
+  version:
+    provider: mike
+    default: latest
+
+copyright: >
+  Copyright © BAPS Swaminarayan Sanstha — DTP Team.
+  Internal style guide for production use.
+
+# ---------------------------------------------------------------
+# Watch additional files during `mkdocs serve`
+# ---------------------------------------------------------------
+watch:
+  - overrides/
