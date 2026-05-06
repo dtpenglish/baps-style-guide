@@ -4,7 +4,7 @@
 
 **Live site:** https://dtpenglish.github.io/baps-style-guide/
 
-This is an in-house style guide built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). It covers conventions for our work across Sanskrit, Gujarati, Hindi, and English materials — including editorial style, diacritic handling, InDesign production, EPUB accessibility, and our scripts and workflows.
+This is a BAPS in-house style guide built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). It covers conventions for our work across Sanskrit, Gujarati, Hindi, and English materials — including editorial style, diacritic handling, InDesign production, EPUB accessibility, and our scripts and workflows.
 
 ## Quick links
 
