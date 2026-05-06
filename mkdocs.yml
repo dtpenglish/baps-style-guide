@@ -172,7 +172,3 @@ extra:
 copyright: >
   Copyright © BAPS Swaminarayan Sanstha — DTP Team.
   Internal style guide for production use.
-
-# ---------------------------------------------------------------
-# Watch additional files during `mkdocs serve`
-# ---------------------------------------------------------------
