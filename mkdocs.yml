@@ -24,7 +24,6 @@ edit_uri: edit/main/docs/
 # ---------------------------------------------------------------
 theme:
   name: material
-  custom_dir: overrides
   language: en
   features:
     - navigation.tabs
@@ -177,5 +176,3 @@ copyright: >
 # ---------------------------------------------------------------
 # Watch additional files during `mkdocs serve`
 # ---------------------------------------------------------------
-watch:
-  - overrides/
