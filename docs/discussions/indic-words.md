@@ -1,7 +1,7 @@
-# Indic Words
+# 33 Indic Words
 Open questions on plurals, currency, and units of measure. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
 
-## Plurals
+## 33.1 Plurals
 Variations in current use:
 
 - *rotlo* / *rotla* / *rotlos*
@@ -14,7 +14,7 @@ Open question: for each item above, what is the preferred singular and plural in
 
 The harder cases are words that have a **native plural that doubles as the singular** in English usage (e.g. *sant* used as both singular and plural).
 
-## Currency
+## 33.2 Currency
 Variations in current use:
 
 - Rupees / rupees / (symbol ₹)
@@ -26,7 +26,7 @@ Open questions:
 - *Rupees* (capitalized), *rupees* (lowercase), or the symbol ₹ — when and where?
 - For historical denominations (*ral*, *dokdo*): preferred singular and plural; abbreviation?
 
-## Units of Measure
+## 33.3 Units of Measure
 Variations in current use:
 
 - *gau*
@@ -39,5 +39,5 @@ Open questions:
 - Is there a preferred **abbreviation** for any of these?
 - When a unit is mentioned alongside a metric equivalent, what's the format? (E.g., *one vigha (about 0.4 ha)*?)
 
-## Have an Opinion?
+## 33.4 Have an Opinion?
 Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Plurals: …`, `Currency: …`, or `Units: …`.

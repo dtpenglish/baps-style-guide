@@ -1,9 +1,9 @@
-# JSX Scripts Reference
+# 25 JSX Scripts Reference
 Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each entry covers what the script does, how to run it, and notable behaviour.
 
 ---
 
-## ArticleBuilder.jsx
+## 25.1 ArticleBuilder.jsx
 **Current version:** v4.39
 
 **Purpose:** Automates Articles panel sequencing for EPUB export. Walks the document, identifies content elements, and produces a clean reading order.
@@ -24,7 +24,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 ---
 
-## AddAltText.jsx
+## 25.2 AddAltText.jsx
 **Current version:** v17
 
 **Purpose:** Batch alt-text application for images in an InDesign document.
@@ -46,7 +46,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 ---
 
-## ExportToWord_Generic.jsx
+## 25.3 ExportToWord_Generic.jsx
 **Current version:** v11g
 
 **Purpose:** Exports an InDesign story or document to RTF/Word format with paragraph numbering and track changes preserved.
@@ -68,7 +68,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 ---
 
-## SplitVachanamrut.jsx
+## 25.4 SplitVachanamrut.jsx
 **Current version:** (record current version)
 
 **Purpose:** Splits the Vachanamrut master document into per-section or per-discourse files.
@@ -80,7 +80,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 ---
 
-## ExtendScript Gotchas
+## 25.5 ExtendScript Gotchas
 A handful of issues that have caught us out and are worth knowing before writing or extending these scripts:
 
 - **`item.pageItems` vs `item.allPageItems`:** the latter returns typed objects (groups, etc.); the former returns generic page items. Use `allPageItems` when you need to reason about types.
@@ -90,7 +90,7 @@ A handful of issues that have caught us out and are worth knowing before writing
 - **Pre-compute before `pd.show()`:** any long-running DOM work after the dialog opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialog.
 - **Sidekick MCP execution:** wrap script bodies in `app.doScript(script, 1246973031);` to run them through the Sidekick MCP bridge.
 
-## Related
+## 25.6 Related
 - [Versioning Rules](../workflows/versioning.md) — every script edit produces a new versioned file
 - [Reading Order](../epub/reading-order.md) — what `ArticleBuilder.jsx` actually produces
 - [Alt Text Guidelines](../epub/alt-text.md) — what `AddAltText.jsx` actually applies

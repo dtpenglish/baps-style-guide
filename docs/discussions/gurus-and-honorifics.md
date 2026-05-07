@@ -1,7 +1,7 @@
-# Gurus & Honorifics
+# 31 Gurus & Honorifics
 Open questions on naming and addressing Bhagwan Swaminarayan, Aksharbrahma Gunatitanand Swami, the gurus of the BAPS *parampara*, and the sadhus. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
 
-## Bhagwan Swaminarayan
+## 31.1 Bhagwan Swaminarayan
 How to address him and what to use in which situations…
 
 Variations in current use:
@@ -25,7 +25,7 @@ Open questions:
 - *Supreme* / *supreme* — when is the capitalized form a title vs the lowercase form a description?
 - *manifest* vs *incarnate* — are these synonymous in our usage?
 
-## Aksharbrahma Gunatitanand Swami
+## 31.2 Aksharbrahma Gunatitanand Swami
 Variations in current use:
 
 - Aksharbrahma Gunatitanand Swami (Maharaj)
@@ -40,7 +40,7 @@ Open questions:
 - *Akshar* / *Aksharbrahma* / *Aksharbrahman* — preferred form?
 - When referring to the abode, *Akshardham* vs *Brahmadham* vs *Brahmamahol*?
 
-## Murti Forms
+## 31.3 Murti Forms
 Variations in current use:
 
 - Thakorji
@@ -53,7 +53,7 @@ Open questions:
 
 - Hyphenated *Akshar-Purushottam* or *AksharPurushottam* or *Akshar Purushottam*?
 
-## The Brahmaswarup Gurus
+## 31.4 The Brahmaswarup Gurus
 Standard form in current use:
 
 - Brahmaswarup Bhagatji Maharaj
@@ -66,7 +66,7 @@ Open questions:
 - *Brahmaswarup* always present on first mention? Always on every mention? Optional?
 - For the current guru, is *Pragat Brahmaswarup* the prefix used during his lifetime?
 
-## Pragat Brahmaswarup Mahant Swami Maharaj
+## 31.5 Pragat Brahmaswarup Mahant Swami Maharaj
 Variations in current use for Mahant Swami Maharaj:
 
 - Pragat Brahmaswarup Mahant Swami Maharaj
@@ -87,7 +87,7 @@ Open questions:
 - *Swami Bapa* (two words) or *Swamibapa* (one word)?
 - When to use *manifest*, when *pragat*?
 
-## Sant / Satpurush
+## 31.6 Sant / Satpurush
 Variations in current use:
 
 - Sant
@@ -105,7 +105,7 @@ Open question:
 
   Which form should we use? Italic-lowercase (description) or roman-capital (title)?
 
-## Anglophone Honorifics
+## 31.7 Anglophone Honorifics
 Variations in current use:
 
 - His Holiness Pramukh Swami Maharaj
@@ -113,7 +113,7 @@ Variations in current use:
 
 Open question: which is preferred, and is it used in body text or only in formal contexts (citations, dedications)?
 
-## Sadhus
+## 31.8 Sadhus
 Variations in current use for senior sadhus:
 
 - Sadguru Param Pujya Dr Swami (Swayamprakash / das / ji Swami)
@@ -136,5 +136,5 @@ Open questions:
 - Position-titles (*kothari*, *mahant*) — italicized or roman; capitalized or lowercase?
 - *Sadgurus* (capital, roman) vs *sadgurus* (italic) — when?
 
-## Have an Opinion?
+## 31.9 Have an Opinion?
 Click the pencil icon to propose wording, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).
