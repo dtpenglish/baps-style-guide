@@ -31,7 +31,7 @@ These are settled — don't re-debate:
 - **Spellings:** Oxford **-ize** (capitalize, organize, italicize). Protected words keep -ise: *advise, exercise, comprise, devise, supervise, surprise*. *Analyse* keeps -se.
 - **Headings:** Title Case throughout — first/last words and major words capitalized; lowercase articles, coordinating conjunctions, prepositions, and *to*.
 - **Body language:** British English, but with Oxford -ize spellings (resolved choice).
-- **Tithis:** Roman, capitalized, no italics, no diacritics — *Padvo, Bij, Trij, …, Punam, Amas*. Rule lives at **4** (single-page Part). The SAP open question is resolved.
+- **Tithis:** Roman, capitalized, no italics, no diacritics — *Padvo, Bij, Trij, …, Punam, Amas*. Rule lives at **4** (single-page Part). The previously open question is resolved.
 - **Sud / vad:** Italic, lowercase, **always**, including in dates: *Magshar sud Padvo*. See **4.4**.
 - **Doctrinal adjective + noun:** Four-rule system in **3.4 Doctrinal Titles & Reverential Capitalization**. Notable: *brahmaswarup Sadhu* (Rule 3 — adjective italic lowercase, noun cap roman).
 - **Diacritics — two scoped policies:**
@@ -42,13 +42,7 @@ These are settled — don't re-debate:
 - **Capitalization:** Common nouns lowercase; festivals and named days capitalized; *Earth* (planet) cap, *earth* (soil) lc; preferred phrasing "*cycles of birth and death*".
 - **Punctuation:** Oxford comma always; smart quotes; em dash with spaces; en dash for ranges and complex compounds; one space after a period; no period in acronyms (*BAPS, CMS, EPUB*); periods in *V.S., e.g., i.e.*
 
-## Source documents (canonical reference)
-
-In `E:\AVDWork\AVD_Current\Records\BAPS Writing Guidelines\`:
-
-- `SAP Writing Guide for Authors and Editors_v1.docx` — the foundational SAP rules.
-- `Capitalization of Adjective with Nouns_Pronouns.docx` — basis for **3.4**.
-- `Comprehensive_CMS_Style_Guide_Summary_Updated.docx` — internal CMS reference (supports the tithi capitalization choice; mentions IAST diacritics, which we **don't** adopt site-wide because it conflicts with 5.2).
+## Glossary
 
 The **glossary** is `glossary-all-2026-04-15_v1.2.xlsx` — versioned separately, not in this repo. Reference page: **5.4**.
 
@@ -86,5 +80,5 @@ When the user makes changes via GitHub pencil:
 ## When in doubt
 
 1. Reference numbers: cite as **5.2** or **3.3.1** in conversation. The numbering is the contract.
-2. Style decisions: check the relevant Part on the live site. If contradicted by a SAP source doc, the source doc wins for canonical SAP rules; the site documents the authoritative interpretation.
+2. Style decisions: check the relevant Part on the live site. The site is the authoritative source.
 3. Open questions live under **Part 10 Discussions** — don't unilaterally decide them; record in the page or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues).
