@@ -8,7 +8,7 @@ Indic languages do not use capitalization. So follow **English capitalization ru
 ### Common Nouns
 **Common nouns should not be capitalized** without specific reason.
 
-- *darshan*, *arti*, *mandir*, *sadhu*, *shastra* — all lowercase when used as ordinary common nouns.
+- *darshan*, *arti*, *mandir*, *sadhu*, *guru*, *shastra* — all lowercase when used as ordinary common nouns.
 
 ### Titles of Works
 In titles, **capitalize all major terms**, but not:
