@@ -1,6 +1,8 @@
 # 2.1 Translation & Transliteration
 Rules for translating from Gujarati, Sanskrit, or Hindi into English — and for deciding what to translate, what to transliterate, and what to leave anglicized.
 
+Most SAP English work is translated from Gujarati source texts. Sanskrit material — typically scriptural verses and commentaries — is usually embedded in larger Gujarati→English projects; Hindi material is similarly embedded. A significant proportion of work is also written originally in English.
+
 For the underlying definitions, see [Foundational Concepts](../concepts/index.md).
 
 ## 2.1.1 Pages in This Section

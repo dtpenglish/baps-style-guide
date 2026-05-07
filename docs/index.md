@@ -1,5 +1,9 @@
 # BAPS SAP Style Guide
-Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) publishing team. This site documents our editorial, design, and production conventions across all our publications — Sanskrit, Gujarati, Hindi, and English.
+Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) publishing team. SAP publishes books, magazines, newsletters, and other literature predominantly in Gujarati, English, and Hindi for a general *satsangi* readership.
+
+Most of our English-language work consists of **translations from Gujarati source texts**. Smaller proportions involve Sanskrit material (typically scriptural verses and commentaries embedded in larger Gujarati→English projects) and Hindi material (similarly embedded). A significant body of work is also written **originally in English**.
+
+This site documents the editorial, design, and production conventions for all of that — across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar; authors and editors work collaboratively on grammatical questions, drawing on standard references where needed.
 
 !!! tip "How to use this guide"
     Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? Click the **pencil icon** at the top of any page to suggest an edit.

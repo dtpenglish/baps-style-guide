@@ -1,6 +1,9 @@
 # 11 Contributing to the Style Guide
 This guide is yours. Anyone on the BAPS DTP team can propose edits — from fixing a typo to adding an entire new section. This page explains how.
 
+!!! note "About the team"
+    Most of our authors and editors don't have formal writing or publishing training — we learn on the job, drawing on the SAP glossary, this guide, and one another. The guide is meant to **support** that learning, not to gatekeep. If a rule is unclear, propose an edit, ask a question in [GitHub Issues](https://github.com/dtpenglish/baps-style-guide/issues), or raise it in a meeting. The goal is shared, evolving conventions — not formal expertise.
+
 ## 11.1 Three Ways to Contribute
 Pick whichever matches your comfort level. All three result in the same outcome: a reviewed, versioned change to the live site.
 

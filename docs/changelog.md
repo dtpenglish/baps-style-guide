@@ -5,6 +5,15 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.8] — 2026-05-07
+
+### Added
+- **Home page** ([index.md](index.md)) — framing context: SAP work composition (most English work is Gujarati→English; Sanskrit/Hindi material typically embedded in those projects; significant English-original work) and a scope statement clarifying the guide doesn't cover general English grammar.
+- **Translation index** ([translation/index.md](translation/index.md)) — same composition note in the section intro.
+- **Contributing** ([contributing.md](contributing.md)) — "About the team" admonition acknowledging that most contributors learn on the job, framing the guide as a support tool rather than a gatekeeper.
+
+---
+
 ## [1.7] — 2026-05-07
 
 ### Changed
