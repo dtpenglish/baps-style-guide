@@ -5,6 +5,23 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.10] — 2026-05-07
+
+### Added
+- **[3.9.8 Vertical Lists](editorial/punctuation.md#398-vertical-lists)** — new section covering bullets vs numbers vs letters, parallel construction, and three punctuation/capitalization styles (continuation lists with lowercase + commas + final period; full-sentence lists with caps + periods + no *and*/*or*; standalone catalog-style lists with caps + no end punctuation, the SAP default). Plus the colon-vs-no-punctuation rule for introducing a list.
+- **[3.3.3 Title Case in Detail](editorial/capitalization.md#333-title-case-in-detail)** — new section covering what to capitalize and lowercase in titles; hyphenated words in titles (*High-Quality Web Services*, *Anti-inflammatory Dieting*); the first word after a colon; prepositions in phrasal verbs (*Back Up*, *Turn Down*); open compounds; and the sentence-case vs title-case distinction.
+- **3.3.2.13 Terms of Address** — direct address (*Sergeant*, *Your Honor*) and family relationships (*Father*, *Mom*) capitalized when standing in for a name; lowercase when preceded by an article or possessive.
+- **3.3.2.14 Ages and Time Periods** — capitalize established names (*the Bronze Age*, *the Renaissance*, *the Vedic Period*); lowercase descriptive periods (*ancient Greece*, *the colonial period*).
+- **3.3.2.15 Adjectives before Capitalized Nouns** — general English rule that descriptive adjectives are not capitalized just because the noun is (*the big Apple*, *the tall Eiffel Tower*); the exception for adjectives that are part of an established proper noun, formal title, or epithet.
+- **3.3.2.16 Definitions Use Sentence Case** — the term being defined uses title case; the definition itself uses sentence case (*Param-Bhagvat Sant — Ideal sadhu of God, referring to the Satpurush.*).
+
+### Changed
+- 3.3.3 Open Questions renumbered to 3.3.4 to make room for new "Title Case in Detail" section.
+- 3.3.4 See Also renumbered to 3.3.5.
+- 3.9.8 Open Questions renumbered to 3.9.9 to make room for "Vertical Lists".
+
+---
+
 ## [1.9] — 2026-05-07
 
 ### Added
