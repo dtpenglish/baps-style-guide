@@ -135,7 +135,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Concepts: concepts/index.md
-  - Translation & Transliteration:
+  - Translation:
       - translation/index.md
       - Translation Rules: translation/translation-rules.md
   - Editorial:
@@ -158,18 +158,18 @@ nav:
       - indesign/index.md
       - Paragraph Styles: indesign/paragraph-styles.md
       - Master Pages: indesign/master-pages.md
-  - EPUB Accessibility:
+  - EPUB:
       - epub/index.md
       - Alt Text Guidelines: epub/alt-text.md
       - Reading Order: epub/reading-order.md
-  - Scripts & Tools:
+  - Scripts:
       - scripts/index.md
       - JSX Scripts Reference: scripts/jsx-reference.md
   - Workflows:
       - workflows/index.md
       - File Versioning Rules: workflows/versioning.md
       - File Naming: workflows/file-naming.md
-  - Open Discussions:
+  - Discussions:
       - discussions/index.md
       - Sanstha & Mandirs: discussions/sanstha-and-mandirs.md
       - Gurus & Honorifics: discussions/gurus-and-honorifics.md
