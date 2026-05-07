@@ -47,7 +47,7 @@ Each example shows the rule applied in a different sentence shape:
 - BAPS Mahant Swami Maharaj will perform the *abhishek* on **Sharad Punam**.
 - Devotees fast on every **Ekadashi**, taking one meal of fruit and milk after sunset.
 - The shilanyas was performed on Magshar *sud* **Padvo**, V.S. 2080 (28 November 2023).
-- **Devshayani Ekadashi** marks the start of *Chaturmas*; **Devuthani Ekadashi** marks its end.
+- **Devshayani Ekadashi** marks the start of *Chaturmas*; **Devuthi Ekadashi** marks its end.
 - The festival fell on Bhadarvo *vad* **Atham** — Janmashtami.
 - Between **Punam** and **Amas** lies the dark fortnight of *Shravan*.
 - The *patotsav* is held annually on Maha *sud* **Bij**.
