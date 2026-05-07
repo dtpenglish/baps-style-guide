@@ -1,11 +1,11 @@
-# 10 Numbers
+# 3.7 Numbers
 When to spell out numbers in words and when to use numerals. Per CMS, with adjustments for SAP English publications.
 
-## 10.1 The CMS Rule
+## 3.7.1 The CMS Rule
 - **Spell out** whole numbers from **one through one hundred** and round multiples (*one thousand*, *two million*).
 - **Use numerals** for everything else, and always for measurements, statistics, ages, dates, percentages, and consistency within technical contexts.
 
-## 10.2 Spell out (words)
+## 3.7.2 Spell out (words)
 | Use | Example |
 |---|---|
 | Whole numbers 1–100 | He delivered seven discourses; thirty-two devotees attended. |
@@ -13,7 +13,7 @@ When to spell out numbers in words and when to use numerals. Per CMS, with adjus
 | Beginning of a sentence | Forty-three years have passed since the murti was installed. |
 | Approximate quantities | About fifty volunteers stayed overnight. |
 
-## 10.3 Use Numerals
+## 3.7.3 Use Numerals
 | Use | Example |
 |---|---|
 | Measurements | 5 km, 200 g, 12 ft |
@@ -26,30 +26,30 @@ When to spell out numbers in words and when to use numerals. Per CMS, with adjus
 | Currency with a unit | ₹500, $25, £10 |
 | Times of day with am/pm | 6 am, 9.30 pm |
 
-## 10.4 Edge Cases
-### 10.4.1 Don't Start a Sentence with a Numeral
+## 3.7.4 Edge Cases
+### 3.7.4.1 Don't Start a Sentence with a Numeral
 Spell it out, or recast the sentence:
 
 - ❌ 213 footnotes appear in the Vachanamrut.
 - ✅ Two hundred and thirteen footnotes appear in the Vachanamrut.
 - ✅ The Vachanamrut contains 213 footnotes.
 
-### 10.4.2 Mixing Words and Numerals in One Passage
+### 3.7.4.2 Mixing Words and Numerals in One Passage
 Choose one form per category and stay consistent within a passage. If a passage discusses several quantities of the same kind, use **numerals throughout** — even for quantities below 100:
 
 > Of the 213 footnotes, 47 cite the Shikshapatri, 31 cite the Vachanamrut, and 12 cite the Swamini Vato.
 
-### 10.4.3 Centuries and Decades
+### 3.7.4.3 Centuries and Decades
 Spell out: *the nineteenth century*, *the 1990s* (digits + s, no apostrophe).
 
-### 10.4.4 Fractions and Decimals
+### 3.7.4.4 Fractions and Decimals
 - Simple fractions in text: spell out — *two-thirds*, *one-half*. Hyphenate when used as adjectives.
 - Decimals: numerals — *3.14*.
 - Mixed numbers and ranges: numerals — *5½*, *2.5–3 m*.
 
-### 10.4.5 V.S. (Vikram Samvat) Years
+### 3.7.4.5 V.S. (Vikram Samvat) Years
 Always numerals: *V.S. 2080*, *V.S. 1781*.
 
-## 10.5 See Also
+## 3.7.5 See Also
 - [Punctuation](punctuation.md) — comma in numerals (1,586) and other typographic details.
 - [Capitalization](capitalization.md) — capitalization rules for ordinals in titles.

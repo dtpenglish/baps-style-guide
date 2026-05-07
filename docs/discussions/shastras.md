@@ -1,7 +1,7 @@
-# 32 Shastras
+# 10.4 Shastras
 Open questions on naming, citing, and formatting our scriptural texts. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
 
-## 32.1 Title Forms
+## 10.4.1 Title Forms
 > Full and abbreviated titles / which to italicize / how to hyphenate to facilitate pronunciation / referencing conventions / ?use '.' as section separator.
 
 Open questions:
@@ -12,7 +12,7 @@ Open questions:
 - What's the **citation format** — *Vachanamrut Gadhada I.1*, *Vach. Gadh. I.1*, *Gadh I.1*?
 - Should the **section separator** in citations be a period (`I.1`) or another mark?
 
-## 32.2 "Shri" — Honorific or Part of the Title?
+## 10.4.2 "Shri" — Honorific or Part of the Title?
 > Also, is it 'Shriharililamrut' or 'Shri Harililamrut' or 'Shrihari Lilamrut' — is 'Shri' an honorific or part of the title? Same with Shriharililakalpataru, etc.
 
 Open question: when *Shri* prefixes the name of a person inside a title (e.g. *Shri Hari* in *Shriharililamrut*), is it:
@@ -23,5 +23,5 @@ Open question: when *Shri* prefixes the name of a person inside a title (e.g. *S
 
 The same question applies to *Shriharililakalpataru* and similar compound titles.
 
-## 32.3 Have an Opinion?
+## 10.4.3 Have an Opinion?
 Click the pencil icon to propose a citation format, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Shastras: …`.

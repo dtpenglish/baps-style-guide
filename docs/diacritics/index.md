@@ -1,4 +1,4 @@
-# 14 Diacritics & Transliteration
+# 5.1 Diacritics & Transliteration
 How we render Sanskrit, Gujarati, and Hindi terms in Roman script across BAPS publications.
 
 !!! warning "Two policies — read this first"
@@ -9,12 +9,12 @@ How we render Sanskrit, Gujarati, and Hindi terms in Roman script across BAPS pu
 
     These are not in direct contradiction — they are **scoped differently**. The SAP rule applies to finished general-reader publications. The macron-only convention applies to glossary work and reference material. Where a publication or workflow needs to choose one rule, treat the SAP rule as the default and depart only with documented reason.
 
-## 14.1 Pages in This Section
+## 5.1.1 Pages in This Section
 - [SAP Diacritics Policy](sap-policy.md) — no diacritics in headings, text, or legends; diacritics permitted in verses
 - [Macron-Only Convention](macron-convention.md) — long *a* marked with a macron (**ā**) in glossary and reference work
 - [Glossary Reference](glossary-reference.md) — how to use the master glossary file
 
-## 14.2 Quick Decision
+## 5.1.2 Quick Decision
 | Context | Policy | Form |
 |---|---|---|
 | Heading / chapter title | SAP | No diacritics |
@@ -25,5 +25,5 @@ How we render Sanskrit, Gujarati, and Hindi terms in Roman script across BAPS pu
 | BAPS master glossary spreadsheet | Macron-only | Long *a* marked **ā** |
 | Editorial reference (this site, internal) | Macron-only | Long *a* marked **ā** |
 
-## 14.3 Open Question
+## 5.1.3 Open Question
 The SAP rule for general-reader publications is "no diacritics". The macron-only convention is the in-house rule for glossary and reference work. Whether the macron-only convention should ever appear in a finished publication aimed at the general reader is an open question. Discuss in [GitHub Issues](https://github.com/dtpenglish/baps-style-guide/issues) or see [Open Discussions: Transliteration](../discussions/transliteration.md).

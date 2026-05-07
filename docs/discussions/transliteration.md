@@ -1,13 +1,13 @@
-# 34 Transliteration
+# 10.6 Transliteration
 The largest open-questions list in the SAP Writing Guidelines. These questions cover the rules of romanizing Gujarati and Devanagari script — what to do about diacritics, ligatures, the "stray *a*", visarga and anusvara, hyphenation, and the many cases where a single Gujarati word has multiple plausible roman spellings.
 
 Reproduced verbatim from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
 
-## 34.1 Source Scripts and Target Script
+## 10.6.1 Source Scripts and Target Script
 - Gujarati script (*lippi*) and the corresponding roman transliteration.
 - Devanagari script (*lippi*) for Sanskrit and Hindi, and the corresponding roman transliteration.
 
-## 34.2 Diacritics — Yes, No, Which?
+## 10.6.2 Diacritics — Yes, No, Which?
 - **With or without** diacritics?
 - Transliterations in **prose vs verse** — different rules?
 - If with diacritics, **which system**? Macron, underpoint, overpoint, etc.
@@ -15,7 +15,7 @@ Reproduced verbatim from the **Conventions to Discuss** section of the SAP Writi
 
 For the current rules, see [SAP Diacritics Policy](../diacritics/sap-policy.md) and [Macron-Only Convention](../diacritics/macron-convention.md). The questions above are about **whether and when** those rules should evolve.
 
-## 34.3 Ligatures
+## 10.6.3 Ligatures
 How to render conjunct consonants:
 
 - *ksha* / *kṣa*
@@ -23,18 +23,18 @@ How to render conjunct consonants:
 - *kta*
 - …
 
-## 34.4 Single-Letter Choices
+## 10.6.4 Single-Letter Choices
 - Which variation: **jn / gn**? (*jnan* vs *gnan*; *yajna* vs *yagna*.)
 - **વ**: *v* or *w*? (*Vachanamrut* vs *Wachanamrut*; *Bhagwan* vs *Bhagvan*.)
 - **ળ**: *l* (not *d*)?
 - **ઈ / ઇ**: *i* or *y*?
 
-## 34.5 Initial Long Vowels
+## 10.6.5 Initial Long Vowels
 - Initial **ā**: *a* or *aa*? Same with *oo* / *ee*.
   - *arti* / *aarti*
   - *agna* / *aagnaa*
 
-## 34.6 The "Stray *a*" in Mid-Word and Word-Final Position
+## 10.6.6 The "Stray *a*" in Mid-Word and Word-Final Position
 A long-running question: do we keep the inherent *a* of the Devanagari/Gujarati script, drop it, or split the difference? Examples:
 
 - acharan / aacharan / achran / aacharan
@@ -57,7 +57,7 @@ A long-running question: do we keep the inherent *a* of the Devanagari/Gujarati 
 - Sampraday / Sampradaya
 - brahmavidya / brahmvidya
 
-## 34.7 Visarga and Anusvara
+## 10.6.7 Visarga and Anusvara
 - **Visarga**: *‑h* or *‑h + vowel*?
 - **Anusvar / anusvara**: *n* or *m*?
   - ankh
@@ -67,12 +67,12 @@ A long-running question: do we keep the inherent *a* of the Devanagari/Gujarati 
   - hinsa / himsa
   - uchu / unchu
 
-## 34.8 Avagraha
+## 10.6.8 Avagraha
 > avagrah(a): indicate with an apostrophe — '
 
 (Adopted as a tentative rule.)
 
-## 34.9 Hyphenation vs Open Compounds
+## 10.6.9 Hyphenation vs Open Compounds
 Hyphenate, leave open as separate words, or close up?
 
 - nagar yatra / nagaryatra / nagar-yatra
@@ -83,7 +83,7 @@ Hyphenate, leave open as separate words, or close up?
 - Janma Mahotsav / Janmamahotsav / Janma-mahotsav / Janma-Mahotsav / Janmotsav
 - Jal-Jhilani / Jal Jhilani
 
-## 34.10 When to Split a Gujarati Compound
+## 10.6.10 When to Split a Gujarati Compound
 - mahapuja
 - mahamantra
 - Bhumapurush / Bhuma-Purush / Bhuma Purush
@@ -93,7 +93,7 @@ Hyphenate, leave open as separate words, or close up?
 - panchtattva / panch tattva
 - sankhyayogi(ni) / sankhya yogi(ni) / sankhya-yogi(ni)
 
-## 34.11 Italicizing Mixed Phrases
+## 10.6.11 Italicizing Mixed Phrases
 How to italicize when one part of the phrase is anglicized and the other is not:
 
 - ekantik dharma / *ekantik* dharma
@@ -102,24 +102,24 @@ How to italicize when one part of the phrase is anglicized and the other is not:
 - guru *parampara* / guru-*parampara*
 - *niyam*-dharma
 
-## 34.12 Anglicized Words with Alternative Transliterated Spellings
+## 10.6.12 Anglicized Words with Alternative Transliterated Spellings
 - *atma* / atman
 - *champal* / chappal
 - *rushi* / rishi
 - samskara / sanskar / samskar
 - sloka / shlok / shloka
 
-## 34.13 Capitalization / Italicization of *tithis*
+## 10.6.13 Capitalization / Italicization of *tithis*
 - Padvo / *padvo*
 - Ekadashi / *ekadashi*
 - Punam / *punam*
 
-## 34.14 Variations in the Gujarati Spelling of the Same Word
+## 10.6.14 Variations in the Gujarati Spelling of the Same Word
 - cheshta / cheshtha
 - divo / diya
 - sat-chit-anand / sat-chid-anand
 
-## 34.15 Alternative Transliterations
+## 10.6.15 Alternative Transliterations
 Two or more roman spellings circulating for the same Gujarati word:
 
 - chikoo / chiku
@@ -131,28 +131,28 @@ Two or more roman spellings circulating for the same Gujarati word:
 - jai naad / jay naad
 - lila / leela
 
-## 34.16 Alternative Anglicizations
+## 10.6.16 Alternative Anglicizations
 - laddu / laddoo / ladoo
 
-## 34.17 Caps or Lower Case
+## 10.6.17 Caps or Lower Case
 - Advaita / advaita
 - Dvait / dvaita
 - Darshan / darshan
 - Uttarayan / dakshinayan
 
-## 34.18 Suffixes (and Prefixes?)
+## 10.6.18 Suffixes (and Prefixes?)
 - dakshini pagh / dakshi ni pagh / dakshi-ni pagh
 - rajasik / rajasic / rajsik / rajsic
 - mayik / mayic
 
-## 34.19 Festivals
+## 10.6.19 Festivals
 - Jal Jhilani / Jal-Jhilani
 - Rathyatra / Rath Yatra / Rath-Yatra
 
-## 34.20 How to Use This List
+## 10.6.20 How to Use This List
 Each item above will eventually become a row in the [glossary](../diacritics/glossary-reference.md), with one preferred form. Until then, treat any of the listed forms as acceptable, but **be consistent within a single publication**.
 
 When the team decides on a preferred form, update this page and add an entry to the [changelog](../changelog.md).
 
-## 34.21 Have an Opinion?
+## 10.6.21 Have an Opinion?
 Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Translit: <word>` — e.g. `Translit: jn vs gn`.

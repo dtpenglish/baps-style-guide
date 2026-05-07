@@ -1,7 +1,7 @@
-# 17 Glossary Reference
+# 5.4 Glossary Reference
 The master glossary is the authoritative source for spelling, diacritics, and word class of BAPS terminology in Roman script. Before introducing or correcting a term in any publication, check the glossary first.
 
-## 17.1 Where It Lives
+## 5.4.1 Where It Lives
 The current master file is:
 
 ```
@@ -22,7 +22,7 @@ This contains 1,586 rows covering Sanskrit, Gujarati, and Hindi terms used acros
 !!! note "Path"
     The file path is internal to the DTP team's working drives. Ask a maintainer for the current location if you need direct access. The glossary itself is not stored in this site's repository — only this reference page is.
 
-## 17.2 How to Use It
+## 5.4.2 How to Use It
 **For routine editorial work:**
 
 1. Encounter a term in your text — say, *gunatitanand*.
@@ -36,7 +36,7 @@ This contains 1,586 rows covering Sanskrit, Gujarati, and Hindi terms used acros
 2. Propose an addition via the team's glossary update process.
 3. Apply the [macron-only convention](macron-convention.md) when writing the diacritic spelling.
 
-## 17.3 Updating the Glossary
+## 5.4.3 Updating the Glossary
 The glossary is versioned separately from this style guide. The current scheme (as of April 2026):
 
 - Filename pattern: `glossary-all-YYYY-MM-DD_vX.Y.xlsx`
@@ -46,6 +46,6 @@ The glossary is versioned separately from this style guide. The current scheme (
 
 Changes to conventions that the glossary embodies — for instance, a decision to start marking long *i* — should be documented in this style guide's [changelog](../changelog.md) before being applied to the glossary file.
 
-## 17.4 Related
+## 5.4.4 Related
 - [Macron-Only Convention](macron-convention.md) — the rule the `diacriticSpelling` column applies
 - [Versioning Rules](../workflows/versioning.md) — why the glossary filename always carries a version

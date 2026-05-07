@@ -1,4 +1,4 @@
-# 35 Web — BrE or AmE?
+# 10.7 Web — BrE or AmE?
 Open question on the choice of English variety for our web/digital publications. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
 
 > Should we use BrE or AmE?
@@ -16,5 +16,5 @@ Considerations:
 - **Continuity with print.** If a reader picks up a print book and then visits the site, mismatched spelling can feel sloppy.
 - **Author flexibility.** A single-variety web rule overrides individual authors' preferences.
 
-## 35.1 Have an Opinion?
+## 10.7.1 Have an Opinion?
 Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Web: BrE vs AmE`.

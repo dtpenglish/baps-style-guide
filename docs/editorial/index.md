@@ -1,9 +1,9 @@
-# 4 Editorial
+# 3.1 Editorial
 Conventions for prose across BAPS publications — how we sound on the page, how we capitalize, how we punctuate, what we italicize, and how we form plurals. Most of the rules in this section are reproduced from the SAP Writing Guidelines (v1).
 
 For when to translate vs transliterate vs anglicize, see [Translation Rules](../translation/translation-rules.md). For the foundational definitions, see [Foundational Concepts](../concepts/index.md).
 
-## 4.1 Pages in This Section
+## 3.1.1 Pages in This Section
 - [Tone & Voice](tone-and-voice.md) — the register and personality of our prose
 - [Capitalization](capitalization.md) — when to capitalize titles, terms, and proper nouns
 - [Italics](italics.md) — italicizing transliterated terms; what to leave roman
@@ -11,7 +11,7 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 - [Quotation Marks](quotation-marks.md) — presenting an Indic term alongside its English translation
 - [Punctuation](punctuation.md) — general English punctuation conventions
 
-## 4.2 Quick Reference
+## 3.1.2 Quick Reference
 | Question | Short answer |
 |---|---|
 | Italicize *dharma*? | No — it's anglicized (in OED). Italicize only non-OED Indic terms. |
@@ -24,7 +24,7 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 | Single or double quotes? | Double for direct speech and quotations; single for quotes within quotes. |
 | Em dash or en dash? | en dash (–) for parenthetical breaks and for ranges. |
 
-## 4.3 British vs American English
+## 3.1.3 British vs American English
 > As SAP is a publishing house based in India, the majority of print publications use **British English**, though work submitted by authors from America is often published using American English. This British–American distinction is usually limited to spelling, punctuation and format conventions, because the subtle nuances of the many other grammatical differences between BrE and AmE are not always apparent to our untrained authors and editors.
 >
 > — SAP Writing Guidelines (v1)

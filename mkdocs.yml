@@ -135,48 +135,48 @@ nav:
   - Home: index.md
   - Concepts: concepts/index.md
   - Translation:
-      - "2 Translation & Transliteration": translation/index.md
-      - "3 Translation Rules": translation/translation-rules.md
+      - "2.1 Translation & Transliteration": translation/index.md
+      - "2.2 Translation Rules": translation/translation-rules.md
   - Editorial:
-      - "4 Editorial": editorial/index.md
-      - "5 Tone & Voice": editorial/tone-and-voice.md
-      - "6 Capitalization": editorial/capitalization.md
-      - "7 Doctrinal Titles & Reverential Cap": editorial/doctrinal-titles.md
-      - "8 Italics": editorial/italics.md
-      - "9 Plurals": editorial/plurals.md
-      - "10 Numbers": editorial/numbers.md
-      - "11 Quotation Marks": editorial/quotation-marks.md
-      - "12 Punctuation": editorial/punctuation.md
+      - "3.1 Editorial": editorial/index.md
+      - "3.2 Tone & Voice": editorial/tone-and-voice.md
+      - "3.3 Capitalization": editorial/capitalization.md
+      - "3.4 Doctrinal Titles & Reverential Cap": editorial/doctrinal-titles.md
+      - "3.5 Italics": editorial/italics.md
+      - "3.6 Plurals": editorial/plurals.md
+      - "3.7 Numbers": editorial/numbers.md
+      - "3.8 Quotation Marks": editorial/quotation-marks.md
+      - "3.9 Punctuation": editorial/punctuation.md
   - Tithis: tithis/index.md
   - Diacritics:
-      - "14 Diacritics & Transliteration": diacritics/index.md
-      - "15 SAP Diacritics Policy": diacritics/sap-policy.md
-      - "16 Macron-Only Convention": diacritics/macron-convention.md
-      - "17 Glossary Reference": diacritics/glossary-reference.md
+      - "5.1 Diacritics & Transliteration": diacritics/index.md
+      - "5.2 SAP Diacritics Policy": diacritics/sap-policy.md
+      - "5.3 Macron-Only Convention": diacritics/macron-convention.md
+      - "5.4 Glossary Reference": diacritics/glossary-reference.md
   - InDesign:
-      - "18 InDesign": indesign/index.md
-      - "19 Paragraph Styles": indesign/paragraph-styles.md
-      - "20 Master Pages": indesign/master-pages.md
+      - "6.1 InDesign": indesign/index.md
+      - "6.2 Paragraph Styles": indesign/paragraph-styles.md
+      - "6.3 Master Pages": indesign/master-pages.md
   - EPUB:
-      - "21 EPUB Accessibility": epub/index.md
-      - "22 Alt Text Guidelines": epub/alt-text.md
-      - "23 Reading Order": epub/reading-order.md
+      - "7.1 EPUB Accessibility": epub/index.md
+      - "7.2 Alt Text Guidelines": epub/alt-text.md
+      - "7.3 Reading Order": epub/reading-order.md
   - Scripts:
-      - "24 Scripts & Tools": scripts/index.md
-      - "25 JSX Scripts Reference": scripts/jsx-reference.md
+      - "8.1 Scripts & Tools": scripts/index.md
+      - "8.2 JSX Scripts Reference": scripts/jsx-reference.md
   - Workflows:
-      - "26 Workflows": workflows/index.md
-      - "27 File Versioning Rules": workflows/versioning.md
-      - "28 File Naming": workflows/file-naming.md
+      - "9.1 Workflows": workflows/index.md
+      - "9.2 File Versioning Rules": workflows/versioning.md
+      - "9.3 File Naming": workflows/file-naming.md
   - Discussions:
-      - "29 Open Discussions": discussions/index.md
-      - "30 Sanstha & Mandirs": discussions/sanstha-and-mandirs.md
-      - "31 Gurus & Honorifics": discussions/gurus-and-honorifics.md
-      - "32 Shastras": discussions/shastras.md
-      - "33 Indic Words": discussions/indic-words.md
-      - "34 Transliteration": discussions/transliteration.md
-      - "35 Web — BrE or AmE?": discussions/web.md
-      - "36 Base Style Manual": discussions/base-style-manual.md
+      - "10.1 Open Discussions": discussions/index.md
+      - "10.2 Sanstha & Mandirs": discussions/sanstha-and-mandirs.md
+      - "10.3 Gurus & Honorifics": discussions/gurus-and-honorifics.md
+      - "10.4 Shastras": discussions/shastras.md
+      - "10.5 Indic Words": discussions/indic-words.md
+      - "10.6 Transliteration": discussions/transliteration.md
+      - "10.7 Web — BrE or AmE?": discussions/web.md
+      - "10.8 Base Style Manual": discussions/base-style-manual.md
   - Contributing: contributing.md
   - Changelog: changelog.md
 
