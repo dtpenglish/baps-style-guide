@@ -134,51 +134,51 @@ markdown_extensions:
 # ---------------------------------------------------------------
 nav:
   - Home: index.md
-  - Concepts: concepts/index.md
+  - "1 Concepts": concepts/index.md
   - Translation:
       - translation/index.md
-      - "3. Translation Rules": translation/translation-rules.md
+      - "3 Translation Rules": translation/translation-rules.md
   - Editorial:
       - editorial/index.md
-      - "5. Tone & Voice": editorial/tone-and-voice.md
-      - "6. Capitalization": editorial/capitalization.md
-      - "7. Doctrinal Titles & Reverential Cap": editorial/doctrinal-titles.md
-      - "8. Italics": editorial/italics.md
-      - "9. Plurals": editorial/plurals.md
-      - "10. Numbers": editorial/numbers.md
-      - "11. Quotation Marks": editorial/quotation-marks.md
-      - "12. Punctuation": editorial/punctuation.md
-  - Tithis: tithis/index.md
+      - "5 Tone & Voice": editorial/tone-and-voice.md
+      - "6 Capitalization": editorial/capitalization.md
+      - "7 Doctrinal Titles & Reverential Cap": editorial/doctrinal-titles.md
+      - "8 Italics": editorial/italics.md
+      - "9 Plurals": editorial/plurals.md
+      - "10 Numbers": editorial/numbers.md
+      - "11 Quotation Marks": editorial/quotation-marks.md
+      - "12 Punctuation": editorial/punctuation.md
+  - "13 Tithis": tithis/index.md
   - Diacritics:
       - diacritics/index.md
-      - "15. SAP Diacritics Policy": diacritics/sap-policy.md
-      - "16. Macron-Only Convention": diacritics/macron-convention.md
-      - "17. Glossary Reference": diacritics/glossary-reference.md
+      - "15 SAP Diacritics Policy": diacritics/sap-policy.md
+      - "16 Macron-Only Convention": diacritics/macron-convention.md
+      - "17 Glossary Reference": diacritics/glossary-reference.md
   - InDesign:
       - indesign/index.md
-      - "19. Paragraph Styles": indesign/paragraph-styles.md
-      - "20. Master Pages": indesign/master-pages.md
+      - "19 Paragraph Styles": indesign/paragraph-styles.md
+      - "20 Master Pages": indesign/master-pages.md
   - EPUB:
       - epub/index.md
-      - "22. Alt Text Guidelines": epub/alt-text.md
-      - "23. Reading Order": epub/reading-order.md
+      - "22 Alt Text Guidelines": epub/alt-text.md
+      - "23 Reading Order": epub/reading-order.md
   - Scripts:
       - scripts/index.md
-      - "25. JSX Scripts Reference": scripts/jsx-reference.md
+      - "25 JSX Scripts Reference": scripts/jsx-reference.md
   - Workflows:
       - workflows/index.md
-      - "27. File Versioning Rules": workflows/versioning.md
-      - "28. File Naming": workflows/file-naming.md
+      - "27 File Versioning Rules": workflows/versioning.md
+      - "28 File Naming": workflows/file-naming.md
   - Discussions:
       - discussions/index.md
-      - "30. Sanstha & Mandirs": discussions/sanstha-and-mandirs.md
-      - "31. Gurus & Honorifics": discussions/gurus-and-honorifics.md
-      - "32. Shastras": discussions/shastras.md
-      - "33. Indic Words": discussions/indic-words.md
-      - "34. Transliteration": discussions/transliteration.md
-      - "35. Web — BrE or AmE?": discussions/web.md
-      - "36. Base Style Manual": discussions/base-style-manual.md
-  - Contributing: contributing.md
+      - "30 Sanstha & Mandirs": discussions/sanstha-and-mandirs.md
+      - "31 Gurus & Honorifics": discussions/gurus-and-honorifics.md
+      - "32 Shastras": discussions/shastras.md
+      - "33 Indic Words": discussions/indic-words.md
+      - "34 Transliteration": discussions/transliteration.md
+      - "35 Web — BrE or AmE?": discussions/web.md
+      - "36 Base Style Manual": discussions/base-style-manual.md
+  - "37 Contributing": contributing.md
   - Changelog: changelog.md
 
 # ---------------------------------------------------------------
