@@ -1,10 +1,8 @@
 # Master Pages
-
 !!! info "Draft page"
     Document the master-page setup for our standard publication templates.
 
-## What to cover
-
+## What to Cover
 - Margin and column settings for Vachanamrut and Bliss
 - Header content (publication title, section title, page number positioning)
 - Footer content

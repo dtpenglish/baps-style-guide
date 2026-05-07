@@ -1,10 +1,8 @@
 # File Versioning Rules
-
 !!! danger "Non-negotiable"
     Every file output — script, Word document, Excel file, PDF, or any other deliverable — must carry an incremented version number in **both** the filename and an internal version string. **Never overwrite a previous version.** Each new file is the next version.
 
-## The rule
-
+## The Rule
 When you produce a new revision of any file:
 
 1. Increment the version number in the filename (`v1.0` → `v1.1`).
@@ -12,8 +10,7 @@ When you produce a new revision of any file:
 3. Save as a new file. Do not overwrite the previous version.
 4. The previous version stays where it is.
 
-## Versioning scheme
-
+## Versioning Scheme
 | Change type | Version bump |
 |---|---|
 | Minor edit, fix, refinement | Patch: `v4.28` → `v4.29` |
@@ -22,8 +19,7 @@ When you produce a new revision of any file:
 
 For most day-to-day work, increment the patch number. Reserve minor and major bumps for genuinely substantial changes.
 
-## Filename pattern
-
+## Filename Pattern
 Place the version near the end of the filename, before the extension:
 
 ```
@@ -35,8 +31,7 @@ MSM_Vicharan_2016-23_v2.xlsx
 
 For dated files, the date stays the date it was first created or the snapshot date; the version increments independently.
 
-## Internal version strings
-
+## Internal Version Strings
 Where the file format allows, store the version inside the file too:
 
 | File type | Where to put the version |
@@ -49,8 +44,7 @@ Where the file format allows, store the version inside the file too:
 
 The internal version must match the filename version. Mismatches are confusing and worse than absent.
 
-## Why this rule exists
-
+## Why This Rule Exists
 We have lost real work — and worse, lost the ability to *prove* what changed when — by overwriting files. The cost of an extra few KB on disk is trivial. The cost of not being able to roll back to last week's version of a script that used to work is enormous.
 
 Beyond rollback, versioning gives us:
@@ -60,16 +54,13 @@ Beyond rollback, versioning gives us:
 - **Collaboration:** colleagues can refer to "the v4.38 behaviour" unambiguously.
 - **Confidence:** you can experiment knowing the previous version is intact.
 
-## What to do with old versions
-
+## What to Do with Old Versions
 Keep them. Disk is cheap, lost work is expensive. If a folder is getting cluttered, archive older versions into an `_archive/` subfolder rather than deleting them.
 
-## Apply this rule automatically
-
+## Apply This Rule Automatically
 This rule should be applied to every file output **without being asked**. If you're producing a file and you didn't bump the version, stop and bump it. If a tool or script generates output, the tool's version-bumping behaviour should be built in.
 
 For Claude-assisted work, the rule is encoded in the team's working memory: every Claude session producing a file output is expected to apply versioning without being prompted.
 
 ## Related
-
 - [File Naming](file-naming.md) — broader filename conventions

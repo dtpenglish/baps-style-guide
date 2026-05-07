@@ -1,13 +1,10 @@
 # Contributing to the Style Guide
-
 This guide is yours. Anyone on the BAPS DTP team can propose edits — from fixing a typo to adding an entire new section. This page explains how.
 
-## Three ways to contribute
-
+## Three Ways to Contribute
 Pick whichever matches your comfort level. All three result in the same outcome: a reviewed, versioned change to the live site.
 
-### 1. The pencil icon (easiest)
-
+### 1. the Pencil Icon (easiest)
 Every page on this site has a **pencil icon** in the top-right corner. This is the fastest way to fix a typo, clarify a sentence, or update a small detail.
 
 **Steps:**
@@ -23,8 +20,7 @@ Every page on this site has a **pencil icon** in the top-right corner. This is t
 !!! tip "No Git knowledge needed"
     The pencil-icon flow handles all the Git steps for you. You're just editing text in a browser.
 
-### 2. New page or larger edit
-
+### 2. New Page or Larger Edit
 For adding a whole new page or restructuring an existing one, the same web flow works — but you'll need to create a new file.
 
 1. In the GitHub repository, navigate to the appropriate folder under `docs/` (e.g. `docs/editorial/`).
@@ -34,24 +30,22 @@ For adding a whole new page or restructuring an existing one, the same web flow 
 5. Commit and create a pull request as in the previous flow.
 6. **Important:** Also propose an edit to `mkdocs.yml` to add your new page to the navigation. If you're not sure how, mention this in the pull request description and a maintainer will help.
 
-### 3. Local preview (for substantial work)
-
+### 3. Local Preview (for Substantial Work)
 If you're writing a long section or want to see exactly how it'll render, set up MkDocs locally.
 
 ```bash
-# One-time setup
+# One-Time Setup
 git clone https://github.com/dtpenglish/baps-style-guide.git
 cd baps-style-guide
 pip install -r requirements.txt
 
-# Start the live preview server
+# Start the Live Preview Server
 mkdocs serve
 ```
 
 Open [http://127.0.0.1:8000](http://127.0.0.1:8000) — the site rebuilds automatically as you edit. When you're done, commit your branch and push, then open a pull request on GitHub.
 
-## What makes a good edit
-
+## What Makes a Good Edit
 A good edit:
 
 - **Has one clear purpose.** Fix one typo, clarify one rule, or add one section per pull request. Don't bundle unrelated changes.
@@ -59,8 +53,7 @@ A good edit:
 - **Considers our four languages.** Conventions that apply only to English should say so. Rules for transliteration should specify which source language.
 - **Doesn't duplicate.** Search the site first. If a topic already exists, edit the existing page rather than creating a new one.
 
-## Reviewing pull requests
-
+## Reviewing Pull Requests
 If you have maintainer access, here's the review checklist:
 
 - [ ] The change matches an actual practice — not an aspiration we don't follow yet.
@@ -72,8 +65,7 @@ If you have maintainer access, here's the review checklist:
 
 For substantial conventions changes — anything that would alter how we work — also add an entry to the [changelog](changelog.md) before merging.
 
-## Markdown basics
-
+## Markdown Basics
 This site uses standard Markdown plus some MkDocs Material extensions. The essentials:
 
 | Goal | Syntax |
@@ -111,10 +103,8 @@ This site uses standard Markdown plus some MkDocs Material extensions. The essen
 
 **Linking between pages:** Use relative paths from the current file. From `docs/editorial/tone.md` to `docs/diacritics/macron-convention.md`, write `[link text](../diacritics/macron-convention.md)`.
 
-## Asking questions without editing
-
+## Asking Questions without Editing
 If you've spotted something that needs work but aren't sure how to fix it — or you want to discuss a convention before drafting — open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) instead of a pull request. Issues are for conversations; pull requests are for changes.
 
-## Who reviews and merges
-
+## Who Reviews and Merges
 The current maintainer is [@dtpenglish](https://github.com/dtpenglish). All pull requests are reviewed before merging. For routine fixes (typos, formatting), expect same-day turnaround. For substantive conventions changes, allow a few days for discussion.

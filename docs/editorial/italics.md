@@ -1,49 +1,43 @@
 # Italics
-
 How we set italics for non-English terms in SAP English publications. The rules below are reproduced from the SAP Writing Guidelines (v1).
 
-For when to translate vs transliterate vs anglicise, see [Translation Rules](../translation/translation-rules.md).
+For when to translate vs transliterate vs anglicize, see [Translation Rules](../translation/translation-rules.md).
 
-## The rules
-
-### Indic words and phrases (not anglicised)
-
-Indic words and phrases that are **not anglicised** — i.e. not found in the OED — are **italicised** in:
+## The Rules
+### Indic Words and Phrases (Not Anglicized)
+Indic words and phrases that are **not anglicized** — i.e. not found in the OED — are **italicized** in:
 
 - the main text
 - photo captions and other legends
 - footnotes
 
-These italicised words can be collated to form a glossary at the end of the book.
+These italicized words can be collated to form a glossary at the end of the book.
 
 > The aspirant performed *dandvats* before the *murti* of Bhagwan Swaminarayan.
 
-### Names and capitalised proper nouns — not italicised
-
-The following are set in **roman alphabet with initial caps** — **do not italicise** them:
+### Names and Capitalized Proper Nouns — Not Italicized
+The following are set in **roman alphabet with initial caps** — **do not italicize** them:
 
 - Personal names
 - Place names
 - Peoples and tribes
-- Institutions and organisations
+- Institutions and organizations
 - Holy days
 - Festivals
 - Titles of persons (when used with the name)
 
 > Pramukh Swami Maharaj visited Sarangpur Mandir during Janmashtami.
 
-### Anglicised terms — not italicised
-
-Indic terms that have become **anglicised** are in **roman, lowercase**.
+### Anglicized Terms — Not Italicized
+Indic terms that have become **anglicized** are in **roman, lowercase**.
 
 > The discourse drew from the Vedas and turned to the nature of dharma.
 
-!!! note "Exception — italicised anglicised terms"
-    Italics may sometimes be used for unfamiliar words **or if the OED definition does not fully correlate to the intended meaning**. The (partial) list of anglicised words in the OED identifies words which SAP prefers to italicise. Such words are included in that publication's glossary.
+!!! note "Exception — italicized anglicized terms"
+    Italics may sometimes be used for unfamiliar words **or if the OED definition does not fully correlate to the intended meaning**. The (partial) list of anglicized words in the OED identifies words which SAP prefers to italicize. Such words are included in that publication's glossary.
 
-### Titles, short stories, poems, art
-
-**Do not italicise** Indic words in:
+### Titles, Short Stories, Poems, Art
+**Do not italicize** Indic words in:
 
 - Titles of works of art
 - Short stories
@@ -52,27 +46,24 @@ Indic terms that have become **anglicised** are in **roman, lowercase**.
 
 > "Patthar satsang karavshe — the stones will spread the glory of satsang."
 
-(Even though *patthar* and *satsang* would normally be italicised, they are not when inside quotation marks.)
+(Even though *patthar* and *satsang* would normally be italicized, they are not when inside quotation marks.)
 
-## Punctuation inside italicised phrases
-
-> Do not italicise the punctuation marks in italicised words/phrases.
+## Punctuation inside Italicized Phrases
+> Do not italicize the punctuation marks in italicized words/phrases.
 
 Set the punctuation in roman, even if the surrounding word or phrase is in italics:
 
 - *kem chho*? — the question mark stays roman.
 - *Bhagwan bhaji leva*. — the period stays roman.
 
-## Italics for English emphasis
-
-Italics may be used to emphasise a word or short phrase in English prose — but **sparingly**. Overuse drains the device of any effect.
+## Italics for English Emphasis
+Italics may be used to emphasize a word or short phrase in English prose — but **sparingly**. Overuse drains the device of any effect.
 
 > The point is not *what* he said, but *how* he said it.
 
 Reserve emphasis-italics for genuine contrast or stress that the sentence rhythm cannot otherwise convey. Avoid them as a substitute for forceful diction.
 
-## Shlokas, padas, and other quoted verses
-
+## Shlokas, Padas, and Other Quoted Verses
 When quoting a transliterated Sanskrit, Gujarati, or Hindi verse alongside its English translation:
 
 - The **transliterated verse** is set in *italics*.
@@ -84,21 +75,19 @@ When quoting a transliterated Sanskrit, Gujarati, or Hindi verse alongside its E
 > 
 > "On the first day of the waxing fortnight of the month of Maha…"
 
-If the verse is unfamiliar to the readership, italicise the first appearance of the transliteration; in subsequent appearances within the same publication, the gloss can be dropped. (Same logic as a single Indic term — see *Indic words and phrases* above.)
+If the verse is unfamiliar to the readership, italicize the first appearance of the transliteration; in subsequent appearances within the same publication, the gloss can be dropped. (Same logic as a single Indic term — see *Indic words and phrases* above.)
 
-## Decision summary
-
+## Decision Summary
 | Word | Form | Italics? |
 |---|---|---|
-| Anglicised (in OED) | dharma, dal, puri | No |
+| Anglicized (in OED) | dharma, dal, puri | No |
 | Personal/place name | Bhagwan Swaminarayan, Sarangpur | No |
 | Festival, holy day | Janmashtami, Diwali | No |
 | Other Indic term in prose | *dandvat*, *kothari*, *patshala* | Yes |
 | Inside quotation marks | "Bhagwan bhaji leva" | No |
 | Title of a poem/short story | "Akshar Anubhuti" | No |
 
-## See also
-
-- [Plurals](plurals.md) — how the plural endings work for italicised vs anglicised terms.
+## See Also
+- [Plurals](plurals.md) — how the plural endings work for italicized vs anglicized terms.
 - [Quotation marks](quotation-marks.md) — how to present a transliteration alongside its translation.
-- [Diacritics & Transliteration](../diacritics/index.md) — what spellings to use for the italicised terms.
+- [Diacritics & Transliteration](../diacritics/index.md) — what spellings to use for the italicized terms.

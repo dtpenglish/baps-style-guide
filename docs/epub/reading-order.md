@@ -1,13 +1,10 @@
 # Reading Order
-
 Reading order is the sequence in which a screen reader narrates the content of a page. In a print book, the reader's eye establishes order through layout convention; in an EPUB, **we** have to declare it explicitly.
 
-## The Articles panel
-
+## The Articles Panel
 InDesign's **Articles panel** (Window → Articles) is where reading order is defined for EPUB export. Every content element on every page should be a member of an article, in the order it should be read.
 
-## Common problems we encounter
-
+## Common Problems We Encounter
 | Problem | Symptom | Fix |
 |---|---|---|
 | Stale members | Articles panel has 303 entries when the spread has 254 | Remove deleted/replaced items; deduplicate |
@@ -15,8 +12,7 @@ InDesign's **Articles panel** (Window → Articles) is where reading order is de
 | Anchored images in wrong sequence | Image narrated before its caption | Reorder within the article |
 | Multi-column flow | Right column narrated before left finishes | Confirm article order matches intended reading sequence |
 
-## Cleaning the Articles panel
-
+## Cleaning the Articles Panel
 The Bliss Jan–Feb 2026 cleanup pattern:
 
 1. Open Articles panel and the affected document.
@@ -27,14 +23,12 @@ The Bliss Jan–Feb 2026 cleanup pattern:
 
 This is tedious by hand. The `ArticleBuilder.jsx` script automates much of it — see [Scripts & Tools](../scripts/index.md).
 
-## Anchored images
-
+## Anchored Images
 Anchored images (images anchored to a text frame) need special attention. Their position in the reading order is determined by the anchor location, not the visual position on the page. If an image visually appears at the bottom of a column but its anchor is mid-paragraph, it will be narrated mid-paragraph — usually disrupting the flow.
 
 `ArticleBuilder.jsx` handles anchored images explicitly. From v4.39, it walks `page.allPageItems` (across all pages) to find anchored objects and inserts them into the article at sensible positions.
 
-## ExtendScript notes
-
+## ExtendScript Notes
 For team members writing or extending JSX scripts that touch reading order:
 
 - Use `item.allPageItems`, not `item.pageItems`, to get typed objects (groups, images within groups, etc.).
@@ -43,8 +37,7 @@ For team members writing or extending JSX scripts that touch reading order:
 
 These quirks are documented in greater detail in the [Scripts reference](../scripts/jsx-reference.md).
 
-## Verifying reading order
-
+## Verifying Reading Order
 Before EPUB export:
 
 1. **Window → Articles** — visually scan each article's member list.
@@ -55,6 +48,5 @@ Before EPUB export:
 A few minutes of listening to the actual narration catches problems that visual scanning misses every time.
 
 ## Related
-
 - [Alt Text Guidelines](alt-text.md) — how to write the text screen readers will narrate for images
 - [Scripts & Tools](../scripts/index.md) — `ArticleBuilder.jsx` reference

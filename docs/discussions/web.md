@@ -1,5 +1,4 @@
 # Web — BrE or AmE?
-
 Open question on the choice of English variety for our web/digital publications. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
 
 > Should we use BrE or AmE?
@@ -13,10 +12,9 @@ The web question is whether digital publications follow that print default (BrE-
 Considerations:
 
 - **Audience.** A globally accessible site has a mixed audience; consistency may matter more than matching any one reader's expectation.
-- **SEO and discoverability.** *Centre* vs *center*, *organisation* vs *organization*: searches behave differently.
+- **SEO and discoverability.** *Centre* vs *center*, *organization* vs *organization*: searches behave differently.
 - **Continuity with print.** If a reader picks up a print book and then visits the site, mismatched spelling can feel sloppy.
 - **Author flexibility.** A single-variety web rule overrides individual authors' preferences.
 
-## Have an opinion?
-
+## Have an Opinion?
 Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Web: BrE vs AmE`.

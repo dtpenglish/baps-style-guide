@@ -1,11 +1,9 @@
 # SAP Diacritics Policy
-
 The diacritics policy from the SAP Writing Guidelines (v1), reproduced verbatim. This is the policy for **publications for the general reader**.
 
 For the in-house **macron-only convention** used in glossary work and editorial reference material, see [Macron-Only Convention](macron-convention.md). The two policies are scoped differently — see [Diacritics & Transliteration](index.md) for the conflict and how to choose.
 
-## The rule
-
+## The Rule
 > **In publications for general readers do not use diacritical marks in the headings, text or legends. Diacritics may be used in transliterations of verses.**
 
 That is:
@@ -17,9 +15,8 @@ That is:
 | Photo captions, legends | No |
 | **Verses (transliterated)** | **Yes — diacritics may be used** |
 
-## Names — never with diacritics
-
-> Diacritics should not be added to **personal names**, **place names**, **names of political parties and organisations**, or **titles of books and articles**. These words should be spelled in accordance with the SAP transliteration system, but **without diacritics**.
+## Names — Never with Diacritics
+> Diacritics should not be added to **personal names**, **place names**, **names of political parties and organizations**, or **titles of books and articles**. These words should be spelled in accordance with the SAP transliteration system, but **without diacritics**.
 
 Examples:
 
@@ -28,20 +25,17 @@ Examples:
 - BAPS Swaminarayan Sanstha (not *BAPS Swāminārāyaṇ Sansthā*)
 - *Vachanamrut* (the title of the work — not *Vachanāmṛt*)
 
-## Verses — diacritics may be used
-
+## Verses — Diacritics May Be Used
 For transliterations of **verses** (Sanskrit *shlokas*, Gujarati *padas*, etc.), diacritics may be used. This is where IAST or another diacritic system is appropriate, because the precision matters for prosody, recitation, and scholarly cross-reference.
 
 The choice of diacritic system (full IAST vs macron-only vs another) is a project-level decision and is documented in the [Open Discussions: Transliteration](../discussions/transliteration.md) section.
 
-## How this interacts with the rest of the guide
-
+## How This Interacts with the Rest of the Guide
 - The [SAP Writing Guidelines](../concepts/index.md) say "no diacritics in general text" — that is the rule for SAP publications aimed at general readers.
 - The [Macron-Only Convention](macron-convention.md) is an internal convention used in the [BAPS Glossary](glossary-reference.md) and in editorial reference material where pronunciation needs to be marked unambiguously.
 - These two are not in direct conflict because their **scopes are different** — but a publication that mixes the two needs a single rule. See [Diacritics & Transliteration](index.md) for the discussion.
 
-## See also
-
+## See Also
 - [Macron-Only Convention](macron-convention.md) — the in-house convention used in the glossary.
 - [Glossary Reference](glossary-reference.md) — the master file that records spellings.
 - [Open Discussions: Transliteration](../discussions/transliteration.md) — the larger set of unresolved transliteration choices.
