@@ -1,0 +1,71 @@
+# Translation Rules
+
+The rules below are reproduced from the SAP Writing Guidelines (v1). They apply to all SAP English publications.
+
+## Core principles
+
+- Translations should be in **clear, idiomatic English**. Instead of a word-for-word translation, try to match the tone and flow of the original text. Translate so that readers are not confused.
+- Use **English-language punctuation**.
+- Consult the [SAP Word List / glossary](../diacritics/glossary-reference.md) for preferences among common spellings. If a word is not in the list, transliterate it according to the conventions in this guide.
+
+## When to anglicise (use OED spelling)
+
+- If a suitable **anglicised term exists** for a word, use it.
+- Words found in the **Oxford English Dictionary** should be spelled as they appear there. They should have **no diacritics**, nor should they be **italicised** — for example: *dharma*, *dal*, *puri* are all set in roman, no diacritics.
+
+!!! note "Variant spellings in the OED"
+    There are cases where there is not one settled spelling for the Indic word. Examples:
+
+    - *chapatti* / *chapati*
+    - *laddu* / *laddoo* / *ladoo*
+    - *lehnga* / *lehenga* / *lengha*
+    - *maharani* / *maharanee*
+
+    Pick one and apply it consistently. Where SAP has a house preference, the [SAP Word List](../diacritics/glossary-reference.md) records it.
+
+## Titles of works
+
+For titles of books, magazines, poems, and other works:
+
+1. Check whether the work has an **official English translation**. If so, use that title.
+2. If not, **do not translate** the title — use a **transliteration**.
+
+## Place names
+
+Place names with accepted English spellings should be spelled in accordance with English norms. Examples:
+
+- Mumbai
+- Kolkata
+- Kanpur
+- Chennai
+
+This rule also applies to **cities of publication in citations**.
+
+## Names of prominent figures
+
+SAP follows accepted English spellings for names of prominent figures, historical or contemporary.
+
+Non-English names of prominent political or cultural figures are spelled according to the SAP transliteration system, but **without diacritics**. Examples:
+
+- Ramanujan
+- Mahatma Gandhi
+- Sachin Tendulkar
+
+## Quick decision tree
+
+```
+Is the word in the OED?
+├── Yes → Use the OED spelling. Roman, no italics, no diacritics.
+└── No
+    ├── Is it a personal name, place name, organisation, or title?
+    │   ├── Yes → SAP transliteration, no diacritics, roman, initial caps as appropriate.
+    │   │        See Editorial — Italics.
+    │   └── No → SAP transliteration, italicised on first use,
+    │            diacritics per project (see Diacritics).
+```
+
+## See also
+
+- [Italics rules](../editorial/italics.md) — the formatting consequence of these decisions.
+- [Quotation marks for translations](../editorial/quotation-marks.md) — how to present a transliteration alongside its translation.
+- [Open discussions: Transliteration](../discussions/transliteration.md) — unresolved transliteration choices that the team is still discussing.

@@ -130,13 +130,21 @@ markdown_extensions:
 # ---------------------------------------------------------------
 nav:
   - Home: index.md
+  - Concepts: concepts/index.md
+  - Translation & Transliteration:
+      - translation/index.md
+      - Translation Rules: translation/translation-rules.md
   - Editorial:
       - editorial/index.md
       - Tone & Voice: editorial/tone-and-voice.md
       - Capitalisation: editorial/capitalisation.md
+      - Italics: editorial/italics.md
+      - Plurals: editorial/plurals.md
+      - Quotation Marks: editorial/quotation-marks.md
       - Punctuation: editorial/punctuation.md
-  - Diacritics & Transliteration:
+  - Diacritics:
       - diacritics/index.md
+      - SAP Diacritics Policy: diacritics/sap-policy.md
       - Macron-Only Convention: diacritics/macron-convention.md
       - Glossary Reference: diacritics/glossary-reference.md
   - InDesign:
@@ -154,6 +162,15 @@ nav:
       - workflows/index.md
       - File Versioning Rules: workflows/versioning.md
       - File Naming: workflows/file-naming.md
+  - Open Discussions:
+      - discussions/index.md
+      - Sanstha & Mandirs: discussions/sanstha-and-mandirs.md
+      - Gurus & Honorifics: discussions/gurus-and-honorifics.md
+      - Shastras: discussions/shastras.md
+      - Indic Words: discussions/indic-words.md
+      - Transliteration: discussions/transliteration.md
+      - Web — BrE or AmE?: discussions/web.md
+      - Base Style Manual: discussions/base-style-manual.md
   - Contributing: contributing.md
   - Changelog: changelog.md
 

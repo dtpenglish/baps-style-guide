@@ -1,5 +1,8 @@
 # The Macron-Only Convention
 
+!!! info "Scope"
+    This is the **in-house convention** used in the [BAPS master glossary](glossary-reference.md) and in editorial reference material on this site. It is **not** the rule for general-reader SAP publications — for those, see the [SAP Diacritics Policy](sap-policy.md) (no diacritics in body text). For the larger discussion, see [Diacritics & Transliteration](index.md).
+
 ## The rule
 
 Long *a* vowels in transliterated Sanskrit, Gujarati, and Hindi terms are marked with a macron: **ā**. No other diacritical marks are used.

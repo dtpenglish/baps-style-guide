@@ -9,19 +9,35 @@ Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) p
 
 <div class="grid cards" markdown>
 
+-   :material-school-outline: __Foundational Concepts__
+
+    ---
+
+    Romanization, anglicization, translation, and transliteration — the four terms the rest of this guide depends on.
+
+    [:octicons-arrow-right-24: Concepts](concepts/index.md)
+
+-   :material-translate: __Translation & Transliteration__
+
+    ---
+
+    When to translate, when to transliterate, and when to use the OED — the rules from the SAP Writing Guidelines (v1).
+
+    [:octicons-arrow-right-24: Translation rules](translation/index.md)
+
 -   :material-pencil-outline: __Editorial__
 
     ---
 
-    Tone, voice, capitalisation, punctuation, and house style for prose across our publications.
+    Tone, capitalisation, italics, plurals, quotation marks, and punctuation for prose across our publications.
 
     [:octicons-arrow-right-24: Editorial conventions](editorial/index.md)
 
--   :material-translate: __Diacritics & Transliteration__
+-   :material-format-letter-matches: __Diacritics__
 
     ---
 
-    Our macron-only convention for Sanskrit and Indic terms, plus how to use the master glossary.
+    The SAP rule (no diacritics in general text) and the in-house macron-only convention for glossary work.
 
     [:octicons-arrow-right-24: Diacritic rules](diacritics/index.md)
 
@@ -56,6 +72,14 @@ Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) p
     File versioning rules, naming conventions, and production handoff patterns.
 
     [:octicons-arrow-right-24: Workflow conventions](workflows/index.md)
+
+-   :material-comment-question-outline: __Open Discussions__
+
+    ---
+
+    Conventions the team has not yet settled — Sanstha names, mandir names, gurus, transliteration choices, and more.
+
+    [:octicons-arrow-right-24: Open questions](discussions/index.md)
 
 </div>
 
