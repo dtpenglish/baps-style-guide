@@ -1,5 +1,5 @@
 # 6.1 InDesign
-Production conventions for our InDesign work — paragraph styles, master pages, and patterns used across the Vachanamrut 4th Edition, Bliss magazine, and other long-form publications.
+Production conventions for our InDesign work — paragraph styles, master pages, and patterns used across our long-form publications.
 
 ## 6.1.1 Pages in This Section
 - [Paragraph Styles](paragraph-styles.md) — naming conventions and style hierarchies
