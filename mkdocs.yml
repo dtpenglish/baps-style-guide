@@ -5,11 +5,12 @@
 #   mkdocs serve
 # Push to main branch to auto-deploy via GitHub Actions.
 
-site_name: BAPS DTP Style Guide
+site_name: BAPS SAP Style Guide
 site_description: >-
-  Editorial, design, and production conventions for BAPS Swaminarayan Sanstha
-  publishing — covering Sanskrit, Gujarati, Hindi, and English materials.
-site_author: BAPS DTP Team
+  Editorial, design, and production conventions for BAPS Swaminarayan Aksharpith (SAP),
+  the publishing house of BAPS Swaminarayan Sanstha — covering Sanskrit, Gujarati,
+  Hindi, and English materials.
+site_author: BAPS SAP Team
 site_url: https://dtpenglish.github.io/baps-style-guide/
 
 # ---------------------------------------------------------------
