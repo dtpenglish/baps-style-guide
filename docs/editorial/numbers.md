@@ -56,6 +56,7 @@ Spell out: *the nineteenth century*, *the 1990s* (digits + s, no apostrophe).
 Always numerals: *V.S. 2080*, *V.S. 1781*.
 
 ## 3.7.5 Compound Modifiers and Unit Spacing
+The hyphen is the only dash that appears in compound modifiers with numbers. For en dashes (used for ranges and complex compounds) and em dashes (parenthetical breaks), see [Punctuation §3.9.2 Dashes](punctuation.md#392-dashes).
 
 ### 3.7.5.1 Hyphenate Compound Numerals (21–99) When Written Out
 Cardinal and ordinal compound numerals from twenty-one through ninety-nine are hyphenated when written out:

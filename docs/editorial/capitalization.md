@@ -69,6 +69,9 @@ In a hyphenated compound, the proper-adjective element keeps its capital: *Hindu
 
 Common adjectives — *spiritual*, *devotional*, *philosophical*, *traditional*, *ethical* — remain lowercase.
 
+!!! note "Doctrinal adjectives are different"
+    Adjectives like *Brahmaswarup*, *Gunatit*, *Param Ekantik* aren't proper adjectives in the 3.3.2.6 sense — they're doctrinal qualifiers used in BAPS-specific reverential designations. They follow the rules in [3.4 Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md), not this section.
+
 ### 3.3.2.7 *Yogic* vs. *Yoga*
 - ***yogic*** — usually **lowercase** in modern English: *yogic discipline*, *yogic breathing*. The word has been lexicalized as a general adjective.
 - ***Yoga*** — **capitalized** when it refers to the formal philosophical system: *Yoga philosophy*, *the Yoga Sutras*.

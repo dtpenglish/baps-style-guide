@@ -121,6 +121,8 @@ If the verse is unfamiliar to the readership, italicize the first appearance of 
 | Inside quotation marks | "Bhagwan bhaji leva" | No |
 | Title of a poem/short story | "Akshar Anubhuti" | No |
 
+This table answers "italicize this term?" — not "how do I form its plural?". Pluralization (native plural vs roman *-s* on the italic word vs OED form) is a separate decision; see [Plurals §3.6](plurals.md).
+
 ## 3.5.6 See Also
 - [Plurals](plurals.md) — how the plural endings work for italicized vs anglicized terms.
 - [Quotation marks](quotation-marks.md) — how to present a transliteration alongside its translation.

@@ -15,6 +15,8 @@ For quotation marks specifically around translations of Indic terms, see [Quotat
 
 In InDesign, use the proper Unicode characters (en dash <kbd>U+2013</kbd>, em dash <kbd>U+2014</kbd>), not double or triple hyphens.
 
+For compound modifiers with numbers (*twenty-nine members*, *a 5-pound bag*, *an 18th-century novel*) and the rules on hyphenation between numerals and units, see [Numbers §3.7.5](numbers.md#375-compound-modifiers-and-unit-spacing).
+
 ## 3.9.3 Series and the Oxford Comma
 Use the Oxford (serial) comma in lists of three or more:
 
