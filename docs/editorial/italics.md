@@ -68,13 +68,25 @@ The phrase functions as a single doctrinal concept, named practice, or technical
 
 This rule applies to descriptive multiword phrases. Phrases that are formal doctrinal designations (e.g., *Akshar-Purushottam Darshan*, *Gunatit Guru Parampara*) follow the [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md) rules and are roman.
 
-## 3.5.2 Punctuation inside Italicized Phrases
-> Do not italicize the punctuation marks in italicized words/phrases.
-
-Set the punctuation in roman, even if the surrounding word or phrase is in italics:
+## 3.5.2 Punctuation Adjacent to Italicized Phrases
+The default rule: punctuation appears in the same font as the **surrounding text**, not the italicized word or phrase. So a comma, period, question mark, or other mark following an italicized word in roman prose stays roman.
 
 - *kem chho*? — the question mark stays roman.
 - *Bhagwan bhaji leva*. — the period stays roman.
+- He cited the *Vachanamrut*, the *Shikshapatri*, and the *Swamini Vato* — the commas stay roman.
+
+### Exception — Punctuation that Belongs to the Italicized Title
+When a question mark, exclamation point, or other terminal punctuation is **part of an italicized title or work**, italicize the punctuation along with it:
+
+- Have you seen the play *Who's Afraid of Virginia Woolf?* — the question mark belongs to the title.
+- The Beatles' film *Help!* was released in 1965 — the exclamation point is part of the title.
+
+If an italicized title's terminal punctuation conflicts with the surrounding sentence's needs (e.g. would produce a doubled question mark), recast the sentence:
+
+- ❌ Have you seen *Who's Afraid of Virginia Woolf?*?
+- ✅ Are you familiar with the play *Who's Afraid of Virginia Woolf?*
+
+Quotation marks adjacent to italicized words stay roman — they belong to the surrounding sentence, not the word inside.
 
 ## 3.5.3 Italics for English Emphasis
 Italics may be used to emphasize a word or short phrase in English prose — but **sparingly**. Overuse drains the device of any effect.

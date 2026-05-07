@@ -5,6 +5,19 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.11] — 2026-05-07
+
+### Added
+- **[3.9.9 Apostrophes](editorial/punctuation.md#399-apostrophes)** — new section with seven subsections covering possessives of singular nouns (Chicago/Oxford rule: *'s* even on names ending in *s* — *Dickens's*, *Hopkins's*); plurals (apostrophe-only on *s*-ending plurals; *'s* on plurals not ending in *s* like *children's*); plural-form names and uninflected nouns (*the United States'*, *politics'*); plurals of single letters (*p's and q's*) vs multi-letter abbreviations; possessive vs attributive in names (*Mother's Day* vs *Veterans Day*); apostrophes in degrees (*bachelor's degree* but *Bachelor of Arts*) and omitted-year forms (*the '60s*, *the class of '75*); and what an apostrophe doesn't do (no *apple's for sale*).
+- **[3.9.7.7 Commas with *i.e.*, *e.g.*, and *etc.*](editorial/punctuation.md#3977-commas-with-ie-eg-and-etc)** — new subsection: comma before and after *i.e.* / *e.g.* (Oxford-aligned, retained for formal and devotional clarity); *etc.* takes a comma before it after a list of 3+ items, comma after it only when the sentence continues; never *and etc.*
+- **[3.5.2 exception](editorial/italics.md#352-punctuation-adjacent-to-italicized-phrases)** — punctuation that is part of an italicized title (e.g. *Who's Afraid of Virginia Woolf?*, *Help!*) should be italicized along with the title. Default rule (punctuation in surrounding-text font) is unchanged.
+
+### Changed
+- 3.9.9 Open Questions renumbered to 3.9.10 to make room for "Apostrophes".
+- CLAUDE.md locked-in rules: added apostrophe rule, comma-with-Latin-abbreviations rule.
+
+---
+
 ## [1.10] — 2026-05-07
 
 ### Added
