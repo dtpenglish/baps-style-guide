@@ -55,7 +55,64 @@ The preferred form is the plural-singular pair: ***cycles of birth and death***.
 ### 3.3.2.5 Adjective + Noun Phrases (*brahmaswarup* Sadhu, *Akshar-Purushottam Darshan*)
 How to capitalize compound phrases with a doctrinal adjective and a noun is governed by a separate four-rule system — see [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md).
 
-### 3.3.2.6 Sentence Case for Headings on This Site
+### 3.3.2.6 Proper Adjectives Derived from Names, Places, Religions, and Scriptures
+Adjectives derived from proper nouns are **capitalized**:
+
+- **From places:** Indian philosophy, Gujarati literature, British English, Sanskrit grammar, European history.
+- **From religions and traditions:** Hindu philosophy, Christian theology, Islamic jurisprudence, Swaminarayan theology, Vedantic interpretation.
+- **From personal names:** Gandhian principles, Socratic dialogue, Platonic thought, Darwinian evolution.
+- **From scriptures:** *Vedic* (← Veda) — Vedic philosophy, Vedic culture; *Puranic* (← Purana) — Puranic cosmology, Puranic narratives; *Upanishadic* (← Upanishad) — Upanishadic thought, Upanishadic teachings.
+
+A useful test: if the adjective answers "*related to which specific person, place, religion, tradition, or text?*" it is a proper adjective and should be capitalized.
+
+In a hyphenated compound, the proper-adjective element keeps its capital: *Hindu-majority population*, *Vedic-era literature*, *Sanskrit-based terminology*, *Gandhian-style reform*.
+
+Common adjectives — *spiritual*, *devotional*, *philosophical*, *traditional*, *ethical* — remain lowercase.
+
+### 3.3.2.7 *Yogic* vs. *Yoga*
+- ***yogic*** — usually **lowercase** in modern English: *yogic discipline*, *yogic breathing*. The word has been lexicalized as a general adjective.
+- ***Yoga*** — **capitalized** when it refers to the formal philosophical system: *Yoga philosophy*, *the Yoga Sutras*.
+- Some religious publishers capitalize *Yogic* for theological consistency. Either is defensible; consistency within a single publication matters most.
+
+### 3.3.2.8 *Sampradaya*
+- **Capitalize** as part of a formal name of a tradition: *Swaminarayan Sampradaya*, *Ramanuja Sampradaya*, *Vallabh Sampradaya*.
+- **Lowercase** as a generic noun meaning "tradition" or "sect": *the sadhus of the old sampradaya*, *a young sampradaya*.
+
+### 3.3.2.9 Historical Titles and Offices
+Capitalize a formal title when it is tied to a specific person:
+
+> Sundarji Suthar was the secretary to the **King of Kutch**.
+
+Lowercase in generic reference:
+
+> He hoped to become **king** of Kutch one day.
+
+Same logic for *the Maharaja of Bhavnagar*, *the Diwan of Junagadh*, etc.
+
+### 3.3.2.10 The Definite Article with Unique Theological Designations
+English requires the definite article *the* before a unique title or singular theological identity:
+
+- *the Supreme God*
+- *the Supreme Lord*
+- *the Supreme Being*
+- *the Almighty*
+
+Capitalize *Supreme* / *Almighty* when functioning as part of the formal designation. Use lowercase when *supreme* is genuinely descriptive:
+
+- ✅ *Sahajanand Swami himself is the manifestation of the **Supreme God**.*
+- ✅ *An atheist does not believe in the existence of an eternal, **supreme** God.*
+- ✅ *Damodarbhai believed Shriji Maharaj was the **Supreme God** — Purna Purushottam Narayan.*
+
+This same rule resolves *Sarvopari* / *sarvopari*: cap when it forms part of a formal designation (*Sarvopari Bhagwan Swaminarayan*); italic lowercase when it's a quality descriptor.
+
+### 3.3.2.11 *Satsang* as a Doctrinal Term
+- ***Satsang*** — capitalized, roman, when it refers to the BAPS Swaminarayan tradition or institution as a doctrinal designation:
+
+  > The glory of **Satsang** is infinite.
+
+- ***satsang*** — lowercase, italic, in generic descriptive usage (a gathering, the practice of keeping holy company): *a satsang gathering*, *attended satsang*.
+
+### 3.3.2.12 Sentence Case for Headings on This Site
 We use **sentence case** for headings on this site and our digital publications: capitalize only the first word and proper nouns. For book and chapter titles in print publications, follow the publication's established style — but record the choice somewhere this guide can link to.
 
 ## 3.3.3 Open Questions

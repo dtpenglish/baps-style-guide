@@ -91,8 +91,12 @@ Hyphenate, leave open as separate words, or close up?
 - panchtattva / panch tattva
 - sankhyayogi(ni) / sankhya yogi(ni) / sankhya-yogi(ni)
 
-## 10.6.11 Italicizing Mixed Phrases
-How to italicize when one part of the phrase is anglicized and the other is not:
+## 10.6.11 Italicizing Mixed Phrases — Resolved
+> ✅ **Resolved.** If any essential part of a multiword phrase is non-naturalized, italicize the **entire** phrase as a single foreign lexical unit. So *ekantik dharma*, *ekantik bhakti*, *guru parampara* — not *ekantik* dharma or guru *parampara*.
+>
+> See [Italics §3.5.1.5](../editorial/italics.md#3515-multiword-sanskrit-and-indic-phrases-italicize-the-whole-phrase) for the full rule. Phrases that are formal doctrinal designations (*Akshar-Purushottam Darshan*, *Param Ekantik Sadhu*) are roman per [Doctrinal Titles](../editorial/doctrinal-titles.md).
+
+Originally listed as:
 
 - ekantik dharma / *ekantik* dharma
 - ghar mandir / *ghar* mandir

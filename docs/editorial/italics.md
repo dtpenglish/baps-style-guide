@@ -52,6 +52,22 @@ Indic terms that have become **anglicized** are in **roman, lowercase**.
 
 (Even though *patthar* and *satsang* would normally be italicized, they are not when inside quotation marks.)
 
+### 3.5.1.5 Multiword Sanskrit and Indic Phrases — Italicize the Whole Phrase
+If any essential part of a multiword phrase is non-naturalized, italicize the **entire** phrase as a single foreign lexical unit. Splitting italicization across the phrase implies the parts are independent words rather than a unified concept.
+
+- ✅ *murti puja*
+- ✅ *ekantik dharma*
+- ✅ *mansi puja*
+- ✅ *nitya karma*
+- ✅ *vanaprasth ashram*
+- ✅ *guru parampara*
+- ❌ murti *puja*  /  *murti* puja
+- ❌ *ekantik* dharma  /  ekantik *dharma*
+
+The phrase functions as a single doctrinal concept, named practice, or technical expression — typography reflects that semantic unity.
+
+This rule applies to descriptive multiword phrases. Phrases that are formal doctrinal designations (e.g., *Akshar-Purushottam Darshan*, *Gunatit Guru Parampara*) follow the [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md) rules and are roman.
+
 ## 3.5.2 Punctuation inside Italicized Phrases
 > Do not italicize the punctuation marks in italicized words/phrases.
 

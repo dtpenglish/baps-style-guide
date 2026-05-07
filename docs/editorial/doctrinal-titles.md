@@ -7,7 +7,7 @@ This page resolves the recurring question: **when does the adjective get capital
 ### 3.4.1.1 Rule 1 — Proper Nouns and Formal Doctrinal Titles → Capitalize Everything
 When the phrase refers to a **specific, doctrinally defined entity** or an **officially recognized title**, the entire fixed phrase behaves as a proper noun. Capitalize every principal word — including adjectives.
 
-Examples:
+Examples — formal titles and named entities:
 
 - **Pragat Brahmaswarup Mahant Swami Maharaj**
 - **Pramukh Swami Maharaj Shatabdi Mahotsav**
@@ -17,7 +17,14 @@ Examples:
 - **Sarvopari Bhagwan Swaminarayan**
 - **Aksharbrahma** (when referring to the entity)
 
-The adjective is part of a fixed title, not a descriptor — so it carries the capital with the rest of the title.
+Examples — formal doctrinal designations:
+
+- **Param Ekantik Sadhu**
+- **Param Ekantik Sant**
+- **Ekantik Dharma**
+- **the Satpurush** (with the definite article, used as a doctrinal designation)
+
+The adjective is part of a fixed title, not a descriptor — so it carries the capital with the rest of the title. Recognized doctrinal qualifiers like *Param Ekantik* function as formal designations and follow this rule rather than Rule 3.
 
 ### 3.4.1.2 Rule 2 — Generic Descriptions of Qualities or States → All Lowercase
 When the phrase refers to a **quality**, a **state of being**, or a **doctrinal concept used descriptively or academically**, both the adjective and the noun are lowercase.
@@ -28,8 +35,12 @@ Examples:
 - a *gunatit* state
 - a *brahmaswarup* understanding
 - the *satpurush*-bhakti of devotees
+- a *satpurush* (= "a spiritually elevated person", common-noun usage)
+- *ekantik* devotion / faith / lifestyle (descriptive use of *ekantik*, not the doctrinal designation)
 
 These are attributes, not names. They follow the standard SAP rule for non-anglicized Indic terms (italic, lowercase) and the noun stays lowercase too because it's not standing for a specific person or title.
+
+The use of the indefinite article *a* / *an* is a strong signal: *a satpurush* is common-noun usage, while *the Satpurush* (Rule 1) is a formal doctrinal designation.
 
 ### 3.4.1.3 Rule 3 — Reverential Nouns for the Satpurush (without a Name) → Capitalize the Noun, Lowercase the Adjective
 When referring to the manifest Satpurush (the living Gunatit Guru) using a **generic reverential noun** — but **not** a formal title — capitalize the noun and keep the adjective lowercase. This is a BAPS-specific devotional convention.
@@ -55,6 +66,24 @@ Examples:
 
 These are proper titles of specific individuals.
 
+### 3.4.1.5 *Swami* as a Substitute for a Specific Name
+When ***Swami*** is used to refer back to a **specific, previously identified individual** (e.g., Shukanand Swami in a passage already introducing him), it functions as a shortened proper name and is **capitalized, roman**:
+
+> Bhagwan Swaminarayan asked **Swami** to initiate Dungar by giving *vartman*. Dungar gazed up at **Swami** constantly.
+
+Lowercase ***swami*** in generic plural or descriptive usage:
+
+- many *swamis* gathered
+- a *swami* arrived from Vartal
+
+### 3.4.1.6 Descriptive Phrases for the Sadhu — Lowercase
+Phrases like ***the God-realized sadhu***, ***the true sadhu***, ***a holy sadhu***, ***an enlightened sadhu*** are **descriptive**, not formal doctrinal titles. Set them in **roman, lowercase**:
+
+> Swamishri spoke extensively about the concept of the God-realized sadhu as the gateway to liberation.
+> Bhagatji was indeed the enlightened sadhu that Yagnapurushdasji had described.
+
+These would only take capitals if they were **formally defined** glossary-level terminology comparable to *Ekantik Sadhu* — they are not.
+
 ## 3.4.2 Quick Decision Guide
 Ask these questions in order, and stop at the first **yes**:
 
@@ -63,17 +92,25 @@ Ask these questions in order, and stop at the first **yes**:
 3. **Is it a doctrinal quality or state, not a title?** (Rule 2) → Lowercase both adjective and noun.
 
 ## 3.4.3 Multi-Level Summary
-| Phrase | Adjective | Noun | Form |
-|---|---|---|---|
-| Pragat Brahmaswarup Mahant Swami Maharaj | Cap | Cap | Roman |
-| Akshar-Purushottam Darshan | Cap | Cap | Roman |
-| Brahmaswarup Pramukh Swami Maharaj | Cap | Cap | Roman |
-| *brahmaswarup* Sadhu | italic lowercase | Cap | Mixed |
-| *gunatit* Guru | italic lowercase | Cap | Mixed |
-| *pragat* Satpurush | italic lowercase | Cap | Mixed |
-| a *brahmarup* devotee | italic lowercase | lowercase | Italic + roman |
-| a *gunatit* state | italic lowercase | lowercase | Italic + roman |
-| the *satpurush*-bhakti of devotees | italic lowercase | lowercase | Italic |
+| Phrase | Adjective | Noun | Form | Rule |
+|---|---|---|---|---|
+| Pragat Brahmaswarup Mahant Swami Maharaj | Cap | Cap | Roman | 4 |
+| Akshar-Purushottam Darshan | Cap | Cap | Roman | 1 |
+| Brahmaswarup Pramukh Swami Maharaj | Cap | Cap | Roman | 4 |
+| Param Ekantik Sadhu | Cap | Cap | Roman | 1 |
+| Ekantik Dharma | Cap | Cap | Roman | 1 |
+| the Satpurush | — | Cap | Roman | 1 |
+| Swami (referring to a specific named sadhu) | — | Cap | Roman | — |
+| *brahmaswarup* Sadhu | italic lowercase | Cap | Mixed | 3 |
+| *gunatit* Guru | italic lowercase | Cap | Mixed | 3 |
+| *pragat* Satpurush | italic lowercase | Cap | Mixed | 3 |
+| the God-realized sadhu | — | lowercase | Roman | (descriptive) |
+| the true sadhu | — | lowercase | Roman | (descriptive) |
+| a *brahmarup* devotee | italic lowercase | lowercase | Italic + roman | 2 |
+| a *gunatit* state | italic lowercase | lowercase | Italic + roman | 2 |
+| a *satpurush* (common-noun usage) | — | italic lowercase | Italic | 2 |
+| *ekantik* devotion (descriptive) | italic lowercase | lowercase | Italic + roman | 2 |
+| the *satpurush*-bhakti of devotees | italic lowercase | lowercase | Italic | 2 |
 
 ## 3.4.4 How This Fits the Rest of the Guide
 - The general SAP rules ([Italics](italics.md), [Capitalization](capitalization.md)) still apply. Rules 1–4 above resolve the cases where those general rules don't disambiguate adjective treatment.
