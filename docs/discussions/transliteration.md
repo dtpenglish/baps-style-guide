@@ -109,7 +109,13 @@ How to italicize when one part of the phrase is anglicized and the other is not:
 - samskara / sanskar / samskar
 - sloka / shlok / shloka
 
-## 10.6.13 Capitalization / Italicization of *tithis*
+## 10.6.13 Capitalization / Italicization of *tithis* — Resolved
+> ✅ **Resolved.** Tithi names are **capitalized, roman, never italicized, no diacritics** — in every position they appear. The lowercase-italic forms (*padvo*, *ekadashi*, *punam*) are not acceptable in finished publications.
+>
+> See [Tithis](../tithis/index.md) (Part 4) for the full rule and reasoning.
+
+Originally listed as:
+
 - Padvo / *padvo*
 - Ekadashi / *ekadashi*
 - Punam / *punam*

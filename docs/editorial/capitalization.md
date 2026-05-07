@@ -34,6 +34,7 @@ This applies regardless of whether diacritics appear in the body text.
 - **Names of texts:** Vachanamrut, Shikshapatri, Swamini Vato.
 - **Names of organizations:** BAPS Swaminarayan Sanstha.
 - **Festivals and holy days:** Janmashtami, Diwali, Annakut.
+- **Tithis (named days of the lunar fortnight):** Padvo, Bij, Ekadashi, Punam, Amas. Roman, no italics, no diacritics — see [Tithis](../tithis/index.md) (Part 4) for the complete rule.
 
 ### 3.3.2.2 Lowercase
 - **Generic terms:** *sadhu*, *temple*, *scripture*, *discourse*.
@@ -63,8 +64,10 @@ The capitalization of several specific terms is still under team discussion. The
 - **Sanstha names** — Sanstha / sanstha; BAPS Sanstha vs the Sanstha. See [Sanstha & Mandirs](../discussions/sanstha-and-mandirs.md).
 - **Mandir names** — *Sarangpur Mandir* / *Sarangpur mandir* / *the BAPS mandir in Sarangpur*. See [Sanstha & Mandirs](../discussions/sanstha-and-mandirs.md).
 - **Honorifics** — *Bhagwan* / *bhagwan*; *Shri* / *shri*. See [Gurus & Honorifics](../discussions/gurus-and-honorifics.md).
-- ***Tithis*** — *Padvo* / *padvo*; *Ekadashi* / *ekadashi*; *Punam* / *punam*. See [Transliteration](../discussions/transliteration.md).
 - **Philosophical terms** — *Advaita* / *advaita*; *Darshan* / *darshan*. See [Transliteration](../discussions/transliteration.md).
+
+!!! tip "Resolved: tithis"
+    The capitalization of *tithis* (*Padvo*, *Ekadashi*, *Punam*…) was previously open. It is now settled: **always capitalized, always roman, never italicized.** See [Tithis](../tithis/index.md) (Part 4).
 
 ## 3.3.4 See Also
 - [Italics](italics.md) — what to italicize (capitalization and italicization are independent decisions).

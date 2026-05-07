@@ -25,8 +25,12 @@ The following are set in **roman alphabet with initial caps** — **do not itali
 - Holy days
 - Festivals
 - Titles of persons (when used with the name)
+- **Tithis** (named days of the lunar fortnight) — see [Tithis](../tithis/index.md) for the full rule
 
 > Pramukh Swami Maharaj visited Sarangpur Mandir during Janmashtami.
+
+!!! note "Exception — tithis are roman even though they are not in the OED"
+    Tithi names (*Padvo*, *Bij*, *Ekadashi*, *Punam*…) would normally be italicized under the rule in 3.5.1.1, since they are not anglicized. They are an explicit exception: they function as **named days** (like *Tuesday* or *Diwali*), so they are set roman with caps. The fortnight designators ***sud*** and ***vad***, however, remain *italic, lowercase*. See [Tithis](../tithis/index.md) (Part 4).
 
 ### 3.5.1.3 Anglicized Terms — Not Italicized
 Indic terms that have become **anglicized** are in **roman, lowercase**.
@@ -83,6 +87,8 @@ If the verse is unfamiliar to the readership, italicize the first appearance of 
 | Anglicized (in OED) | dharma, dal, puri | No |
 | Personal/place name | Bhagwan Swaminarayan, Sarangpur | No |
 | Festival, holy day | Janmashtami, Diwali | No |
+| Tithi (named lunar day) | Padvo, Ekadashi, Punam | No (exception — see [Tithis](../tithis/index.md)) |
+| Fortnight designator | *sud*, *vad* | Yes (italic, lowercase) |
 | Other Indic term in prose | *dandvat*, *kothari*, *patshala* | Yes |
 | Inside quotation marks | "Bhagwan bhaji leva" | No |
 | Title of a poem/short story | "Akshar Anubhuti" | No |
