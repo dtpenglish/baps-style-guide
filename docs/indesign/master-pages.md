@@ -3,7 +3,7 @@
     Document the master-page setup for our standard publication templates.
 
 ## 6.3.1 What to Cover
-- Margin and column settings for Vachanamrut and Bliss
+- Margin and column settings for our standard publication templates
 - Header content (publication title, section title, page number positioning)
 - Footer content
 - Conventions for section breaks (do they reset page numbers? change running heads?)

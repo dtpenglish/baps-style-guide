@@ -21,11 +21,11 @@ Organize active work by publication, with shared resources (scripts, glossaries,
 ```
 DTP-root/
 ├── Current/
-│   ├── Vachanamrut/
-│   │   └── 2025_4E/          # Vachanamrut 4th Edition working files
-│   └── Bliss/                 # Bliss magazine working files
-├── Scripts/                   # Canonical scripts location
-└── BAPS-Timeline-Tools/       # Timeline deployment toolchain
+│   ├── <Publication-A>/
+│   │   └── <Edition-or-Year>/   # working files for one edition
+│   └── <Publication-B>/         # working files for another publication
+├── Scripts/                     # canonical scripts location
+└── <Toolchain>/                 # other shared toolchains
 ```
 
 Keep working files in their publication folder. Move reusable assets (scripts, shared glossaries, templates) to the appropriate shared location.

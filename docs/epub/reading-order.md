@@ -7,13 +7,13 @@ InDesign's **Articles panel** (Window → Articles) is where reading order is de
 ## 7.3.2 Common Problems We Encounter
 | Problem | Symptom | Fix |
 |---|---|---|
-| Stale members | Articles panel has 303 entries when the spread has 254 | Remove deleted/replaced items; deduplicate |
+| Stale members | Articles panel lists more entries than there are content elements on the spread | Remove deleted/replaced items; deduplicate |
 | Decorative items in articles | Page ornaments narrated as content | Remove from Articles panel; mark Object Export Options as decorative |
 | Anchored images in wrong sequence | Image narrated before its caption | Reorder within the article |
 | Multi-column flow | Right column narrated before left finishes | Confirm article order matches intended reading sequence |
 
 ## 7.3.3 Cleaning the Articles Panel
-The Bliss Jan–Feb 2026 cleanup pattern:
+The standard cleanup pattern:
 
 1. Open Articles panel and the affected document.
 2. For each spread, compare panel members to actual content. Remove stragglers (deleted images that left their entries behind).

@@ -14,14 +14,5 @@ Beyond accessibility, well-formed EPUBs:
 - Index and search correctly in reader applications.
 - Display reliably across reading software.
 
-## 7.1.3 Recent Work
-The Bliss Jan–Feb 2026 issue established the patterns documented in this section:
-
-- Articles panel cleaned from 303 → 254 members through deduplication and removal of decorative items
-- Descriptive alt text applied to 67 content images across pages 10–39
-- Spatial proximity and letter-label matching used to associate images with their captions
-
-The conventions below generalize from that issue's experience.
-
-## 7.1.4 Tooling
+## 7.1.3 Tooling
 The `ArticleBuilder.jsx` script (current version v4.39) automates Articles-panel sequencing for EPUB export. The `AddAltText.jsx` script (current version v17) handles batch alt-text application with caption pre-population. See [Scripts & Tools](../scripts/index.md) for details.
