@@ -11,9 +11,9 @@ This applies whether the tithi name appears alone, in a date, or as part of a co
 | Use | Form |
 |---|---|
 | Standalone | He observes a fast on every **Ekadashi**. |
-| In a date | The murti was installed on **Magshar Sud Ekadashi**, V.S. 2080. |
-| In a compound name | **Sharad Punam**, **Devshayani Ekadashi**, **Chaitra Sud Padvo**. |
-| In a fortnight designation | **Sud** (waxing) and **Vad** (waning) are also capitalised when paired with a tithi: **Bhadarvo Vad Bij**. |
+| In a date | The murti was installed on Magshar *sud* **Ekadashi**, V.S. 2080. |
+| In a compound name | **Sharad Punam**, **Devshayani Ekadashi**, Chaitra *sud* **Padvo**. |
+| Paired with the fortnight marker | The fortnight designators *sud* (waxing) and *vad* (waning) are **italic, lowercase**: Bhadarvo *vad* **Bij**. |
 
 ## The 16 tithis
 
@@ -46,11 +46,11 @@ Each example shows the rule applied in a different sentence shape:
 
 - BAPS Mahant Swami Maharaj will perform the *abhishek* on **Sharad Punam**.
 - Devotees fast on every **Ekadashi**, taking one meal of fruit and milk after sunset.
-- The shilanyas was performed on **Magshar Sud Padvo**, V.S. 2080 (28 November 2023).
+- The shilanyas was performed on Magshar *sud* **Padvo**, V.S. 2080 (28 November 2023).
 - **Devshayani Ekadashi** marks the start of *Chaturmas*; **Devuthani Ekadashi** marks its end.
-- The festival fell on **Bhadarvo Vad Atham** — Janmashtami.
+- The festival fell on Bhadarvo *vad* **Atham** — Janmashtami.
 - Between **Punam** and **Amas** lies the dark fortnight of *Shravan*.
-- The *patotsav* is held annually on **Maha Sud Bij**.
+- The *patotsav* is held annually on Maha *sud* **Bij**.
 
 ## Why this is the rule
 
@@ -113,13 +113,22 @@ Tithis pattern with the **named days** (rows 1, 2, 3, 4) — not with the generi
 
 The word *tithi* — meaning "a lunar day" in the abstract — is a generic common noun, not the name of any specific day. It follows the standard rule for non-anglicised Indic terms: **italic, lowercase**.
 
-> Today's *tithi* is **Maha Sud Pancham**.
+> Today's *tithi* is Maha *sud* **Pancham**.
 
-(*tithi* in italic lowercase; *Maha Sud Pancham* in roman caps.)
+(*tithi* in italic lowercase; the month *Maha* and the tithi **Pancham** in roman caps; *sud* in italic lowercase — see below.)
 
-### *Sud* and *Vad* on their own
+### Fortnight designators — *sud* and *vad*
 
-When *sud* or *vad* appears as part of a date or named day, capitalise it: *Magshar **Sud** Ekadashi*. When discussed as a generic noun ("the waxing fortnight"), it's *sud* in italic lowercase.
+The fortnight designators *sud* (waxing fortnight, *shukla paksha*) and *vad* (waning fortnight, *krishna paksha*) are **italic and lowercase, every time** — when paired with a tithi in a date and when discussed in the abstract:
+
+- Magshar *sud* **Padvo**
+- Bhadarvo *vad* **Bij**
+- The *vad* fortnight begins after **Punam**.
+- During the *sud* of **Shravan**, devotees observe…
+
+This treatment differs from the tithis themselves (which are roman, capitalised) because *sud* and *vad* function as **descriptors** of which half of the lunar month a tithi falls in, not as named days in their own right. They are SAP house style for fortnight designators across all publications.
+
+The Sanskrit equivalents *shukla paksha* and *krishna paksha* follow the same form — italic, lowercase — when used in their generic sense.
 
 ### Variant spellings
 
