@@ -19,7 +19,7 @@ Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) p
 
     ---
 
-    When to translate, when to transliterate, and when to use the OED — the rules from the SAP Writing Guidelines (v1).
+    When to translate, when to transliterate, and when to use the OED.
 
     [:octicons-arrow-right-24: Translation rules](translation/index.md)
 

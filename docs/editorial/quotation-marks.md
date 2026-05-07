@@ -1,5 +1,5 @@
 # 3.8 Quotation Marks
-How to present an Indic term alongside its English translation. The rules below are reproduced from the SAP Writing Guidelines (v1).
+How to present an Indic term alongside its English translation.
 
 For general English quotation use (single vs double, smart vs straight), see [Punctuation](punctuation.md).
 

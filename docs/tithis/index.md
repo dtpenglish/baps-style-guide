@@ -64,10 +64,10 @@ CMS lists *Diwali*, *Ramadan*, *Yom Kippur*, *Lent* among its examples. *Tithis*
 ### 4.4.3 CMS 7.55 / 11.3 — Foreign Words Integrated into English
 > *"Words and phrases now adopted into English need not be italicized, especially if a definition appears nearby or the term is widely known."*
 
-In a BAPS or Swaminarayan publication aimed at the *satsangi* readership for which SAP publishes (per the [SAP Writing Guidelines](../concepts/index.md)), tithi names are as familiar as *Diwali* or *Easter*. They cross the threshold from "italicized foreign term" to "roman established designation" — so no italics.
+In a BAPS or Swaminarayan publication aimed at the *satsangi* readership for which SAP publishes, tithi names are as familiar as *Diwali* or *Easter*. They cross the threshold from "italicized foreign term" to "roman established designation" — so no italics.
 
-### 4.4.4 Internal CMS Reference (BAPS *Comprehensive CMS Style Guide Summary*)
-The BAPS internal *Comprehensive CMS-Based Style Guide Summary* records the same allowance: while CMS strict practice would lowercase tithi names (treating them as ordinal dates), it explicitly permits **capitalizing tithi names in religious or devotional contexts as a style choice to reflect reverence** — provided the choice is applied consistently. SAP publications take that documented option.
+### 4.4.4 CMS — Documented Religious-Context Allowance
+While CMS strict practice would lowercase tithi names (treating them as ordinal dates), it explicitly permits **capitalizing tithi names in religious or devotional contexts as a style choice to reflect reverence** — provided the choice is applied consistently. SAP publications take that documented option.
 
 ### 4.4.5 Hart's Rules / New Oxford Style Manual (BrE)
 Hart's reaches the same conclusion via the same logic:
@@ -147,7 +147,7 @@ If an entire phrase is italicized (e.g. a Sanskrit or Gujarati line being quoted
 This is no different from how the word *Tuesday* would be italicized inside an italicized English phrase.
 
 ## 4.7 Open Variants Superseded by This Rule
-This rule resolves the open question recorded in the SAP Writing Guidelines:
+This rule resolves a previously open question about tithi capitalization and italicization:
 
 > *Capitalization/italicization of tithis: Padvo / padvo, Ekadashi / ekadashi, Punam / punam.*
 

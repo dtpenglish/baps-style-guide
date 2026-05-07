@@ -1,5 +1,5 @@
 # 10.2 Sanstha & Mandirs
-Open questions on naming the Sanstha as a whole, and naming individual mandirs. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
+Open questions on naming the Sanstha as a whole, and naming individual mandirs.
 
 ## 10.2.1 Sanstha — Names and Short Forms
 Variations in current use:

@@ -1,9 +1,9 @@
 # 10.7 Web — BrE or AmE?
-Open question on the choice of English variety for our web/digital publications. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
+Open question on the choice of English variety for our web/digital publications.
 
 > Should we use BrE or AmE?
 
-For print, the SAP Writing Guidelines say:
+For print:
 
 > As SAP is a publishing house based in India, the majority of print publications use **British English**, though work submitted by authors from America is often published using American English.
 

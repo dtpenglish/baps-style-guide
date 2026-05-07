@@ -1,5 +1,5 @@
 # 3.3 Capitalization
-Capitalization rules for SAP English publications. The rules below are reproduced from the SAP Writing Guidelines (v1).
+Capitalization rules for SAP English publications.
 
 ## 3.3.1 Core Rules
 ### 3.3.1.1 Indic Languages Don't Capitalize — Apply English Rules

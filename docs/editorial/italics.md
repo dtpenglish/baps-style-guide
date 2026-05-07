@@ -1,5 +1,5 @@
 # 3.5 Italics
-How we set italics for non-English terms in SAP English publications. The rules below are reproduced from the SAP Writing Guidelines (v1).
+How we set italics for non-English terms in SAP English publications.
 
 For when to translate vs transliterate vs anglicize, see [Translation Rules](../translation/translation-rules.md).
 

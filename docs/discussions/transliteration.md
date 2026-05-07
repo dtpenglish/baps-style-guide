@@ -1,7 +1,5 @@
 # 10.6 Transliteration
-The largest open-questions list in the SAP Writing Guidelines. These questions cover the rules of romanizing Gujarati and Devanagari script — what to do about diacritics, ligatures, the "stray *a*", visarga and anusvara, hyphenation, and the many cases where a single Gujarati word has multiple plausible roman spellings.
-
-Reproduced verbatim from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
+The largest open-questions list. These questions cover the rules of romanizing Gujarati and Devanagari script — what to do about diacritics, ligatures, the "stray *a*", visarga and anusvara, hyphenation, and the many cases where a single Gujarati word has multiple plausible roman spellings.
 
 ## 10.6.1 Source Scripts and Target Script
 - Gujarati script (*lippi*) and the corresponding roman transliteration.

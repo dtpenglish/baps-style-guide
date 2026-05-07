@@ -1,5 +1,5 @@
 # 10.5 Indic Words
-Open questions on plurals, currency, and units of measure. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
+Open questions on plurals, currency, and units of measure.
 
 ## 10.5.1 Plurals
 Variations in current use:

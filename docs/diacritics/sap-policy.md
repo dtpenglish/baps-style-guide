@@ -1,5 +1,5 @@
 # 5.2 SAP Diacritics Policy
-The diacritics policy from the SAP Writing Guidelines (v1), reproduced verbatim. This is the policy for **publications for the general reader**.
+The diacritics policy for **publications for the general reader**.
 
 For the in-house **macron-only convention** used in glossary work and editorial reference material, see [Macron-Only Convention](macron-convention.md). The two policies are scoped differently — see [Diacritics & Transliteration](index.md) for the conflict and how to choose.
 
@@ -31,7 +31,7 @@ For transliterations of **verses** (Sanskrit *shlokas*, Gujarati *padas*, etc.),
 The choice of diacritic system (full IAST vs macron-only vs another) is a project-level decision and is documented in the [Open Discussions: Transliteration](../discussions/transliteration.md) section.
 
 ## 5.2.4 How This Interacts with the Rest of the Guide
-- The [SAP Writing Guidelines](../concepts/index.md) say "no diacritics in general text" — that is the rule for SAP publications aimed at general readers.
+- The rule above — "no diacritics in general text" — applies to SAP publications aimed at general readers.
 - The [Macron-Only Convention](macron-convention.md) is an internal convention used in the [BAPS Glossary](glossary-reference.md) and in editorial reference material where pronunciation needs to be marked unambiguously.
 - These two are not in direct conflict because their **scopes are different** — but a publication that mixes the two needs a single rule. See [Diacritics & Transliteration](index.md) for the discussion.
 

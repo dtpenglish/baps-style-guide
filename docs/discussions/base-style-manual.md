@@ -1,5 +1,5 @@
 # 10.8 Base Style Manual
-Open question on whether to adopt a professionally published style manual as the base for SAP. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
+Open question on whether to adopt a professionally published style manual as the base for SAP.
 
 > Should we adopt a professionally published style manual as our base? E.g., Chicago Manual of Style, Associated Press Manual, Oxford,…
 >

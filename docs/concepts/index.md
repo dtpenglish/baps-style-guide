@@ -1,8 +1,6 @@
 # 1 Foundational Concepts
 A handful of technical terms from linguistics underpin the rest of this guide. Understanding them prevents confusion when rules pull in different directions — for example, when the same word is *anglicized* in one place but *transliterated* in another, the reasons follow from these definitions.
 
-These four concepts are reproduced from the SAP Writing Guidelines / Style Manual for Authors and Editors (v1).
-
 ## 1.1 Romanization
 Romanization is the conversion of writing from a different writing system to the Roman (Latin) script (alphabet). One method of romanization is transliteration. Romanization enables the casual reader who is unfamiliar with the original script to pronounce the source language reasonably accurately.
 

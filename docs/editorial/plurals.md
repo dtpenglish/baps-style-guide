@@ -1,5 +1,5 @@
 # 3.6 Plurals
-How to form the plural of an Indic word in SAP English publications. The rules below are reproduced from the SAP Writing Guidelines (v1).
+How to form the plural of an Indic word in SAP English publications.
 
 ## 3.6.1 The Rules
 ### 3.6.1.1 Plurals of Transliterated Indic Words
@@ -37,7 +37,7 @@ Anglicized plurals **may** be used on words that are found in the OED (and thus 
 ## 3.6.3 Open Question — Singular Gujarati Words Used as Their Own Plural
 > How should we use singular Gujarati words that are their own plural? E.g., *dandvat*, *pradakshina*, *pranam*… — even though in English we (SAP) do add an *s* in plural usage.
 
-This is an unresolved question in the SAP Writing Guidelines. See [Open Discussions: Indic Words](../discussions/indic-words.md) for the running discussion.
+This is an unresolved question. See [Open Discussions: Indic Words](../discussions/indic-words.md) for the running discussion.
 
 ## 3.6.4 See Also
 - [Italics](italics.md) — when to italicize the singular and the plural ending.

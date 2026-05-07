@@ -1,5 +1,5 @@
 # 2.1 Translation & Transliteration
-Rules for translating from Gujarati, Sanskrit, or Hindi into English — and for deciding what to translate, what to transliterate, and what to leave anglicized. These rules are reproduced from the SAP Writing Guidelines / Style Manual for Authors and Editors (v1).
+Rules for translating from Gujarati, Sanskrit, or Hindi into English — and for deciding what to translate, what to transliterate, and what to leave anglicized.
 
 For the underlying definitions, see [Foundational Concepts](../concepts/index.md).
 

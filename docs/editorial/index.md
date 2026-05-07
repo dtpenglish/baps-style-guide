@@ -1,5 +1,5 @@
 # 3.1 Editorial
-Conventions for prose across BAPS publications — how we sound on the page, how we capitalize, how we punctuate, what we italicize, and how we form plurals. Most of the rules in this section are reproduced from the SAP Writing Guidelines (v1).
+Conventions for prose across BAPS publications — how we sound on the page, how we capitalize, how we punctuate, what we italicize, and how we form plurals.
 
 For when to translate vs transliterate vs anglicize, see [Translation Rules](../translation/translation-rules.md). For the foundational definitions, see [Foundational Concepts](../concepts/index.md).
 
@@ -25,9 +25,7 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 | Em dash or en dash? | en dash (–) for parenthetical breaks and for ranges. |
 
 ## 3.1.3 British vs American English
-> As SAP is a publishing house based in India, the majority of print publications use **British English**, though work submitted by authors from America is often published using American English. This British–American distinction is usually limited to spelling, punctuation and format conventions, because the subtle nuances of the many other grammatical differences between BrE and AmE are not always apparent to our untrained authors and editors.
->
-> — SAP Writing Guidelines (v1)
+As SAP is a publishing house based in India, the majority of print publications use **British English**, though work submitted by authors from America is often published using American English. This British–American distinction is usually limited to spelling, punctuation and format conventions, because the subtle nuances of the many other grammatical differences between BrE and AmE are not always apparent to our untrained authors and editors.
 
 For the web (this site) the choice between BrE and AmE is still under discussion — see [Open Discussions: Web](../discussions/web.md).
 

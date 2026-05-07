@@ -1,5 +1,5 @@
 # 10.4 Shastras
-Open questions on naming, citing, and formatting our scriptural texts. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
+Open questions on naming, citing, and formatting our scriptural texts.
 
 ## 10.4.1 Title Forms
 > Full and abbreviated titles / which to italicize / how to hyphenate to facilitate pronunciation / referencing conventions / ?use '.' as section separator.

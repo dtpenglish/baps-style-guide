@@ -1,5 +1,5 @@
 # 10.3 Gurus & Honorifics
-Open questions on naming and addressing Bhagwan Swaminarayan, Aksharbrahma Gunatitanand Swami, the gurus of the BAPS *parampara*, and the sadhus. Reproduced from the **Conventions to Discuss** section of the SAP Writing Guidelines (v1).
+Open questions on naming and addressing Bhagwan Swaminarayan, Aksharbrahma Gunatitanand Swami, the gurus of the BAPS *parampara*, and the sadhus.
 
 ## 10.3.1 Bhagwan Swaminarayan
 How to address him and what to use in which situations…

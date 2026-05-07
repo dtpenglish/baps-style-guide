@@ -1,5 +1,5 @@
 # 2.2 Translation Rules
-The rules below are reproduced from the SAP Writing Guidelines (v1). They apply to all SAP English publications.
+The rules below apply to all SAP English publications.
 
 ## 2.2.1 Core Principles
 - Translations should be in **clear, idiomatic English**. Instead of a word-for-word translation, try to match the tone and flow of the original text. Translate so that readers are not confused.
