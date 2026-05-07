@@ -5,6 +5,17 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.12] — 2026-05-07
+
+### Added
+- **[3.9.10 Commas with *such as* and *like*](editorial/punctuation.md#3910-commas-with-such-as-and-like)** — new section with four subsections covering the restrictive/nonrestrictive comma rule (*Citrus fruits, such as oranges, are high in vitamin C* vs *Trees such as oaks and elms don't grow at this altitude*); the *such as* (inclusion) vs *like* (comparison) distinction; the no-colon-after-*such as* rule; and a guideline that 1–3 examples is the comfortable range, longer lists should become vertical lists.
+
+### Changed
+- **3.9.9.6** enriched with degree-abbreviation forms — no-periods style (*BA*, *BSc*, *MA*, *MSc*, *PhD*, *MBA*, *MD*, *EdD*) cross-referencing the existing rule in 3.9.7.1, and a SAP BrE-default note (*MSc* not *MS*; *MA* not *M.A.*; *PhD* fine in either variety).
+- 3.9.10 Open Questions renumbered to 3.9.11 to make room for "Commas with *such as* and *like*".
+
+---
+
 ## [1.11] — 2026-05-07
 
 ### Added

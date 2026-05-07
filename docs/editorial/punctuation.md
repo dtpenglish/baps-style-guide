@@ -234,7 +234,7 @@ A noun before another noun can be either **possessive** (apostrophe) or **attrib
 For organization names, follow the entity's own form on its official site or publications: *Federal Judges Association*, *Bankers School* (no apostrophe by their own choice).
 
 ### 3.9.9.6 Apostrophes in Degrees and Years
-- **Degrees** — *bachelor's degree*, *master's degree*, *doctor's degree* take an apostrophe (singular possessive). The full form *Bachelor of Arts*, *Master of Science*, *Doctor of Philosophy* takes no apostrophe.
+- **Degrees** — *bachelor's degree*, *master's degree*, *doctor's degree* take an apostrophe (singular possessive), lowercase. The full form *Bachelor of Arts*, *Master of Science*, *Doctor of Philosophy* takes initial caps and no apostrophe. Abbreviations follow the no-periods rule from [3.9.7.1](#3971-periods-truncations-vs-contractions): *BA*, *BSc*, *MA*, *MSc*, *PhD*, *MBA*, *MD*, *EdD*. Use **BrE-default forms** — *MSc* (not *MS* / *M.S.*), *MA* (not *M.A.*); *PhD* is fine in either variety.
 - **Year omitted from a date** — use a closing single quote (**'**, right single quote / U+2019), not an opening single quote:
   - the class of '75   ✅
   - the '60s   ✅
@@ -251,6 +251,52 @@ The apostrophe marks possession or contraction — never an ordinary plural:
 
 This applies to family names too: *the Joneses* (plural), *the Joneses' house* (possessive plural).
 
-## 3.9.10 Open Questions
+## 3.9.10 Commas with *such as* and *like*
+
+### 3.9.10.1 Restrictive vs. Nonrestrictive
+Whether to use a comma before *such as* (or *like*) depends on whether the examples that follow are essential to the meaning of the sentence.
+
+**Nonrestrictive — use commas.** The examples illustrate a general statement; removing them leaves the sentence still true.
+
+> Citrus fruits, **such as** oranges and grapefruits, are high in vitamin C.
+> *(Without the examples: "Citrus fruits are high in vitamin C." Still true.)*
+
+> Some sea creatures, **such as** hermit crabs, shed their shells.
+
+**Restrictive — no commas.** The examples narrow the statement and are essential to its meaning; removing them changes or distorts the truth.
+
+> Trees **such as** oaks and elms don't grow at this altitude.
+> *(Without the examples: "Trees don't grow at this altitude." Now incorrectly absolute — the original sentence was specific to those species.)*
+
+> Foods **such as** pizza and ice cream aren't very good for you.
+
+The same logic applies to *like* used to introduce examples.
+
+### 3.9.10.2 *such as* vs. *like*
+The two phrases are not interchangeable in formal writing.
+
+- ***such as*** — introduces specific examples that **belong to** the category being described.
+- ***like*** — introduces things that are **similar to** the category but not necessarily included in it.
+
+> I want to live in a big city, **like** Boston or Chicago.
+> *(meaning: a city resembling Boston or Chicago — not necessarily one of those two.)*
+
+> I want to live in a big city, **such as** Boston or Chicago.
+> *(meaning: a city, possibly Boston or Chicago themselves.)*
+
+In formal SAP writing — including translations and devotional prose — prefer ***such as*** when listing actual examples drawn from the category. Use *like* only when comparison rather than inclusion is intended.
+
+### 3.9.10.3 No Colon after *such as*
+Don't follow *such as* with a colon — the phrase itself signals that examples are coming:
+
+- ❌ Several rituals are common, **such as: puja, arti, and havan.**
+- ✅ Several rituals are common, **such as puja, arti, and havan.**
+
+A colon is appropriate after a complete clause that doesn't already include *such as*: *Several rituals are common: puja, arti, and havan.*
+
+### 3.9.10.4 How Many Examples
+*such as* is best used to introduce **one to three** examples (occasionally four if all are single words). For longer lists, recast as a vertical list (see [3.9.8](#398-vertical-lists)) or as an "X include the following: …" sentence.
+
+## 3.9.11 Open Questions
 - Period inside or outside quotation marks (American vs British)?
 - Spaced or unspaced em dashes in print? This guide uses spaced (` — `); print publications may differ.
