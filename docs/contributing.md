@@ -7,7 +7,7 @@ This guide is yours. Anyone on the BAPS DTP team can propose edits — from fixi
 ## 12.1 Three Ways to Contribute
 Pick whichever matches your comfort level. All three result in the same outcome: a reviewed, versioned change to the live site.
 
-### 12.1.1 1. the Pencil Icon (easiest)
+### 12.1.1 The Pencil Icon (Easiest)
 Every page on this site has a **pencil icon** in the top-right corner. This is the fastest way to fix a typo, clarify a sentence, or update a small detail.
 
 **Steps:**
@@ -23,7 +23,7 @@ Every page on this site has a **pencil icon** in the top-right corner. This is t
 !!! tip "No Git knowledge needed"
     The pencil-icon flow handles all the Git steps for you. You're just editing text in a browser.
 
-### 12.1.2 2. New Page or Larger Edit
+### 12.1.2 New Page or Larger Edit
 For adding a whole new page or restructuring an existing one, the same web flow works — but you'll need to create a new file.
 
 1. In the GitHub repository, navigate to the appropriate folder under `docs/` (e.g. `docs/editorial/`).
@@ -33,7 +33,7 @@ For adding a whole new page or restructuring an existing one, the same web flow 
 5. Commit and create a pull request as in the previous flow.
 6. **Important:** Also propose an edit to `mkdocs.yml` to add your new page to the navigation. If you're not sure how, mention this in the pull request description and a maintainer will help.
 
-### 12.1.3 3. Local Preview (for Substantial Work)
+### 12.1.3 Local Preview (for Substantial Work)
 If you're writing a long section or want to see exactly how it'll render, set up MkDocs locally.
 
 ```bash

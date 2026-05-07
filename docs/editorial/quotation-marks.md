@@ -4,18 +4,18 @@ How to present an Indic term alongside its English translation.
 For general English quotation use (single vs double, smart vs straight), see [Punctuation](punctuation.md).
 
 ## 3.8.1 The Four Cases
-### 3.8.1.1 1. Simple Apposition — No Quotation Marks
+### 3.8.1.1 Simple Apposition — No Quotation Marks
 When the Indic term and the translation are juxtaposed using **commas, the word "or", dashes, parentheses, or brackets**, do **not** use quotation marks around the translation. The translation is in roman script.
 
 - He immediately offered *dandvats* – prostrations.
 - A bowl of *mamra*, or puffed rice, topped with peanuts.
 
-### 3.8.1.2 2. Translation Clarified — Quotation Marks around the Translation
+### 3.8.1.2 Translation Clarified — Quotation Marks around the Translation
 With phrases such as **"which means"**, **"translated as"**, or **"literally"**, the translation is in **quotation marks** and in **roman**:
 
 > The Gujarati phrase is *Bhagwan bhaji leva*, meaning "worship God".
 
-### 3.8.1.3 3. Quoted Speech — Several Patterns
+### 3.8.1.3 Quoted Speech — Several Patterns
 An Indic term in quoted speech may be handled in several ways, depending on the particular circumstance:
 
 - He warned me: "*Jaldi*! Quickly!"
@@ -24,14 +24,14 @@ An Indic term in quoted speech may be handled in several ways, depending on the 
 - "We call it *matru bhasha*," he explained, "the mother tongue."
 - "*Agal*, *agal*," he called out. "Go forward, go forward." "*Dabi baju*, *dabi baju*. Go left, go left."
 
-### 3.8.1.4 4. Mottoes and Slogans — Quotation Marks
+### 3.8.1.4 Mottoes and Slogans — Quotation Marks
 Enclose mottoes and slogans within **quotation marks**. The Indic phrase is in **italics**; the translation is in **roman**. Capitalize the translation as appropriate:
 
 - "*Samp tya jamp* – Peace where there is unity."
 - They shouted, "*Hayso*!" meaning, "Let us pull together!"
 - Pramukh Swami Maharaj blessed, "*Patthar satsang karavshe* – the stones will spread the glory of satsang."
 
-### 3.8.1.5 5. Explanations — No Quotation Marks
+### 3.8.1.5 Explanations — No Quotation Marks
 Explanations are presented **without** quotation marks:
 
 - *rotlo*, an unleavened bread made from a variety of grains…
