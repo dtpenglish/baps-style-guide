@@ -41,6 +41,7 @@ These are settled — don't re-debate:
 - **Italics:** Indic terms not in the OED → italic lowercase. OED-anglicized terms (*dharma, dal, puri, guru*) → roman, no italic, no diacritics. Names and festivals → roman, capped, no italic.
 - **Capitalization:** Common nouns lowercase; festivals and named days capitalized; *Earth* (planet) cap, *earth* (soil) lc; preferred phrasing "*cycles of birth and death*".
 - **Punctuation:** Oxford comma always; smart quotes; em dash with spaces; en dash for ranges and complex compounds; one space after a period; no period in acronyms (*BAPS, CMS, EPUB*); periods in *V.S., e.g., i.e.*
+- **Numbers:** Spell out **1–10** in narrative prose (*one*, *two*, … *ten*); use numerals from **11** onwards. Always numerals for measurements, ages, dates, percentages, currency, times, and statistics. Departure from CMS (which spells out 1–100). Rule lives at **3.7**.
 
 ## Glossary
 

@@ -5,6 +5,14 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.7] — 2026-05-07
+
+### Changed
+- **Numbers rule shortened from 1–100 to 1–10.** [§3.7](editorial/numbers.md) now spells out whole numbers from *one* through *ten*; numerals from **11** onwards. Always numerals for measurements, ages, dates, percentages, currency, times, and statistics. The previous CMS-aligned rule (spell out 1–100) is superseded; AP-style is closer to current SAP practice.
+- 3.7.4.2 (mixing words and numerals in a passage) now references the 11-threshold.
+
+---
+
 ## [1.6] — 2026-05-07
 
 ### Changed
