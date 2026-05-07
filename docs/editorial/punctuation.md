@@ -40,7 +40,28 @@ Place the superscript number **after the punctuation** when the note refers to t
 | Whole sentence or quotation | After the closing punctuation | *…the term used was 'bahyadrashti'.¹* |
 | Specific word | Immediately after the word, before the punctuation | *…the term used was 'bahyadrashti'¹.* |
 
-This is CMS practice. Apply consistently within a publication.
+### 3.9.6.1 Footnote Numbers with Colons and Semicolons
+The superscript goes **before** a colon or semicolon, regardless of what the note refers to:
+
+- The study claimed that 'results were reproducible'²; however, later attempts failed.
+- He raised three concerns³: funding, scope, and timing.
+
+This is the BrE convention; commas and full stops still take the superscript after, per the rule above.
+
+### 3.9.6.2 Footnote Numbers with Quoted Material
+When the footnote refers specifically to **quoted material** within a sentence, the superscript goes immediately after the closing quotation mark:
+
+- According to Wilson, the policy was 'fundamentally flawed'² in its approach to regulation.
+
+When the footnote refers to a specific word *inside* the quoted text, place it immediately after that word:
+
+- The manuscript referred to '*alien*¹ visitors' throughout the text.
+
+When the sentence ends with quoted material and the note refers to the whole sentence or quotation, the superscript follows the final punctuation:
+
+- Smith argued that 'economic factors were the primary cause of the uprising'.⁴
+
+Apply these rules consistently within a publication.
 
 ## 3.9.7 Abbreviations and Acronyms
 

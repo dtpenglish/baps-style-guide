@@ -26,6 +26,7 @@ How to render conjunct consonants:
 - **વ**: *v* or *w*? (*Vachanamrut* vs *Wachanamrut*; *Bhagwan* vs *Bhagvan*.)
 - **ળ**: *l* (not *d*)?
 - **ઈ / ઇ**: *i* or *y*?
+- **Dental vs. retroflex *t* / *d* (Sanskrit / Hindi material)**: South-Indian transliteration distinguishes *t* (retroflex ट) from *th* (dental त), and *d* (retroflex ड) from *dh* (dental द) — so *Lata* would be लटा and *Latha* लता. North-Indian / Hunterian transliteration (which SAP currently follows) uses *t* and *d* for both, accepting the dental/retroflex ambiguity in romanization. Mostly relevant in Sanskrit and Hindi sources; less so for Gujarati base material. Names like *Mata*, *Pita*, *Vidya*, *Bhagwat* — no *th* / *dh* in the SAP convention.
 
 ## 10.6.5 Initial Long Vowels
 - Initial **ā**: *a* or *aa*? Same with *oo* / *ee*.

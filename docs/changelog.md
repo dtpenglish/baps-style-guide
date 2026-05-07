@@ -5,6 +5,18 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.13] — 2026-05-07
+
+### Added
+- **3.9.6.1 Footnote Numbers with Colons and Semicolons** — superscript goes *before* a colon or semicolon (BrE convention); commas and full stops still take the superscript after.
+- **3.9.6.2 Footnote Numbers with Quoted Material** — handling for the three cases: footnote referring to quoted material (after closing quote), to a specific word inside the quote (immediately after that word), and to the whole sentence ending with a quotation (after final punctuation).
+- **10.6.4 dental vs. retroflex *t* / *d*** — added as another open transliteration variant. South-Indian convention distinguishes *t* (retroflex ट) from *th* (dental त) and *d* / *dh* similarly; SAP follows the North-Indian / Hunterian convention (*t* and *d* for both), accepting the dental/retroflex ambiguity. Mostly relevant for Sanskrit/Hindi material.
+
+### Notes
+- The basic CMS-aligned footnote rule (3.9.6) is preserved unchanged: after punctuation when the note refers to the whole sentence; before punctuation when it refers to a specific word.
+
+---
+
 ## [1.12] — 2026-05-07
 
 ### Added
