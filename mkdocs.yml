@@ -37,7 +37,10 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - content.action.edit         # Pencil icon → opens GitHub web editor
+    # - content.action.edit       # Pencil icon disabled — visitors are view-only.
+    #                               Maintainer edits via GitHub directly,
+    #                               github.dev (press . on any repo page),
+    #                               local clone, or Claude Code.
     - content.action.view         # Eye icon → views raw source
     - content.code.copy
     - content.tabs.link
