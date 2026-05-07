@@ -22,7 +22,7 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 | Plural of pandit? | pandits (anglicized — follow OED). |
 | Oxford comma? | Yes, always. |
 | Single or double quotes? | Double for direct speech and quotations; single for quotes within quotes. |
-| Em dash or en dash? | Em dash (—) for parenthetical breaks; en dash (–) for ranges. |
+| Em dash or en dash? | en dash (–) for parenthetical breaks and for ranges. |
 
 ## British vs American English
 > As SAP is a publishing house based in India, the majority of print publications use **British English**, though work submitted by authors from America is often published using American English. This British–American distinction is usually limited to spelling, punctuation and format conventions, because the subtle nuances of the many other grammatical differences between BrE and AmE are not always apparent to our untrained authors and editors.
