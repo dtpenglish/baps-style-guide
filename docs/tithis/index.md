@@ -74,6 +74,10 @@ CMS lists *Diwali*, *Ramadan*, *Yom Kippur*, *Lent* among its examples. *Tithis*
 
 In a BAPS or Swaminarayan publication aimed at the *satsangi* readership for which SAP publishes (per the [SAP Writing Guidelines](../concepts/index.md)), tithi names are as familiar as *Diwali* or *Easter*. They cross the threshold from "italicised foreign term" to "roman established designation" — so no italics.
 
+### Internal CMS reference (BAPS *Comprehensive CMS Style Guide Summary*)
+
+The BAPS internal *Comprehensive CMS-Based Style Guide Summary* records the same allowance: while CMS strict practice would lowercase tithi names (treating them as ordinal dates), it explicitly permits **capitalising tithi names in religious or devotional contexts as a style choice to reflect reverence** — provided the choice is applied consistently. SAP publications take that documented option.
+
 ### Hart's Rules / New Oxford Style Manual (BrE)
 
 Hart's reaches the same conclusion via the same logic:

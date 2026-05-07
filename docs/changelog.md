@@ -6,6 +6,26 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.2] — 2026-05-07
+
+### Added
+- New **Tithis** section ([tithis/index.md](tithis/index.md)) — capitalisation and italicisation rule for the 16 tithis of the lunar fortnight, with CMS, Hart's, OED, and internal CMS-summary references. Resolves the SAP open question.
+- New **Doctrinal Titles & Reverential Capitalisation** page ([editorial/doctrinal-titles.md](editorial/doctrinal-titles.md)) — the four-rule system for adjective+noun phrases in BAPS English (e.g. *brahmaswarup Sadhu* vs *Pragat Brahmaswarup Mahant Swami Maharaj*). Drawn from the BAPS internal *Capitalization of Adjective with Nouns_Pronouns* document.
+- New **Numbers** page ([editorial/numbers.md](editorial/numbers.md)) — CMS rule: spell out one through one hundred and round multiples; numerals for measurements, statistics, ages, dates, percentages.
+
+### Changed
+- [Capitalisation](editorial/capitalisation.md) — added rules for *Earth* / *earth* and the preferred wording *cycles of birth and death*. Cross-link to the new doctrinal-titles page.
+- [Punctuation](editorial/punctuation.md) — added footnote superscript placement (after sentence punctuation vs after a specific word), spacing rules (one space after a period; no space before a footnote superscript), abbreviation conventions (no periods in *BAPS*, *CMS*, *EPUB*; periods in *V.S.*, *e.g.*, *i.e.*). Removed the "Draft page" banner. Refined dash table to mention complex compounds.
+- [Italics](editorial/italics.md) — added "Italics for English emphasis" (use sparingly) and "Shlokas, padas, and other quoted verses" (italic transliteration + roman translation).
+- [Quotation Marks](editorial/quotation-marks.md) — added rule for terms used in a special sense (double quotes on first use only; roman thereafter).
+- [Tithis](tithis/index.md) — added cross-reference to the BAPS internal *Comprehensive CMS-Based Style Guide Summary* showing CMS itself permits the chosen capitalisation as a documented religious-context style choice.
+
+### Notes
+- Source documents: *Capitalization of Adjective with Nouns_Pronouns* (Doc 1) and *Comprehensive CMS-Based Style Guide Summary* (Doc 2). Both are internal BAPS / SAP working documents.
+- Duplicate or conflicting items from Doc 2 were not incorporated: title capitalisation (already documented), Oxford comma (already documented), religious-term capitalisation (already documented), British English spellings (already noted), glossary formatting (already documented), and IAST diacritics in general text (conflicts with the SAP "no diacritics in general body text" rule).
+
+---
+
 ## [1.1] — 2026-05-07
 
 ### Added

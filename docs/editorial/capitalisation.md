@@ -49,6 +49,23 @@ This applies regardless of whether diacritics appear in the body text.
 - **Generic religious actions:** *darshan*, *arti*, *katha*.
 - **Adjectival forms:** *the Swaminarayan tradition*, but *swaminarayan philosophy* (as a descriptor).
 
+### *Earth* / *earth*
+
+- **Earth** (capitalised) when referring to the planet in scientific or formal contexts: *life on Earth*.
+- **earth** (lowercase) when referring to soil, land, or in idiomatic usage: *tilling the earth*; *down to earth*.
+
+### Word choice — *cycle of birth and death*
+
+The preferred form is the plural-singular pair: ***cycles of birth and death***.
+
+- ✅ Most preferred: *cycles of birth and death*
+- ✓ Acceptable: *cycle of birth and death*
+- Less preferred: *cycles of births and deaths*
+
+### Adjective + noun phrases (*brahmaswarup Sadhu*, *Akshar-Purushottam Darshan*)
+
+How to capitalise compound phrases with a doctrinal adjective and a noun is governed by a separate four-rule system — see [Doctrinal Titles & Reverential Capitalisation](doctrinal-titles.md).
+
 ### Sentence case for headings on this site
 
 We use **sentence case** for headings on this site and our digital publications: capitalise only the first word and proper nouns. For book and chapter titles in print publications, follow the publication's established style — but record the choice somewhere this guide can link to.

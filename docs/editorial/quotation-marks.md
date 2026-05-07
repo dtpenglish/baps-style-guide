@@ -60,8 +60,16 @@ Set the punctuation in roman, even when the word or phrase around it is italic.
 | Motto or slogan | Yes | Italic Indic + roman translation |
 | Plain explanation of a term | No | Roman |
 
+## Terms used in a special sense
+
+When a common English word is used in a particular, technical, or ironic sense for which the writer wants to flag the reader, use **double quotation marks on first use only**. In subsequent uses within the same publication, set the term in roman without quotation marks.
+
+> The committee adopted what it called a "soft launch" approach. The soft launch began on Magshar *sud* Padvo.
+
+Reserve this device for words where the reader genuinely needs to be put on notice that an unusual sense is intended. Don't use it as a hedge.
+
 ## See also
 
-- [Italics](italics.md) — when the Indic word itself is italicised.
+- [Italics](italics.md) — when the Indic word itself is italicised; also italics for English emphasis.
 - [Translation rules](../translation/translation-rules.md) — when to translate, when to transliterate.
-- [Punctuation](punctuation.md) — general English punctuation conventions.
+- [Punctuation](punctuation.md) — general English punctuation, dashes, and footnote superscript placement.

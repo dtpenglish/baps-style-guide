@@ -63,6 +63,29 @@ Set the punctuation in roman, even if the surrounding word or phrase is in itali
 - *kem chho*? — the question mark stays roman.
 - *Bhagwan bhaji leva*. — the period stays roman.
 
+## Italics for English emphasis
+
+Italics may be used to emphasise a word or short phrase in English prose — but **sparingly**. Overuse drains the device of any effect.
+
+> The point is not *what* he said, but *how* he said it.
+
+Reserve emphasis-italics for genuine contrast or stress that the sentence rhythm cannot otherwise convey. Avoid them as a substitute for forceful diction.
+
+## Shlokas, padas, and other quoted verses
+
+When quoting a transliterated Sanskrit, Gujarati, or Hindi verse alongside its English translation:
+
+- The **transliterated verse** is set in *italics*.
+- The **English translation** is set in roman.
+- Both follow English-language punctuation.
+- Diacritics in the verse follow the project-level decision; see [SAP Diacritics Policy](../diacritics/sap-policy.md) (verses may use diacritics even where general body text does not).
+
+> *māgha-māsi sitā-pakṣe pratipadī…*
+> 
+> "On the first day of the waxing fortnight of the month of Maha…"
+
+If the verse is unfamiliar to the readership, italicise the first appearance of the transliteration; in subsequent appearances within the same publication, the gloss can be dropped. (Same logic as a single Indic term — see *Indic words and phrases* above.)
+
 ## Decision summary
 
 | Word | Form | Italics? |
