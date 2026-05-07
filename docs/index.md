@@ -7,77 +7,77 @@ Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) p
 ## Sections at a Glance
 <div class="grid cards" markdown>
 
--   :material-school-outline: __Foundational Concepts__
+-   __Foundational Concepts__
 
     ---
 
     Romanization, anglicization, translation, and transliteration — the four terms the rest of this guide depends on.
 
-    [:octicons-arrow-right-24: Concepts](concepts/index.md)
+    [Concepts →](concepts/index.md)
 
--   :material-translate: __Translation & Transliteration__
+-   __Translation & Transliteration__
 
     ---
 
     When to translate, when to transliterate, and when to use the OED — the rules from the SAP Writing Guidelines (v1).
 
-    [:octicons-arrow-right-24: Translation rules](translation/index.md)
+    [Translation rules →](translation/index.md)
 
--   :material-pencil-outline: __Editorial__
+-   __Editorial__
 
     ---
 
     Tone, capitalization, italics, plurals, quotation marks, and punctuation for prose across our publications.
 
-    [:octicons-arrow-right-24: Editorial conventions](editorial/index.md)
+    [Editorial conventions →](editorial/index.md)
 
--   :material-format-letter-matches: __Diacritics__
+-   __Diacritics__
 
     ---
 
     The SAP rule (no diacritics in general text) and the in-house macron-only convention for glossary work.
 
-    [:octicons-arrow-right-24: Diacritic rules](diacritics/index.md)
+    [Diacritic rules →](diacritics/index.md)
 
--   :material-file-document-outline: __InDesign__
+-   __InDesign__
 
     ---
 
     Paragraph styles, master pages, and production patterns for our long-form publications.
 
-    [:octicons-arrow-right-24: InDesign conventions](indesign/index.md)
+    [InDesign conventions →](indesign/index.md)
 
--   :material-book-open-page-variant: __EPUB Accessibility__
+-   __EPUB Accessibility__
 
     ---
 
     Alt text writing, Articles panel hygiene, and reading-order standards for accessible EPUBs.
 
-    [:octicons-arrow-right-24: EPUB guidelines](epub/index.md)
+    [EPUB guidelines →](epub/index.md)
 
--   :material-code-tags: __Scripts & Tools__
+-   __Scripts & Tools__
 
     ---
 
     Reference for our JSX scripts (`ArticleBuilder`, `AddAltText`, `SplitVachanamrut`, `ExportToWord_Generic`).
 
-    [:octicons-arrow-right-24: Scripts reference](scripts/index.md)
+    [Scripts reference →](scripts/index.md)
 
--   :material-folder-cog-outline: __Workflows__
+-   __Workflows__
 
     ---
 
     File versioning rules, naming conventions, and production handoff patterns.
 
-    [:octicons-arrow-right-24: Workflow conventions](workflows/index.md)
+    [Workflow conventions →](workflows/index.md)
 
--   :material-comment-question-outline: __Open Discussions__
+-   __Open Discussions__
 
     ---
 
     Conventions the team has not yet settled — Sanstha names, mandir names, gurus, transliteration choices, and more.
 
-    [:octicons-arrow-right-24: Open questions](discussions/index.md)
+    [Open questions →](discussions/index.md)
 
 </div>
 
