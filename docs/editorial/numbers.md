@@ -55,6 +55,74 @@ Spell out: *the nineteenth century*, *the 1990s* (digits + s, no apostrophe).
 ### 3.7.4.5 V.S. (Vikram Samvat) Years
 Always numerals: *V.S. 2080*, *V.S. 1781*.
 
-## 3.7.5 See Also
-- [Punctuation](punctuation.md) — comma in numerals (1,586) and other typographic details.
+## 3.7.5 Compound Modifiers and Unit Spacing
+
+### 3.7.5.1 Hyphenate Compound Numerals (21–99) When Written Out
+Cardinal and ordinal compound numerals from twenty-one through ninety-nine are hyphenated when written out:
+
+- **twenty-nine** members
+- the **forty-third** anniversary
+- her **ninety-fifth** birthday
+
+### 3.7.5.2 Hyphenate Compound Adjectives with Number + Noun
+When a number plus a noun forms a compound adjective before another noun, hyphenate them:
+
+| Pattern | Example |
+|---|---|
+| Number + noun (spelled out) | a **two-car** family |
+| Number + measurement (spelled out) | a **five-kilometre** trek |
+| Number + currency | a **$4-million** project |
+| Class or quality | a **first-class** coach; a **third-rate** play |
+| Ordinal + noun | an **18th-century** novel; a **21st-century** outlook |
+
+When the number applies in standalone (non-modifier) usage, no hyphen: *the entrance was two metres wide*; *the project cost \$4 million*.
+
+### 3.7.5.3 No Hyphen Before Symbols or Metric Unit Abbreviations
+A hyphen never appears between a numeral and a symbol or a metric unit abbreviation, even in adjectival use:
+
+- ✅ a 100 °C thermometer    ❌ a 100-°C thermometer
+- ✅ a 30% increase    ❌ a 30-% increase
+- ✅ a 5 km trail    ❌ a 5-km trail
+- ✅ 35 mm film    ❌ 35-mm film
+- ✅ a 100 W bulb    ❌ a 100-W bulb
+
+### 3.7.5.4 Use Singular Form in Compound Modifiers
+When a unit appears in a compound adjective, use the **singular** form even for multiple units:
+
+- a **10-foot** tree (not *10-feet*)
+- a **5-pound** bag
+- a **12-hour** shift
+- a **two-metre-wide** entrance
+- an **80-foot-wide** screen
+
+Standalone usage takes the plural: *He climbed 10 feet. The bag weighs 5 pounds. The shift lasted 12 hours.*
+
+### 3.7.5.5 No Hyphen with a Possessive Noun
+A possessive noun preceded by a number takes no hyphen:
+
+- *one week's pay*
+- *40 hours' work*
+- *three weeks' vacation*
+- *10 months' leave*
+
+### 3.7.5.6 Space Between Number and Unit
+Insert a space between the numeral and a unit symbol or abbreviation:
+
+- 5 km, 200 g, 32 °C, 100 ml, 12 ft
+
+**Exception:** degrees, minutes, and seconds for plane angles take no space:
+
+- 30° 22′ 8″
+- a 45° angle
+
+### 3.7.5.7 When the Written-Out Number Is Itself a Compound
+Don't hyphenate a compound adjective when the spelled-out number is itself a compound. Use the abbreviated form:
+
+- ❌ a two hundred and fifty millilitre flask
+- ✅ a 250 ml flask
+- ❌ a one thousand five hundred metre run
+- ✅ a 1,500 m run
+
+## 3.7.6 See Also
+- [Punctuation](punctuation.md) — comma in numerals (1,586), abbreviation rules, and other typographic details.
 - [Capitalization](capitalization.md) — capitalization rules for ordinals in titles.

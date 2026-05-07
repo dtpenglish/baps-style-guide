@@ -5,6 +5,17 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.9] — 2026-05-07
+
+### Added
+- **[3.7.5 Compound Modifiers and Unit Spacing](editorial/numbers.md#375-compound-modifiers-and-unit-spacing)** — seven new subsections covering hyphenation of written-out compound numerals (*twenty-nine*), hyphenation in compound adjectives (*two-car family*, *five-kilometre trek*, *18th-century novel*), no-hyphen rule before symbols and metric units (*30% increase*, *5 km trail*, *100 °C thermometer*), singular form in compound modifiers (*10-foot tree*, not *10-feet*), no-hyphen rule with possessive nouns (*one week's pay*), space between number and unit (*5 km*, *32 °C*) with the plane-angle exception (*30° 22′ 8″*), and the rule for when the written-out number is itself a compound (*250 ml flask* over *two hundred and fifty millilitre flask*).
+- **[3.9.7 Abbreviations and Acronyms](editorial/punctuation.md#397-abbreviations-and-acronyms)** — significantly expanded with six subsections: truncations vs contractions (period rule), acronyms vs initialisms, capitalization by length (≤5 letters all-caps; ≥6 initial-cap), articles before acronyms (*the BBC*, no article for *NATO*), first-mention spell-out convention, and plurals (*MEPs* not *MEP's*; *1920s*, *747s*).
+
+### Notes
+- Personal name initials follow the BrE convention: *TS Eliot*, *RK Narayan* — no spaces, no periods. The older *T. S. Eliot* form is acceptable.
+
+---
+
 ## [1.8] — 2026-05-07
 
 ### Added
