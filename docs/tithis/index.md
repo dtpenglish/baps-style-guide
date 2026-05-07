@@ -146,6 +146,36 @@ If an entire phrase is italicized (e.g. a Sanskrit or Gujarati line being quoted
 
 This is no different from how the word *Tuesday* would be italicized inside an italicized English phrase.
 
+### 4.6.6 The 12 Gujarati Months
+Month names follow the same form as tithis: **roman, capitalized, no italics, no diacritics** — in every position. Treat them like English month names (*March*, *April*).
+
+The Gujarati months in calendar order, beginning with **Kartak** (the month following Diwali):
+
+| # | Gujarati form |
+|---|---|
+| 1 | **Kartak** |
+| 2 | **Magshar** |
+| 3 | **Posh** |
+| 4 | **Maha** |
+| 5 | **Fagan** |
+| 6 | **Chaitra** |
+| 7 | **Vaishakh** |
+| 8 | **Jeth** |
+| 9 | **Ashadh** |
+| 10 | **Shravan** |
+| 11 | **Bhadarvo** |
+| 12 | **Aso** |
+
+Used with a fortnight designator and a tithi to form a date:
+
+- **Magshar** *sud* **Padvo**
+- **Bhadarvo** *vad* **Atham**
+- **Maha** *sud* **Pancham**
+- **Kartak** *sud* **Punam** — Dev Diwali
+- **Aso** *vad* **Amas** — Diwali
+
+In compound names with a tithi, the month behaves as a proper-noun modifier and stays cap roman — e.g. *Magshar Punam* (the full moon of Magshar), *Vaishakh Punam*.
+
 ## 4.7 Open Variants Superseded by This Rule
 This rule resolves a previously open question about tithi capitalization and italicization:
 
