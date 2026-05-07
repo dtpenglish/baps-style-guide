@@ -8,7 +8,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 **Purpose:** Automates Articles panel sequencing for EPUB export. Walks the document, identifies content elements, and produces a clean reading order.
 
-**Run:** Double-click in the Scripts panel, or via Sidekick.
+**Run:** Double-click in the Scripts panel.
 
 **Key behaviours:**
 
@@ -88,7 +88,6 @@ A handful of issues that have caught us out and are worth knowing before writing
 - **Track changes (InDesign 2025):** use `story.changes.count()` and `story.changes.item(i)`. The earlier `story.trackChangesPreferences` API is deprecated.
 - **ScriptUI scrolling:** broken in long lists. Replace with an HTML-in-browser preview when you need scrollable content.
 - **Pre-compute before `pd.show()`:** any long-running DOM work after the dialog opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialog.
-- **Sidekick MCP execution:** wrap script bodies in `app.doScript(script, 1246973031);` to run them through the Sidekick MCP bridge.
 
 ## 8.2.6 Related
 - [Versioning Rules](../workflows/versioning.md) — every script edit produces a new versioned file

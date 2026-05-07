@@ -1,0 +1,3 @@
+# This file exists so the empty `files/` directory is tracked by git.
+# Drop downloadable files (JSX scripts, InDesign templates, glossary, etc.) here.
+# Then add a row to ../index.md describing the file.

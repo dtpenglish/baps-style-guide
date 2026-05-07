@@ -12,21 +12,20 @@ How we name files, folders, and revisions across the DTP workflow.
 |---|---|---|
 | Versioned glossary | `name-YYYY-MM-DD_vX.Y.xlsx` | `glossary-all-2026-04-15_v1.2.xlsx` |
 | Script | `Name_vX.Y.jsx` | `ArticleBuilder_v4.39.jsx` |
-| Brief / spec doc | `ClaudeBrief_Topic_vX.docx` | `ClaudeBrief_Vachanamrut_v3.docx` |
+| Brief / spec doc | `Brief_Topic_vX.docx` | `Brief_Vachanamrut_v3.docx` |
 | Project export | `Project_Description_vX.ext` | `MSM_Vicharan_2016-23_v2.xlsx` |
 
 ## 9.3.3 Folder Organization
-Active work lives under `E:\AVDWork\AVD_Current\`, organized by publication:
+Organize active work by publication, with shared resources (scripts, glossaries, templates) in their own top-level folders. A typical layout:
 
 ```
-E:\AVDWork\
-├── AVD_Current\
-│   ├── Vach_SnV\
-│   │   └── Vach Text\
-│   │       └── 2025_4E\          # Vachanamrut 4th Edition working files
-│   └── Bliss\                    # Bliss magazine working files
-├── Scripts\                      # Canonical scripts location
-└── BAPS-Timeline-Tools\          # Timeline deployment toolchain
+DTP-root/
+├── Current/
+│   ├── Vachanamrut/
+│   │   └── 2025_4E/          # Vachanamrut 4th Edition working files
+│   └── Bliss/                 # Bliss magazine working files
+├── Scripts/                   # Canonical scripts location
+└── BAPS-Timeline-Tools/       # Timeline deployment toolchain
 ```
 
 Keep working files in their publication folder. Move reusable assets (scripts, shared glossaries, templates) to the appropriate shared location.

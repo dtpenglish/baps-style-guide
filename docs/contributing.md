@@ -1,13 +1,13 @@
-# 11 Contributing to the Style Guide
+# 12 Contributing to the Style Guide
 This guide is yours. Anyone on the BAPS DTP team can propose edits — from fixing a typo to adding an entire new section. This page explains how.
 
 !!! note "About the team"
     Most of our authors and editors don't have formal writing or publishing training — we learn on the job, drawing on the SAP glossary, this guide, and one another. The guide is meant to **support** that learning, not to gatekeep. If a rule is unclear, propose an edit, ask a question in [GitHub Issues](https://github.com/dtpenglish/baps-style-guide/issues), or raise it in a meeting. The goal is shared, evolving conventions — not formal expertise.
 
-## 11.1 Three Ways to Contribute
+## 12.1 Three Ways to Contribute
 Pick whichever matches your comfort level. All three result in the same outcome: a reviewed, versioned change to the live site.
 
-### 11.1.1 1. the Pencil Icon (easiest)
+### 12.1.1 1. the Pencil Icon (easiest)
 Every page on this site has a **pencil icon** in the top-right corner. This is the fastest way to fix a typo, clarify a sentence, or update a small detail.
 
 **Steps:**
@@ -23,7 +23,7 @@ Every page on this site has a **pencil icon** in the top-right corner. This is t
 !!! tip "No Git knowledge needed"
     The pencil-icon flow handles all the Git steps for you. You're just editing text in a browser.
 
-### 11.1.2 2. New Page or Larger Edit
+### 12.1.2 2. New Page or Larger Edit
 For adding a whole new page or restructuring an existing one, the same web flow works — but you'll need to create a new file.
 
 1. In the GitHub repository, navigate to the appropriate folder under `docs/` (e.g. `docs/editorial/`).
@@ -33,7 +33,7 @@ For adding a whole new page or restructuring an existing one, the same web flow 
 5. Commit and create a pull request as in the previous flow.
 6. **Important:** Also propose an edit to `mkdocs.yml` to add your new page to the navigation. If you're not sure how, mention this in the pull request description and a maintainer will help.
 
-### 11.1.3 3. Local Preview (for Substantial Work)
+### 12.1.3 3. Local Preview (for Substantial Work)
 If you're writing a long section or want to see exactly how it'll render, set up MkDocs locally.
 
 ```bash
@@ -48,7 +48,7 @@ mkdocs serve
 
 Open [http://127.0.0.1:8000](http://127.0.0.1:8000) — the site rebuilds automatically as you edit. When you're done, commit your branch and push, then open a pull request on GitHub.
 
-## 11.2 What Makes a Good Edit
+## 12.2 What Makes a Good Edit
 A good edit:
 
 - **Has one clear purpose.** Fix one typo, clarify one rule, or add one section per pull request. Don't bundle unrelated changes.
@@ -56,7 +56,7 @@ A good edit:
 - **Considers our four languages.** Conventions that apply only to English should say so. Rules for transliteration should specify which source language.
 - **Doesn't duplicate.** Search the site first. If a topic already exists, edit the existing page rather than creating a new one.
 
-## 11.3 Reviewing Pull Requests
+## 12.3 Reviewing Pull Requests
 If you have maintainer access, here's the review checklist:
 
 - [ ] The change matches an actual practice — not an aspiration we don't follow yet.
@@ -68,7 +68,7 @@ If you have maintainer access, here's the review checklist:
 
 For substantial conventions changes — anything that would alter how we work — also add an entry to the [changelog](changelog.md) before merging.
 
-## 11.4 Markdown Basics
+## 12.4 Markdown Basics
 This site uses standard Markdown plus some MkDocs Material extensions. The essentials:
 
 | Goal | Syntax |
@@ -106,8 +106,8 @@ This site uses standard Markdown plus some MkDocs Material extensions. The essen
 
 **Linking between pages:** Use relative paths from the current file. From `docs/editorial/tone.md` to `docs/diacritics/macron-convention.md`, write `[link text](../diacritics/macron-convention.md)`.
 
-## 11.5 Asking Questions without Editing
+## 12.5 Asking Questions without Editing
 If you've spotted something that needs work but aren't sure how to fix it — or you want to discuss a convention before drafting — open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) instead of a pull request. Issues are for conversations; pull requests are for changes.
 
-## 11.6 Who Reviews and Merges
+## 12.6 Who Reviews and Merges
 The current maintainer is [@dtpenglish](https://github.com/dtpenglish). All pull requests are reviewed before merging. For routine fixes (typos, formatting), expect same-day turnaround. For substantive conventions changes, allow a few days for discussion.

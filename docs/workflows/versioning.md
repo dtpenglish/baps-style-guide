@@ -25,7 +25,7 @@ Place the version near the end of the filename, before the extension:
 ```
 glossary-all-2026-04-15_v1.2.xlsx
 ArticleBuilder_v4.39.jsx
-ClaudeBrief_Vachanamrut_v3.docx
+Brief_Vachanamrut_v3.docx
 MSM_Vicharan_2016-23_v2.xlsx
 ```
 

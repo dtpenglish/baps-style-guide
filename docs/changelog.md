@@ -5,6 +5,17 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.14] — 2026-05-07
+
+### Added
+- **Part 11 [Downloads](downloads/index.md)** — new top-level section where the team can place JSX scripts, InDesign templates, glossary downloads, and other working files for users to download. Files are placed in `docs/downloads/files/`; a table on the page describes each entry.
+
+### Changed
+- **Contributing renumbered from Part 11 to Part 12** to make room for the new Downloads section.
+- **InDesign 6.1**, **Scripts 8.1**, **Scripts 8.2**, **Workflows 9.2**, **Workflows 9.3** — removed references to the Sidekick MCP plugin, Cowork, the local `E:\AVDWork\` drive paths, and specific working-file names that were tied to one team member's environment. The pages now describe the InDesign / Scripts environment in portable, environment-neutral terms, and point to Downloads for the latest script versions.
+
+---
+
 ## [1.13] — 2026-05-07
 
 ### Added
