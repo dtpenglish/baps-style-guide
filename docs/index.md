@@ -1,6 +1,6 @@
-# BAPS DTP Style Guide
+# BAPS SAP Style Guide
 
-Welcome to the in-house style guide for the BAPS Desktop Publishing team. This site documents our editorial, design, and production conventions across all our publications — Sanskrit, Gujarati, Hindi, and English.
+Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) publishing team. This site documents our editorial, design, and production conventions across all our publications — Sanskrit, Gujarati, Hindi, and English.
 
 !!! tip "How to use this guide"
     Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? Click the **pencil icon** at the top of any page to suggest an edit.
