@@ -92,43 +92,19 @@ Hyphenate, leave open as separate words, or close up?
 - panchtattva / panch tattva
 - sankhyayogi(ni) / sankhya yogi(ni) / sankhya-yogi(ni)
 
-## 10.6.11 Italicizing Mixed Phrases — Resolved
-> ✅ **Resolved.** If any essential part of a multiword phrase is non-naturalized, italicize the **entire** phrase as a single foreign lexical unit. So *ekantik dharma*, *ekantik bhakti*, *guru parampara* — not *ekantik* dharma or guru *parampara*.
->
-> See [Italics §3.5.1.5](../editorial/italics.md#3515-multiword-sanskrit-and-indic-phrases-italicize-the-whole-phrase) for the full rule. Phrases that are formal doctrinal designations (*Akshar-Purushottam Darshan*, *Param Ekantik Sadhu*) are roman per [Doctrinal Titles](../editorial/doctrinal-titles.md).
-
-Originally listed as:
-
-- ekantik dharma / *ekantik* dharma
-- ghar mandir / *ghar* mandir
-- ekantik bhakti / *ekantik* bhakti
-- guru *parampara* / guru-*parampara*
-- *niyam*-dharma
-
-## 10.6.12 Anglicized Words with Alternative Transliterated Spellings
+## 10.6.11 Anglicized Words with Alternative Transliterated Spellings
 - *atma* / atman
 - *champal* / chappal
 - *rushi* / rishi
 - samskara / sanskar / samskar
 - sloka / shlok / shloka
 
-## 10.6.13 Capitalization / Italicization of *tithis* — Resolved
-> ✅ **Resolved.** Tithi names are **capitalized, roman, never italicized, no diacritics** — in every position they appear. The lowercase-italic forms (*padvo*, *ekadashi*, *punam*) are not acceptable in finished publications.
->
-> See [Tithis](../tithis/index.md) (Part 4) for the full rule and reasoning.
-
-Originally listed as:
-
-- Padvo / *padvo*
-- Ekadashi / *ekadashi*
-- Punam / *punam*
-
-## 10.6.14 Variations in the Gujarati Spelling of the Same Word
+## 10.6.12 Variations in the Gujarati Spelling of the Same Word
 - cheshta / cheshtha
 - divo / diya
 - sat-chit-anand / sat-chid-anand
 
-## 10.6.15 Alternative Transliterations
+## 10.6.13 Alternative Transliterations
 Two or more roman spellings circulating for the same Gujarati word:
 
 - chikoo / chiku
@@ -140,28 +116,28 @@ Two or more roman spellings circulating for the same Gujarati word:
 - jai naad / jay naad
 - lila / leela
 
-## 10.6.16 Alternative Anglicizations
+## 10.6.14 Alternative Anglicizations
 - laddu / laddoo / ladoo
 
-## 10.6.17 Caps or Lower Case
+## 10.6.15 Caps or Lower Case
 - Advaita / advaita
 - Dvait / dvaita
 - Darshan / darshan
 - Uttarayan / dakshinayan
 
-## 10.6.18 Suffixes (and Prefixes?)
+## 10.6.16 Suffixes (and Prefixes?)
 - dakshini pagh / dakshi ni pagh / dakshi-ni pagh
 - rajasik / rajasic / rajsik / rajsic
 - mayik / mayic
 
-## 10.6.19 Festivals
+## 10.6.17 Festivals
 - Jal Jhilani / Jal-Jhilani
 - Rathyatra / Rath Yatra / Rath-Yatra
 
-## 10.6.20 How to Use This List
+## 10.6.18 How to Use This List
 Each item above will eventually become a row in the [glossary](../diacritics/glossary-reference.md), with one preferred form. Until then, treat any of the listed forms as acceptable, but **be consistent within a single publication**.
 
 When the team decides on a preferred form, update this page and add an entry to the [changelog](../changelog.md).
 
-## 10.6.21 Have an Opinion?
+## 10.6.19 Have an Opinion?
 Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Translit: <word>` — e.g. `Translit: jn vs gn`.

@@ -185,8 +185,6 @@ This rule resolves a previously open question about tithi capitalization and ita
 
 The decision: **always capitalized, always roman, never italicized.** The lowercase-italic forms (*padvo*, *ekadashi*, *punam*) are not acceptable for tithi names in finished publications.
 
-The corresponding entry in [Open Discussions: Transliteration §10.6.13](../discussions/transliteration.md#10613-capitalization--italicization-of-tithis-resolved) has been updated to point here.
-
 ## 4.8 See Also
 - [Editorial — Capitalization](../editorial/capitalization.md) — the broader SAP capitalization rules.
 - [Editorial — Italics](../editorial/italics.md) — the rule from which tithis are an exception.

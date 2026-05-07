@@ -5,6 +5,22 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.15] — 2026-05-08
+
+### Removed
+- **Resolved discussion topics removed from the discussions pages.** Each topic below has been settled and is now documented in the relevant editorial section; keeping a parallel "Resolved" entry under [10.x](discussions/index.md) was duplicative.
+  - **10.3.1** — *Supreme* / *Sarvopari* and the resolved tip removed (rule lives at [3.3.2.10](editorial/capitalization.md#33210-the-definite-article-with-unique-theological-designations) and [3.4.1.1](editorial/doctrinal-titles.md#3411-rule-1-proper-nouns-and-formal-doctrinal-titles-capitalize-everything)).
+  - **10.3.6** — *Sant* / *Satpurush* (full section) removed (rule lives at [3.4.1.1](editorial/doctrinal-titles.md#3411-rule-1-proper-nouns-and-formal-doctrinal-titles-capitalize-everything) and [3.4.1.2](editorial/doctrinal-titles.md#3412-rule-2-generic-descriptions-of-qualities-or-states-all-lowercase)).
+  - **10.6.11** — Italicizing mixed phrases (full section) removed (rule lives at [3.5.1.5](editorial/italics.md#3515-multiword-sanskrit-and-indic-phrases-italicize-the-whole-phrase)).
+  - **10.6.13** — Capitalization / italicization of tithis (full section) removed (rule lives at [Tithis Part 4](tithis/index.md)).
+
+### Changed
+- **10.3.x renumbered** after 10.3.6 was removed: Anglophone Honorifics 10.3.7 → 10.3.6; Sadhus 10.3.8 → 10.3.7; Have an Opinion 10.3.9 → 10.3.8.
+- **10.6.x renumbered** after 10.6.11 and 10.6.13 were removed: 10.6.12 → 10.6.11; 10.6.14 → 10.6.12; 10.6.15 → 10.6.13; 10.6.16 → 10.6.14; 10.6.17 → 10.6.15; 10.6.18 → 10.6.16; 10.6.19 → 10.6.17; 10.6.20 → 10.6.18; 10.6.21 → 10.6.19.
+- 4.7 in [Tithis](tithis/index.md): removed the line pointing back to discussions §10.6.13 (now obsolete).
+
+---
+
 ## [1.14] — 2026-05-07
 
 ### Added

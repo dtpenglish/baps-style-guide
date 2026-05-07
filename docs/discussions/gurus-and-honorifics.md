@@ -11,8 +11,6 @@ Variations in current use:
 - Shriji Maharaj
 - Sahajanand Swami
 - Shri Hari / Shrihari
-- Sarvopari / *sarvopari*
-- Supreme / supreme
 - manifest / incarnate
 - Parabrahma
 - Paramatma
@@ -22,9 +20,6 @@ Open questions:
 - Which form is preferred for first mention vs subsequent mentions?
 - *Shri Hari* (two words) or *Shrihari* (one)?
 - *manifest* vs *incarnate* — are these synonymous in our usage?
-
-!!! tip "Resolved: *Supreme* / *Sarvopari*"
-    *Supreme* / *Sarvopari* — capitalized when functioning as a formal theological designation (*the Supreme God*, *Sarvopari Bhagwan Swaminarayan*); lowercase when descriptive (*an eternal, supreme God*; *the sarvopari quality of Bhagwan*). See [Capitalization §3.3.2.10](../editorial/capitalization.md#33210-the-definite-article-with-unique-theological-designations) and [Doctrinal Titles §3.4.1.1](../editorial/doctrinal-titles.md#3411-rule-1-proper-nouns-and-formal-doctrinal-titles-capitalize-everything).
 
 ## 10.3.2 Aksharbrahma Gunatitanand Swami
 Variations in current use:
@@ -88,27 +83,7 @@ Open questions:
 - *Swami Bapa* (two words) or *Swamibapa* (one word)?
 - When to use *manifest*, when *pragat*?
 
-## 10.3.6 Sant / Satpurush — Resolved
-> ✅ **Resolved.**
->
-> - ***the Satpurush*** — capitalized, roman, when used as a formal doctrinal designation for the manifest Gunatit Guru.
-> - ***a satpurush*** — italic, lowercase, in common-noun usage meaning "a spiritually elevated person." The indefinite article *a* signals descriptive usage.
-> - ***Param Ekantik Sadhu*** / ***Param Ekantik Sant*** — capitalized, roman, as a formal doctrinal designation. The italic-lowercase forms (*param ekantik sant*) are not used in finished publications.
->
-> See [Doctrinal Titles §3.4.1.1](../editorial/doctrinal-titles.md#3411-rule-1-proper-nouns-and-formal-doctrinal-titles-capitalize-everything) (Rule 1) and [§3.4.1.2](../editorial/doctrinal-titles.md#3412-rule-2-generic-descriptions-of-qualities-or-states-all-lowercase) (Rule 2).
-
-Originally listed as variations in current use:
-
-- Sant
-- Satpurush / *satpurush*
-- Mota Purush
-- Pragat Satpurush
-- Param Ekantik Satpurush / Sant
-- *param ekantik* Satpurush / Sant
-- *param ekantik sant*
-- Param Ekantik Sant
-
-## 10.3.7 Anglophone Honorifics
+## 10.3.6 Anglophone Honorifics
 Variations in current use:
 
 - His Holiness Pramukh Swami Maharaj
@@ -116,7 +91,7 @@ Variations in current use:
 
 Open question: which is preferred, and is it used in body text or only in formal contexts (citations, dedications)?
 
-## 10.3.8 Sadhus
+## 10.3.7 Sadhus
 Variations in current use for senior sadhus:
 
 - Sadguru Param Pujya Dr Swami (Swayamprakash / das / ji Swami)
@@ -139,5 +114,5 @@ Open questions:
 - Position-titles (*kothari*, *mahant*) — italicized or roman; capitalized or lowercase?
 - *Sadgurus* (capital, roman) vs *sadgurus* (italic) — when?
 
-## 10.3.9 Have an Opinion?
+## 10.3.8 Have an Opinion?
 Click the pencil icon to propose wording, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).
