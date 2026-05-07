@@ -149,22 +149,24 @@ This is no different from how the word *Tuesday* would be italicized inside an i
 ### 4.6.6 The 12 Gujarati Months
 Month names follow the same form as tithis: **roman, capitalized, no italics, no diacritics** — in every position. Treat them like English month names (*March*, *April*).
 
-The Gujarati months in calendar order, beginning with **Kartak** (the month following Diwali):
+The 12 months in calendar order, beginning with **Kartak** (the month following Diwali):
 
-| # | Gujarati form |
-|---|---|
-| 1 | **Kartak** |
-| 2 | **Magshar** |
-| 3 | **Posh** |
-| 4 | **Maha** |
-| 5 | **Fagan** |
-| 6 | **Chaitra** |
-| 7 | **Vaishakh** |
-| 8 | **Jeth** |
-| 9 | **Ashadh** |
-| 10 | **Shravan** |
-| 11 | **Bhadarvo** |
-| 12 | **Aso** |
+| # | Gujarati form | Sanskrit form | Notes |
+|---|---|---|---|
+| 1 | **Kartak** | Karttika | Gujarati New Year (*sud* Padvo) |
+| 2 | **Magshar** | Margashirsha | |
+| 3 | **Posh** | Pausha | |
+| 4 | **Maha** | Magha | |
+| 5 | **Fagan** | Phalguna | Holi (*sud* Punam) |
+| 6 | **Chaitra** | Chaitra | Vikram Samvat New Year; Rama Navmi (*sud* Nom) |
+| 7 | **Vaishakh** | Vaishakha | |
+| 8 | **Jeth** | Jyeshtha | |
+| 9 | **Ashadh** | Ashadha | *Chaturmas* begins — Devshayani Ekadashi (*sud* Ekadashi) |
+| 10 | **Shravan** | Shravana | Janmashtami (*vad* Atham) |
+| 11 | **Bhadarvo** | Bhadrapada | |
+| 12 | **Aso** | Ashvina | Navratri, Dussehra; Diwali (*vad* Amas) |
+
+Use the form (Gujarati or Sanskrit) appropriate to the publication's source language. In Gujarati-source BAPS work the forms in the middle column are standard; in Sanskrit-quoting passages the right-hand column may appear. Within a single publication, **be consistent** — don't mix *Magshar* and *Margashirsha* arbitrarily.
 
 Used with a fortnight designator and a tithi to form a date:
 
