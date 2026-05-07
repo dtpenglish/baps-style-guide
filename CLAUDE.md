@@ -33,7 +33,7 @@ These are settled — don't re-debate:
 - **Body language:** British English, but with Oxford -ize spellings (resolved choice).
 - **Tithis:** Roman, capitalized, no italics, no diacritics — *Padvo, Bij, Trij, …, Punam, Amas*. Rule lives at **4** (single-page Part). The previously open question is resolved.
 - **Sud / vad:** Italic, lowercase, **always**, including in dates: *Magshar sud Padvo*. See **4.4**.
-- **Doctrinal adjective + noun:** Four-rule system in **3.4 Doctrinal Titles & Reverential Capitalization**. Notable: *brahmaswarup Sadhu* (Rule 3 — adjective italic lowercase, noun cap roman).
+- **Doctrinal adjective + noun:** Four-rule system in **3.4 Doctrinal Titles & Reverential Capitalization**. Notable: *Brahmaswarup Sadhu* (Rule 3 — adjective and reverential noun both cap roman). The earlier italic-lc-adjective treatment of Rule 3 was reversed; under the current rule, adjective + reverential noun for the Satpurush is cap-cap roman across the board.
 - **Diacritics — two scoped policies:**
   - **5.2 SAP Diacritics Policy:** no diacritics in headings, body, or legends of general-reader publications. Diacritics permitted in transliterations of verses.
   - **5.3 Macron-Only Convention:** in-house convention for the BAPS glossary and editorial reference work — long *a* marked with **ā**.

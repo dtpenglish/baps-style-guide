@@ -1,5 +1,5 @@
 # 3.4 Doctrinal Titles & Reverential Capitalization
-How to capitalize adjective + noun phrases in BAPS English publications, especially the doctrinally loaded combinations like *brahmaswarup Sadhu*, *Akshar-Purushottam Darshan*, and *Pragat Brahmaswarup Mahant Swami Maharaj*.
+How to capitalize adjective + noun phrases in BAPS English publications, especially the doctrinally loaded combinations like **Brahmaswarup Sadhu**, **Akshar-Purushottam Darshan**, and **Pragat Brahmaswarup Mahant Swami Maharaj**.
 
 This page resolves the recurring question: **when does the adjective get capitalized?** The four rules below cover every case.
 
@@ -24,7 +24,7 @@ Examples — formal doctrinal designations:
 - **Ekantik Dharma**
 - **the Satpurush** (with the definite article, used as a doctrinal designation)
 
-The adjective is part of a fixed title, not a descriptor — so it carries the capital with the rest of the title. Recognized doctrinal qualifiers like *Param Ekantik* function as formal designations and follow this rule rather than Rule 3.
+The adjective is part of a fixed title, not a descriptor — so it carries the capital with the rest of the title.
 
 ### 3.4.1.2 Rule 2 — Generic Descriptions of Qualities or States → All Lowercase
 When the phrase refers to a **quality**, a **state of being**, or a **doctrinal concept used descriptively or academically**, both the adjective and the noun are lowercase.
@@ -42,17 +42,20 @@ These are attributes, not names. They follow the standard SAP rule for non-angli
 
 The use of the indefinite article *a* / *an* is a strong signal: *a satpurush* is common-noun usage, while *the Satpurush* (Rule 1) is a formal doctrinal designation.
 
-### 3.4.1.3 Rule 3 — Reverential Nouns for the Satpurush (without a Name) → Capitalize the Noun, Lowercase the Adjective
-When referring to the manifest Satpurush (the living Gunatit Guru) using a **generic reverential noun** — but **not** a formal title — capitalize the noun and keep the adjective lowercase. This is a BAPS-specific devotional convention.
+### 3.4.1.3 Rule 3 — Adjective + Reverential Noun for the Satpurush → Capitalize Both, Roman
+When referring to the manifest Satpurush (the living Gunatit Guru) using an **adjective + reverential noun** — even without a specific name — **capitalize both the adjective and the noun, set roman**. The pairing functions as a doctrinal designation, not a quality descriptor.
 
 Examples:
 
-- *brahmaswarup* **Sadhu**
-- *gunatit* **Guru**
-- *pragat* **Guru**
-- *divya* **Sadhu**
+- **Brahmaswarup Sadhu**
+- **Gunatit Guru**
+- **Pragat Guru**
+- **Divya Sadhu**
+- **Pragat Satpurush**
 
-The noun (*Sadhu*, *Guru*, *Satpurush*) stands for a specific person in BAPS theology → capitalized. The adjective indicates a quality, not part of a formal name → italic, lowercase.
+The noun (*Sadhu*, *Guru*, *Satpurush*, *Sant*) stands for a specific person in BAPS theology, and the adjective is part of how that person is doctrinally identified — so the whole pairing is treated as a designation. This is a BAPS-specific devotional convention.
+
+To distinguish Rule 3 from Rule 2: the noun is the test. If the noun is a **reverential noun for the manifest Satpurush** (Sadhu, Guru, Satpurush, Sant), apply Rule 3 → cap both. If the noun is an **abstract or generic concept** (state, devotion, understanding, lifestyle), apply Rule 2 → lowercase both.
 
 ### 3.4.1.4 Rule 4 — Named, Identifiable Persons → Capitalize Everything
 When the Satpurush is mentioned **by name**, capitalize every component including the adjectives, exactly as in Rule 1.
@@ -87,9 +90,9 @@ These would only take capitals if they were **formally defined** glossary-level 
 ## 3.4.2 Quick Decision Guide
 Ask these questions in order, and stop at the first **yes**:
 
-1. **Is it an official doctrinal title or a named person?** (Rules 1 & 4) → Capitalize everything.
-2. **Is the noun referring specifically to the manifest Satpurush, but no name is given?** (Rule 3) → Capitalize the noun; lowercase the adjective.
-3. **Is it a doctrinal quality or state, not a title?** (Rule 2) → Lowercase both adjective and noun.
+1. **Is it an official doctrinal title or a named person?** (Rules 1 & 4) → Capitalize everything, roman.
+2. **Is the noun a reverential noun for the manifest Satpurush — *Sadhu*, *Guru*, *Satpurush*, *Sant* — even without a specific name?** (Rule 3) → Capitalize both adjective and noun, roman.
+3. **Is the noun an abstract or generic concept — *state*, *devotion*, *understanding*, *lifestyle*?** (Rule 2) → Lowercase both adjective and noun; italic adjective.
 
 ## 3.4.3 Multi-Level Summary
 | Phrase | Adjective | Noun | Form | Rule |
@@ -101,9 +104,10 @@ Ask these questions in order, and stop at the first **yes**:
 | Ekantik Dharma | Cap | Cap | Roman | 1 |
 | the Satpurush | — | Cap | Roman | 1 |
 | Swami (referring to a specific named sadhu) | — | Cap | Roman | — |
-| *brahmaswarup* Sadhu | italic lowercase | Cap | Mixed | 3 |
-| *gunatit* Guru | italic lowercase | Cap | Mixed | 3 |
-| *pragat* Satpurush | italic lowercase | Cap | Mixed | 3 |
+| Brahmaswarup Sadhu | Cap | Cap | Roman | 3 |
+| Gunatit Guru | Cap | Cap | Roman | 3 |
+| Pragat Satpurush | Cap | Cap | Roman | 3 |
+| Divya Sadhu | Cap | Cap | Roman | 3 |
 | the God-realized sadhu | — | lowercase | Roman | (descriptive) |
 | the true sadhu | — | lowercase | Roman | (descriptive) |
 | a *brahmarup* devotee | italic lowercase | lowercase | Italic + roman | 2 |
@@ -114,7 +118,7 @@ Ask these questions in order, and stop at the first **yes**:
 
 ## 3.4.4 How This Fits the Rest of the Guide
 - The general SAP rules ([Italics](italics.md), [Capitalization](capitalization.md)) still apply. Rules 1–4 above resolve the cases where those general rules don't disambiguate adjective treatment.
-- Rule 3 is the most distinctive — it's the BAPS-specific devotional convention that treats *Sadhu*, *Guru*, *Satpurush* as standing for a specific person whenever they refer to the living Gunatit Guru. CMS allows this as a documented style choice for religious publications, provided it's applied consistently.
+- Rule 3 is the most distinctive — it's the BAPS-specific devotional convention that treats *Sadhu*, *Guru*, *Satpurush*, *Sant* as standing for a specific person whenever they refer to the living Gunatit Guru, and capitalizes the qualifying adjective along with the noun (*Brahmaswarup Sadhu*, *Gunatit Guru*) because the adjective is part of how the Satpurush is doctrinally identified. CMS allows this kind of cap as a documented style choice for religious publications, provided it's applied consistently.
 - For tithis (*Ekadashi*, *Punam*, *Padvo*…) and fortnight markers (*sud*, *vad*), see [Tithis](../tithis/index.md) — they follow their own rule.
 
 ## 3.4.5 See Also

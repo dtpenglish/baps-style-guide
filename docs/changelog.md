@@ -5,6 +5,23 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.6] — 2026-05-07
+
+### Changed
+- **Rule 3 in [Doctrinal Titles](editorial/doctrinal-titles.md) flipped to cap-cap roman.** Previously, an adjective + reverential noun for the Satpurush set the adjective italic lowercase and the noun cap roman (e.g. *brahmaswarup* **Sadhu**, *gunatit* **Guru**). The rule is now: capitalize **both** the adjective and the noun, set roman — *Brahmaswarup Sadhu*, *Gunatit Guru*, *Pragat Guru*, *Divya Sadhu*. The qualifying adjective is treated as part of the doctrinal designation, not a quality descriptor.
+- Distinction from Rule 2 (lowercase descriptive) now keys off the **noun**: reverential nouns for the Satpurush (Sadhu, Guru, Satpurush, Sant) take Rule 3; abstract nouns (state, devotion, understanding, lifestyle) take Rule 2.
+
+### Added
+- Eleven new editorial subsections covering proper adjectives (Hindu, Vedic, Puranic, Upanishadic, Gandhian, Socratic), *Yogic* vs *Yoga*, *Sampradaya*, historical titles (*the King of Kutch*), the definite article with unique theological designations (*the Supreme God*), *Satsang* as a doctrinal term, multiword Sanskrit phrases italicized as a unit (*ekantik dharma*, *murti puja*), *Swami* as a substitute for a specific name, descriptive sadhu phrases (*the God-realized sadhu*, *the true sadhu*) lowercase, and usage notes (*at* vs *in* with places, *detachment from*).
+
+### Resolved
+- **10.3.1** *Supreme* / *Sarvopari* — capitalized when functioning as a formal theological designation; lowercase when descriptive.
+- **10.3.6** *Param Ekantik Sadhu / Sant* — capitalized as a formal designation (Rule 1).
+- **10.3.6** *the Satpurush* vs *a satpurush* — cap when doctrinal designation, lowercase italic when descriptive common-noun usage.
+- **10.6.11** Italicizing mixed phrases — italicize the entire phrase as a single foreign lexical unit.
+
+---
+
 ## [1.5] — 2026-05-07
 
 ### Changed

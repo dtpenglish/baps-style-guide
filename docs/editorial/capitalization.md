@@ -52,7 +52,7 @@ The preferred form is the plural-singular pair: ***cycles of birth and death***.
 - ✓ Acceptable: *cycle of birth and death*
 - Less preferred: *cycles of births and deaths*
 
-### 3.3.2.5 Adjective + Noun Phrases (*brahmaswarup* Sadhu, *Akshar-Purushottam Darshan*)
+### 3.3.2.5 Adjective + Noun Phrases (*Brahmaswarup Sadhu*, *Akshar-Purushottam Darshan*)
 How to capitalize compound phrases with a doctrinal adjective and a noun is governed by a separate four-rule system — see [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md).
 
 ### 3.3.2.6 Proper Adjectives Derived from Names, Places, Religions, and Scriptures
