@@ -75,6 +75,7 @@ Common adjectives – *spiritual*, *devotional*, *philosophical*, *traditional*,
 ### 3.3.2.7 *Yogic* vs. *Yoga*
 - ***yogic*** – usually **lowercase** in modern English: *yogic discipline*, *yogic breathing*. The word has been lexicalized as a general adjective.
 - ***Yoga*** – **capitalized** when it refers to the formal philosophical system: *Yoga philosophy*, *the Yoga Sutras*.
+- **Named schools and forms of Yoga** – capitalize both elements as a formal designation: *Ashtanga Yoga*, *Hatha Yoga*, *Bhakti Yoga*, *Karma Yoga*, *Raja Yoga*.
 - Some religious publishers capitalize *Yogic* for theological consistency. Either is defensible; consistency within a single publication matters most.
 
 ### 3.3.2.8 *Sampradaya*
