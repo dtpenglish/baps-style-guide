@@ -2523,19 +2523,19 @@
 </table>
 <p>The internal version must match the filename version. Mismatches are confusing and worse than absent.</p>
 <h2 id="925-why-this-rule-exists">9.2.5 Why This Rule Exists<a class="headerlink" href="#925-why-this-rule-exists" title="Anchor link to this section">¶</a></h2>
-<p>We have lost real work — and worse, lost the ability to <em>prove</em> what changed when — by overwriting files. The cost of an extra few KB on disk is trivial. The cost of not being able to roll back to last week's version of a script that used to work is enormous.</p>
+<p>We have lost real work — and worse, lost the ability to <em>prove</em> what changed when — by overwriting files. The cost of an extra few KB on disk is trivial. The cost of not being able to roll back to last week’s version of a script that used to work is enormous.</p>
 <p>Beyond rollback, versioning gives us:</p>
 <ul>
 <li><strong>Audit:</strong> a clear trail of what changed, when, and by whom.</li>
 <li><strong>Diffing:</strong> the ability to compare two versions to understand a change.</li>
-<li><strong>Collaboration:</strong> colleagues can refer to "the v4.38 behaviour" unambiguously.</li>
+<li><strong>Collaboration:</strong> colleagues can refer to “the v4.38 behaviour” unambiguously.</li>
 <li><strong>Confidence:</strong> you can experiment knowing the previous version is intact.</li>
 </ul>
 <h2 id="926-what-to-do-with-old-versions">9.2.6 What to Do with Old Versions<a class="headerlink" href="#926-what-to-do-with-old-versions" title="Anchor link to this section">¶</a></h2>
 <p>Keep them. Disk is cheap, lost work is expensive. If a folder is getting cluttered, archive older versions into an <code>_archive/</code> subfolder rather than deleting them.</p>
 <h2 id="927-apply-this-rule-automatically">9.2.7 Apply This Rule Automatically<a class="headerlink" href="#927-apply-this-rule-automatically" title="Anchor link to this section">¶</a></h2>
-<p>This rule should be applied to every file output <strong>without being asked</strong>. If you're producing a file and you didn't bump the version, stop and bump it. If a tool or script generates output, the tool's version-bumping behaviour should be built in.</p>
-<p>For Claude-assisted work, the rule is encoded in the team's working memory: every Claude session producing a file output is expected to apply versioning without being prompted.</p>
+<p>This rule should be applied to every file output <strong>without being asked</strong>. If you’re producing a file and you didn’t bump the version, stop and bump it. If a tool or script generates output, the tool’s version-bumping behaviour should be built in.</p>
+<p>For Claude-assisted work, the rule is encoded in the team’s working memory: every Claude session producing a file output is expected to apply versioning without being prompted.</p>
 <h2 id="928-related">9.2.8 Related<a class="headerlink" href="#928-related" title="Anchor link to this section">¶</a></h2>
 <ul>
 <li><a href="../file-naming/">File Naming</a> — broader filename conventions</li>
