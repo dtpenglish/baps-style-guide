@@ -27,7 +27,5 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 ## 3.1.3 British vs American English
 As SAP is a publishing house based in India, the majority of print publications use **British English**, though work submitted by authors from America is often published using American English. This British–American distinction is usually limited to spelling, punctuation and format conventions, because the subtle nuances of the many other grammatical differences between BrE and AmE are not always apparent to our untrained authors and editors.
 
-For the web (this site) the choice between BrE and AmE is still under discussion – see [Open Discussions: Web](../discussions/web.md).
-
 !!! note "Scope"
     This section covers English editorial style. Gujarati and Hindi editorial conventions follow the practices of our respective language teams; cross-language rules (transliteration, diacritics, term selection) are documented in [Diacritics & Transliteration](../diacritics/index.md) and [Translation & Transliteration](../translation/index.md).
