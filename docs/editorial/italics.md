@@ -74,7 +74,8 @@ The default rule: punctuation appears in the same font as the **surrounding text
 When a question mark, exclamation point, or other terminal punctuation is **part of an italicized title or work**, italicize the punctuation along with it:
 
 - Have you seen the play *Who's Afraid of Virginia Woolf?* – the question mark is part of the title and stays italic.
-- The novel *Are You There God? It's Me, Margaret* opens with a question mark mid-title – both that mark and the comma after *God?* are part of the italicised title.
+- The novel *Are You There God? It's Me, Margaret* has a question mark mid-title – both that mark and the comma after *God?* are part of the italicised title.
+- The biographical study *Bhagwan Swaminarayan: An Introduction to His Life and Work* takes the colon as part of the italicised title – the colon italicises along with the rest.
 
 If an italicized title's terminal punctuation conflicts with the surrounding sentence's needs (e.g. would produce a doubled question mark), recast the sentence:
 
