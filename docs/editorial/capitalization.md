@@ -172,9 +172,9 @@ The term being defined uses title case (or whatever its standard form is); the d
 
 | Term (title case) | Definition (sentence case) |
 |---|---|
-| **Param-Bhagvat** | Ideal devotee of God, referring to the Satpurush. |
-| **Param-Bhagvat Sant** | Ideal sadhu of God, referring to the Satpurush. |
-| **Param-Ekantik Sant** | Ideal *ekantik* sadhu of God, referring to the Satpurush. |
+| **Param Bhagvat** | Ideal devotee of God, referring to the Satpurush. |
+| **Param Bhagvat Sant** | Ideal sadhu of God, referring to the Satpurush. |
+| **Param Ekantik Sant** | Ideal *ekantik* sadhu of God, referring to the Satpurush. |
 
 ❌ Don't write the definition in title case (*'Ideal Devotee Of God, Referring To The Satpurush.'*) and don't lowercase proper nouns within it (*'ideal sadhu of god, referring to the satpurush'*).
 
