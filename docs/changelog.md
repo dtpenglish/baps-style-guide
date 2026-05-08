@@ -5,6 +5,27 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.19] — 2026-05-08
+
+### Changed
+- **Quotation-mark convention flipped.** SAP now uses **single curly quotes ' '** as the **primary** mark — for highlighting a term in special sense, mottoes presented as phrases, glosses of Indic terms, titles of short works, and quoted excerpts of authoritative text. **Double curly quotes " " are reserved for direct speech / dialogue only.** Previously double was the primary mark (CMS / AmE-style); the new convention is BrE-style.
+- **Typographers' (curly) quotes throughout the site.** The `smarty` markdown extension is now enabled in `mkdocs.yml`, so straight `'` and `"` in source files render as the curly forms ' ' " " automatically. Smart-dashes and smart-ellipses are disabled — those continue to use real Unicode characters typed directly.
+- **3.9.1 Quotation Marks** rule rewritten with the new single-primary / double-for-speech convention.
+- **3.8 Quotation Marks for Indic Terms** updated to apply the new convention:
+  - 3.8.1.2 *Translation Clarified* — single quotes around the gloss (was double).
+  - 3.8.1.3 *Quoted Speech* — double quotes for actual speech, single for any nested gloss inside.
+  - 3.8.1.4 *Mottoes / Slogans* — split into two cases: motto presented as a phrase = single; motto spoken aloud in narrative = double (speech rule).
+  - 3.8.4 *Terms Used in a Special Sense* — *'soft launch'* now in single quotes (was double).
+- **CLAUDE.md locked-in rules** updated.
+
+### Fixed
+- Stale link in changelog 1.8 entry pointing to `contributing.md` (now `feedback.md`) repaired.
+
+### Notes
+- Existing site content with double-quoted highlights (e.g. quoting a rule, scare quotes) will still render — the rendered marks become curly. Per the new rule, those should gradually shift to single quotes. Speech examples are unchanged.
+
+---
+
 ## [1.18] — 2026-05-08
 
 ### Removed
@@ -145,7 +166,7 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 ### Added
 - **Home page** ([index.md](index.md)) — framing context: SAP work composition (most English work is Gujarati→English; Sanskrit/Hindi material typically embedded in those projects; significant English-original work) and a scope statement clarifying the guide doesn't cover general English grammar.
 - **Translation index** ([translation/index.md](translation/index.md)) — same composition note in the section intro.
-- **Contributing** ([contributing.md](contributing.md)) — "About the team" admonition acknowledging that most contributors learn on the job, framing the guide as a support tool rather than a gatekeeper.
+- **Contributing** (now [feedback.md](feedback.md), renamed in 1.16) — "About the team" admonition acknowledging that most contributors learn on the job, framing the guide as a support tool rather than a gatekeeper.
 
 ---
 
