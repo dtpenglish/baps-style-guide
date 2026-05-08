@@ -2,7 +2,7 @@
 Reference for the JSX scripts and automation tools used by the BAPS DTP team.
 
 ## 8.1.1 Pages in This Section
-- [JSX Scripts Reference](jsx-reference.md) — usage notes for our InDesign scripts
+- [JSX Scripts Reference](jsx-reference.md) – usage notes for our InDesign scripts
 
 ## 8.1.2 Where to Find the Scripts
 The latest version of every team script is on the [Downloads](../downloads/index.md) page. Download the file you need and drop it into InDesign's User Scripts folder so it appears in the Scripts panel.

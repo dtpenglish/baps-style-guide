@@ -6,7 +6,7 @@
 Paragraph styles are the single most important production tool we have. Consistent, well-named styles:
 
 - Make global changes (font, spacing, leading) take seconds instead of hours.
-- Drive correct EPUB export — every style maps to a CSS class and contributes to the document's structural semantics.
+- Drive correct EPUB export – every style maps to a CSS class and contributes to the document's structural semantics.
 - Allow our scripts (`ArticleBuilder`, `AddAltText`) to reason about the document programmatically.
 
 ## 6.2.2 Suggested Naming Pattern
@@ -28,4 +28,4 @@ The dot-separated naming sorts cleanly in the Paragraph Styles panel and groups 
 - Cross-publication reusable styles
 - Style mapping for EPUB export (which paragraph styles map to which HTML tags)
 
-Contributions welcome — see [Feedback](../feedback.md) to suggest naming changes before they're applied.
+Contributions welcome – see [Feedback](../feedback.md) to suggest naming changes before they're applied.

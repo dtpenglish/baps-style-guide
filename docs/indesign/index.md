@@ -1,9 +1,9 @@
 # 6.1 InDesign
-Production conventions for our InDesign work — paragraph styles, master pages, and patterns used across our long-form publications.
+Production conventions for our InDesign work – paragraph styles, master pages, and patterns used across our long-form publications.
 
 ## 6.1.1 Pages in This Section
-- [Paragraph Styles](paragraph-styles.md) — naming conventions and style hierarchies
-- [Master Pages](master-pages.md) — header, footer, and page-number conventions
+- [Paragraph Styles](paragraph-styles.md) – naming conventions and style hierarchies
+- [Master Pages](master-pages.md) – header, footer, and page-number conventions
 
 ## 6.1.2 Environment
 - **InDesign 2025** on Windows 11.

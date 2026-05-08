@@ -32,8 +32,8 @@ Keep working files in their publication folder. Move reusable assets (scripts, s
 
 ## 9.3.4 What Not to Do
 - Don't put dates in folder names if the folder's contents are continuously updated. Date the *files*, not the *folder*.
-- Don't use 'final', 'FINAL', 'really-final', 'USE-THIS-ONE', or similar markers. Use the version number — that's what it's for.
+- Don't use 'final', 'FINAL', 'really-final', 'USE-THIS-ONE', or similar markers. Use the version number – that's what it's for.
 - Don't bury versioning inside the filename: `v1.2-glossary.xlsx` sorts unhelpfully. Put the version near the end: `glossary_v1.2.xlsx`.
 
 ## 9.3.5 Related
-- [Versioning Rules](versioning.md) — the version-number rule itself
+- [Versioning Rules](versioning.md) – the version-number rule itself

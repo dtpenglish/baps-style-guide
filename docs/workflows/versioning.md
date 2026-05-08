@@ -1,6 +1,6 @@
 # 9.2 File Versioning Rules
 !!! danger "Non-negotiable"
-    Every file output — script, Word document, Excel file, PDF, or any other deliverable — must carry an incremented version number in **both** the filename and an internal version string. **Never overwrite a previous version.** Each new file is the next version.
+    Every file output – script, Word document, Excel file, PDF, or any other deliverable – must carry an incremented version number in **both** the filename and an internal version string. **Never overwrite a previous version.** Each new file is the next version.
 
 ## 9.2.1 The Rule
 When you produce a new revision of any file:
@@ -45,7 +45,7 @@ Where the file format allows, store the version inside the file too:
 The internal version must match the filename version. Mismatches are confusing and worse than absent.
 
 ## 9.2.5 Why This Rule Exists
-We have lost real work — and worse, lost the ability to *prove* what changed when — by overwriting files. The cost of an extra few KB on disk is trivial. The cost of not being able to roll back to last week's version of a script that used to work is enormous.
+We have lost real work – and worse, lost the ability to *prove* what changed when – by overwriting files. The cost of an extra few KB on disk is trivial. The cost of not being able to roll back to last week's version of a script that used to work is enormous.
 
 Beyond rollback, versioning gives us:
 
@@ -63,4 +63,4 @@ This rule should be applied to every file output **without being asked**. If you
 For Claude-assisted work, the rule is encoded in the team's working memory: every Claude session producing a file output is expected to apply versioning without being prompted.
 
 ## 9.2.8 Related
-- [File Naming](file-naming.md) — broader filename conventions
+- [File Naming](file-naming.md) – broader filename conventions

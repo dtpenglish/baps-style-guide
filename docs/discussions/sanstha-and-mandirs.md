@@ -1,7 +1,7 @@
 # 10.2 Sanstha & Mandirs
 Open questions on naming the Sanstha as a whole, and naming individual mandirs.
 
-## 10.2.1 Sanstha — Names and Short Forms
+## 10.2.1 Sanstha – Names and Short Forms
 Variations in current use:
 
 - BAPS Shri Swaminarayan Sanstha
@@ -17,7 +17,7 @@ Open questions:
 - When (if ever) is *the Sanstha* (capitalized) appropriate vs *the sanstha*?
 - Should *BAPS* alone be used after the full name has been introduced, or should *BAPS Sanstha* be preferred for clarity?
 
-## 10.2.2 Mandirs — Naming Individual Mandirs
+## 10.2.2 Mandirs – Naming Individual Mandirs
 Variations in current use for Sarangpur:
 
 - BAPS Shri Swaminarayan Mandir, Sarangpur
@@ -43,4 +43,4 @@ Open questions:
 - For the London mandir specifically: is it **London** or **Neasden**? Are these interchangeable?
 
 ## 10.2.3 Have an Opinion?
-Propose wording via [Feedback](../feedback.md) — use a subject like *Sanstha: …* or *Mandir: …*.
+Propose wording via [Feedback](../feedback.md) – use a subject like *Sanstha: …* or *Mandir: …*.

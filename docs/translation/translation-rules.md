@@ -8,7 +8,7 @@ The rules below apply to all SAP English publications.
 
 ## 2.2.2 When to Anglicize (use OED Spelling)
 - If a suitable **anglicized term exists** for a word, use it.
-- Words found in the **Oxford English Dictionary** should be spelled as they appear there. They should have **no diacritics**, nor should they be **italicized** — for example: *dharma*, *dal*, *puri* are all set in roman, no diacritics.
+- Words found in the **Oxford English Dictionary** should be spelled as they appear there. They should have **no diacritics**, nor should they be **italicized** – for example: *dharma*, *dal*, *puri* are all set in roman, no diacritics.
 
 !!! note "Variant spellings in the OED"
     There are cases where there is not one settled spelling for the Indic word. Examples:
@@ -24,7 +24,7 @@ The rules below apply to all SAP English publications.
 For titles of books, magazines, poems, and other works:
 
 1. Check whether the work has an **official English translation**. If so, use that title.
-2. If not, **do not translate** the title — use a **transliteration**.
+2. If not, **do not translate** the title – use a **transliteration**.
 
 ## 2.2.4 Place Names
 Place names with accepted English spellings should be spelled in accordance with English norms. Examples:
@@ -52,12 +52,12 @@ Is the word in the OED?
 └── No
     ├── Is it a personal name, place name, organization, or title?
     │   ├── Yes → SAP transliteration, no diacritics, roman, initial caps as appropriate.
-    │   │        See Editorial — Italics.
+    │   │        See Editorial – Italics.
     │   └── No → SAP transliteration, italicized on first use,
     │            diacritics per project (see Diacritics).
 ```
 
 ## 2.2.7 See Also
-- [Italics rules](../editorial/italics.md) — the formatting consequence of these decisions.
-- [Quotation marks for translations](../editorial/quotation-marks.md) — how to present a transliteration alongside its translation.
-- [Open discussions: Transliteration](../discussions/transliteration.md) — unresolved transliteration choices that the team is still discussing.
+- [Italics rules](../editorial/italics.md) – the formatting consequence of these decisions.
+- [Quotation marks for translations](../editorial/quotation-marks.md) – how to present a transliteration alongside its translation.
+- [Open discussions: Transliteration](../discussions/transliteration.md) – unresolved transliteration choices that the team is still discussing.

@@ -32,7 +32,7 @@ The English collocation is *detachment **from***:
 
 ## 3.2.4 Open Questions for the Team
 - How do we handle direct discourse from Bhagwan Swaminarayan, Aksharbrahma Gunatitanand Swami, and the gurus? Reverent capitalization? Italics? Quotation marks?
-- What's our default audience — devotee or general reader? Do different publications shift this?
+- What's our default audience – devotee or general reader? Do different publications shift this?
 - How do we balance scholarly and devotional registers in the same publication?
 
 Please send your thoughts via [Feedback](../feedback.md).

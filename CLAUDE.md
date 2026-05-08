@@ -1,4 +1,4 @@
-# BAPS SAP Style Guide — Project Brief
+# BAPS SAP Style Guide – Project Brief
 
 This is the in-house style guide for **Swaminarayan Aksharpith (SAP)**, the publishing house of BAPS Swaminarayan Sanstha. It's an **MkDocs Material** site that documents editorial, design, and production conventions for English publications (with reference to Sanskrit, Gujarati, and Hindi material).
 
@@ -6,7 +6,7 @@ This is the in-house style guide for **Swaminarayan Aksharpith (SAP)**, the publ
 - **Live site:** https://dtpenglish.github.io/baps-style-guide/
 - **Local preview:** `python -m mkdocs serve --dev-addr 127.0.0.1:8000 --watch mkdocs.yml`
 
-## Numbering scheme — hierarchical CMS-style
+## Numbering scheme – hierarchical CMS-style
 
 Every page and heading carries a stable reference number:
 
@@ -26,34 +26,34 @@ Every page and heading carries a stable reference number:
 
 ## Style rules already locked in
 
-These are settled — don't re-debate:
+These are settled – don't re-debate:
 
 - **Spellings:** Oxford **-ize** (capitalize, organize, italicize). Protected words keep -ise: *advise, exercise, comprise, devise, supervise, surprise*. *Analyse* keeps -se.
-- **Headings:** Title Case throughout — first/last words and major words capitalized; lowercase articles, coordinating conjunctions, prepositions, and *to*.
+- **Headings:** Title Case throughout – first/last words and major words capitalized; lowercase articles, coordinating conjunctions, prepositions, and *to*.
 - **Body language:** British English, but with Oxford -ize spellings (resolved choice).
-- **Tithis:** Roman, capitalized, no italics, no diacritics — *Padvo, Bij, Trij, …, Punam, Amas*. Rule lives at **4** (single-page Part). The previously open question is resolved.
+- **Tithis:** Roman, capitalized, no italics, no diacritics – *Padvo, Bij, Trij, …, Punam, Amas*. Rule lives at **4** (single-page Part). The previously open question is resolved.
 - **Sud / vad:** Italic, lowercase, **always**, including in dates: *Magshar sud Padvo*. See **4.4**.
-- **Doctrinal adjective + noun:** Four-rule system in **3.4 Doctrinal Titles & Reverential Capitalization**. Notable: *Brahmaswarup Sadhu* (Rule 3 — adjective and reverential noun both cap roman). The earlier italic-lc-adjective treatment of Rule 3 was reversed; under the current rule, adjective + reverential noun for the Satpurush is cap-cap roman across the board.
-- **Diacritics — two scoped policies:**
+- **Doctrinal adjective + noun:** Four-rule system in **3.4 Doctrinal Titles & Reverential Capitalization**. Notable: *Brahmaswarup Sadhu* (Rule 3 – adjective and reverential noun both cap roman). The earlier italic-lc-adjective treatment of Rule 3 was reversed; under the current rule, adjective + reverential noun for the Satpurush is cap-cap roman across the board.
+- **Diacritics – two scoped policies:**
   - **5.2 SAP Diacritics Policy:** no diacritics in headings, body, or legends of general-reader publications. Diacritics permitted in transliterations of verses.
-  - **5.3 Macron-Only Convention:** in-house convention for the BAPS glossary and editorial reference work — long *a* marked with **ā**.
+  - **5.3 Macron-Only Convention:** in-house convention for the BAPS glossary and editorial reference work – long *a* marked with **ā**.
   - These coexist because their **scopes differ**. Don't try to reconcile into one rule without team input.
 - **Italics:** Indic terms not in the OED → italic lowercase. OED-anglicized terms (*dharma, dal, puri, guru*) → roman, no italic, no diacritics. Names and festivals → roman, capped, no italic.
 - **Capitalization:** Common nouns lowercase; festivals and named days capitalized; *Earth* (planet) cap, *earth* (soil) lc; preferred phrasing "*cycles of birth and death*".
-- **Punctuation:** Oxford comma always; typographers' (curly) quotes — single ' ' as the primary mark for highlighting / glosses / mottoes / scare quotes, double " " reserved for direct speech; em dash with spaces; en dash for ranges and complex compounds; one space after a period; no period in acronyms (*BAPS, CMS, EPUB*); periods in *V.S., e.g., i.e.*
+- **Punctuation:** Oxford comma always; typographers' (curly) quotes – single ' ' as the primary mark for highlighting / glosses / mottoes / scare quotes, double " " reserved for direct speech; **spaced en dash for parenthetical breaks (em dash NOT used)**; unspaced en dash for ranges and complex compounds; one space after a period; no period in acronyms (*BAPS, CMS, EPUB*); periods in *V.S., e.g., i.e.*
 - **Numbers:** Spell out **1–10** in narrative prose (*one*, *two*, … *ten*); use numerals from **11** onwards. Always numerals for measurements, ages, dates, percentages, currency, times, and statistics. Departure from CMS (which spells out 1–100). Rule lives at **3.7**.
 - **Apostrophes / possessives:** Possessive of singular noun ending in *s* or sibilant takes **'s** (Chicago / Oxford): *Dickens's*, *Hopkins's*, *Bess's*. Plural ending in *s* takes apostrophe only: *the boys' books*. Plural-form names and uninflected nouns also apostrophe-only: *the United States'*, *politics'*. Single letters plural use apostrophe (*p's and q's*); multi-letter abbreviations don't (*CDs*, *MEPs*, *1920s*). Rule lives at **3.9.9**.
 - **Latin abbreviations *i.e.* / *e.g.* / *etc.*:** Comma before AND after *i.e.* / *e.g.* (Oxford-aligned, retained for formal/devotional clarity). *etc.*: comma before if list of 3+, comma after only if sentence continues; never *and etc.* Rule lives at **3.9.7.7**.
 
 ## Glossary
 
-The **glossary** is `glossary-all-2026-04-15_v1.2.xlsx` — versioned separately, not in this repo. Reference page: **5.4**.
+The **glossary** is `glossary-all-2026-04-15_v1.2.xlsx` – versioned separately, not in this repo. Reference page: **5.4**.
 
 ## Workflow
 
 The local working tree and GitHub `main` are independent copies. Nothing auto-syncs.
 
-**Single rule:** in any session, edit in **one place**. Local files OR GitHub pencil — never both without `git pull` between them. Conflicts have already happened on this repo when this rule was broken.
+**Single rule:** in any session, edit in **one place**. Local files OR GitHub pencil – never both without `git pull` between them. Conflicts have already happened on this repo when this rule was broken.
 
 When Claude makes changes:
 1. `git pull --rebase origin main` first.
@@ -69,19 +69,19 @@ When the user makes changes via GitHub pencil:
 
 ## File organization
 
-- `docs/` — all content (Markdown). Sub-folders mirror Part structure (`editorial/`, `diacritics/`, `tithis/`, `discussions/`, etc.).
-- `mkdocs.yml` — site config and nav. Note: when editing this file in `mkdocs serve`, the server only auto-rebuilds if started with `--watch mkdocs.yml`.
-- `overrides/` — reserved for future Material theme overrides.
-- `.github/workflows/deploy.yml` — auto-deploys `main` to GitHub Pages.
+- `docs/` – all content (Markdown). Sub-folders mirror Part structure (`editorial/`, `diacritics/`, `tithis/`, `discussions/`, etc.).
+- `mkdocs.yml` – site config and nav. Note: when editing this file in `mkdocs serve`, the server only auto-rebuilds if started with `--watch mkdocs.yml`.
+- `overrides/` – reserved for future Material theme overrides.
+- `.github/workflows/deploy.yml` – auto-deploys `main` to GitHub Pages.
 
 ## Tools to know
 
 - **mkdocs-material 9.7+** with `pymdownx.emoji` enabled (renders `:material-…:` and `:octicons-…:` icons in the home-page card grid).
 - **GitHub Actions** auto-deploys every push to `main`.
-- **Claude Code** (this CLI and the VS Code extension) — both auto-load this file.
+- **Claude Code** (this CLI and the VS Code extension) – both auto-load this file.
 
 ## When in doubt
 
 1. Reference numbers: cite as **5.2** or **3.3.1** in conversation. The numbering is the contract.
 2. Style decisions: check the relevant Part on the live site. The site is the authoritative source.
-3. Open questions live under **Part 10 Discussions** — don't unilaterally decide them; record on the page and route via the Feedback channel ([docs/feedback.md](docs/feedback.md)).
+3. Open questions live under **Part 10 Discussions** – don't unilaterally decide them; record on the page and route via the Feedback channel ([docs/feedback.md](docs/feedback.md)).

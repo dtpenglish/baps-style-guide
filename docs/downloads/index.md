@@ -1,9 +1,9 @@
 # 11 Downloads
-Files for the BAPS DTP team — JSX scripts, InDesign templates, glossary downloads, and other working files. Click a link to download.
+Files for the BAPS DTP team – JSX scripts, InDesign templates, glossary downloads, and other working files. Click a link to download.
 
-!!! tip "For the maintainer — adding a new file"
+!!! tip "For the maintainer – adding a new file"
     1. Drop the file into [`docs/downloads/files/`](https://github.com/dtpenglish/baps-style-guide/tree/main/docs/downloads/files) in the GitHub repo (use **Add file → Upload files** in the GitHub web UI, or commit locally and push).
-    2. Edit this page (`docs/downloads/index.md`) directly on GitHub — navigate to the file and click GitHub's pencil — and add a row to the appropriate table below describing the file.
+    2. Edit this page (`docs/downloads/index.md`) directly on GitHub – navigate to the file and click GitHub's pencil – and add a row to the appropriate table below describing the file.
     3. Push to `main`. The file is live at `/downloads/files/<filename>` within ~1 minute via GitHub Pages.
 
 If you're a team member who'd like a file added or updated, send a note via [Feedback](../feedback.md).
@@ -30,7 +30,7 @@ Spelling, transliteration, and capitalization reference. See [5.4 Glossary Refer
 | *No files yet* | | | Drop a `.xlsx` file into `docs/downloads/files/` and add a row here. |
 
 ## 11.4 Other Files
-Anything else of use to the team — checklists, transliteration tables, training material, fonts, etc.
+Anything else of use to the team – checklists, transliteration tables, training material, fonts, etc.
 
 | File | Description |
 |---|---|
@@ -38,5 +38,5 @@ Anything else of use to the team — checklists, transliteration tables, trainin
 
 ## 11.5 Notes
 - **File size**: GitHub allows up to 100 MB per file. For files larger than that, use a [GitHub Release](https://github.com/dtpenglish/baps-style-guide/releases) and link to it from this page instead of placing the file directly in the repo.
-- **Versioning**: every file dropped here should follow the [versioning rule](../workflows/versioning.md) — the version goes in the filename and (where the format allows) in an internal version string.
-- **Don't delete previous versions**. Keep older copies alongside the latest one — disk is cheap, lost work is not. See [9.2 versioning rationale](../workflows/versioning.md#925-why-this-rule-exists).
+- **Versioning**: every file dropped here should follow the [versioning rule](../workflows/versioning.md) – the version goes in the filename and (where the format allows) in an internal version string.
+- **Don't delete previous versions**. Keep older copies alongside the latest one – disk is cheap, lost work is not. See [9.2 versioning rationale](../workflows/versioning.md#925-why-this-rule-exists).

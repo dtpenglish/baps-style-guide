@@ -3,10 +3,10 @@ Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) p
 
 Most of our English-language work consists of **translations from Gujarati source texts**. Smaller proportions involve Sanskrit material (typically scriptural verses and commentaries embedded in larger Gujarati→English projects) and Hindi material (similarly embedded). A significant body of work is also written **originally in English**.
 
-This site documents the editorial, design, and production conventions for all of that — across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar; authors and editors work collaboratively on grammatical questions, drawing on standard references where needed.
+This site documents the editorial, design, and production conventions for all of that – across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar; authors and editors work collaboratively on grammatical questions, drawing on standard references where needed.
 
 !!! tip "How to use this guide"
-    Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? See [Feedback](feedback.md) — one click sends an email to the maintainer.
+    Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? See [Feedback](feedback.md) – one click sends an email to the maintainer.
 
 ## Sections at a Glance
 <div class="grid cards" markdown>
@@ -15,7 +15,7 @@ This site documents the editorial, design, and production conventions for all of
 
     ---
 
-    Romanization, anglicization, translation, and transliteration — the four terms the rest of this guide depends on.
+    Romanization, anglicization, translation, and transliteration – the four terms the rest of this guide depends on.
 
     [:octicons-arrow-right-24: Concepts](concepts/index.md)
 
@@ -39,7 +39,7 @@ This site documents the editorial, design, and production conventions for all of
 
     ---
 
-    The 16 named days of the lunar fortnight — *Padvo*, *Bij*, *Ekadashi*, *Punam*, *Amas* — and the *sud* / *vad* fortnight designators. Roman, capitalized, no italics, no diacritics.
+    The 16 named days of the lunar fortnight – *Padvo*, *Bij*, *Ekadashi*, *Punam*, *Amas* – and the *sud* / *vad* fortnight designators. Roman, capitalized, no italics, no diacritics.
 
     [:octicons-arrow-right-24: Tithis rule](tithis/index.md)
 
@@ -87,7 +87,7 @@ This site documents the editorial, design, and production conventions for all of
 
     ---
 
-    Conventions the team has not yet settled — Sanstha names, mandir names, gurus, transliteration choices, and more.
+    Conventions the team has not yet settled – Sanstha names, mandir names, gurus, transliteration choices, and more.
 
     [:octicons-arrow-right-24: Open questions](discussions/index.md)
 
@@ -97,11 +97,11 @@ This site documents the editorial, design, and production conventions for all of
 Three rules underpin everything else in this guide:
 
 1. **Consistency over cleverness.** A reader should encounter the same term, the same diacritic, the same heading style every time. Where this guide and instinct disagree, follow the guide and propose an edit if it's wrong.
-2. **Versioning is non-negotiable.** Every file output — script, Word doc, Excel, PDF — gets an incremented version number in the filename and an internal version string. Never overwrite. See [versioning rules](workflows/versioning.md).
-3. **Accessibility is editorial.** Alt text, reading order, and structural markup are not technical afterthoughts — they are part of the writing. See [EPUB accessibility](epub/index.md).
+2. **Versioning is non-negotiable.** Every file output – script, Word doc, Excel, PDF – gets an incremented version number in the filename and an internal version string. Never overwrite. See [versioning rules](workflows/versioning.md).
+3. **Accessibility is editorial.** Alt text, reading order, and structural markup are not technical afterthoughts – they are part of the writing. See [EPUB accessibility](epub/index.md).
 
 ## Recently Updated
 The "last updated" date at the bottom of every page reflects the most recent commit. Major changes to conventions are recorded in the [changelog](changelog.md).
 
 ## Contributing
-This guide is maintained collaboratively by the BAPS DTP team. Anyone on the team can suggest changes — see [Feedback](feedback.md) to send a note to the maintainer.
+This guide is maintained collaboratively by the BAPS DTP team. Anyone on the team can suggest changes – see [Feedback](feedback.md) to send a note to the maintainer.

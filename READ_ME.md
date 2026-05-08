@@ -4,7 +4,7 @@
 
 **Live site:** https://dtpenglish.github.io/baps-style-guide/
 
-This is a BAPS in-house style guide built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). It covers conventions for our work across Sanskrit, Gujarati, Hindi, and English materials — including editorial style, diacritic handling, InDesign production, EPUB accessibility, and our scripts and workflows.
+This is a BAPS in-house style guide built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). It covers conventions for our work across Sanskrit, Gujarati, Hindi, and English materials – including editorial style, diacritic handling, InDesign production, EPUB accessibility, and our scripts and workflows.
 
 ## Quick links
 
@@ -16,7 +16,7 @@ This is a BAPS in-house style guide built with [MkDocs Material](https://squidfu
 
 The site is **read-only** for visitors. The edit-pencil icon has been removed from page headers.
 
-If you'd like to suggest a fix, propose a new convention, or report a typo, see the [Feedback](docs/feedback.md) page — it's a one-click email to the maintainer.
+If you'd like to suggest a fix, propose a new convention, or report a typo, see the [Feedback](docs/feedback.md) page – it's a one-click email to the maintainer.
 
 The maintainer ([@dtpenglish](https://github.com/dtpenglish)) is the only person with direct push access. Edits are made via:
 
@@ -65,4 +65,4 @@ baps-style-guide/
 
 ## Version
 
-Style guide site scaffold **v1.0** — established May 2026.
+Style guide site scaffold **v1.0** – established May 2026.

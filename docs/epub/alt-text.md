@@ -1,14 +1,14 @@
 # 7.2 Alt Text Guidelines
-Alt text — the *alternative text* read aloud by screen readers in place of an image — is part of the editorial content of an accessible EPUB. Write it with the same care you bring to a caption.
+Alt text – the *alternative text* read aloud by screen readers in place of an image – is part of the editorial content of an accessible EPUB. Write it with the same care you bring to a caption.
 
 ## 7.2.1 The Three Questions
 For every image, ask:
 
-1. **What is this image of?** — the subject, in plain words.
-2. **Why is it here?** — what does it contribute to the page?
-3. **What would a reader miss without it?** — the answer is what your alt text needs to convey.
+1. **What is this image of?** – the subject, in plain words.
+2. **Why is it here?** – what does it contribute to the page?
+3. **What would a reader miss without it?** – the answer is what your alt text needs to convey.
 
-If the answer to question 3 is 'nothing — it's purely decorative', the image should be marked decorative (empty alt) rather than given a description. Examples: ornamental dividers, repeated logos, background textures.
+If the answer to question 3 is 'nothing – it's purely decorative', the image should be marked decorative (empty alt) rather than given a description. Examples: ornamental dividers, repeated logos, background textures.
 
 ## 7.2.2 What Good Alt Text Looks Like
 | Image | Weak | Strong |
@@ -19,7 +19,7 @@ If the answer to question 3 is 'nothing — it's purely decorative', the image s
 
 ## 7.2.3 Length and Detail
 - **One to two sentences** is the right length for most editorial images.
-- **More detail** is appropriate when the image carries information not in the surrounding text — a diagram, a chart, or a photograph the article specifically discusses.
+- **More detail** is appropriate when the image carries information not in the surrounding text – a diagram, a chart, or a photograph the article specifically discusses.
 - **Less detail** when the caption already conveys the key information; alt text shouldn't repeat the caption verbatim.
 
 ## 7.2.4 Conventions for Our Publications
@@ -43,7 +43,7 @@ Mark an image **informative** (with descriptive alt text) when:
 - It would be referred to in conversation about the page.
 
 ## 7.2.6 In InDesign
-Alt text is set per-image via **Object Export Options → Alt Text** (right-click the image → Object Export Options, or use <kbd>Cmd/Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>). For batch application during production, use the `AddAltText.jsx` script — see [Scripts & Tools](../scripts/index.md).
+Alt text is set per-image via **Object Export Options → Alt Text** (right-click the image → Object Export Options, or use <kbd>Cmd/Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>). For batch application during production, use the `AddAltText.jsx` script – see [Scripts & Tools](../scripts/index.md).
 
 The script's caption pre-population feature (added in v17) reads the InDesign caption associated with each image and pre-fills the alt-text field, leaving the editor to refine rather than draft from scratch. This is faster and more consistent than free-form drafting.
 
@@ -55,5 +55,5 @@ Before exporting an EPUB:
 3. After EPUB export, run **DAISY Ace** for an accessibility report. Address any 'image without alternative text' warnings before delivery.
 
 ## 7.2.8 Related
-- [Reading Order](reading-order.md) — how images fit into the document's narrative sequence
-- [Scripts & Tools](../scripts/index.md) — `AddAltText.jsx` reference
+- [Reading Order](reading-order.md) – how images fit into the document's narrative sequence
+- [Scripts & Tools](../scripts/index.md) – `AddAltText.jsx` reference

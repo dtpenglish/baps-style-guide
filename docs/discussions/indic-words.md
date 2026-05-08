@@ -23,7 +23,7 @@ Variations in current use:
 
 Open questions:
 
-- *Rupees* (capitalized), *rupees* (lowercase), or the symbol ₹ — when and where?
+- *Rupees* (capitalized), *rupees* (lowercase), or the symbol ₹ – when and where?
 - For historical denominations (*ral*, *dokdo*): preferred singular and plural; abbreviation?
 
 ## 10.5.3 Units of Measure
@@ -40,4 +40,4 @@ Open questions:
 - When a unit is mentioned alongside a metric equivalent, what's the format? (E.g., *one vigha (about 0.4 ha)*?)
 
 ## 10.5.4 Have an Opinion?
-Send your view via [Feedback](../feedback.md) — use a subject like *Plurals: …*, *Currency: …*, or *Units: …*.
+Send your view via [Feedback](../feedback.md) – use a subject like *Plurals: …*, *Currency: …*, or *Units: …*.

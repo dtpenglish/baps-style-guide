@@ -1,4 +1,4 @@
-# 10.7 Web — BrE or AmE?
+# 10.7 Web – BrE or AmE?
 Open question on the choice of English variety for our web/digital publications.
 
 > Should we use BrE or AmE?
@@ -17,4 +17,4 @@ Considerations:
 - **Author flexibility.** A single-variety web rule overrides individual authors' preferences.
 
 ## 10.7.1 Have an Opinion?
-Send your view via [Feedback](../feedback.md) — use *Web: BrE vs AmE* in the subject.
+Send your view via [Feedback](../feedback.md) – use *Web: BrE vs AmE* in the subject.

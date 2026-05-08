@@ -11,7 +11,7 @@ This departs from CMS (which spells out one through one hundred) and aligns more
 | Use | Example |
 |---|---|
 | Whole numbers 1–10 in narrative prose | He delivered seven discourses; nine devotees attended. |
-| Beginning of a sentence (any number) | Forty-three years have passed since the murti was installed. *(Recast where possible — see 3.7.4.1.)* |
+| Beginning of a sentence (any number) | Forty-three years have passed since the murti was installed. *(Recast where possible – see 3.7.4.1.)* |
 | Approximate quantities below 11 | About six volunteers stayed overnight. |
 | Simple fractions in text | two-thirds, one-half |
 | Centuries | the nineteenth century |
@@ -40,7 +40,7 @@ Spell it out, or recast the sentence:
 - ✅ The Vachanamrut contains 213 footnotes.
 
 ### 3.7.4.2 Mixing Words and Numerals in One Passage
-Choose one form per category and stay consistent within a passage. If a passage discusses several quantities of the same kind, use **numerals throughout** — even for quantities below 11:
+Choose one form per category and stay consistent within a passage. If a passage discusses several quantities of the same kind, use **numerals throughout** – even for quantities below 11:
 
 > Of the 213 footnotes, 47 cite the Shikshapatri, 31 cite the Vachanamrut, and 8 cite the Swamini Vato.
 
@@ -48,9 +48,9 @@ Choose one form per category and stay consistent within a passage. If a passage 
 Spell out: *the nineteenth century*, *the 1990s* (digits + s, no apostrophe).
 
 ### 3.7.4.4 Fractions and Decimals
-- Simple fractions in text: spell out — *two-thirds*, *one-half*. Hyphenate when used as adjectives.
-- Decimals: numerals — *3.14*.
-- Mixed numbers and ranges: numerals — *5½*, *2.5–3 m*.
+- Simple fractions in text: spell out – *two-thirds*, *one-half*. Hyphenate when used as adjectives.
+- Decimals: numerals – *3.14*.
+- Mixed numbers and ranges: numerals – *5½*, *2.5–3 m*.
 
 ### 3.7.4.5 V.S. (Vikram Samvat) Years
 Always numerals: *V.S. 2080*, *V.S. 1781*.
@@ -125,5 +125,5 @@ Don't hyphenate a compound adjective when the spelled-out number is itself a com
 - ✅ a 1,500 m run
 
 ## 3.7.6 See Also
-- [Punctuation](punctuation.md) — comma in numerals (1,586), abbreviation rules, and other typographic details.
-- [Capitalization](capitalization.md) — capitalization rules for ordinals in titles.
+- [Punctuation](punctuation.md) – comma in numerals (1,586), abbreviation rules, and other typographic details.
+- [Capitalization](capitalization.md) – capitalization rules for ordinals in titles.

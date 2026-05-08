@@ -19,7 +19,7 @@ Open questions:
 
 - Which form is preferred for first mention vs subsequent mentions?
 - *Shri Hari* (two words) or *Shrihari* (one)?
-- *manifest* vs *incarnate* — are these synonymous in our usage?
+- *manifest* vs *incarnate* – are these synonymous in our usage?
 
 ## 10.3.2 Aksharbrahma Gunatitanand Swami
 Variations in current use:
@@ -33,7 +33,7 @@ Variations in current use:
 Open questions:
 
 - Is *Maharaj* part of the standard form, or optional?
-- *Akshar* / *Aksharbrahma* / *Aksharbrahman* — preferred form?
+- *Akshar* / *Aksharbrahma* / *Aksharbrahman* – preferred form?
 - When referring to the abode, *Akshardham* vs *Brahmadham* vs *Brahmamahol*?
 
 ## 10.3.3 Murti Forms
@@ -79,7 +79,7 @@ Variations in current use for Mahant Swami Maharaj:
 
 Open questions:
 
-- *Guruhari* (capital, roman) or *guruhari* (italic) — which scope?
+- *Guruhari* (capital, roman) or *guruhari* (italic) – which scope?
 - *Swami Bapa* (two words) or *Swamibapa* (one word)?
 - When to use *manifest*, when *pragat*?
 
@@ -110,9 +110,9 @@ Variations in current use for collective references:
 
 Open questions:
 
-- *‑das* / *‑ji* / *‑das‑ji* — which suffix on first mention vs subsequent?
-- Position-titles (*kothari*, *mahant*) — italicized or roman; capitalized or lowercase?
-- *Sadgurus* (capital, roman) vs *sadgurus* (italic) — when?
+- *‑das* / *‑ji* / *‑das‑ji* – which suffix on first mention vs subsequent?
+- Position-titles (*kothari*, *mahant*) – italicized or roman; capitalized or lowercase?
+- *Sadgurus* (capital, roman) vs *sadgurus* (italic) – when?
 
 ## 10.3.8 Have an Opinion?
-Propose wording via [Feedback](../feedback.md) — note the specific term in your subject.
+Propose wording via [Feedback](../feedback.md) – note the specific term in your subject.

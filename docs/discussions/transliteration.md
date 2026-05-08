@@ -1,13 +1,13 @@
 # 10.6 Transliteration
-The largest open-questions list. These questions cover the rules of romanizing Gujarati and Devanagari script — what to do about diacritics, ligatures, the "stray *a*", visarga and anusvara, hyphenation, and the many cases where a single Gujarati word has multiple plausible roman spellings.
+The largest open-questions list. These questions cover the rules of romanizing Gujarati and Devanagari script – what to do about diacritics, ligatures, the "stray *a*", visarga and anusvara, hyphenation, and the many cases where a single Gujarati word has multiple plausible roman spellings.
 
 ## 10.6.1 Source Scripts and Target Script
 - Gujarati script (*lippi*) and the corresponding roman transliteration.
 - Devanagari script (*lippi*) for Sanskrit and Hindi, and the corresponding roman transliteration.
 
-## 10.6.2 Diacritics — Yes, No, Which?
+## 10.6.2 Diacritics – Yes, No, Which?
 - **With or without** diacritics?
-- Transliterations in **prose vs verse** — different rules?
+- Transliterations in **prose vs verse** – different rules?
 - If with diacritics, **which system**? Macron, underpoint, overpoint, etc.
 - If without diacritics, do we use long-vowel doublings such as **aa / oo / ee**?
 
@@ -26,7 +26,7 @@ How to render conjunct consonants:
 - **વ**: *v* or *w*? (*Vachanamrut* vs *Wachanamrut*; *Bhagwan* vs *Bhagvan*.)
 - **ળ**: *l* (not *d*)?
 - **ઈ / ઇ**: *i* or *y*?
-- **Dental vs. retroflex *t* / *d* (Sanskrit / Hindi material)**: South-Indian transliteration distinguishes *t* (retroflex ट) from *th* (dental त), and *d* (retroflex ड) from *dh* (dental द) — so *Lata* would be लटा and *Latha* लता. North-Indian / Hunterian transliteration (which SAP currently follows) uses *t* and *d* for both, accepting the dental/retroflex ambiguity in romanization. Mostly relevant in Sanskrit and Hindi sources; less so for Gujarati base material. Names like *Mata*, *Pita*, *Vidya*, *Bhagwat* — no *th* / *dh* in the SAP convention.
+- **Dental vs. retroflex *t* / *d* (Sanskrit / Hindi material)**: South-Indian transliteration distinguishes *t* (retroflex ट) from *th* (dental त), and *d* (retroflex ड) from *dh* (dental द) – so *Lata* would be लटा and *Latha* लता. North-Indian / Hunterian transliteration (which SAP currently follows) uses *t* and *d* for both, accepting the dental/retroflex ambiguity in romanization. Mostly relevant in Sanskrit and Hindi sources; less so for Gujarati base material. Names like *Mata*, *Pita*, *Vidya*, *Bhagwat* – no *th* / *dh* in the SAP convention.
 
 ## 10.6.5 Initial Long Vowels
 - Initial **ā**: *a* or *aa*? Same with *oo* / *ee*.
@@ -67,7 +67,7 @@ A long-running question: do we keep the inherent *a* of the Devanagari/Gujarati 
   - uchu / unchu
 
 ## 10.6.8 Avagraha
-> avagrah(a): indicate with an apostrophe — '
+> avagrah(a): indicate with an apostrophe – '
 
 (Adopted as a tentative rule.)
 
@@ -140,4 +140,4 @@ Each item above will eventually become a row in the [glossary](../diacritics/glo
 When the team decides on a preferred form, update this page and add an entry to the [changelog](../changelog.md).
 
 ## 10.6.19 Have an Opinion?
-Send your view via [Feedback](../feedback.md) — use a subject like *Translit: <word>* (e.g. *Translit: jn vs gn*).
+Send your view via [Feedback](../feedback.md) – use a subject like *Translit: <word>* (e.g. *Translit: jn vs gn*).

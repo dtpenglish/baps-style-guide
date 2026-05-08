@@ -21,10 +21,10 @@ The standard cleanup pattern:
 4. Verify each content image is present exactly once.
 5. Verify the within-article order matches reading flow.
 
-This is tedious by hand. The `ArticleBuilder.jsx` script automates much of it — see [Scripts & Tools](../scripts/index.md).
+This is tedious by hand. The `ArticleBuilder.jsx` script automates much of it – see [Scripts & Tools](../scripts/index.md).
 
 ## 7.3.4 Anchored Images
-Anchored images (images anchored to a text frame) need special attention. Their position in the reading order is determined by the anchor location, not the visual position on the page. If an image visually appears at the bottom of a column but its anchor is mid-paragraph, it will be narrated mid-paragraph — usually disrupting the flow.
+Anchored images (images anchored to a text frame) need special attention. Their position in the reading order is determined by the anchor location, not the visual position on the page. If an image visually appears at the bottom of a column but its anchor is mid-paragraph, it will be narrated mid-paragraph – usually disrupting the flow.
 
 `ArticleBuilder.jsx` handles anchored images explicitly. From v4.39, it walks `page.allPageItems` (across all pages) to find anchored objects and inserts them into the article at sensible positions.
 
@@ -40,7 +40,7 @@ These quirks are documented in greater detail in the [Scripts reference](../scri
 ## 7.3.6 Verifying Reading Order
 Before EPUB export:
 
-1. **Window → Articles** — visually scan each article's member list.
+1. **Window → Articles** – visually scan each article's member list.
 2. **File → Export → EPUB** with the option *Use → Articles panel* selected for content order.
 3. Open the exported EPUB in a screen reader (NVDA on Windows, VoiceOver on macOS) and listen to a few pages.
 4. Run DAISY Ace for an automated reading-order report.
@@ -48,5 +48,5 @@ Before EPUB export:
 A few minutes of listening to the actual narration catches problems that visual scanning misses every time.
 
 ## 7.3.7 Related
-- [Alt Text Guidelines](alt-text.md) — how to write the text screen readers will narrate for images
-- [Scripts & Tools](../scripts/index.md) — `ArticleBuilder.jsx` reference
+- [Alt Text Guidelines](alt-text.md) – how to write the text screen readers will narrate for images
+- [Scripts & Tools](../scripts/index.md) – `ArticleBuilder.jsx` reference

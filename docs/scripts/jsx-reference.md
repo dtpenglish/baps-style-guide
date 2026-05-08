@@ -14,7 +14,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 - Uses `item.allPageItems` (not `item.pageItems`) to surface typed objects from groups.
 - Uses `page.allPageItems` across all pages to locate anchored objects.
-- Pre-computes all DOM work before the dialogue (`pd.show()`) opens — this prevents InDesign crashes from long-running operations inside ScriptUI.
+- Pre-computes all DOM work before the dialogue (`pd.show()`) opens – this prevents InDesign crashes from long-running operations inside ScriptUI.
 - Replaced the broken ScriptUI scrolling preview with an HTML-in-browser preview.
 
 **Notable edge cases:**
@@ -90,6 +90,6 @@ A handful of issues that have caught us out and are worth knowing before writing
 - **Pre-compute before `pd.show()`:** any long-running DOM work after the dialogue opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialogue.
 
 ## 8.2.6 Related
-- [Versioning Rules](../workflows/versioning.md) — every script edit produces a new versioned file
-- [Reading Order](../epub/reading-order.md) — what `ArticleBuilder.jsx` actually produces
-- [Alt Text Guidelines](../epub/alt-text.md) — what `AddAltText.jsx` actually applies
+- [Versioning Rules](../workflows/versioning.md) – every script edit produces a new versioned file
+- [Reading Order](../epub/reading-order.md) – what `ArticleBuilder.jsx` actually produces
+- [Alt Text Guidelines](../epub/alt-text.md) – what `AddAltText.jsx` actually applies
