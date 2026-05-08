@@ -39,7 +39,7 @@ This applies regardless of whether diacritics appear in the body text.
 ### 3.3.2.2 Lowercase
 - **Generic terms:** *sadhu*, *temple*, *scripture*, *discourse*.
 - **Generic religious actions:** *darshan*, *arti*, *katha*.
-- **Adjectival forms:** *the Swaminarayan tradition*, but *swaminarayan philosophy* (as a descriptor).
+- **Generic descriptive adjectives:** *spiritual*, *philosophical*, *devotional*, *religious*, *traditional*, *ethical* — these don't derive from proper nouns and stay lowercase. (Proper adjectives like *Hindu*, *Vedic*, *Swaminarayan*, *Gandhian* are always capitalized — see [3.3.2.6](#3326-proper-adjectives-derived-from-names-places-religions-and-scriptures).)
 
 ### 3.3.2.3 *Earth* / *earth*
 - **Earth** (capitalized) when referring to the planet in scientific or formal contexts: *life on Earth*.
