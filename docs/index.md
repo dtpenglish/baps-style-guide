@@ -35,6 +35,14 @@ This site documents the editorial, design, and production conventions for all of
 
     [:octicons-arrow-right-24: Editorial conventions](editorial/index.md)
 
+-   :material-moon-waxing-crescent: __Tithis__
+
+    ---
+
+    The 16 named days of the lunar fortnight — *Padvo*, *Bij*, *Ekadashi*, *Punam*, *Amas* — and the *sud* / *vad* fortnight designators. Roman, capitalized, no italics, no diacritics.
+
+    [:octicons-arrow-right-24: Tithis rule](tithis/index.md)
+
 -   :material-format-letter-matches: __Diacritics__
 
     ---
