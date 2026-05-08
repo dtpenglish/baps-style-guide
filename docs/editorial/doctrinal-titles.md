@@ -85,7 +85,12 @@ Phrases like ***the God-realized sadhu***, ***the true sadhu***, ***a holy sadhu
 > Swamishri spoke extensively about the concept of the God-realized sadhu as the gateway to liberation.
 > Bhagatji was indeed the enlightened sadhu that Yagnapurushdasji had described.
 
-These would only take capitals if they were **formally defined** glossary-level terminology comparable to *Ekantik Sadhu* – they are not.
+**Exception — when the phrase refers specifically to the manifest Satpurush.** When *the True Sadhu*, *the God-Realized Sadhu*, *the Holy Sadhu* and similar phrases are used as a **doctrinal designation for the manifest Gunatit Guru** (rather than describing any spiritually elevated person), treat them as Rule 3 — capitalize both the adjective and *Sadhu*, set roman:
+
+> Bhagwan Swaminarayan continues to grace the world through the **God-Realized Sadhu**.
+> Liberation is attained through the company of the **True Sadhu**.
+
+The use of *the* (definite article) plus a doctrinal-context cue is a strong signal that the phrase is naming the Satpurush rather than describing a category. For hyphenated adjectives like *God-Realized*, capitalize both elements (per [§3.3.3.2 Hyphenated Words in Titles](../editorial/capitalization.md#3332-hyphenated-words-in-titles), applied here to the doctrinal designation).
 
 ## 3.4.2 Quick Decision Guide
 Ask these questions in order, and stop at the first **yes**:
@@ -108,8 +113,10 @@ Ask these questions in order, and stop at the first **yes**:
 | Gunatit Guru | Cap | Cap | Roman | 3 |
 | Pragat Satpurush | Cap | Cap | Roman | 3 |
 | Divya Sadhu | Cap | Cap | Roman | 3 |
-| the God-realized sadhu | – | lowercase | Roman | (descriptive) |
-| the true sadhu | – | lowercase | Roman | (descriptive) |
+| the God-realized sadhu (descriptive — any God-realized person) | – | lowercase | Roman | (descriptive) |
+| the true sadhu (descriptive) | – | lowercase | Roman | (descriptive) |
+| the God-Realized Sadhu (designation — the manifest Satpurush) | Cap | Cap | Roman | 3 |
+| the True Sadhu (designation — the manifest Satpurush) | Cap | Cap | Roman | 3 |
 | a *brahmarup* devotee | italic lowercase | lowercase | Italic + roman | 2 |
 | a *gunatit* state | italic lowercase | lowercase | Italic + roman | 2 |
 | a *satpurush* (common-noun usage) | – | italic lowercase | Italic | 2 |
