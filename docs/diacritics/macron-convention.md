@@ -18,7 +18,7 @@ The single most common loss in plain-Roman BAPS transliteration is the long *a* 
 - Captures the most common pronunciation error, restoring the long *a* that English readers otherwise miss.
 - Keeps text readable for general audiences who are not Sanskrit students.
 - Is easy to typeset (a single Unicode character: <kbd>U+0101</kbd>) and easy to search.
-- Stays consistent with how BAPS publications have rendered names like *Swāminārāyan* and *Aksharbrahman* in recent decades.
+- Stays consistent with how BAPS publications have rendered names like *Swāminārāyan* and *Aksharbrahma* in recent decades.
 
 ## 5.3.3 How to Apply It
 Mark a macron on every long *a*. A long *a* is the vowel sound in *father*, not the short *a* in *cat*.
@@ -28,7 +28,7 @@ Mark a macron on every long *a*. A long *a* is the vowel sound in *father*, not 
 | Sadhu | sadhu | **sādhu** |
 | Maharaj | maharaj | **mahārāj** |
 | Bhagwan | bhagwan | **bhagwān** |
-| Aksharbrahman | aksharbrahman | **aksharbrahman** *(no long-a vowels)* |
+| Aksharbrahma | aksharbrahma | **aksharbrahma** *(no long-a vowels)* |
 | Swaminarayan | swaminarayan | **swāminārāyan** |
 | Vachanamrut | vachanamrut | **vachanāmrut** |
 | Pramukh | pramukh | **pramukh** *(no long-a vowels)* |

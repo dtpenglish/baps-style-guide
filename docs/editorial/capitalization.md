@@ -29,7 +29,7 @@ This applies regardless of whether diacritics appear in the body text.
 
 ## 3.3.2 Practical Guidance
 ### 3.3.2.1 Always Capitalized
-- **Personal names and titles when used as names:** Bhagwan Swaminarayan, Aksharbrahman Gunatitanand Swami, Pramukh Swami Maharaj, Mahant Swami Maharaj.
+- **Personal names and titles when used as names:** Bhagwan Swaminarayan, Aksharbrahma Gunatitanand Swami, Pramukh Swami Maharaj, Mahant Swami Maharaj.
 - **Place names:** Loj, Vartal, Gadhada, Sarangpur.
 - **Names of texts:** Vachanamrut, Shikshapatri, Swamini Vato.
 - **Names of organizations:** BAPS Swaminarayan Sanstha.

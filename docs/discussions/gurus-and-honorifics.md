@@ -33,7 +33,7 @@ Variations in current use:
 Open questions:
 
 - Is *Maharaj* part of the standard form, or optional?
-- *Akshar* / *Aksharbrahma* / *Aksharbrahman* – preferred form?
+- *Akshar* / *Aksharbrahma* – preferred form?
 - When referring to the abode, *Akshardham* vs *Brahmadham* vs *Brahmamahol*?
 
 ## 10.3.3 Murti Forms
