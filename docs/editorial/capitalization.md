@@ -122,7 +122,7 @@ We use **title case** for headings on this site, our digital publications, and b
 ### 3.3.2.13 Terms of Address (Direct Address and Family Relationships)
 Capitalize a title or term of address when it **stands in for a name** – when you could substitute the person's actual name in the same slot:
 
-- Direct address: *That's an order, **Sergeant**.* / *I'll get right on it, **Chief**.* / *I object, **Your Honor**.*
+- Direct address: *That's an order, **Sergeant**.* / *I'll get right on it, **Chief**.* / *I object, **Your Honour**.*
 - Family used as a name: *If only **Father** were here.* / *I'll tell **Mom**!*
 
 Lowercase when the title or relationship term is preceded by a possessive or article – it's now a common noun describing a role:
