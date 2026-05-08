@@ -45,12 +45,12 @@ This applies regardless of whether diacritics appear in the body text.
 - **Earth** (capitalized) when referring to the planet in scientific or formal contexts: *life on Earth*.
 - **earth** (lowercase) when referring to soil, land, or in idiomatic usage: *tilling the earth*; *down to earth*.
 
-### 3.3.2.4 Word Choice – *Cycles of Birth and Death*
-The preferred form is the plural-singular pair: ***cycles of birth and death***.
+### 3.3.2.4 Word Choice – *Cycle of Births and Deaths*
+The preferred form is the singular-plural pair: ***cycle of births and deaths***.
 
-- ✅ Most preferred: *cycles of birth and death*
-- ✓ Acceptable: *cycle of birth and death*
-- Less preferred: *cycles of births and deaths*
+- ✅ Most preferred: *cycle of births and deaths*
+- ✓ Acceptable: *cycles of birth and death*
+- Less preferred: *cycle of birth and death*
 
 ### 3.3.2.5 Adjective + Noun Phrases (*Brahmaswarup Sadhu*, *Akshar-Purushottam Darshan*)
 How to capitalize compound phrases with a doctrinal adjective and a noun is governed by a separate four-rule system – see [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md).
