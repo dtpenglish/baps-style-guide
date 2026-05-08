@@ -61,7 +61,7 @@ Adjectives derived from proper nouns are **capitalized**:
 - **From places:** Indian philosophy, Gujarati literature, British English, Sanskrit grammar, European history.
 - **From religions and traditions:** Hindu philosophy, Christian theology, Islamic jurisprudence, Swaminarayan theology, Vedantic interpretation.
 - **From personal names:** Gandhian principles, Socratic dialogue, Platonic thought, Darwinian evolution.
-- **From scriptures:** *Vedic* (← Veda) – Vedic philosophy, Vedic culture; *Puranic* (← Purana) – Puranic cosmology, Puranic narratives; *Upanishadic* (← Upanishad) – Upanishadic thought, Upanishadic teachings.
+- **From scriptures:** Veda → *Vedic* – Vedic philosophy, Vedic culture; Purana → *Puranic* – Puranic cosmology, Puranic narratives; Upanishad → *Upanishadic* – Upanishadic thought, Upanishadic teachings.
 
 A useful test: if the adjective answers "*related to which specific person, place, religion, tradition, or text?*" it is a proper adjective and should be capitalized.
 
