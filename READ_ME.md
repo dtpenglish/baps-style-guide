@@ -16,7 +16,7 @@ This is a BAPS in-house style guide built with [MkDocs Material](https://squidfu
 
 The site is **read-only** for visitors. The edit-pencil icon has been removed from page headers.
 
-If you'd like to suggest a fix, propose a new convention, or report a typo, see the [Feedback](docs/feedback.md) page — it's a one-click email to the maintainer. GitHub-account holders can alternatively open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).
+If you'd like to suggest a fix, propose a new convention, or report a typo, see the [Feedback](docs/feedback.md) page — it's a one-click email to the maintainer.
 
 The maintainer ([@dtpenglish](https://github.com/dtpenglish)) is the only person with direct push access. Edits are made via:
 

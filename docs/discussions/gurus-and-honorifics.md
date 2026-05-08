@@ -115,4 +115,4 @@ Open questions:
 - *Sadgurus* (capital, roman) vs *sadgurus* (italic) — when?
 
 ## 10.3.8 Have an Opinion?
-Propose wording via [Feedback](../feedback.md) (mailto link), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).
+Propose wording via [Feedback](../feedback.md) — note the specific term in your subject.

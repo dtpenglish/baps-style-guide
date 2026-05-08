@@ -84,4 +84,4 @@ When the user makes changes via GitHub pencil:
 
 1. Reference numbers: cite as **5.2** or **3.3.1** in conversation. The numbering is the contract.
 2. Style decisions: check the relevant Part on the live site. The site is the authoritative source.
-3. Open questions live under **Part 10 Discussions** — don't unilaterally decide them; record in the page or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues).
+3. Open questions live under **Part 10 Discussions** — don't unilaterally decide them; record on the page and route via the Feedback channel ([docs/feedback.md](docs/feedback.md)).

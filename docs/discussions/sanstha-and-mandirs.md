@@ -43,4 +43,4 @@ Open questions:
 - For the London mandir specifically: is it **London** or **Neasden**? Are these interchangeable?
 
 ## 10.2.3 Have an Opinion?
-Propose wording via [Feedback](../feedback.md) (mailto link), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) with `Sanstha:` or `Mandir:` as the title prefix.
+Propose wording via [Feedback](../feedback.md) — use a subject like *Sanstha: …* or *Mandir: …*.

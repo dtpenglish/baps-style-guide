@@ -36,7 +36,7 @@ Mark a macron on every long *a*. A long *a* is the vowel sound in *father*, not 
 | Gunatitanand | gunatitanand | **guṇātītānand** → **gunātītānand** → **gunatītanand**? |
 
 !!! warning "Edge case under review"
-    The last entry illustrates a known ambiguity: when a name contains both long *a* and long *i*, the macron-only rule marks only the *a*. *Gunatitanand* becomes *Gunatītanand* in some sources, but our rule strictly marks only long *a*: **Gunātitānand**. The team should agree on whether to mark long *i* in proper names or leave them plain. Discuss in [the issue tracker](https://github.com/dtpenglish/baps-style-guide/issues).
+    The last entry illustrates a known ambiguity: when a name contains both long *a* and long *i*, the macron-only rule marks only the *a*. *Gunatitanand* becomes *Gunatītanand* in some sources, but our rule strictly marks only long *a*: **Gunātitānand**. The team should agree on whether to mark long *i* in proper names or leave them plain — send your view via [Feedback](../feedback.md).
 
 ## 5.3.4 What We Do Not Mark
 We do **not** use the following IAST diacritics, even when the source term contains them:

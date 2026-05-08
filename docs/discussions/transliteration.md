@@ -140,4 +140,4 @@ Each item above will eventually become a row in the [glossary](../diacritics/glo
 When the team decides on a preferred form, update this page and add an entry to the [changelog](../changelog.md).
 
 ## 10.6.19 Have an Opinion?
-Send your view via [Feedback](../feedback.md) (mailto link), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Translit: <word>` — e.g. `Translit: jn vs gn`.
+Send your view via [Feedback](../feedback.md) — use a subject like *Translit: <word>* (e.g. *Translit: jn vs gn*).

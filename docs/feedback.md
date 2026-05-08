@@ -14,29 +14,21 @@ When emailing, please include:
 
 The mailto link above pre-fills the subject and a structured body for you.
 
-## 12.2 If You Have a GitHub Account
-If you're comfortable with GitHub, you can open an issue instead — useful for tracking discussions and for technically detailed suggestions:
-
-[:material-github: Open a GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new){ .md-button }
-
-This is the same channel referenced from the [Open Discussions](discussions/index.md) pages.
-
-## 12.3 What Happens Next
-The maintainer ([@dtpenglish](https://github.com/dtpenglish)) reviews feedback and either:
+## 12.2 What Happens Next
+The maintainer reviews feedback and either:
 
 - Applies it directly (typos, clear improvements).
-- Discusses it with the team (substantive style decisions).
-- Adds it to [Open Discussions](discussions/index.md) if it's an unresolved question.
+- Adds it to [Open Discussions](discussions/index.md) if it's an unresolved question that needs more conversation.
 - Replies briefly if it's out of scope or has a quick answer.
 
-For routine fixes, expect same-day turnaround. For substantive conventions changes, allow a few days for team discussion.
+For routine fixes, expect same-day turnaround. Substantive conventions changes take longer to settle.
 
-## 12.4 What Makes Good Feedback
+## 12.3 What Makes Good Feedback
 - **One clear point per email.** One typo, or one rule, per message — easier to track and resolve.
 - **A real example.** Where did this come up — a publication, a translation, a recurring question?
 - **Note the language.** Conventions that apply only to English should say so. Rules for transliteration should specify the source language (Gujarati, Sanskrit, Hindi).
 - **Search first.** Use the search bar (top right, or press <kbd>/</kbd>) before sending — your point may already be addressed somewhere on the site.
 
-## 12.5 About the Team
+## 12.4 About the Team
 !!! note "About the team"
     Most of our authors and editors don't have formal writing or publishing training — we learn on the job, drawing on the SAP glossary, this guide, and one another. The guide is meant to **support** that learning, not to gatekeep. If a rule is unclear, your feedback helps fix it for everyone.

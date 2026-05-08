@@ -5,6 +5,25 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.18] — 2026-05-08
+
+### Removed
+- **GitHub Issues references removed site-wide.** Feedback now routes exclusively through the [Feedback](feedback.md) mailto channel. Affected:
+  - `feedback.md` — secondary "Open a GitHub Issue" button removed; section 12.2 collapsed.
+  - All 7 discussion pages with a *Have an opinion?* line — the "or open a GitHub Issue" option dropped; replaced with subject-line guidance for the Feedback email (e.g. *Subject: Translit: jn vs gn*).
+  - `discussions/index.md` — "or open a GitHub Issue" removed.
+  - `diacritics/index.md` — open-question link to GitHub Issues replaced with Feedback.
+  - `macron-convention.md` — issue-tracker link replaced with Feedback.
+  - `tone-and-voice.md` — both GitHub Issue references replaced with Feedback.
+  - `READ_ME.md` — alternative-GitHub-Issue clause removed; Feedback is now the sole channel.
+  - `CLAUDE.md` — open-question routing updated to Feedback.
+- **"Made a decision in a meeting?" reframed** in `discussions/index.md` to "Decision reached?" — meetings aren't the documented path; the maintainer simply records the decision when it's made.
+
+### Why
+The team's feedback flow is centralized on the email-to-maintainer channel. Multiple channels (mailto + GitHub Issues + meetings) created ambiguity about where suggestions should go. One channel = one inbox to track.
+
+---
+
 ## [1.17] — 2026-05-08
 
 ### Changed

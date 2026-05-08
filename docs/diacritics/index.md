@@ -26,4 +26,4 @@ How we render Sanskrit, Gujarati, and Hindi terms in Roman script across BAPS pu
 | Editorial reference on this site (when discussing a term) | Long *a* marked **ā** — when illustrating the form | Macron-Only Convention |
 
 ## 5.1.3 Open Question
-The SAP rule for general-reader publications is "no diacritics". The macron-only convention is the in-house rule for glossary and reference work. Whether the macron-only convention should ever appear in a finished publication aimed at the general reader is an open question. Discuss in [GitHub Issues](https://github.com/dtpenglish/baps-style-guide/issues) or see [Open Discussions: Transliteration](../discussions/transliteration.md).
+The SAP rule for prose is "no diacritics". The macron-only convention is the in-house rule for verse transliterations and the glossary reference. Whether the macron-only convention should ever appear in prose in a finished publication aimed at the general reader is an open question — see [Open Discussions: Transliteration](../discussions/transliteration.md) and send your view via [Feedback](../feedback.md).

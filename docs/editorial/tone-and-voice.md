@@ -1,6 +1,6 @@
 # 3.2 Tone & Voice
 !!! info "Draft page"
-    This page is a placeholder. Expand it as the team agrees on conventions, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) to propose specific guidance.
+    This page is a placeholder. Expand it as the team agrees on conventions, or propose specific guidance via [Feedback](../feedback.md).
 
 ## 3.2.1 What We're Aiming For
 Our editorial voice is **clear, respectful, and serviceable**. We write to convey meaning, not to impress. We use plain English where plain English suffices, and reach for specialized vocabulary only when it earns its place.
@@ -35,4 +35,4 @@ The English collocation is *detachment **from***:
 - What's our default audience — devotee or general reader? Do different publications shift this?
 - How do we balance scholarly and devotional registers in the same publication?
 
-Please send your thoughts via [Feedback](../feedback.md) (mailto link), or as a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).
+Please send your thoughts via [Feedback](../feedback.md).
