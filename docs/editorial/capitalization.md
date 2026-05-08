@@ -116,8 +116,8 @@ This same rule resolves *Sarvopari* / *sarvopari*: cap when it forms part of a f
 
 - ***satsang*** – lowercase, italic, in generic descriptive usage (a gathering, the practice of keeping holy company): *a satsang gathering*, *attended satsang*.
 
-### 3.3.2.12 Sentence Case for Headings on This Site
-We use **sentence case** for headings on this site and our digital publications: capitalize only the first word and proper nouns. For book and chapter titles in print publications, follow the publication's established style – but record the choice somewhere this guide can link to.
+### 3.3.2.12 Title Case for Headings on This Site
+We use **title case** for headings on this site, our digital publications, and book and chapter titles in print: capitalize the first and last words and all major terms; lowercase articles, coordinating conjunctions, prepositions of any length, and the infinitive *to*. The full title-case rules — including hyphenated words, the first word after a colon, phrasal verbs, and other edge cases — live in [3.3.3 Title Case in Detail](#333-title-case-in-detail).
 
 ### 3.3.2.13 Terms of Address (Direct Address and Family Relationships)
 Capitalize a title or term of address when it **stands in for a name** – when you could substitute the person's actual name in the same slot:
@@ -243,8 +243,8 @@ When a modifier and a noun together form a recognized open compound (effectively
 - *Master Class Notes*
 
 ### 3.3.3.6 Sentence Case vs. Title Case – When to Use Which
-- **Sentence case** – first word and proper nouns only – for headings on this site and digital publications, and for **definitions** in glossaries and term-and-meaning tables. See [3.3.2.16](#33216-definitions-use-sentence-case-not-title-case).
-- **Title case** – capitalize all principal words per the rules above – for book titles, chapter titles, magazine and newspaper titles, and headings in print publications.
+- **Title case** – capitalize all principal words per the rules above – for headings on this site, digital publications, book titles, chapter titles, magazine and newspaper titles. This is the default everywhere except definitions.
+- **Sentence case** – first word and proper nouns only – reserved for **definitions** in glossaries and term-and-meaning tables. See [3.3.2.16](#33216-definitions-use-sentence-case-not-title-case).
 
 A glossary entry illustrates the distinction: the term itself uses title case (*Param Ekantik Sant*), while its definition uses sentence case (*Ideal sadhu of God, referring to the Satpurush.*).
 
