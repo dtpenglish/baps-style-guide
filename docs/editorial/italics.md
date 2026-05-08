@@ -46,11 +46,6 @@ Indic terms that have become **anglicized** are in **roman, lowercase**.
 - Titles of works of art
 - Short stories
 - Poems
-- Anything within quotation marks
-
-> "Patthar satsang karavshe – the stones will spread the glory of satsang."
-
-(Even though *patthar* and *satsang* would normally be italicized, they are not when inside quotation marks.)
 
 ### 3.5.1.5 Multiword Sanskrit and Indic Phrases – Italicize the Whole Phrase
 If any essential part of a multiword phrase is non-naturalized, italicize the **entire** phrase as a single foreign lexical unit. Splitting italicization across the phrase implies the parts are independent words rather than a unified concept.
@@ -118,7 +113,6 @@ If the verse is unfamiliar to the readership, italicize the first appearance of 
 | Tithi (named lunar day) | Padvo, Ekadashi, Punam | No (exception – see [Tithis](../tithis/index.md)) |
 | Fortnight designator | *sud*, *vad* | Yes (italic, lowercase) |
 | Other Indic term in prose | *dandvat*, *kothari*, *patshala* | Yes |
-| Inside quotation marks | 'Bhagwan bhaji leva' | No |
 | Title of a poem/short story | 'Akshar Anubhuti' | No |
 
 This table answers "italicize this term?" – not "how do I form its plural?". Pluralization (native plural vs roman *-s* on the italic word vs OED form) is a separate decision; see [Plurals §3.6](plurals.md).
