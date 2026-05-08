@@ -52,17 +52,17 @@ Each example shows the rule applied in a different sentence shape:
 Three Chicago Manual of Style (CMS) clauses converge on the same answer; Hart's Rules (the BrE counterpart) reaches it identically.
 
 ### 4.4.1 CMS 8.79 — Days of the Week and Months
-> *"The days of the week and the months of the year are capitalized."*
+> *'The days of the week and the months of the year are capitalized.'*
 
 *Padvo*, *Bij*, *Trij*… are the **direct functional analogue** of *Tuesday*, *Wednesday*, *Thursday* — they are the named days of the lunar fortnight. *Tuesday* doesn't drop its capital when used generically (*every Tuesday*); neither should *Ekadashi*.
 
 ### 4.4.2 CMS 8.92 — Religious Holidays, Fasts, and Seasons
-> *"The names of religious holidays, fasts, and seasons are usually capitalized."*
+> *'The names of religious holidays, fasts, and seasons are usually capitalized.'*
 
 CMS lists *Diwali*, *Ramadan*, *Yom Kippur*, *Lent* among its examples. *Tithis* belong to that set: *Ekadashi* and *Punam* are explicitly fast days and observance days within the Vaishnava liturgical calendar.
 
 ### 4.4.3 CMS 7.55 / 11.3 — Foreign Words Integrated into English
-> *"Words and phrases now adopted into English need not be italicized, especially if a definition appears nearby or the term is widely known."*
+> *'Words and phrases now adopted into English need not be italicized, especially if a definition appears nearby or the term is widely known.'*
 
 In a BAPS or Swaminarayan publication aimed at the *satsangi* readership for which SAP publishes, tithi names are as familiar as *Diwali* or *Easter*. They cross the threshold from "italicized foreign term" to "roman established designation" — so no italics.
 
@@ -84,7 +84,7 @@ The *Oxford English Dictionary* enters Hindu festival and observance names as **
 All three sources, in their English-language editorial style, capitalize tithi names (*Ekadashi*, *Purnima*, *Amavasya*) and set them in roman without italics. None lowercase or italicize.
 
 ## 4.5 What This Rule Does *not* Override
-The general SAP rule — "Indic words not in the OED are italicized" — still holds for the broader category of religious common nouns. Tithis are an explicit exception because they function as proper-noun calendar names. Compare:
+The general SAP rule — 'Indic words not in the OED are italicized' — still holds for the broader category of religious common nouns. Tithis are an explicit exception because they function as proper-noun calendar names. Compare:
 
 | Word type | Form | Example |
 |---|---|---|

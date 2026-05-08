@@ -12,7 +12,7 @@ Open questions:
 - What's the **citation format** — *Vachanamrut Gadhada I.1*, *Vach. Gadh. I.1*, *Gadh I.1*?
 - Should the **section separator** in citations be a period (`I.1`) or another mark?
 
-## 10.4.2 "Shri" — Honorific or Part of the Title?
+## 10.4.2 'Shri' — Honorific or Part of the Title?
 > Also, is it 'Shriharililamrut' or 'Shri Harililamrut' or 'Shrihari Lilamrut' — is 'Shri' an honorific or part of the title? Same with Shriharililakalpataru, etc.
 
 Open question: when *Shri* prefixes the name of a person inside a title (e.g. *Shri Hari* in *Shriharililamrut*), is it:

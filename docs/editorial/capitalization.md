@@ -173,7 +173,7 @@ The term being defined uses title case (or whatever its standard form is); the d
 | **Param-Bhagvat Sant** | Ideal sadhu of God, referring to the Satpurush. |
 | **Param-Ekantik Sant** | Ideal *ekantik* sadhu of God, referring to the Satpurush. |
 
-❌ Don't write the definition in title case (*"Ideal Devotee Of God, Referring To The Satpurush."*) and don't lowercase proper nouns within it (*"ideal sadhu of god, referring to the satpurush"*).
+❌ Don't write the definition in title case (*'Ideal Devotee Of God, Referring To The Satpurush.'*) and don't lowercase proper nouns within it (*'ideal sadhu of god, referring to the satpurush'*).
 
 ## 3.3.3 Title Case in Detail
 [3.3.1.3](#3313-titles-of-works) gives the basic rule. The subsections below cover specific cases that recur in book titles, chapter labels, and headings in print publications.

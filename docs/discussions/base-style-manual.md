@@ -5,10 +5,10 @@ Open question on whether to adopt a professionally published style manual as the
 >
 > When necessary and can be correctly done, if we prefer to tweak the chosen style guide's convention, we can add that scenario to our in-house guide.
 
-## 10.8.1 What "Adopt a Base" Would Mean
+## 10.8.1 What 'Adopt a Base' Would Mean
 A base style manual gives us a default ruling for any question this guide does not cover. Today, when an author asks "comma before *too* at the end of a sentence?" or "ellipsis with bracketed gloss?" or "hyphen in *brand-new*?", there's no shared answer to point to.
 
-Adopting (for example) the *Chicago Manual of Style* would mean: "If this guide is silent, follow Chicago. If we want to depart from Chicago, we document the departure in this guide."
+Adopting (for example) the *Chicago Manual of Style* would mean: 'If this guide is silent, follow Chicago. If we want to depart from Chicago, we document the departure in this guide.'
 
 ## 10.8.2 Candidates
 - **Chicago Manual of Style (CMOS)** — the dominant US scholarly/trade reference. Strong on citation, quotations, and Indian/Sanskrit conventions (Chicago has a long-standing transliteration appendix).

@@ -182,7 +182,7 @@ If items contain internal commas, use semicolons in place of commas to keep the 
 
 If even one item is a full sentence, treat all items as sentences (caps + periods).
 
-**Standalone bullet lists** (catalog-style, not connecting back to a lead-in clause) — the SAP default for short reference lists: capitalize the first word, no end punctuation. Used widely on this site:
+**Standalone bullet lists** (catalogue-style, not connecting back to a lead-in clause) — the SAP default for short reference lists: capitalize the first word, no end punctuation. Used widely on this site:
 
 > Pages in this section
 >
@@ -287,14 +287,14 @@ Whether to use a comma before *such as* (or *like*) depends on whether the examp
 **Nonrestrictive — use commas.** The examples illustrate a general statement; removing them leaves the sentence still true.
 
 > Citrus fruits, **such as** oranges and grapefruits, are high in vitamin C.
-> *(Without the examples: "Citrus fruits are high in vitamin C." Still true.)*
+> *(Without the examples: 'Citrus fruits are high in vitamin C.' Still true.)*
 
 > Some sea creatures, **such as** hermit crabs, shed their shells.
 
 **Restrictive — no commas.** The examples narrow the statement and are essential to its meaning; removing them changes or distorts the truth.
 
 > Trees **such as** oaks and elms don't grow at this altitude.
-> *(Without the examples: "Trees don't grow at this altitude." Now incorrectly absolute — the original sentence was specific to those species.)*
+> *(Without the examples: 'Trees don't grow at this altitude.' Now incorrectly absolute — the original sentence was specific to those species.)*
 
 > Foods **such as** pizza and ice cream aren't very good for you.
 

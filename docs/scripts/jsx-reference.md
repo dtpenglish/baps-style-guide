@@ -14,7 +14,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 - Uses `item.allPageItems` (not `item.pageItems`) to surface typed objects from groups.
 - Uses `page.allPageItems` across all pages to locate anchored objects.
-- Pre-computes all DOM work before the dialog (`pd.show()`) opens — this prevents InDesign crashes from long-running operations inside ScriptUI.
+- Pre-computes all DOM work before the dialogue (`pd.show()`) opens — this prevents InDesign crashes from long-running operations inside ScriptUI.
 - Replaced the broken ScriptUI scrolling preview with an HTML-in-browser preview.
 
 **Notable edge cases:**
@@ -41,7 +41,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 1. Ensure each image has an associated caption in InDesign.
 2. Run the script.
-3. Review and refine each pre-populated alt text in the dialog.
+3. Review and refine each pre-populated alt text in the dialogue.
 4. Apply.
 
 ---
@@ -87,7 +87,7 @@ A handful of issues that have caught us out and are worth knowing before writing
 - **Anchored images:** to find them, walk `page.allPageItems` across all pages, not `spread.pageItems`. Anchor relationships are not surfaced by the spread-level enumeration.
 - **Track changes (InDesign 2025):** use `story.changes.count()` and `story.changes.item(i)`. The earlier `story.trackChangesPreferences` API is deprecated.
 - **ScriptUI scrolling:** broken in long lists. Replace with an HTML-in-browser preview when you need scrollable content.
-- **Pre-compute before `pd.show()`:** any long-running DOM work after the dialog opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialog.
+- **Pre-compute before `pd.show()`:** any long-running DOM work after the dialogue opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialogue.
 
 ## 8.2.6 Related
 - [Versioning Rules](../workflows/versioning.md) — every script edit produces a new versioned file

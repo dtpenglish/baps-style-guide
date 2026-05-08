@@ -5,6 +5,21 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.20] — 2026-05-08
+
+### Changed
+- **Site-wide quote sweep.** Double-quoted highlights converted to single quotes per the new 3.9.1 rule (single curly = primary mark for highlighting; double curly = speech only). Affected files: `epub/alt-text.md` (table examples + UI labels), `editorial/italics.md` (Decision Summary table), `editorial/tone-and-voice.md` (example sentences), `editorial/capitalization.md` (counter-examples), `editorial/punctuation.md` (vitamin-C example sentences), `tithis/index.md` (CMS quotations), `discussions/shastras.md` ('Shri' heading), `discussions/base-style-manual.md` ('Adopt a Base' heading + interpretation), `workflows/file-naming.md` (bad filename examples), and the changelog itself (where section names were quoted as text).
+- **Speech examples kept double** in [3.8.1.3 Quoted Speech](editorial/quotation-marks.md#3813-quoted-speech-double-quotes) per the new rule. MkDocs admonition titles (`!!! tip "..."`) also unchanged — that's MkDocs syntax, not content quotation.
+- **BrE spelling sweep.** Two AmE spellings updated to BrE forms:
+  - `dialog` → `dialogue` (4 occurrences in `scripts/jsx-reference.md`).
+  - `catalog-style` → `catalogue-style` (`editorial/punctuation.md`).
+- The Oxford -ize rule (already locked in) is preserved; words covered by it (*emphasize*, *italicize*, *organize*, etc.) are not affected.
+
+### Notes
+- A few apostrophe-as-elision cases (e.g. `'60s`, `'80s`) may render with the wrong direction via smarty's heuristic — flag any you spot and they'll get explicit Unicode.
+
+---
+
 ## [1.19] — 2026-05-08
 
 ### Changed
@@ -30,7 +45,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ### Removed
 - **GitHub Issues references removed site-wide.** Feedback now routes exclusively through the [Feedback](feedback.md) mailto channel. Affected:
-  - `feedback.md` — secondary "Open a GitHub Issue" button removed; section 12.2 collapsed.
+  - `feedback.md` — secondary 'Open a GitHub Issue' button removed; section 12.2 collapsed.
   - All 7 discussion pages with a *Have an opinion?* line — the "or open a GitHub Issue" option dropped; replaced with subject-line guidance for the Feedback email (e.g. *Subject: Translit: jn vs gn*).
   - `discussions/index.md` — "or open a GitHub Issue" removed.
   - `diacritics/index.md` — open-question link to GitHub Issues replaced with Feedback.
@@ -73,7 +88,7 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 ## [1.15] — 2026-05-08
 
 ### Removed
-- **Resolved discussion topics removed from the discussions pages.** Each topic below has been settled and is now documented in the relevant editorial section; keeping a parallel "Resolved" entry under [10.x](discussions/index.md) was duplicative.
+- **Resolved discussion topics removed from the discussions pages.** Each topic below has been settled and is now documented in the relevant editorial section; keeping a parallel 'Resolved' entry under [10.x](discussions/index.md) was duplicative.
   - **10.3.1** — *Supreme* / *Sarvopari* and the resolved tip removed (rule lives at [3.3.2.10](editorial/capitalization.md#33210-the-definite-article-with-unique-theological-designations) and [3.4.1.1](editorial/doctrinal-titles.md#3411-rule-1-proper-nouns-and-formal-doctrinal-titles-capitalize-everything)).
   - **10.3.6** — *Sant* / *Satpurush* (full section) removed (rule lives at [3.4.1.1](editorial/doctrinal-titles.md#3411-rule-1-proper-nouns-and-formal-doctrinal-titles-capitalize-everything) and [3.4.1.2](editorial/doctrinal-titles.md#3412-rule-2-generic-descriptions-of-qualities-or-states-all-lowercase)).
   - **10.6.11** — Italicizing mixed phrases (full section) removed (rule lives at [3.5.1.5](editorial/italics.md#3515-multiword-sanskrit-and-indic-phrases-italicize-the-whole-phrase)).
@@ -128,7 +143,7 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 - **[3.5.2 exception](editorial/italics.md#352-punctuation-adjacent-to-italicized-phrases)** — punctuation that is part of an italicized title (e.g. *Who's Afraid of Virginia Woolf?*, *Help!*) should be italicized along with the title. Default rule (punctuation in surrounding-text font) is unchanged.
 
 ### Changed
-- 3.9.9 Open Questions renumbered to 3.9.10 to make room for "Apostrophes".
+- 3.9.9 Open Questions renumbered to 3.9.10 to make room for 'Apostrophes'.
 - CLAUDE.md locked-in rules: added apostrophe rule, comma-with-Latin-abbreviations rule.
 
 ---
@@ -144,9 +159,9 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 - **3.3.2.16 Definitions Use Sentence Case** — the term being defined uses title case; the definition itself uses sentence case (*Param-Bhagvat Sant — Ideal sadhu of God, referring to the Satpurush.*).
 
 ### Changed
-- 3.3.3 Open Questions renumbered to 3.3.4 to make room for new "Title Case in Detail" section.
+- 3.3.3 Open Questions renumbered to 3.3.4 to make room for new 'Title Case in Detail' section.
 - 3.3.4 See Also renumbered to 3.3.5.
-- 3.9.8 Open Questions renumbered to 3.9.9 to make room for "Vertical Lists".
+- 3.9.8 Open Questions renumbered to 3.9.9 to make room for 'Vertical Lists'.
 
 ---
 
@@ -166,7 +181,7 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 ### Added
 - **Home page** ([index.md](index.md)) — framing context: SAP work composition (most English work is Gujarati→English; Sanskrit/Hindi material typically embedded in those projects; significant English-original work) and a scope statement clarifying the guide doesn't cover general English grammar.
 - **Translation index** ([translation/index.md](translation/index.md)) — same composition note in the section intro.
-- **Contributing** (now [feedback.md](feedback.md), renamed in 1.16) — "About the team" admonition acknowledging that most contributors learn on the job, framing the guide as a support tool rather than a gatekeeper.
+- **Contributing** (now [feedback.md](feedback.md), renamed in 1.16) — 'About the team' admonition acknowledging that most contributors learn on the job, framing the guide as a support tool rather than a gatekeeper.
 
 ---
 
@@ -198,7 +213,7 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 ## [1.5] — 2026-05-07
 
 ### Changed
-- **Switched from flat to hierarchical section numbering** for stability when new pages are added. Top-level "Parts" are now numbered 1–11; pages inside a Part take *Part.Chapter* (e.g. *3.3 Capitalization* under Editorial). H2s are *Part.Chapter.Section* (*3.3.1 Core Rules*); H3s are *Part.Chapter.Section.Sub* (*3.3.1.1*).
+- **Switched from flat to hierarchical section numbering** for stability when new pages are added. Top-level 'Parts' are now numbered 1–11; pages inside a Part take *Part.Chapter* (e.g. *3.3 Capitalization* under Editorial). H2s are *Part.Chapter.Section* (*3.3.1 Core Rules*); H3s are *Part.Chapter.Section.Sub* (*3.3.1.1*).
 - Single-page Parts (Concepts = 1, Tithis = 4, Contributing = 11) keep two-level references: *1.1*, *1.1.1*.
 - **Adding a new page in one Part no longer shifts numbers in other Parts** — references like *3.3.1* stay valid even if *Diacritics* (Part 5) gains new pages later. Previously, every chapter from 6 through 37 was at risk of shifting.
 
@@ -241,8 +256,8 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 
 ### Changed
 - [Capitalization](editorial/capitalization.md) — added rules for *Earth* / *earth* and the preferred wording *cycles of birth and death*. Cross-link to the new doctrinal-titles page.
-- [Punctuation](editorial/punctuation.md) — added footnote superscript placement (after sentence punctuation vs after a specific word), spacing rules (one space after a period; no space before a footnote superscript), abbreviation conventions (no periods in *BAPS*, *CMS*, *EPUB*; periods in *V.S.*, *e.g.*, *i.e.*). Removed the "Draft page" banner. Refined dash table to mention complex compounds.
-- [Italics](editorial/italics.md) — added "Italics for English emphasis" (use sparingly) and "Shlokas, padas, and other quoted verses" (italic transliteration + roman translation).
+- [Punctuation](editorial/punctuation.md) — added footnote superscript placement (after sentence punctuation vs after a specific word), spacing rules (one space after a period; no space before a footnote superscript), abbreviation conventions (no periods in *BAPS*, *CMS*, *EPUB*; periods in *V.S.*, *e.g.*, *i.e.*). Removed the 'Draft page' banner. Refined dash table to mention complex compounds.
+- [Italics](editorial/italics.md) — added 'Italics for English emphasis' (use sparingly) and 'Shlokas, padas, and other quoted verses' (italic transliteration + roman translation).
 - [Quotation Marks](editorial/quotation-marks.md) — added rule for terms used in a special sense (double quotes on first use only; roman thereafter).
 - [Tithis](tithis/index.md) — added documented CMS allowance: CMS itself permits the chosen capitalization as a religious-context style choice.
 
