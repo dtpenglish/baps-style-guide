@@ -259,9 +259,6 @@ The capitalization of several specific terms is still under team discussion. The
 - **Honorifics** – *Bhagwan* / *bhagwan*; *Shri* / *shri*. See [Gurus & Honorifics](../discussions/gurus-and-honorifics.md).
 - **Philosophical terms** – *Advaita* / *advaita*; *Darshan* / *darshan*. See [Transliteration](../discussions/transliteration.md).
 
-!!! tip "Resolved: tithis"
-    The capitalization of *tithis* (*Padvo*, *Ekadashi*, *Punam*…) was previously open. It is now settled: **always capitalized, always roman, never italicized.** See [Tithis](../tithis/index.md) (Part 4).
-
 ## 3.3.5 See Also
 - [Italics](italics.md) – what to italicize (capitalization and italicization are independent decisions).
 - [Translation rules](../translation/translation-rules.md) – capitalizing names of prominent figures.
