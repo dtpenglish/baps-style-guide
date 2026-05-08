@@ -18,7 +18,7 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 | Italicize *Bhagwan Swaminarayan*? | No – personal name. Roman, initial caps. |
 | Italicize an Indic term inside quotation marks? | No. |
 | Diacritics in headings? | No. |
-| Plural of *rotlo*? | *rotla* (native) or *rotlo*s (italic word + roman *s*). |
+| Plural of *rotlo*? | *rotla* (native) or *rotlo*s (italic word + *s*). |
 | Plural of pandit? | pandits (anglicized – follow OED). |
 | Oxford comma? | Yes, always. |
 | Single or double quotes? | Double for direct speech and quotations; single for quotes within quotes. |

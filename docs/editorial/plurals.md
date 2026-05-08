@@ -7,7 +7,7 @@ Plurals of Indic words written in roman follow their **native plurals**:
 
 - *rotlo* → *rotla*
 
-Or form the plural of a transliterated Indic word by adding a roman ***s*** to the italic word:
+Or form the plural of a transliterated Indic word by adding an ***s*** to the italic word:
 
 - *rotlo* → *rotlo*s
 
@@ -31,8 +31,8 @@ Anglicized plurals **may** be used on words that are found in the OED (and thus 
 |---|---|---|
 | chapati | Yes | chapatis (per OED) |
 | pandit | Yes | pandits |
-| *rotlo* | No | *rotla* (native plural) – or *rotlo*s with roman *s* |
-| *kathiyavadi* | No | *kathiyavadi*s (roman *s*) |
+| *rotlo* | No | *rotla* (native plural) – or *rotlo*s with *s* |
+| *kathiyavadi* | No | *kathiyavadi*s |
 
 ## 3.6.3 Open Question – Singular Gujarati Words Used as Their Own Plural
 > How should we use singular Gujarati words that are their own plural? E.g., *dandvat*, *pradakshina*, *pranam*… – even though in English we (SAP) do add an *s* in plural usage.
