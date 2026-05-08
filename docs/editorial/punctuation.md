@@ -2,12 +2,12 @@
 ## 3.9.1 Quotation Marks
 SAP uses **typographers' (curly) quotes** throughout — single and double — and reserves the two marks for distinct purposes.
 
-- **Single quotes — primary mark.** Use ' ' for highlighting a word or phrase: a term in a special or technical sense, a motto presented as a phrase, the gloss of an Indic term, the title of a short work, a quoted excerpt of authoritative text.
-- **Double quotes — speech only.** Use " " for direct speech and dialogue: someone quoted as saying or shouting something.
+- **Single quotes — primary mark.** Use `‘ ’` for highlighting a word or phrase: a term in a special or technical sense, a motto presented as a phrase, the gloss of an Indic term, the title of a short work, a quoted excerpt of authoritative text.
+- **Double quotes — speech only.** Use `“ ”` for direct speech and dialogue: someone quoted as saying or shouting something.
 - **Nested.** Inside double-quoted speech, use single quotes; inside single-quoted highlights, use double — invert the marks at each level.
-- Always use **typographers' (curly) quotes**: ' ' " ". Straight quotes (`'` `"`) are typewriter relics; reserve them for code samples and form-field examples.
+- Always use **typographers' (curly) quotes**: `‘ ’` and `“ ”`. Straight quotes (`'` `"`) are typewriter relics; reserve them for code samples and form-field examples.
 
-When typing in source files, plain straight `'` and `"` are auto-converted to the curly forms when the site renders, so authors don't need to enter the Unicode characters by hand. Where you genuinely need to show a *literal* straight quote (e.g. when documenting a code sample), wrap it in backticks so the auto-conversion skips it.
+When typing in source files, plain straight `'` and `"` are auto-converted to the curly forms when the site renders, so authors don't need to enter the Unicode characters by hand. Where you genuinely need to show a *literal* straight quote — e.g. when documenting a code sample — wrap it in backticks so the auto-conversion skips it. The marks shown in code-style above (`‘ ’`, `“ ”`) use the same trick — backticks tell the renderer to leave them exactly as typed.
 
 For quotation marks specifically around translations of Indic terms, see [Quotation Marks](quotation-marks.md).
 
