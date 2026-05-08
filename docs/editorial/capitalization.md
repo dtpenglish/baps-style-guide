@@ -151,9 +151,9 @@ Common terms of respect – *sir*, *ma'am*, *miss* – stay lowercase even in di
 ### 3.3.2.15 Adjectives before Capitalized Nouns – General Rule
 A descriptive adjective is **not** capitalized just because the noun it modifies is capitalized:
 
-- ✅ the **big** Apple (referring to New York)
 - ✅ a **delicious** Italian meal (*Italian* is a proper adjective; *delicious* is descriptive)
 - ✅ the **tall** Eiffel Tower
+- ✅ a **colourful** Diwali celebration
 
 **Exception:** capitalize the adjective when it is part of an established proper noun, formal title, or recognized epithet:
 
@@ -162,6 +162,7 @@ A descriptive adjective is **not** capitalized just because the noun it modifies
 - the **Rocky** Mountains
 - the **Supreme** Court
 - the **Holy** Bible
+- the **Big Apple** (epithet for New York)
 - **Alexander** the **Great**
 
 For BAPS-specific doctrinal designations (*Sarvopari Bhagwan Swaminarayan*, *Param Ekantik Sadhu*, *Brahmaswarup Sadhu*, *Gunatit Guru*), see [Doctrinal Titles](doctrinal-titles.md).
