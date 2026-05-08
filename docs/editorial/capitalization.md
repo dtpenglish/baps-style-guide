@@ -140,6 +140,7 @@ Common terms of respect – *sir*, *ma'am*, *miss* – stay lowercase even in di
 - the Middle Ages, the Renaissance, the Reformation
 - the Jazz Age, the Roaring Twenties
 - the Vedic Period, the Maurya Era
+- the Hindu *yugas* — *Satyuga*, *Tretayuga*, *Dvaparayuga*, *Kaliyuga* — capitalized as proper-noun cosmic ages
 
 **Lowercase** when the description is generic or merely descriptive:
 
