@@ -1,6 +1,11 @@
 # 5.3 The Macron-Only Convention
 !!! info "Scope"
-    This is the **in-house convention** used in the [BAPS master glossary](glossary-reference.md) and in editorial reference material on this site. It is **not** the rule for general-reader SAP publications — for those, see the [SAP Diacritics Policy](sap-policy.md) (no diacritics in body text). For the larger discussion, see [Diacritics & Transliteration](index.md).
+    The macron-only convention applies in **two contexts**:
+
+    1. **The [BAPS master glossary](glossary-reference.md)** — the `diacriticSpelling` column records the macron-only form of each term as a reference.
+    2. **Bhajan and scripture-verse transliterations** within publications — where pronunciation cues matter for recitation and prosody.
+
+    It is **not** used in **prose text**. In body paragraphs, headings, photo captions, footnotes, and titles, terms are set in plain Roman with no diacritics. For the prose rule, see the [SAP Diacritics Policy](sap-policy.md). For the larger discussion, see [Diacritics & Transliteration](index.md).
 
 ## 5.3.1 The Rule
 Long *a* vowels in transliterated Sanskrit, Gujarati, and Hindi terms are marked with a macron: **ā**. No other diacritical marks are used.
@@ -62,8 +67,13 @@ This convention is for **transliteration into English-language editorial context
 
 When transliterating from a Gujarati source, use the Gujarati pronunciation (often closer to *Bhagwān*); from a Sanskrit source, use the Sanskrit pronunciation (often closer to *Bhagavān*). Record the chosen form in the [glossary](glossary-reference.md) and use it consistently.
 
-## 5.3.8 Italicization
-Untranslated transliterated terms are italicized on first appearance and explained briefly: *bhakti* (devotion). Subsequent appearances of the same term are set in roman without italics. Proper nouns (names, titles, place names) are not italicized: Bhagwān Swāminārāyan, Akshardham, the Vachanāmrut.
+## 5.3.8 Italicization in Macron-Only Contexts
+Within a verse transliteration, the entire verse is italicized as a block (see [Italics §3.5.4](../editorial/italics.md#354-shlokas-padas-and-other-quoted-verses)) — individual term italicization doesn't come up.
+
+Within an editorial / glossary-reference context (this site, the spreadsheet's example column), an untranslated transliterated term is italicized on first appearance and explained briefly: *bhakti* (devotion). Subsequent appearances of the same term are set in roman without italics. Proper nouns (names, titles, place names) are not italicized.
+
+!!! warning "Names — no diacritics, regardless of context"
+    Personal names, place names, organization names, and titles of works are spelled **without diacritics** in both prose and verse — *Bhagwan Swaminarayan*, *Sarangpur*, *the Vachanamrut*. The macron-only convention does not apply to names. See [§5.2.2](sap-policy.md#522-names-never-with-diacritics).
 
 !!! tip "When in doubt, check the glossary"
     The [master glossary](glossary-reference.md) records the agreed spelling for ~1,500 BAPS terms. If a term you need isn't there, add it — that's how the glossary grows.

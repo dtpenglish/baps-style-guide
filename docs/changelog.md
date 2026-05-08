@@ -5,6 +5,18 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.17] — 2026-05-08
+
+### Changed
+- **Diacritics scope clarified site-wide.** The macron-only convention is now framed explicitly as applying in **two contexts only**: (a) the [BAPS master glossary](diacritics/glossary-reference.md), where the `diacriticSpelling` column is recorded **for reference**, and (b) **bhajan and scripture-verse transliterations** (*shlokas*, *padas*) within publications. **Diacritics are not preferred in prose text** — body, headings, captions, footnotes, names, titles all stay plain-Roman per the [SAP Diacritics Policy](diacritics/sap-policy.md).
+- **5.4 Glossary Reference** rewritten with explicit guidance: use the `term` (plain-Roman) column for prose; use `diacriticSpelling` (macron-only) only when transliterating a verse. Names use the plain form even within verses.
+- **5.3 Macron-Only Convention** scope intro tightened. 5.3.8 (Italicization) reframed and now warns explicitly that names never carry diacritics, in either prose or verse contexts.
+- **5.2 SAP Diacritics Policy** wording tightened: verses called out specifically as "bhajan and scripture-verse transliterations (*shlokas*, *padas*)". Notes that the BAPS in-house default for verse transliterations is the macron-only convention. Cross-references to the glossary's prose vs verse columns added.
+- **5.1 Diacritics & Transliteration** index — Quick Decision table reorganized; bhajan/verse row added separately from glossary row; "names never carry diacritics, even in verses" stated explicitly.
+- **3.5.4 Shlokas, Padas, and Other Quoted Verses** in [Italics](editorial/italics.md): now points to the macron-only convention as the BAPS default for verse transliterations and to the glossary as the source of each verse term's spelling.
+
+---
+
 ## [1.16] — 2026-05-08
 
 ### Changed

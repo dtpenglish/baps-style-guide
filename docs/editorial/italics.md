@@ -96,12 +96,12 @@ Italics may be used to emphasize a word or short phrase in English prose — but
 Reserve emphasis-italics for genuine contrast or stress that the sentence rhythm cannot otherwise convey. Avoid them as a substitute for forceful diction.
 
 ## 3.5.4 Shlokas, Padas, and Other Quoted Verses
-When quoting a transliterated Sanskrit, Gujarati, or Hindi verse alongside its English translation:
+When quoting a transliterated Sanskrit, Gujarati, or Hindi verse — a *shloka*, *pada*, *bhajan* line, or scripture quotation — alongside its English translation:
 
 - The **transliterated verse** is set in *italics*.
 - The **English translation** is set in roman.
 - Both follow English-language punctuation.
-- Diacritics in the verse follow the project-level decision; see [SAP Diacritics Policy](../diacritics/sap-policy.md) (verses may use diacritics even where general body text does not).
+- Diacritics in the verse text are **permitted** (and preferred where pronunciation matters). The **BAPS in-house default** is the [Macron-Only Convention](../diacritics/macron-convention.md) — long *a* marked with a macron, no other diacritics. A different system (full IAST, etc.) is a project-level decision; see [SAP Diacritics Policy](../diacritics/sap-policy.md). The **prose text** around the verse stays plain-Roman per [§5.2](../diacritics/sap-policy.md). For each transliterated term, the macron-only spelling is recorded in the [glossary's](../diacritics/glossary-reference.md) `diacriticSpelling` column.
 
 > *māgha-māsi sitā-pakṣe pratipadī…*
 > 
