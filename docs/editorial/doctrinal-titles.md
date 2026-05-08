@@ -34,7 +34,7 @@ Examples:
 - a *brahmarup* devotee
 - a *gunatit* state
 - a *brahmaswarup* understanding
-- the *satpurush*-bhakti of devotees
+- the *satpurush*-bhakti of devotees — a hyphenated compound naming the devotional practice (devotion directed toward *a* satpurush) treated as a concept; both elements stay italic and lowercase because the phrase describes the practice generically, not a specific designation
 - a *satpurush* (= "a spiritually elevated person", common-noun usage)
 - *ekantik* devotion / faith / lifestyle (descriptive use of *ekantik*, not the doctrinal designation)
 
