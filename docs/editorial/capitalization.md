@@ -225,10 +225,12 @@ If the post-colon material is a fragment that can't stand alone, lowercase it:
 
 > I know who you are: nobody.
 
-### 3.3.3.4 Prepositions in Phrasal Verbs
-Capitalize the preposition when it forms part of a **phrasal verb** – the preposition is functioning as part of the verb, not introducing a prepositional phrase:
+### 3.3.3.4 Phrasal Verbs and Open Compounds in Titles
+Two title-only quirks for multi-word patterns. Both apply only when setting a title or subhead in title case, not in body prose.
 
-- *How to **Back Up** a Computer* (*back up* = phrasal verb meaning "make a copy")
+**Phrasal verbs** — capitalize the preposition when it forms part of a phrasal verb (the preposition is functioning as part of the verb, not introducing a prepositional phrase):
+
+- *How to **Back Up** a Computer* (*back up* = make a copy)
 - *Turn **Down** the Heat to Save You Money* (*turn down* = reduce)
 - *Look **Up** the Reference* (*look up* = consult)
 
@@ -237,14 +239,13 @@ The same words stay lowercase when used in their ordinary prepositional sense:
 - *Notes **on** the Verb*
 - *Reflections **from** the Road*
 
-### 3.3.3.5 Open Compounds
-When a modifier and a noun together form a recognized open compound (effectively a noun phrase), capitalize both elements:
+**Open compounds** — when a modifier and a noun together form a recognized open compound (effectively a noun phrase), capitalize both elements:
 
 - *Salad Dressing Recipes*
 - *The Best Science Fiction and Fantasy of the Year*
 - *Master Class Notes*
 
-### 3.3.3.6 Sentence Case vs. Title Case – When to Use Which
+### 3.3.3.5 Sentence Case vs. Title Case – When to Use Which
 - **Title case** – capitalize all principal words per the rules above – for headings on this site, digital publications, book titles, chapter titles, magazine and newspaper titles. This is the default everywhere except definitions.
 - **Sentence case** – first word and proper nouns only – reserved for **definitions** in glossaries and term-and-meaning tables. See [3.3.2.16](#33216-definitions-use-sentence-case-not-title-case).
 
