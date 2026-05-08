@@ -40,4 +40,4 @@ Open questions:
 - When a unit is mentioned alongside a metric equivalent, what's the format? (E.g., *one vigha (about 0.4 ha)*?)
 
 ## 10.5.4 Have an Opinion?
-Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Plurals: …`, `Currency: …`, or `Units: …`.
+Send your view via [Feedback](../feedback.md) (mailto link), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Plurals: …`, `Currency: …`, or `Units: …`.

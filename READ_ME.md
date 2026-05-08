@@ -9,18 +9,23 @@ This is a BAPS in-house style guide built with [MkDocs Material](https://squidfu
 ## Quick links
 
 - 📖 [Read the style guide](https://dtpenglish.github.io/baps-style-guide/)
-- ✏️ [How to contribute](docs/contributing.md)
+- ✉️ [Send feedback](docs/feedback.md)
 - 📝 [Changelog](docs/changelog.md)
 
-## How editing works
+## How feedback and editing work
 
-Every page on the live site has a **pencil icon** in the top-right. Click it to open the page directly in GitHub's web editor — no local setup required. Make your edits in Markdown, write a brief description, and submit a pull request. Once reviewed and merged, the change is live within about a minute.
+The site is **read-only** for visitors. The edit-pencil icon has been removed from page headers.
 
-For more detail, see [CONTRIBUTING.md](docs/contributing.md).
+If you'd like to suggest a fix, propose a new convention, or report a typo, see the [Feedback](docs/feedback.md) page — it's a one-click email to the maintainer. GitHub-account holders can alternatively open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).
 
-## Local preview (optional)
+The maintainer ([@dtpenglish](https://github.com/dtpenglish)) is the only person with direct push access. Edits are made via:
 
-If you want to preview changes before pushing — useful for larger edits — set up locally:
+- GitHub's web editor (navigate to the file in the repo, click GitHub's own pencil)
+- [github.dev](https://github.dev/dtpenglish/baps-style-guide) (press <kbd>.</kbd> on any GitHub page)
+- A local clone + `mkdocs serve` for preview
+- Claude Code for substantial work
+
+## Local preview (maintainer only)
 
 ```bash
 # One-time setup
@@ -29,7 +34,7 @@ cd baps-style-guide
 pip install -r requirements.txt
 
 # Preview (rebuilds automatically as you edit)
-mkdocs serve
+mkdocs serve --watch mkdocs.yml
 # Open http://127.0.0.1:8000 in your browser
 ```
 
@@ -39,13 +44,14 @@ mkdocs serve
 baps-style-guide/
 ├── docs/                       # All content (Markdown)
 │   ├── index.md                # Home page
-│   ├── editorial/              # Tone, capitalisation, punctuation
+│   ├── editorial/              # Tone, capitalization, punctuation
 │   ├── diacritics/             # Sanskrit/Gujarati/Hindi conventions
 │   ├── indesign/               # Paragraph styles, master pages
 │   ├── epub/                   # Alt text, reading order
 │   ├── scripts/                # JSX scripts reference
 │   ├── workflows/              # Versioning, file naming
-│   ├── contributing.md
+│   ├── downloads/              # Downloadable scripts and other files
+│   ├── feedback.md             # How to send feedback
 │   └── changelog.md
 ├── mkdocs.yml                  # Site configuration
 ├── requirements.txt            # Python dependencies

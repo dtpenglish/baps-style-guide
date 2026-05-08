@@ -28,4 +28,4 @@ The dot-separated naming sorts cleanly in the Paragraph Styles panel and groups 
 - Cross-publication reusable styles
 - Style mapping for EPUB export (which paragraph styles map to which HTML tags)
 
-Contributions welcome — use the pencil icon, or open an issue to discuss naming changes before applying them.
+Contributions welcome — see [Feedback](../feedback.md) to suggest naming changes before they're applied.

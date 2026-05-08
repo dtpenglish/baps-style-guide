@@ -35,4 +35,4 @@ The English collocation is *detachment **from***:
 - What's our default audience — devotee or general reader? Do different publications shift this?
 - How do we balance scholarly and devotional registers in the same publication?
 
-Please add your thoughts via the pencil icon or as a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).
+Please send your thoughts via [Feedback](../feedback.md) (mailto link), or as a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new).

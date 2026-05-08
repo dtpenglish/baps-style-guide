@@ -1,10 +1,12 @@
 # 11 Downloads
 Files for the BAPS DTP team — JSX scripts, InDesign templates, glossary downloads, and other working files. Click a link to download.
 
-!!! tip "Adding a new file"
+!!! tip "For the maintainer — adding a new file"
     1. Drop the file into [`docs/downloads/files/`](https://github.com/dtpenglish/baps-style-guide/tree/main/docs/downloads/files) in the GitHub repo (use **Add file → Upload files** in the GitHub web UI, or commit locally and push).
-    2. Add a row to the appropriate table below describing the file. Use the pencil icon at the top of this page to edit it.
+    2. Edit this page (`docs/downloads/index.md`) directly on GitHub — navigate to the file and click GitHub's pencil — and add a row to the appropriate table below describing the file.
     3. Push to `main`. The file is live at `/downloads/files/<filename>` within ~1 minute via GitHub Pages.
+
+If you're a team member who'd like a file added or updated, send a note via [Feedback](../feedback.md).
 
 ## 11.1 JSX Scripts
 InDesign scripts. See [Scripts & Tools](../scripts/index.md) and the [JSX Scripts Reference](../scripts/jsx-reference.md) for usage notes and known behaviours. To install: download, then drop into InDesign's User Scripts folder.

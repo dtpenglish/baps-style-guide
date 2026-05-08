@@ -5,6 +5,19 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.16] — 2026-05-08
+
+### Changed
+- **Site is read-only for visitors.** The edit-pencil icon (`content.action.edit`) has been disabled in `mkdocs.yml`. Visitors no longer see an "edit this page" affordance.
+- **Contributing renamed to Feedback** ([docs/contributing.md](feedback.md) → [docs/feedback.md](feedback.md)). The page is now a one-click mailto-the-maintainer flow rather than a how-to-edit-via-pencil walkthrough. Pre-fills subject and a structured body for the email; provides a secondary GitHub Issue option for users with accounts.
+- **Pencil-icon mentions removed across the site** — 16 occurrences across the home page, downloads, all 8 discussion pages, tone-and-voice (3.2), paragraph-styles (6.2), and the repo READ_ME. Each replaced with a pointer to the new Feedback page (mailto link), keeping the existing GitHub Issue option as a secondary path.
+- READ_ME.md updated to reflect the read-only model and to list the maintainer's edit paths (GitHub web editor, github.dev, local clone, Claude Code).
+
+### Why
+Edit access is restricted to the maintainer, so visible "edit" affordances were misleading: clicking the pencil routed visitors through GitHub's fork-and-PR flow, which only collaborators could merge. Replacing the affordance with a mailto-feedback link means every team member — with or without a GitHub account — has a clear way to suggest changes.
+
+---
+
 ## [1.15] — 2026-05-08
 
 ### Removed

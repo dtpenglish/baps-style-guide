@@ -5,7 +5,7 @@ These are **not** rules. They are decisions waiting to be made.
 
 !!! tip "How to use these pages"
     - **Reading them?** Treat each item as "currently any of these is acceptable, but the team is working towards one." When in doubt, follow the rules elsewhere in this guide and the [glossary](../diacritics/glossary-reference.md).
-    - **Have an opinion?** Click the pencil icon on any page to propose wording for the resolution, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) with the specific item in the title.
+    - **Have an opinion?** Send your view via [Feedback](../feedback.md), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) with the specific item in the title.
     - **Made a decision in a meeting?** Update the page so the rest of the team can see, and add an entry to the [changelog](../changelog.md).
 
 ## 10.1.1 Pages in This Section

@@ -17,4 +17,4 @@ Considerations:
 - **Author flexibility.** A single-variety web rule overrides individual authors' preferences.
 
 ## 10.7.1 Have an Opinion?
-Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Web: BrE vs AmE`.
+Send your view via [Feedback](../feedback.md) (mailto link), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Web: BrE vs AmE`.

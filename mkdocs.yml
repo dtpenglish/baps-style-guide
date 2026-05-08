@@ -14,7 +14,7 @@ site_author: BAPS SAP Team
 site_url: https://dtpenglish.github.io/baps-style-guide/
 
 # ---------------------------------------------------------------
-# Repository — enables the "Edit this page" pencil icon
+# Repository — surfaces the "View source" eye icon and ties the site to the GitHub repo
 # ---------------------------------------------------------------
 repo_name: dtpenglish/baps-style-guide
 repo_url: https://github.com/dtpenglish/baps-style-guide
@@ -181,7 +181,7 @@ nav:
       - "10.7 Web — BrE or AmE?": discussions/web.md
       - "10.8 Base Style Manual": discussions/base-style-manual.md
   - Downloads: downloads/index.md
-  - Contributing: contributing.md
+  - Feedback: feedback.md
   - Changelog: changelog.md
 
 # ---------------------------------------------------------------

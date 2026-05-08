@@ -23,4 +23,4 @@ Adopting (for example) the *Chicago Manual of Style* would mean: "If this guide 
 - **Scope of departures** — every departure adds maintenance cost. The fewer the better.
 
 ## 10.8.4 Have an Opinion?
-Click the pencil icon, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Base manual: <CMOS|AP|Oxford|other>`.
+Send your view via [Feedback](../feedback.md) (mailto link), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Base manual: <CMOS|AP|Oxford|other>`.

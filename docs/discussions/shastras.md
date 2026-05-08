@@ -24,4 +24,4 @@ Open question: when *Shri* prefixes the name of a person inside a title (e.g. *S
 The same question applies to *Shriharililakalpataru* and similar compound titles.
 
 ## 10.4.3 Have an Opinion?
-Click the pencil icon to propose a citation format, or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Shastras: …`.
+Propose a citation format via [Feedback](../feedback.md) (mailto link), or open a [GitHub Issue](https://github.com/dtpenglish/baps-style-guide/issues/new) titled `Shastras: …`.

@@ -6,7 +6,7 @@ Most of our English-language work consists of **translations from Gujarati sourc
 This site documents the editorial, design, and production conventions for all of that — across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar; authors and editors work collaboratively on grammatical questions, drawing on standard references where needed.
 
 !!! tip "How to use this guide"
-    Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? Click the **pencil icon** at the top of any page to suggest an edit.
+    Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? See [Feedback](feedback.md) — one click sends an email to the maintainer.
 
 ## Sections at a Glance
 <div class="grid cards" markdown>
@@ -96,4 +96,4 @@ Three rules underpin everything else in this guide:
 The "last updated" date at the bottom of every page reflects the most recent commit. Major changes to conventions are recorded in the [changelog](changelog.md).
 
 ## Contributing
-This guide is maintained collaboratively by the BAPS DTP team. Anyone on the team can propose edits. See [Contributing](contributing.md) for the full workflow — from one-line typo fixes to substantial new sections.
+This guide is maintained collaboratively by the BAPS DTP team. Anyone on the team can suggest changes — see [Feedback](feedback.md) to send a note to the maintainer.
