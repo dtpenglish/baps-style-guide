@@ -26,6 +26,24 @@ In InDesign, use the proper Unicode character for the en dash (<kbd>U+2013</kbd>
 
 For compound modifiers with numbers (*twenty-nine members*, *a 5-pound bag*, *an 18th-century novel*) and the rules on hyphenation between numerals and units, see [Numbers §3.7.5](numbers.md#375-compound-modifiers-and-unit-spacing).
 
+### 3.9.2.1 Interrupted Dialogue
+Use a **spaced en dash** to mark speech sharply cut off — by another speaker, an action, or a sudden break:
+
+- ‘I was just wondering – ’ / ‘Don't ask,’ he snapped.
+- ‘I can't believe it’ – he paced the room – ‘not after all this.’
+
+For speech that **trails off** or falters rather than being cut off, use an **ellipsis**, not a dash:
+
+- ‘I thought perhaps … but never mind.’
+
+This matches the BrE convention and the spaced-en-dash rule of [3.9.2](#392-dashes); CMS uses an unspaced em dash here, which SAP does not.
+
+### 3.9.2.2 Ranges with *from* and *between*
+Don't combine *from* or *between* with a range dash — use the word pair or the dash, not both:
+
+- ✅ *from 1990 to 2000* / ✅ *1990–2000* / ❌ *from 1990–2000*
+- ✅ *between 1914 and 1918* / ✅ *1914–1918* / ❌ *between 1914–1918*
+
 ## 3.9.3 Series and the Oxford Comma
 Use the Oxford (serial) comma in lists of three or more:
 
@@ -62,7 +80,11 @@ When the note refers to a specific word, the superscript follows that word and p
 
 - He cited Mead⁴, Smith⁵, and Wilson⁶ as sources.
 
-Both *CMS* (§14.27) and *Hart's Rules* (§13.4) give the same guidance — the cue follows the punctuation in all cases. The only standard exception is the em dash, which the cue precedes — but SAP doesn't use the em dash (see [3.9.2](#392-dashes)), so this exception doesn't arise.
+Both *CMS* (§14.27) and *Hart's Rules* (§13.4) give the same guidance — the cue follows the punctuation in all cases. The one standard exception is the **dash** (em or en): the cue precedes it. Since SAP uses a **spaced en dash** for parenthetical breaks (see [3.9.2](#392-dashes)) and not the em dash, the exception applies to the spaced en dash:
+
+- The findings were controversial⁷ – and widely disputed.
+
+Place the cue immediately after the word it refers to, before the space and the dash — not after the dash.
 
 (Some older British style guides recommended placing the cue *before* colons and semicolons on the rationale that they're "soft" punctuation. This convention is no longer the consensus and is not used here.)
 

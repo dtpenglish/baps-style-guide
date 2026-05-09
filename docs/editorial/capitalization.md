@@ -42,8 +42,14 @@ This applies regardless of whether diacritics appear in the body text.
 - **Generic descriptive adjectives:** *spiritual*, *philosophical*, *devotional*, *religious*, *traditional*, *ethical* — these don't derive from proper nouns and stay lowercase. (Proper adjectives like *Hindu*, *Vedic*, *Swaminarayan*, *Gandhian* are always capitalized — see [3.3.2.6](#3326-proper-adjectives-derived-from-names-places-religions-and-scriptures).)
 
 ### 3.3.2.3 *Earth* / *earth*
-- **Earth** (capitalized) when referring to the planet in scientific or formal contexts: *life on Earth*.
-- **earth** (lowercase) when referring to soil, land, or in idiomatic usage: *tilling the earth*; *down to earth*.
+The capitalization depends on whether the reference is to the **planet by name** or to **soil, ground, the world, or the elemental matter**.
+
+- **Earth** (capitalized) — proper-noun reference to the planet, alongside *Mars*, *Venus*, *Jupiter*: *life exists only on Earth*; *Earth revolves around the Sun*. *The Earth* and *Earth* are both acceptable for the planetary reference; the article-less form reads as more modern.
+- **earth** (lowercase) — common-noun reference to soil, ground, land, the material element, or the world in a non-astronomical sense: *the seeds fell to the earth*; *fire, water, air, and earth*; *peace on earth*.
+
+In theological and philosophical writing, lowercase is usually correct, since the reference is to the **earthly realm** or **material creation** rather than the planet by name: *attachment to earthly pleasures*; *the earth element*; *beings on earth*. Capitalize only when the planet itself is named: *all beings living on Earth*.
+
+A useful test: 'Am I naming the planet?' Yes → *Earth*; no → *earth*.
 
 ### 3.3.2.4 Word Choice – *Cycle of Births and Deaths*
 The preferred form is the singular-plural pair: ***cycle of births and deaths***.
