@@ -91,24 +91,24 @@ The general principle: a period marks something **omitted at the end** of a word
 | **Truncation** (end omitted) | ✅ Yes | *Mon.*, *Tues.*, *Wed.*, *Prof.*, *vol.*, *cont.*, *etc.* |
 | **Contraction** (interior dropped) | ❌ No | *Mr*, *Mrs*, *Dr*, *Revd*, *St* (Saint), *Ltd* |
 | **All-cap acronym / initialism** (2+ letters) | ❌ No | *BAPS*, *CMS*, *EPUB*, *PDF*, *USA*, *BBC*, *NATO*, *PhD*, *CEO* |
-| **Personal name initials** | ❌ No (BrE) | *TS Eliot*, *RK Narayan* (no spaces, no periods). The older *T. S. Eliot* form is acceptable but unspaced is preferred. |
+| **Personal name initials** | ✅ Yes (no spaces) | *T.S. Eliot*, *R.K. Narayan* — periods between initials, no space between them. |
 | **Classical Latin abbreviations** | ✅ Yes | *V.S.* (Vikram Samvat), *e.g.*, *i.e.*, *etc.*, *a.m.*, *p.m.* |
 
 *V.S.* takes a non-breaking space before the year: *V.S.&nbsp;2080*. (In Markdown source: `V.S.&nbsp;2080`.)
 
 ### 3.9.7.2 Acronyms vs. Initialisms
-- **Acronyms** are pronounced as words: *NATO*, *NASA*, *BAPS*, *AIDS*, *COVID*. No full stops between letters.
-- **Initialisms** are spelled out letter by letter: *BBC*, *MEP*, *USA*, *CMS*, *PDF*. No full stops between letters.
+- **Acronyms** are pronounced as words: *NATO*, *NASA*, *AIDS*, *COVID*. No full stops between letters.
+- **Initialisms** are spelled out letter by letter: *BAPS* (B-A-P-S), *BBC*, *MEP*, *USA*, *CMS*, *PDF*. No full stops between letters.
 
 ### 3.9.7.3 Capitalization by Length
 - **Five letters or fewer** – uppercased throughout: *BAPS*, *NASA*, *NATO*, *AIDS*, *COVID*, *EPUB*.
 - **Six letters or more** – usually initial capital plus lowercase: *Unesco*, *Unicef*, *Interpol*, *Benelux*.
 - Exceptions follow the entity's own convention – some longer acronyms (e.g. *UNESCO*) are styled all-caps by the organization itself; follow the established form.
 
-### 3.9.7.4 Articles before Acronyms
+### 3.9.7.4 Articles before Acronyms and Initialisms
 - **Initialisms** generally take *the*: *the BBC*, *the EU*, *the UK*, *the WHO*.
-- **Acronyms** generally do not: *NATO meets in Brussels*, *NASA launched*, *BAPS publishes*.
-- Company and university names follow the entity's own convention: *ICI*, *IBM*, *UCL*.
+- **Acronyms** generally do not: *NATO meets in Brussels*, *NASA launched*.
+- Company, university, and institution names follow the entity's own convention: *ICI*, *IBM*, *UCL*, *BAPS publishes* (no *the*, even though BAPS is an initialism).
 
 ### 3.9.7.5 First Mention – Spell Out, Then Abbreviate
 On first appearance in a document, write out the full term followed by the abbreviation in parentheses:
