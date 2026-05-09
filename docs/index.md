@@ -71,7 +71,7 @@ This site documents the editorial, design, and production conventions for all of
 
     ---
 
-    Reference for our JSX scripts (`ArticleBuilder`, `AddAltText`, `SplitVachanamrut`, `ExportToWord_Generic`).
+    Reference for our JSX scripts (`ArticleBuilder`, `AddAltText`, `ExportToWord_Generic`).
 
     [:octicons-arrow-right-24: Scripts reference](scripts/index.md)
 

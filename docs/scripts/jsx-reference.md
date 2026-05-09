@@ -68,19 +68,7 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 
 ---
 
-## 8.2.4 SplitVachanamrut.jsx
-**Current version:** (record current version)
-
-**Purpose:** Splits the Vachanamrut master document into per-section or per-discourse files.
-
-**Run:** Double-click in the Scripts panel.
-
-!!! info "Documentation needed"
-    This entry is a placeholder. Add usage notes, options, and any known edge cases.
-
----
-
-## 8.2.5 ExtendScript Gotchas
+## 8.2.4 ExtendScript Gotchas
 A handful of issues that have caught us out and are worth knowing before writing or extending these scripts:
 
 - **`item.pageItems` vs `item.allPageItems`:** the latter returns typed objects (groups, etc.); the former returns generic page items. Use `allPageItems` when you need to reason about types.
@@ -89,7 +77,7 @@ A handful of issues that have caught us out and are worth knowing before writing
 - **ScriptUI scrolling:** broken in long lists. Replace with an HTML-in-browser preview when you need scrollable content.
 - **Pre-compute before `pd.show()`:** any long-running DOM work after the dialogue opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialogue.
 
-## 8.2.6 Related
+## 8.2.5 Related
 - [Versioning Rules](../workflows/versioning.md) – every script edit produces a new versioned file
 - [Reading Order](../epub/reading-order.md) – what `ArticleBuilder.jsx` actually produces
 - [Alt Text Guidelines](../epub/alt-text.md) – what `AddAltText.jsx` actually applies
