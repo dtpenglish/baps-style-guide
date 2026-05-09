@@ -164,7 +164,9 @@ nav:
   - InDesign:
       - "6.1 InDesign": indesign/index.md
       - "6.2 Paragraph Styles": indesign/paragraph-styles.md
-      - "6.3 Master Pages": indesign/master-pages.md
+      - "6.3 Character Styles": indesign/character-styles.md
+      - "6.4 Object Styles": indesign/object-styles.md
+      - "6.5 Master Pages": indesign/master-pages.md
   - EPUB:
       - "7.1 EPUB Accessibility": epub/index.md
       - "7.2 Alt Text Guidelines": epub/alt-text.md

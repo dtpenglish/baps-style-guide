@@ -1,8 +1,8 @@
-# 6.3 Master Pages
+# 6.5 Master Pages
 !!! info "Draft page"
     Document the master-page setup for our standard publication templates.
 
-## 6.3.1 What to Cover
+## 6.5.1 What to Cover
 - Margin and column settings for our standard publication templates
 - Header content (publication title, section title, page number positioning)
 - Footer content
