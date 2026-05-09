@@ -9,7 +9,7 @@ Open questions:
 - For each scripture, what is the **full title** for first mention vs the **abbreviated title** for subsequent mentions? (E.g., *Vachanamrut Gadhada I.1* vs *Gadh I.1*.)
 - Which titles are **italicized** (as titles of works)? Are *Vachanamrut*, *Shikshapatri*, *Swamini Vato* always in italics?
 - How do we **hyphenate** long compound titles to aid pronunciation?
-- What's the **citation format** – *Vachanamrut Gadhada I.1*, *Vach. Gadh. I.1*, *Gadh I.1*?
+- What's the **citation format** – *Vachanamrut Gadhada I.1*, *Vach Gadh I.1*, *Gadh I.1*?
 - Should the **section separator** in citations be a period (`I.1`) or another mark?
 
 ## 10.4.2 'Shri' – Honorific or Part of the Title?
