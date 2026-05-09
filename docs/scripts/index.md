@@ -22,4 +22,3 @@ Current versions of the major scripts (May 2026):
 | `ArticleBuilder.jsx` | v4.39 |
 | `AddAltText.jsx` | v17 |
 | `ExportToWord_Generic.jsx` | v11g |
-| `SplitVachanamrut.jsx` | (record current version) |
