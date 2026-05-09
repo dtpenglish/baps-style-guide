@@ -14,7 +14,6 @@ These are **not** rules. They are decisions waiting to be made.
 - [Shastras](shastras.md) – titles and citation conventions for our scriptures
 - [Indic Words](indic-words.md) – plurals, currency, units
 - [Transliteration](transliteration.md) – the long list of transliteration choices still under discussion
-- [Web – BrE or AmE?](web.md) – language choice for our digital publications
 - [Base Style Manual](base-style-manual.md) – should we adopt Chicago / AP / Oxford as our base?
 
 ## 10.1.2 A Meta Note

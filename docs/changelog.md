@@ -284,7 +284,7 @@ Edit access is restricted to the maintainer, so visible "edit" affordances were 
 - New **Translation & Transliteration** section ([translation/index.md](translation/index.md), [translation-rules.md](translation/translation-rules.md)) – when to translate, when to transliterate, and when to use the OED spelling.
 - New editorial pages: [Italics](editorial/italics.md), [Plurals](editorial/plurals.md), and [Quotation Marks](editorial/quotation-marks.md).
 - New [SAP Diacritics Policy](diacritics/sap-policy.md) page documenting the official SAP rule: no diacritics in headings, body text, or legends; diacritics permitted in transliterations of verses.
-- New **Open Discussions** section – [Sanstha & Mandirs](discussions/sanstha-and-mandirs.md), [Gurus & Honorifics](discussions/gurus-and-honorifics.md), [Shastras](discussions/shastras.md), [Indic Words](discussions/indic-words.md), [Transliteration](discussions/transliteration.md), [Web – BrE or AmE?](discussions/web.md), [Base Style Manual](discussions/base-style-manual.md).
+- New **Open Discussions** section – [Sanstha & Mandirs](discussions/sanstha-and-mandirs.md), [Gurus & Honorifics](discussions/gurus-and-honorifics.md), [Shastras](discussions/shastras.md), [Indic Words](discussions/indic-words.md), [Transliteration](discussions/transliteration.md), [Base Style Manual](discussions/base-style-manual.md).
 
 ### Changed
 - [Editorial – Capitalization](editorial/capitalization.md) rewritten; the previous draft is superseded.
