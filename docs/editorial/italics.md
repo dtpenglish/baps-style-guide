@@ -61,7 +61,7 @@ If any essential part of a multiword phrase is non-naturalized, italicize the **
 
 The phrase functions as a single doctrinal concept, named practice, or technical expression – typography reflects that semantic unity.
 
-This rule applies to descriptive multiword phrases. Phrases that are formal doctrinal designations (e.g., *Akshar-Purushottam Darshan*, *Gunatit Guru Parampara*) follow the [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md) rules and are roman.
+This rule applies to descriptive multiword phrases. Phrases that are formal doctrinal designations (e.g. *Akshar-Purushottam Darshan*, *Gunatit Guru Parampara*) follow the [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md) rules and are roman.
 
 ## 3.5.2 Punctuation Adjacent to Italicized Phrases
 The default rule: punctuation appears in the same font as the **surrounding text**, not the italicized word or phrase. So a comma, period, question mark, or other mark following an italicized word in roman prose stays roman.

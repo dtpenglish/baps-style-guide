@@ -70,7 +70,7 @@ Examples:
 These are proper titles of specific individuals.
 
 ### 3.4.1.5 *Swami* as a Substitute for a Specific Name
-When ***Swami*** is used to refer back to a **specific, previously identified individual** (e.g., Shukanand Swami in a passage already introducing him), it functions as a shortened proper name and is **capitalized, roman**:
+When ***Swami*** is used to refer back to a **specific, previously identified individual** (e.g. Shukanand Swami in a passage already introducing him), it functions as a shortened proper name and is **capitalized, roman**:
 
 > Bhagwan Swaminarayan asked **Swami** to initiate Dungar by giving *vartman*. Dungar gazed up at **Swami** constantly.
 

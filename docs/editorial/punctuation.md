@@ -152,12 +152,12 @@ Apostrophe-*s* is reserved for the possessive: *MEPs' salaries*, *the BBC's cove
 For abbreviations ending in *S*, the plural can take a final *s* (*SOSs*) or be left to stand for both singular and plural where unambiguous (*PES* = "public employment service(s)"). Use the full plural term when ambiguity threatens.
 
 ### 3.9.7.7 Commas with *i.e.*, *e.g.*, and *etc.*
-*i.e.* and *e.g.* take a comma **before** them in running text and a comma **after** them. This is the Oxford-aligned style; SAP retains the comma after for clarity in formal and devotional writing, even though some BrE publications omit it.
+*i.e.* and *e.g.* take a comma **before** them in running text but **no comma after**. This is the BrE convention (Oxford, Hart's, *The Economist*); SAP follows it. The trailing comma is the standard CMS-US form and is not used here.
 
-- ✅ The soul experiences three states, **i.e., waking, dreaming, and deep sleep.**
-- ✅ Several rituals are common, **e.g., puja, arti, and havan.**
-- ❌ The soul experiences three states, *i.e. waking, dreaming, and deep sleep.* *(no comma after)*
-- ❌ The soul experiences three states *i.e., waking, dreaming, and deep sleep.* *(no comma before)*
+- ✅ The soul experiences three states, **i.e. waking, dreaming, and deep sleep.**
+- ✅ Several rituals are common, **e.g. puja, arti, and havan.**
+- ❌ The soul experiences three states, *i.e., waking, dreaming, and deep sleep.* *(no comma after — that's the US form)*
+- ❌ The soul experiences three states *i.e. waking, dreaming, and deep sleep.* *(no comma before)*
 
 *etc.* takes a comma **before** it when it follows a list of three or more items, and a comma **after** it only when the sentence continues:
 
