@@ -1777,10 +1777,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#824-splitvachanamrutjsx" class="md-nav__link">
+  <a href="#824-extendscript-gotchas" class="md-nav__link">
     <span class="md-ellipsis">
       
-        8.2.4 SplitVachanamrut.jsx
+        8.2.4 ExtendScript Gotchas
       
     </span>
   </a>
@@ -1788,21 +1788,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#825-extendscript-gotchas" class="md-nav__link">
+  <a href="#825-related" class="md-nav__link">
     <span class="md-ellipsis">
       
-        8.2.5 ExtendScript Gotchas
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#826-related" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        8.2.6 Related
+        8.2.5 Related
       
     </span>
   </a>
@@ -2396,10 +2385,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#824-splitvachanamrutjsx" class="md-nav__link">
+  <a href="#824-extendscript-gotchas" class="md-nav__link">
     <span class="md-ellipsis">
       
-        8.2.4 SplitVachanamrut.jsx
+        8.2.4 ExtendScript Gotchas
       
     </span>
   </a>
@@ -2407,21 +2396,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#825-extendscript-gotchas" class="md-nav__link">
+  <a href="#825-related" class="md-nav__link">
     <span class="md-ellipsis">
       
-        8.2.5 ExtendScript Gotchas
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#826-related" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        8.2.6 Related
+        8.2.5 Related
       
     </span>
   </a>
@@ -2512,16 +2490,7 @@
 <li><code>ChangeTypes.INSERTED_TEXT</code> for filtering insertions.</li>
 </ul>
 <hr>
-<h2 id="824-splitvachanamrutjsx">8.2.4 SplitVachanamrut.jsx<a class="headerlink" href="#824-splitvachanamrutjsx" title="Anchor link to this section">¶</a></h2>
-<p><strong>Current version:</strong> (record current version)</p>
-<p><strong>Purpose:</strong> Splits the Vachanamrut master document into per-section or per-discourse files.</p>
-<p><strong>Run:</strong> Double-click in the Scripts panel.</p>
-<div class="admonition info">
-<p class="admonition-title">Documentation needed</p>
-<p>This entry is a placeholder. Add usage notes, options, and any known edge cases.</p>
-</div>
-<hr>
-<h2 id="825-extendscript-gotchas">8.2.5 ExtendScript Gotchas<a class="headerlink" href="#825-extendscript-gotchas" title="Anchor link to this section">¶</a></h2>
+<h2 id="824-extendscript-gotchas">8.2.4 ExtendScript Gotchas<a class="headerlink" href="#824-extendscript-gotchas" title="Anchor link to this section">¶</a></h2>
 <p>A handful of issues that have caught us out and are worth knowing before writing or extending these scripts:</p>
 <ul>
 <li><strong><code>item.pageItems</code> vs <code>item.allPageItems</code>:</strong> the latter returns typed objects (groups, etc.); the former returns generic page items. Use <code>allPageItems</code> when you need to reason about types.</li>
@@ -2530,7 +2499,7 @@
 <li><strong>ScriptUI scrolling:</strong> broken in long lists. Replace with an HTML-in-browser preview when you need scrollable content.</li>
 <li><strong>Pre-compute before <code>pd.show()</code>:</strong> any long-running DOM work after the dialogue opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialogue.</li>
 </ul>
-<h2 id="826-related">8.2.6 Related<a class="headerlink" href="#826-related" title="Anchor link to this section">¶</a></h2>
+<h2 id="825-related">8.2.5 Related<a class="headerlink" href="#825-related" title="Anchor link to this section">¶</a></h2>
 <ul>
 <li><a href="../../workflows/versioning/">Versioning Rules</a> – every script edit produces a new versioned file</li>
 <li><a href="../../epub/reading-order/">Reading Order</a> – what <code>ArticleBuilder.jsx</code> actually produces</li>
@@ -2558,7 +2527,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"></path></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="May 8, 2026 17:03:08 UTC"><span class="timeago" datetime="2026-05-08T17:03:08+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="May 8, 2026 17:03:08 UTC">2026-05-08</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="May 9, 2026 02:35:47 UTC"><span class="timeago" datetime="2026-05-09T02:35:47+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="May 9, 2026 02:35:47 UTC">2026-05-09</span>
   </span>
 
     
