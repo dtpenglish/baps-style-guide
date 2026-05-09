@@ -51,13 +51,20 @@ Place the superscript number **after the punctuation** when the note refers to t
 | Whole sentence or quotation | After the closing punctuation | *…the term used was 'bahyadrashti'.¹* |
 | Specific word | Immediately after the word, before the punctuation | *…the term used was 'bahyadrashti'¹.* |
 
-### 3.9.6.1 Footnote Numbers with Colons and Semicolons
-The superscript goes **before** a colon or semicolon, regardless of what the note refers to:
+### 3.9.6.1 Footnote Numbers with Colons, Semicolons, and Other Punctuation
+The general rule in 3.9.6 applies uniformly to **every** punctuation mark — period, comma, semicolon, colon, question mark, exclamation point. When the note refers to the whole sentence or phrase, the superscript follows the punctuation:
 
-- The study claimed that 'results were reproducible'²; however, later attempts failed.
-- He raised three concerns³: funding, scope, and timing.
+- The evidence is inconclusive,¹ the researcher admitted.
+- The study claimed that 'results were reproducible';² later attempts failed.
+- He raised three concerns:³ funding, scope, and timing.
 
-This is the BrE convention; commas and full stops still take the superscript after, per the rule above.
+When the note refers to a specific word, the superscript follows that word and precedes the punctuation:
+
+- He cited Mead⁴, Smith⁵, and Wilson⁶ as sources.
+
+Both *CMS* (§14.27) and *Hart's Rules* (§13.4) give the same guidance — the cue follows the punctuation in all cases. The only standard exception is the em dash, which the cue precedes — but SAP doesn't use the em dash (see [3.9.2](#392-dashes)), so this exception doesn't arise.
+
+(Some older British style guides recommended placing the cue *before* colons and semicolons on the rationale that they're "soft" punctuation. This convention is no longer the consensus and is not used here.)
 
 ### 3.9.6.2 Footnote Numbers with Quoted Material
 When the footnote refers specifically to **quoted material** within a sentence, the superscript goes immediately after the closing quotation mark:
