@@ -129,11 +129,11 @@ Insert a space between the numeral and a unit symbol or abbreviation:
 - a 45° angle
 
 ### 3.7.5.7 When the Written-Out Number Is Itself a Compound
-Don't hyphenate a compound adjective when the spelled-out number is itself a compound. Use the abbreviated form:
+A compound modifier with a spelled-out compound number (*two hundred and fifty*, *one thousand five hundred*) would technically need hyphens linking every element — *a two-hundred-and-fifty-millilitre flask* — but the result is unwieldy. Use the **abbreviated numeral form** instead:
 
-- ❌ a two hundred and fifty millilitre flask
+- ❌ a two-hundred-and-fifty-millilitre flask  *(grammatically correct but cumbersome)*
 - ✅ a 250 ml flask
-- ❌ a one thousand five hundred metre run
+- ❌ a one-thousand-five-hundred-metre run  *(same — too many hyphens)*
 - ✅ a 1,500 m run
 
 ## 3.7.6 See Also
