@@ -26,7 +26,7 @@ This departs from CMS (which spells out one through one hundred) and aligns more
 | Percentages | 75 per cent (BrE) / 75% in tabular contexts |
 | Statistics | 1,586 glossary entries; 213 footnotes |
 | Mixed counts within technical contexts | A 2000-word article; a 50-page chapter |
-| Article and chapter numbers | Vachanamrut Gadhada I.1 |
+| Article and chapter numbers | Vachanamrut Gadhada I 1 |
 | Currency with a unit | ₹500, $25, £10 |
 | Times of day with a.m. / p.m. | 6 a.m., 9.30 p.m. |
 | Round large numbers | 1 million, 2 billion (or *1,000,000* in tables) |
