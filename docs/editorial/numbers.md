@@ -78,17 +78,19 @@ When a number plus a noun forms a compound adjective before another noun, hyphen
 
 When the number applies in standalone (non-modifier) usage, no hyphen: *the entrance was two metres wide*; *the project cost \$4 million*.
 
-### 3.7.5.3 No Hyphen Before Symbols or Metric Unit Abbreviations
-A hyphen never appears between a numeral and a symbol or a metric unit abbreviation, even in adjectival use:
+### 3.7.5.3 No Hyphen Before Symbols or Unit Abbreviations
+A hyphen never appears between a numeral and a symbol or a unit abbreviation (metric or imperial), even in adjectival use:
 
 - ✅ a 100 °C thermometer    ❌ a 100-°C thermometer
 - ✅ a 30% increase    ❌ a 30-% increase
 - ✅ a 5 km trail    ❌ a 5-km trail
 - ✅ 35 mm film    ❌ 35-mm film
 - ✅ a 100 W bulb    ❌ a 100-W bulb
+- ✅ a 10 ft tree    ❌ a 10-ft tree
+- ✅ a 5 lb bag    ❌ a 5-lb bag
 
 ### 3.7.5.4 Use Singular Form in Compound Modifiers
-When a unit appears in a compound adjective, use the **singular** form even for multiple units:
+When a **spelled-out** unit appears in a compound adjective, use the **singular** form even for multiple units:
 
 - a **10-foot** tree (not *10-feet*)
 - a **5-pound** bag
@@ -97,6 +99,16 @@ When a unit appears in a compound adjective, use the **singular** form even for 
 - an **80-foot-wide** screen
 
 Standalone usage takes the plural: *He climbed 10 feet. The bag weighs 5 pounds. The shift lasted 12 hours.*
+
+**Abbreviated units take no hyphen.** When the unit is abbreviated (*ft*, *in*, *cm*, *mm*, *kg*, *lb*, *km*, *m*, *s*, etc.), do not hyphenate the numeral to the unit; the abbreviation is the same for singular and plural and is space-separated:
+
+- a **10 ft** tree
+- a **5 lb** bag
+- a **35 mm** film
+- a **100 cm** depth
+- a **5 km** trail
+
+This is the same rule as [3.7.5.3](#3753-no-hyphen-before-symbols-or-metric-unit-abbreviations) — extended here to all unit abbreviations, both metric and imperial.
 
 ### 3.7.5.5 No Hyphen with a Possessive Noun
 A possessive noun preceded by a number takes no hyphen:
