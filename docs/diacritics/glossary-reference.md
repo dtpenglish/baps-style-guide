@@ -11,13 +11,9 @@ Before introducing or correcting a term in any publication, check the glossary f
     The `diacriticSpelling` column is what to use when transliterating a *bhajan*, *shloka*, *pada*, or other verse content where the macron helps the reader pronounce the term. **In prose text** – body paragraphs, headings, photo captions, footnotes, titles – use the plain-Roman headword. Diacritics are not preferred in prose. See [SAP Diacritics Policy](sap-policy.md).
 
 ## 5.4.1 Where It Lives
-The current master file is:
+The glossary covers Sanskrit, Gujarati, and Hindi terms used across BAPS publications. A link to the current version will be provided here once it is ready.
 
-```
-glossary-all-2026-04-15_v1.2.xlsx
-```
-
-It contains 1,586 rows covering Sanskrit, Gujarati, and Hindi terms used across BAPS publications. Columns:
+Columns:
 
 | Column | Contents | When to use |
 |---|---|---|
@@ -27,9 +23,6 @@ It contains 1,586 rows covering Sanskrit, Gujarati, and Hindi terms used across 
 | `definition` | Brief gloss for editorial reference | Reference |
 | `sourceLanguage` | Sanskrit / Gujarati / Hindi | Reference |
 | `notes` | Usage notes, alternative spellings, cross-references | Reference |
-
-!!! note "Path"
-    The file path is internal to the DTP team's working drives. Ask the maintainer for the current location if you need direct access. The glossary itself is not stored in this site's repository – only this reference page is.
 
 ## 5.4.2 How to Use It
 **For routine prose editorial work (the typical case):**
@@ -56,18 +49,7 @@ Personal names, place names, organization names, and titles of works are spelled
 2. Propose an addition via [Feedback](../feedback.md).
 3. Apply the [macron-only convention](macron-convention.md) when writing the diacritic-spelling field for the new entry.
 
-## 5.4.3 Updating the Glossary
-The glossary is versioned separately from this style guide. The current scheme (as of April 2026):
-
-- Filename pattern: `glossary-all-YYYY-MM-DD_vX.Y.xlsx`
-- Each substantive update bumps the version (`v1.2` → `v1.3`).
-- Major restructures (column changes, scope changes) bump the major version (`v1.x` → `v2.0`).
-- Old versions are retained – never overwritten. See [versioning rules](../workflows/versioning.md).
-
-Changes to conventions that the glossary embodies – for instance, a decision to start marking long *i* – should be documented in this style guide's [changelog](../changelog.md) before being applied to the glossary file.
-
-## 5.4.4 Related
+## 5.4.3 Related
 - [SAP Diacritics Policy](sap-policy.md) – the rule for prose: no diacritics in body text, headings, captions, names.
 - [Macron-Only Convention](macron-convention.md) – the rule the `diacriticSpelling` column applies, for use in verse transliterations.
 - [Italics §3.5.4 Shlokas, Padas, and Other Quoted Verses](../editorial/italics.md#354-shlokas-padas-and-other-quoted-verses) – typographic treatment of verses.
-- [Versioning Rules](../workflows/versioning.md) – why the glossary filename always carries a version.
