@@ -85,7 +85,7 @@ The general principle: a period marks something **omitted at the end** of a word
 | **Contraction** (interior dropped) | ❌ No | *Mr*, *Mrs*, *Dr*, *Revd*, *St* (Saint), *Ltd* |
 | **All-cap acronym / initialism** (2+ letters) | ❌ No | *BAPS*, *CMS*, *EPUB*, *PDF*, *USA*, *BBC*, *NATO*, *PhD*, *CEO* |
 | **Personal name initials** | ❌ No (BrE) | *TS Eliot*, *RK Narayan* (no spaces, no periods). The older *T. S. Eliot* form is acceptable but unspaced is preferred. |
-| **Classical Latin abbreviations** | ✅ Yes | *V.S.* (Vikram Samvat), *e.g.*, *i.e.*, *etc.* |
+| **Classical Latin abbreviations** | ✅ Yes | *V.S.* (Vikram Samvat), *e.g.*, *i.e.*, *etc.*, *a.m.*, *p.m.* |
 
 *V.S.* takes a non-breaking space before the year: *V.S.&nbsp;2080*. (In Markdown source: `V.S.&nbsp;2080`.)
 
