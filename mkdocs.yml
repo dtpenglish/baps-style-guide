@@ -33,7 +33,9 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.footer
+    - navigation.path
     - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
