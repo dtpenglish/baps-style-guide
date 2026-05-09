@@ -69,13 +69,46 @@ Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each e
 ---
 
 ## 8.2.4 ExtendScript Gotchas
-A handful of issues that have caught us out and are worth knowing before writing or extending these scripts:
+A handful of issues that have caught us out and are worth knowing before writing or extending InDesign JSX scripts:
 
-- **`item.pageItems` vs `item.allPageItems`:** the latter returns typed objects (groups, etc.); the former returns generic page items. Use `allPageItems` when you need to reason about types.
-- **Anchored images:** to find them, walk `page.allPageItems` across all pages, not `spread.pageItems`. Anchor relationships are not surfaced by the spread-level enumeration.
-- **Track changes (InDesign 2025):** use `story.changes.count()` and `story.changes.item(i)`. The earlier `story.trackChangesPreferences` API is deprecated.
-- **ScriptUI scrolling:** broken in long lists. Replace with an HTML-in-browser preview when you need scrollable content.
-- **Pre-compute before `pd.show()`:** any long-running DOM work after the dialogue opens risks crashing InDesign. Do all the heavy lifting first, store results in arrays, then show the dialogue.
+### `item.pageItems` vs `item.allPageItems`
+- **What's the difference.** `pageItems` returns only the *direct* children of a container as generic `PageItem` objects. `allPageItems` recursively walks all descendants and returns each as its **proper type** — `Image`, `TextFrame`, `Group`, `Rectangle`, etc.
+- **Why it matters.** If a script needs to ask *what kind of thing is this?* (e.g. "is this an image?"), `pageItems` will give back generic page items that lose their type info. `allPageItems` preserves the type.
+- **Rule of thumb.** Use `allPageItems` whenever the script needs to branch on object type, walk into groups, or count specific kinds of items. Use `pageItems` only when you just need direct children and don't care about types.
+
+### Finding anchored images
+- **What goes wrong.** Anchored images (images attached to a text-flow position) don't appear when you enumerate `spread.pageItems` — the spread-level collection doesn't surface anchored objects, only those positioned freely on the page.
+- **Fix.** Walk `page.allPageItems` across **every page** in the document instead. Anchored objects appear there.
+- **Why this matters for us.** `ArticleBuilder.jsx` relies on this — the script's job is to build the EPUB reading order, and anchored images would be missed if we only checked spread-level enumeration.
+
+### Track changes — InDesign 2025 API
+- **What changed.** The track-changes API was rewritten in InDesign 2025. The older `story.trackChangesPreferences` and related properties are deprecated and behave inconsistently in the new version.
+- **What to use instead.**
+    - `story.changes.count()` — number of change records on the story.
+    - `story.changes.item(i)` — the *i*-th change record (0-indexed).
+    - `ChangeTypes.INSERTED_TEXT` (and other `ChangeTypes.*` constants) — to filter by change type.
+- **Why this matters for us.** `ExportToWord_Generic.jsx` exports tracked changes into the Word document — it had to be rewritten against the new API for InDesign 2025 compatibility.
+
+### ScriptUI scrolling is broken in long lists
+- **What goes wrong.** ScriptUI (the JavaScript-based dialog framework InDesign uses) has a long-standing bug where `listbox` and `treeview` controls don't scroll reliably once the list grows beyond a screen-full — the scrollbar stops responding, the highlight jumps, or items above the viewport become unreachable.
+- **Workaround.** When the script needs to show a scrollable list of more than ~20 rows (e.g. previewing the article order before applying), generate an HTML page on disk and open it in the system browser instead. The browser's scrolling Just Works.
+- **Why this matters for us.** `ArticleBuilder.jsx` previously crashed or stalled on long Articles-panel previews; replacing the ScriptUI list with an HTML preview fixed it.
+
+### Pre-compute everything before `pd.show()`
+- **What `pd` is.** A common script idiom — `pd` for "progress dialog" — a ScriptUI window opened to show progress/feedback while the script does work.
+- **What goes wrong.** If long-running DOM operations (looping over hundreds of page items, modifying many styles, etc.) run **after** `pd.show()` is called, InDesign frequently crashes or hangs. The ScriptUI event loop and the scripting DOM compete for the main thread.
+- **Pattern that works.** Do *all* the heavy work first — walk the document, gather what's needed, build result arrays — then show the dialog with the pre-computed data. The dialog should only be displaying or applying simple decisions, not doing the analysis.
+
+```javascript
+// Bad: dialog opens, then the slow walk runs while it's open.
+pd.show();
+for (var i = 0; i < doc.allPageItems.length; i++) { /* … */ }
+
+// Good: walk first, store, then show.
+var items = [];
+for (var i = 0; i < doc.allPageItems.length; i++) { items.push(/* … */); }
+pd.show();   // dialog only displays / applies the results.
+```
 
 ## 8.2.5 Related
 - [Versioning Rules](../workflows/versioning.md) – every script edit produces a new versioned file
