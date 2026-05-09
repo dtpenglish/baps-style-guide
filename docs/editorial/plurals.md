@@ -32,7 +32,7 @@ Anglicized plurals **may** be used on words that are found in the OED (and thus 
 | chapati | Yes | chapatis (per OED) |
 | pandit | Yes | pandits |
 | *rotlo* | No | *rotla* (native plural) – or *rotlos* |
-| *kathiyavadi* | No | *kathiyavadis* |
+| *Kathiyavadi* | No | *Kathiyavadis* |
 
 ## 3.6.3 Open Question – Singular Gujarati Words Used as Their Own Plural
 > How should we use singular Gujarati words that are their own plural? E.g., *dandvat*, *pradakshina*, *pranam*… – even though in English we (SAP) do add an *s* in plural usage.
