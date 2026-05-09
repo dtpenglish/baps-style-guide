@@ -178,14 +178,7 @@ Used with a fortnight designator and a tithi to form a date:
 
 In compound names with a tithi, the month behaves as a proper-noun modifier and stays cap roman – e.g. *Magshar Punam* (the full moon of Magshar), *Vaishakh Punam*.
 
-## 4.7 Open Variants Superseded by This Rule
-This rule resolves a previously open question about tithi capitalization and italicization:
-
-> *Capitalization/italicization of tithis: Padvo / padvo, Ekadashi / ekadashi, Punam / punam.*
-
-The decision: **always capitalized, always roman, never italicized.** The lowercase-italic forms (*padvo*, *ekadashi*, *punam*) are not acceptable for tithi names in finished publications.
-
-## 4.8 See Also
+## 4.7 See Also
 - [Editorial – Capitalization](../editorial/capitalization.md) – the broader SAP capitalization rules.
 - [Editorial – Italics](../editorial/italics.md) – the rule from which tithis are an exception.
 - [Translation Rules](../translation/translation-rules.md) – when to anglicize, transliterate, or use the OED form.
