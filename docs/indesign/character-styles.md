@@ -28,7 +28,7 @@ A common convention is `Element.Variant`:
 The dot-separated naming sorts cleanly in the Character Styles panel and groups related styles visually.
 
 ## 6.3.3 Italic.Indic — the Workhorse Style
-The most-used character style in BAPS publications is the one that italicises non-anglicised Indic terms in the body text. The rule that determines what gets italicised lives at [3.5 Italics](../editorial/italics.md); the character style is what applies it consistently.
+The most-used character style in BAPS publications is the one that italicises non-anglicised Indic terms in the body text. The rule that determines what gets italicised lives at [3.6 Italics](../editorial/italics.md); the character style is what applies it consistently.
 
 Apply `Italic.Indic` to non-OED Indic terms (*dandvat*, *kothari*, *patshala*) and the fortnight designators *sud* / *vad*. Don't apply it to anglicized Indic terms (*dharma*, *guru*, *yoga*) or to proper nouns (names, places, festivals, tithis).
 
@@ -41,4 +41,4 @@ Contributions welcome — see [Feedback](../feedback.md) to suggest naming chang
 
 ## 6.3.5 See Also
 - [Paragraph Styles](paragraph-styles.md) – paragraph-level style hierarchy.
-- [3.5 Italics](../editorial/italics.md) – when to italicise (the rule that `Italic.Indic` mechanically applies).
+- [3.6 Italics](../editorial/italics.md) – when to italicise (the rule that `Italic.Indic` mechanically applies).

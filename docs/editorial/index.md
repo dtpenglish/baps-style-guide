@@ -6,10 +6,17 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 ## 3.1.1 Pages in This Section
 - [Tone & Voice](tone-and-voice.md) – the register and personality of our prose
 - [Capitalization](capitalization.md) – when to capitalize titles, terms, and proper nouns
+- [Title Case in Detail](title-case.md) – the full title-case rules
+- [Doctrinal Titles & Reverential Capitalization](doctrinal-titles.md) – the four-rule system for BAPS-specific reverential designations
 - [Italics](italics.md) – italicizing transliterated terms; what to leave roman
 - [Plurals](plurals.md) – native plurals vs anglicized plurals
+- [Numbers](numbers.md) – when to spell out, when to use numerals
 - [Quotation Marks](quotation-marks.md) – presenting an Indic term alongside its English translation
-- [Punctuation](punctuation.md) – general English punctuation conventions
+- [Punctuation](punctuation.md) – dashes, ellipses, *such as*, Oxford comma
+- [Footnotes](footnotes.md) – placement of the superscript number relative to surrounding punctuation
+- [Abbreviations & Acronyms](abbreviations.md) – periods, plurals, *i.e.* / *e.g.* / *etc.*
+- [Vertical Lists](lists.md) – bullets, numbering, parallel construction
+- [Apostrophes & Possessives](apostrophes.md) – possessives, plurals of letters, apostrophe of omission
 
 ## 3.1.2 Quick Reference
 | Question | Short answer |

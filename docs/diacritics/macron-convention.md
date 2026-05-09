@@ -68,7 +68,7 @@ This convention is for **transliteration into English-language editorial context
 When transliterating from a Gujarati source, use the Gujarati pronunciation (often closer to *Bhagwān*); from a Sanskrit source, use the Sanskrit pronunciation (often closer to *Bhagavān*). Record the chosen form in the [glossary](glossary-reference.md) and use it consistently.
 
 ## 5.3.8 Italicization in Macron-Only Contexts
-Within a verse transliteration, the entire verse is italicized as a block (see [Italics §3.5.4](../editorial/italics.md#354-shlokas-padas-and-other-quoted-verses)) – individual term italicization doesn't come up.
+Within a verse transliteration, the entire verse is italicized as a block (see [Italics §3.6.4](../editorial/italics.md#364-shlokas-padas-and-other-quoted-verses)) – individual term italicization doesn't come up.
 
 Within an editorial / glossary-reference context (this site, the spreadsheet's example column), an untranslated transliterated term is italicized on first appearance and explained briefly: *bhakti* (devotion). Subsequent appearances of the same term are set in roman without italics. Proper nouns (names, titles, place names) are not italicized.
 

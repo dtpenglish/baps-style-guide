@@ -37,7 +37,7 @@ Columns:
 1. For each transliterated term within the verse, look up the headword in the glossary.
 2. Use the **`diacriticSpelling`** column – the macron-only form – for the verse text.
 3. The English translation alongside the verse stays in prose form (no diacritics).
-4. See [Italics §3.5.4 Shlokas, Padas, and Other Quoted Verses](../editorial/italics.md#354-shlokas-padas-and-other-quoted-verses) for the typographic treatment.
+4. See [Italics §3.6.4 Shlokas, Padas, and Other Quoted Verses](../editorial/italics.md#364-shlokas-padas-and-other-quoted-verses) for the typographic treatment.
 
 **Names – never with diacritics, in either context:**
 
@@ -52,4 +52,4 @@ Personal names, place names, organization names, and titles of works are spelled
 ## 5.4.3 Related
 - [SAP Diacritics Policy](sap-policy.md) – the rule for prose: no diacritics in body text, headings, captions, names.
 - [Macron-Only Convention](macron-convention.md) – the rule the `diacriticSpelling` column applies, for use in verse transliterations.
-- [Italics §3.5.4 Shlokas, Padas, and Other Quoted Verses](../editorial/italics.md#354-shlokas-padas-and-other-quoted-verses) – typographic treatment of verses.
+- [Italics §3.6.4 Shlokas, Padas, and Other Quoted Verses](../editorial/italics.md#364-shlokas-padas-and-other-quoted-verses) – typographic treatment of verses.
