@@ -1,4 +1,7 @@
-# 7.1 EPUB Accessibility
+﻿# 7.1 EPUB Accessibility
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Standards for producing accessible EPUBs from our InDesign source files. Accessibility is editorial, not technical: alt text is writing, reading order is structure, and both belong in the production conversation from the start.
 
 ## 7.1.1 Pages in This Section

@@ -1,4 +1,7 @@
-# 6.3 Character Styles
+﻿# 6.3 Character Styles
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 !!! info "Draft page"
     Document the character-style conventions used across our standard publication templates. Add screenshots from the Character Styles panel where helpful.
 

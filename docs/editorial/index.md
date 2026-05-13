@@ -1,4 +1,7 @@
-# 3.1 Editorial
+﻿# 3.1 Editorial
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Conventions for prose across BAPS publications – how we sound on the page, how we capitalize, how we punctuate, what we italicize, and how we form plurals.
 
 For when to translate vs transliterate vs anglicize, see [Translation Rules](../translation/translation-rules.md). For the foundational definitions, see [Foundational Concepts](../concepts/index.md).

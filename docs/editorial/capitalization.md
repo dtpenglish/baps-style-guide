@@ -1,5 +1,25 @@
-# 3.3 Capitalization
+﻿# 3.3 Capitalization
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Capitalization rules for SAP English publications.
+
+## Quick Decision
+
+```mermaid
+flowchart TD
+    A[Term to capitalize?] --> B{Proper noun?<br/>name, place, festival,<br/>organization, text}
+    B -->|Yes| C[Capitalize]
+    B -->|No| D{Doctrinal designation?<br/>e.g. Brahmaswarup Sadhu}
+    D -->|Yes| E[See 3.5<br/>Doctrinal Titles]
+    D -->|No| F{Title or heading?}
+    F -->|Yes| G[Title Case –<br/>see 3.4]
+    F -->|No| H{Generic common noun?<br/>sadhu, mandir, scripture}
+    H -->|Yes| I[Lowercase]
+    H -->|No| J[Check exceptions:<br/>Earth, Yoga, Satsang,<br/>Sampradaya, terms of address]
+```
+
+Follow this for the common case. The rules below cover the full set of edge cases.
 
 ## 3.3.1 Core Rules
 ### 3.3.1.1 Indic Languages Don't Capitalize – Apply English Rules

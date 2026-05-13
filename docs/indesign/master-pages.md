@@ -1,4 +1,7 @@
-# 6.5 Master Pages
+﻿# 6.5 Master Pages
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 !!! info "Draft page"
     Document the master-page setup for our standard publication templates.
 

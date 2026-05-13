@@ -1,4 +1,7 @@
-# 1 Foundational Concepts
+﻿# 1 Foundational Concepts
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 A handful of technical terms from linguistics underpin the rest of this guide. Understanding them prevents confusion when rules pull in different directions – for example, when the same word is *anglicized* in one place but *transliterated* in another, the reasons follow from these definitions.
 
 ## 1.1 Romanization

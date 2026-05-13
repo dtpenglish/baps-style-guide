@@ -1,4 +1,7 @@
-# 5.1 Diacritics & Transliteration
+﻿# 5.1 Diacritics & Transliteration
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 How we render Sanskrit, Gujarati, and Hindi terms in Roman script across BAPS publications.
 
 !!! warning "Two policies – read this first"
@@ -8,6 +11,21 @@ How we render Sanskrit, Gujarati, and Hindi terms in Roman script across BAPS pu
     2. **[Macron-Only Convention](macron-convention.md)** – the BAPS in-house diacritic system, used **mainly for transliterations of bhajans and Sanskrit verses** (*shlokas*, *padas*, scripture-verse content).
 
     The two are complementary, not in conflict: the SAP rule covers prose; the macron-only convention covers verse transliterations. Names never carry diacritics in either context.
+
+## Quick Decision
+
+```mermaid
+flowchart TD
+    A[Where is the term appearing?] --> B{Personal name,<br/>place name, or<br/>title of a work?}
+    B -->|Yes| C[No diacritics – ever<br/>SAP Policy §5.2.2]
+    B -->|No| D{Prose context?<br/>heading, body, caption,<br/>footnote, legend}
+    D -->|Yes| E[No diacritics<br/>SAP Policy]
+    D -->|No| F{Bhajan, shloka, pada,<br/>or scripture verse?}
+    F -->|Yes| G[Macron-only<br/>long a → ā]
+    F -->|No| H[Editorial reference?<br/>illustrating a term<br/>→ Macron-only]
+```
+
+Follow this for the common case. The detail lives on the two policy pages.
 
 ## 5.1.1 Pages in This Section
 - [SAP Diacritics Policy](sap-policy.md) – no diacritics in prose; diacritics permitted in verse transliterations

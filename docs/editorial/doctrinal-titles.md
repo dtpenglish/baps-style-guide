@@ -1,4 +1,7 @@
-# 3.5 Doctrinal Titles & Reverential Capitalization
+﻿# 3.5 Doctrinal Titles & Reverential Capitalization
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 How to capitalize adjective + noun phrases in BAPS English publications, especially the doctrinally loaded combinations like **Brahmaswarup Sadhu**, **Akshar-Purushottam Darshan**, and **Pragat Brahmaswarup Mahant Swami Maharaj**.
 
 This page resolves the recurring question: **when does the adjective get capitalized?** The four rules below cover every case.

@@ -1,4 +1,7 @@
-# 10.4 Shastras
+﻿# 10.4 Shastras
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Open questions on naming, citing, and formatting our scriptural texts.
 
 ## 10.4.1 Title Forms

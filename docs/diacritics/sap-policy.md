@@ -1,4 +1,7 @@
-# 5.2 SAP Diacritics Policy
+﻿# 5.2 SAP Diacritics Policy
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 The diacritics policy for **publications for the general reader**.
 
 For the in-house **macron-only convention** used in glossary work and editorial reference material, see [Macron-Only Convention](macron-convention.md). The two policies are scoped differently – see [Diacritics & Transliteration](index.md) for the conflict and how to choose.

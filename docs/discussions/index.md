@@ -1,4 +1,7 @@
-# 10.1 Open Discussions
+﻿# 10.1 Open Discussions
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 A live record of conventions the team has not yet settled. Each page below preserves the open questions, with room for the team to record decisions as they're made.
 
 These are **not** rules. They are decisions waiting to be made.

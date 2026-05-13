@@ -1,4 +1,7 @@
-# 6.1 InDesign
+﻿# 6.1 InDesign
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Production conventions for our InDesign work – paragraph styles, character styles, object styles, master pages, and patterns used across our long-form publications.
 
 ## 6.1.1 Pages in This Section

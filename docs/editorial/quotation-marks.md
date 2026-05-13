@@ -1,4 +1,7 @@
-# 3.9 Quotation Marks
+﻿# 3.9 Quotation Marks
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 How to present an Indic term alongside its English translation.
 
 For the general SAP rule (single quotes as the primary mark for highlighting; double for speech only), see [Punctuation §3.10.1](punctuation.md#3101-quotation-marks).

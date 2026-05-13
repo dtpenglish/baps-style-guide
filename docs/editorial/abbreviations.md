@@ -1,4 +1,7 @@
-# 3.12 Abbreviations and Acronyms
+﻿# 3.12 Abbreviations and Acronyms
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 When abbreviations take periods, when they don't, how plurals work, and the conventions for *i.e.* / *e.g.* / *etc.*
 
 ## 3.12.1 Periods — Truncations vs. Contractions

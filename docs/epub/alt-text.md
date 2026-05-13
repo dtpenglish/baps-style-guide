@@ -1,4 +1,7 @@
-# 7.2 Alt Text Guidelines
+﻿# 7.2 Alt Text Guidelines
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Alt text – the *alternative text* read aloud by screen readers in place of an image – is part of the editorial content of an accessible EPUB. Write it with the same care you bring to a caption.
 
 ## 7.2.1 The Three Questions

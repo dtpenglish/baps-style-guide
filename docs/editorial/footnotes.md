@@ -1,4 +1,7 @@
-# 3.11 Footnotes
+﻿# 3.11 Footnotes
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Where to place the footnote superscript relative to surrounding punctuation, and how to handle the edge cases (quoted material, dashes).
 
 ## 3.11.1 Placement

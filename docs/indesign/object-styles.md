@@ -1,4 +1,7 @@
-# 6.4 Object Styles
+﻿# 6.4 Object Styles
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 !!! info "Draft page"
     Document the object-style conventions used across our standard publication templates. Add screenshots from the Object Styles panel where helpful.
 

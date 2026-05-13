@@ -1,4 +1,7 @@
-# 4 Tithis
+﻿# 4 Tithis
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 How to write the names of the days of the lunar fortnight in BAPS English publications.
 
 ## 4.1 The Rule

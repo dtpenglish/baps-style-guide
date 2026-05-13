@@ -1,4 +1,7 @@
-# 10.3 Gurus & Honorifics
+﻿# 10.3 Gurus & Honorifics
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Open questions on naming and addressing Bhagwan Swaminarayan, Aksharbrahma Gunatitanand Swami, the gurus of the BAPS *parampara*, and the sadhus.
 
 ## 10.3.1 Bhagwan Swaminarayan

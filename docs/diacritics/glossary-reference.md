@@ -1,4 +1,7 @@
-# 5.4 Glossary Reference
+﻿# 5.4 Glossary Reference
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 The master glossary is a **reference repository** that records, for each BAPS term:
 
 - the **plain-Roman** spelling (used in prose, headings, captions),

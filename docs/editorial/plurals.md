@@ -1,4 +1,7 @@
-# 3.7 Plurals
+﻿# 3.7 Plurals
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 How to form the plural of an Indic word in SAP English publications.
 
 ## 3.7.1 The Rules

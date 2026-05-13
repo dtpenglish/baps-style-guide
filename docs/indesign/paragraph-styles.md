@@ -1,4 +1,7 @@
-# 6.2 Paragraph Styles
+﻿# 6.2 Paragraph Styles
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 !!! info "Draft page"
     Document the paragraph-style hierarchies used in our standard publication templates. Add screenshots from the Paragraph Styles panel where helpful.
 

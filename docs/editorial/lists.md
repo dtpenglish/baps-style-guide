@@ -1,4 +1,7 @@
-# 3.13 Vertical Lists
+﻿# 3.13 Vertical Lists
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Conventions for bulleted, numbered, and lettered lists in SAP English publications.
 
 ## 3.13.1 Bullets, Numbers, or Letters?

@@ -1,4 +1,7 @@
-# 3.4 Title Case in Detail
+﻿# 3.4 Title Case in Detail
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 The basic rule for titles of works lives at [3.3.1.3](capitalization.md#3313-titles-of-works). The sections below cover the specific cases that recur in book titles, chapter labels, and the headings on this site.
 
 ## 3.4.1 What to Capitalize, What to Lowercase

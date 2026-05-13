@@ -1,4 +1,7 @@
-# 3.8 Numbers
+﻿# 3.8 Numbers
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 When to spell out numbers in words and when to use numerals.
 
 ## 3.8.1 The Rule

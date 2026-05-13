@@ -1,4 +1,7 @@
-# 3.10 Punctuation
+﻿# 3.10 Punctuation
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 General typographic conventions for SAP English publications. Footnotes, abbreviations, lists, and apostrophes have their own chapters — see the See Also section below.
 
 ## 3.10.1 Quotation Marks

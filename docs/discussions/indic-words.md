@@ -1,4 +1,7 @@
-# 10.5 Indic Words
+﻿# 10.5 Indic Words
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Open questions on plurals, currency, and units of measure.
 
 ## 10.5.1 Plurals

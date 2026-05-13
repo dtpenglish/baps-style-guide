@@ -1,4 +1,7 @@
-# 7.3 Reading Order
+﻿# 7.3 Reading Order
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Reading order is the sequence in which a screen reader narrates the content of a page. In a print book, the reader's eye establishes order through layout convention; in an EPUB, **we** have to declare it explicitly.
 
 ## 7.3.1 The Articles Panel

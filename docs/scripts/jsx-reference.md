@@ -1,4 +1,7 @@
-# 8.2 JSX Scripts Reference
+﻿# 8.2 JSX Scripts Reference
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Quick reference for the InDesign JSX scripts used in BAPS DTP production. Each entry covers what the script does, how to run it, and notable behaviour.
 
 ---

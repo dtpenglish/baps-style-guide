@@ -1,4 +1,7 @@
-# 5.3 The Macron-Only Convention
+﻿# 5.3 The Macron-Only Convention
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 !!! info "Scope"
     The macron-only convention applies in **two contexts**:
 

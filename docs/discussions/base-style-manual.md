@@ -1,4 +1,7 @@
-# 10.7 Base Style Manual
+﻿# 10.7 Base Style Manual
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Open question on whether to adopt a professionally published style manual as the base for SAP.
 
 > Should we adopt a professionally published style manual as our base? E.g., Chicago Manual of Style, Associated Press Manual, Oxford,…

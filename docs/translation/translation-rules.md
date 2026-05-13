@@ -1,4 +1,7 @@
-# 2.2 Translation Rules
+﻿# 2.2 Translation Rules
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 The rules below apply to all SAP English publications.
 
 ## 2.2.1 Core Principles

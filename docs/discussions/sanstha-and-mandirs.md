@@ -1,4 +1,7 @@
-# 10.2 Sanstha & Mandirs
+﻿# 10.2 Sanstha & Mandirs
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Open questions on naming the Sanstha as a whole, and naming individual mandirs.
 
 ## 10.2.1 Sanstha – Names and Short Forms

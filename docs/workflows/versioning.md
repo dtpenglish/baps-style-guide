@@ -1,4 +1,7 @@
-# 9.2 File Versioning Rules
+﻿# 9.2 File Versioning Rules
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 !!! danger "Non-negotiable"
     Every file output – script, Word document, Excel file, PDF, or any other deliverable – must carry an incremented version number in **both** the filename and an internal version string. **Never overwrite a previous version.** Each new file is the next version.
 

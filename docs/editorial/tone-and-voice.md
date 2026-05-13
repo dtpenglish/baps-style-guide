@@ -1,4 +1,7 @@
-# 3.2 Tone & Voice
+﻿# 3.2 Tone & Voice
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 !!! info "Draft page"
     This page is a placeholder. Expand it as the team agrees on conventions, or propose specific guidance via [Feedback](../feedback.md).
 

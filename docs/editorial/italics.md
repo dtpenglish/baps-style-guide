@@ -1,7 +1,25 @@
-# 3.6 Italics
+﻿# 3.6 Italics
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 How we set italics for non-English terms in SAP English publications.
 
 For when to translate vs transliterate vs anglicize, see [Translation Rules](../translation/translation-rules.md).
+
+## Quick Decision
+
+```mermaid
+flowchart TD
+    A[Term to format] --> B{In the OED?}
+    B -->|Yes| C[Roman, no italic]
+    B -->|No| D{Personal name,<br/>place name,<br/>or festival?}
+    D -->|Yes| E[Roman, capitalized,<br/>no italic]
+    D -->|No| F{Tithi name?}
+    F -->|Yes| G[Roman, capitalized,<br/>no italic – exception]
+    F -->|No| H[Italic, lowercase]
+```
+
+Follow this for the common case. The rules below cover edge cases (multiword phrases, titles of works, English emphasis, verses).
 
 ## 3.6.1 The Rules
 ### 3.6.1.1 Indic Words and Phrases (Not Anglicized)

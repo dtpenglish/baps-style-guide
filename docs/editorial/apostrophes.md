@@ -1,4 +1,7 @@
-# 3.14 Apostrophes and Possessives
+﻿# 3.14 Apostrophes and Possessives
+
+*Last reviewed by the SAP DTP team: 2026-05-13.*
+
 Forming the possessive of singular and plural nouns, plurals of letters and abbreviations, and the apostrophe-of-omission in years.
 
 ## 3.14.1 Possessive — Singular Nouns

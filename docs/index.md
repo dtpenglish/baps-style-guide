@@ -8,6 +8,31 @@ This site documents the editorial, design, and production conventions for all of
 !!! tip "How to use this guide"
     Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? See [Feedback](feedback.md) – one click sends an email to the maintainer.
 
+## I Need To…
+Common entry points organized by task, not topic:
+
+- **… decide whether to italicize a term** → [3.6 Italics](editorial/italics.md) (with decision tree)
+- **… decide whether to capitalize a term** → [3.3 Capitalization](editorial/capitalization.md) (with decision tree)
+- **… decide whether to use diacritics** → [5 Diacritics](diacritics/index.md) (with decision tree)
+- **… check the comma rule for *i.e.* / *e.g.* / *etc.*** → [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc)
+- **… place a footnote superscript correctly** → [3.11 Footnotes](editorial/footnotes.md)
+- **… set the title of a book or chapter** → [3.4 Title Case in Detail](editorial/title-case.md)
+- **… look up a specific topic A–Z** → [Quick Find](quick-find.md)
+- **… set up an InDesign character style** → [6.3 Character Styles](indesign/character-styles.md)
+- **… draft alt text for an image** → [7.2 Alt Text](epub/alt-text.md)
+- **… version a script file or Word document** → [9.2 File Versioning](workflows/versioning.md)
+- **… run one of our JSX scripts** → [8.2 JSX Scripts Reference](scripts/jsx-reference.md)
+- **… send a correction to the maintainer** → [Feedback](feedback.md)
+
+## Recently Updated
+Hand-curated; full history in the [Changelog](changelog.md).
+
+- **2026-05-13** – Quick Find A–Z index added; long chapters split into focused pages (Editorial now 14 chapters instead of 9).
+- **2026-05-13** – Left sidebar now shows every numbered subsection (`toc.integrate` enabled).
+- **2026-05-13** – Reversed the *i.e.* / *e.g.* trailing-comma rule to follow BrE convention (see [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc)).
+- **2026-05-13** – Footnote dash exception clarified for the spaced en dash (see [3.11.2](editorial/footnotes.md#3112-footnote-numbers-with-colons-semicolons-and-other-punctuation)).
+- **2026-05-13** – *Earth* / *earth* expanded with theological-context examples (see [3.3.2.3](editorial/capitalization.md#3323-earth-earth)).
+
 ## Sections at a Glance
 <div class="grid cards" markdown>
 
