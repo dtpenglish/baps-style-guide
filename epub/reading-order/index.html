@@ -2584,9 +2584,10 @@
 
 
 <h1 id="73-reading-order">7.3 Reading Order<a class="headerlink" href="#73-reading-order" title="Anchor link to this section">¶</a></h1>
-<p>Reading order is the sequence in which a screen reader narrates the content of a page. In a print book, the reader’s eye establishes order through layout convention; in an EPUB, <strong>we</strong> have to declare it explicitly.</p>
+<p><em>Last reviewed by the <abbr title="Swaminarayan Aksharpith">SAP</abbr> <abbr title="Desktop Publishing">DTP</abbr> team: 2026-05-13.</em></p>
+<p>Reading order is the sequence in which a screen reader narrates the content of a page. In a print book, the reader’s eye establishes order through layout convention; in an <abbr title="Electronic Publication (the e-book file format)">EPUB</abbr>, <strong>we</strong> have to declare it explicitly.</p>
 <h2 id="731-the-articles-panel">7.3.1 The Articles Panel<a class="headerlink" href="#731-the-articles-panel" title="Anchor link to this section">¶</a></h2>
-<p>InDesign’s <strong>Articles panel</strong> (Window → Articles) is where reading order is defined for EPUB export. Every content element on every page should be a member of an article, in the order it should be read.</p>
+<p>InDesign’s <strong>Articles panel</strong> (Window → Articles) is where reading order is defined for <abbr title="Electronic Publication (the e-book file format)">EPUB</abbr> export. Every content element on every page should be a member of an article, in the order it should be read.</p>
 <h2 id="732-common-problems-we-encounter">7.3.2 Common Problems We Encounter<a class="headerlink" href="#732-common-problems-we-encounter" title="Anchor link to this section">¶</a></h2>
 <table>
 <thead>
@@ -2633,7 +2634,7 @@
 <p>Anchored images (images anchored to a text frame) need special attention. Their position in the reading order is determined by the anchor location, not the visual position on the page. If an image visually appears at the bottom of a column but its anchor is mid-paragraph, it will be narrated mid-paragraph – usually disrupting the flow.</p>
 <p><code>ArticleBuilder.jsx</code> handles anchored images explicitly. From v4.39, it walks <code>page.allPageItems</code> (across all pages) to find anchored objects and inserts them into the article at sensible positions.</p>
 <h2 id="735-extendscript-notes">7.3.5 ExtendScript Notes<a class="headerlink" href="#735-extendscript-notes" title="Anchor link to this section">¶</a></h2>
-<p>For team members writing or extending JSX scripts that touch reading order:</p>
+<p>For team members writing or extending <abbr title="JavaScript-based InDesign script">JSX</abbr> scripts that touch reading order:</p>
 <ul>
 <li>Use <code>item.allPageItems</code>, not <code>item.pageItems</code>, to get typed objects (groups, images within groups, etc.).</li>
 <li>Use <code>page.allPageItems</code> to find anchored objects across all pages.</li>
@@ -2641,11 +2642,11 @@
 </ul>
 <p>These quirks are documented in greater detail in the <a href="../../scripts/jsx-reference/">Scripts reference</a>.</p>
 <h2 id="736-verifying-reading-order">7.3.6 Verifying Reading Order<a class="headerlink" href="#736-verifying-reading-order" title="Anchor link to this section">¶</a></h2>
-<p>Before EPUB export:</p>
+<p>Before <abbr title="Electronic Publication (the e-book file format)">EPUB</abbr> export:</p>
 <ol>
 <li><strong>Window → Articles</strong> – visually scan each article’s member list.</li>
-<li><strong>File → Export → EPUB</strong> with the option <em>Use → Articles panel</em> selected for content order.</li>
-<li>Open the exported EPUB in a screen reader (NVDA on Windows, VoiceOver on macOS) and listen to a few pages.</li>
+<li><strong>File → Export → <abbr title="Electronic Publication (the e-book file format)">EPUB</abbr></strong> with the option <em>Use → Articles panel</em> selected for content order.</li>
+<li>Open the exported <abbr title="Electronic Publication (the e-book file format)">EPUB</abbr> in a screen reader (NVDA on Windows, VoiceOver on macOS) and listen to a few pages.</li>
 <li>Run DAISY Ace for an automated reading-order report.</li>
 </ol>
 <p>A few minutes of listening to the actual narration catches problems that visual scanning misses every time.</p>
@@ -2676,7 +2677,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"></path></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="May 8, 2026 17:03:08 UTC"><span class="timeago" datetime="2026-05-08T17:03:08+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="May 8, 2026 17:03:08 UTC">2026-05-08</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="May 13, 2026 16:00:20 UTC"><span class="timeago" datetime="2026-05-13T16:00:20+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="May 13, 2026 16:00:20 UTC">2026-05-13</span>
   </span>
 
     
