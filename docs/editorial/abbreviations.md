@@ -17,6 +17,16 @@ The general principle: a period marks something **omitted at the end** of a word
 
 *V.S.* takes a non-breaking space before the year: *V.S.&nbsp;2080*. (In Markdown source: `V.S.&nbsp;2080`.)
 
+??? example "Show me — period vs no-period in one paragraph"
+
+    > Dr Patel and Prof. Sharma both addressed the assembly on Mon., 18 May. Mr Joshi took notes; Mrs Mehta read the minutes. The discussion turned to T.S. Eliot, whom Dr Singh had quoted earlier in the seminar. The Sanstha was founded in V.S.&nbsp;1963.
+
+    - **Dr**, **Mr**, **Mrs** — **contractions** (interior letters dropped): **no period**.
+    - **Prof.**, **Mon.** — **truncations** (end omitted): **period**.
+    - **T.S. Eliot** — **personal-name initials**: periods between, **no space**.
+    - **V.S.** — **classical Latin abbreviation** (Vikram Samvat): periods retained, non-breaking space before the year.
+    - **Sanstha** — capitalized as part of a formal name, no abbreviation.
+
 ## 3.12.2 Acronyms vs. Initialisms
 - **Acronyms** are pronounced as words: *NATO*, *NASA*, *AIDS*, *COVID*. No full stops between letters.
 - **Initialisms** are spelled out letter by letter: *BAPS* (B-A-P-S), *BBC*, *MEP*, *USA*, *CMS*, *PDF*. No full stops between letters.

@@ -21,6 +21,18 @@ flowchart TD
 
 Follow this for the common case. The rules below cover the full set of edge cases.
 
+??? example "Show me — multiple capitalization decisions in one paragraph"
+
+    > Bhagwan Swaminarayan founded the Swaminarayan Sampradaya in V.S. 1858. His successor, Aksharbrahma Gunatitanand Swami, established the *guru parampara* that continues today. Pramukh Swami Maharaj, the Brahmaswarup Sadhu of our age, expanded the Sanstha into a global organization. During Diwali, devotees from across the satsang gather at Sarangpur Mandir for darshan of the *murti*.
+
+    - *Bhagwan Swaminarayan*, *Aksharbrahma Gunatitanand Swami*, *Pramukh Swami Maharaj* — personal names, **always capitalized** ([3.3.2.1](#3321-always-capitalized)).
+    - *Swaminarayan Sampradaya* — formal name of a tradition: **capitalized**. ([3.3.2.8](#3328-sampradaya)). Lowercase *sampradaya* would apply if used generically.
+    - *V.S.* — Vikram Samvat abbreviation, takes periods and a non-breaking space before the year ([3.12.1](abbreviations.md#3121-periods-truncations-vs-contractions)).
+    - *Brahmaswarup Sadhu* — doctrinal adjective + reverential noun for the Satpurush: **both capitalized, roman** under Rule 3 of [3.5 Doctrinal Titles](doctrinal-titles.md).
+    - *Sanstha* — capitalized as part of a formal name; would be lowercase in fully generic use (see [open question 10.2](../discussions/sanstha-and-mandirs.md)).
+    - *Diwali*, *Sarangpur Mandir* — festival and place name: **capitalized** ([3.3.2.1](#3321-always-capitalized)).
+    - *satsang*, *darshan*, *murti* — generic common nouns: **lowercase**. *satsang* would be capitalized only when used as the doctrinal designation ([3.3.2.11](#33211-satsang-as-a-doctrinal-term)). *murti* is italicized because it's not in the OED — see [3.6 Italics](italics.md).
+
 ## 3.3.1 Core Rules
 ### 3.3.1.1 Indic Languages Don't Capitalize – Apply English Rules
 Indic languages do not use capitalization. So follow **English capitalization rules** for transliterated text and titles to determine whether an Indic word or phrase needs to be capitalized.

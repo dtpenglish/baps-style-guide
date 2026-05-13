@@ -16,6 +16,17 @@ When typing in source files, plain straight `'` and `"` are auto-converted to th
 
 For quotation marks specifically around translations of Indic terms, see [3.9 Quotation Marks](quotation-marks.md).
 
+??? example "Show me — single vs double quotes in a single passage"
+
+    > The motto 'Samp tya jamp' was painted above the entrance. Pramukh Swami Maharaj had said, "These stones will spread the glory of satsang." Inside, the term *kothari* — 'manager of mandir affairs' — appeared on every notice. "The kothari's office is on the second floor," explained the guide.
+
+    - **'Samp tya jamp'** — a **motto presented as a phrase**: **single** quotes.
+    - **"These stones will spread the glory of satsang."** — **direct speech**: **double** quotes.
+    - **'manager of mandir affairs'** — **gloss of an Indic term**: **single** quotes.
+    - **"The kothari's office…"** — **direct speech** again: **double** quotes.
+
+    The rule of thumb: single quotes are the **primary mark** for highlighting (terms, glosses, mottoes, scare quotes). Double quotes are **reserved for direct speech**.
+
 ## 3.10.2 Dashes
 SAP uses two dash characters: the **hyphen** and the **en dash**. The em dash is **not used** in SAP English publications – its role (parenthetical breaks) is filled by a **spaced en dash**.
 
@@ -30,6 +41,18 @@ SAP uses two dash characters: the **hyphen** and the **en dash**. The em dash is
 In InDesign, use the proper Unicode character for the en dash (<kbd>U+2013</kbd>), not a double-hyphen `--` or a triple-hyphen `---`. The em dash character (<kbd>U+2014</kbd>) is not used in SAP body prose.
 
 For compound modifiers with numbers (*twenty-nine members*, *a 5-pound bag*, *an 18th-century novel*) and the rules on hyphenation between numerals and units, see [3.8.5 Compound Modifiers and Unit Spacing](numbers.md#385-compound-modifiers-and-unit-spacing).
+
+??? example "Show me — all three dash kinds in one paragraph"
+
+    > The conference – held in Sarangpur on Magshar *sud* Padvo – drew devotees from across the Mumbai–Ahmedabad–Vadodara corridor. Sessions ran from 9 a.m. to 12 noon and from 2 p.m. to 5 p.m., with three break-out workshops. The Hindu–Christian dialogue panel met separately on pages 12–18 of the souvenir programme.
+
+    - **Spaced en dash** around *held in Sarangpur on Magshar sud Padvo* — parenthetical break.
+    - **Unspaced en dash** in *Mumbai–Ahmedabad–Vadodara* — place pairs forming a single corridor (complex compound).
+    - **Unspaced en dash** in *Hindu–Christian* — complex compound between two adjectives of equal weight.
+    - **Hyphen** in *break-out* — simple compound modifier.
+    - **Unspaced en dash** in *pages 12–18* — number range.
+
+    Note that the em dash (—) appears nowhere in SAP prose. The parenthetical-break role is filled by the spaced en dash.
 
 ### 3.10.2.1 Interrupted Dialogue
 Use a **spaced en dash** to mark speech sharply cut off — by another speaker, an action, or a sudden break:

@@ -95,6 +95,17 @@ Phrases like ***the God-realized sadhu***, ***the true sadhu***, ***a holy sadhu
 
 The use of *the* (definite article) plus a doctrinal-context cue is a strong signal that the phrase is naming the Satpurush rather than describing a category. For hyphenated adjectives like *God-Realized*, capitalize both elements (per [§3.4.2 Hyphenated Words in Titles](title-case.md#342-hyphenated-words-in-titles), applied here to the doctrinal designation).
 
+??? example "Show me — all four rules in one paragraph"
+
+    > Pragat Brahmaswarup Mahant Swami Maharaj is the current guru of the Swaminarayan Sampradaya. As the Brahmaswarup Sadhu of our age, he continues the *guru parampara* that began with Aksharbrahma Gunatitanand Swami. The state of *brahmaswarup* is the goal of every aspirant: to become *ekantik* and dwell in the company of the Satpurush. Bhagwan Swaminarayan said that the Param Ekantik Sant is the visible form through whom God is realized.
+
+    - **Pragat Brahmaswarup Mahant Swami Maharaj** — full formal title of a named person → **Rule 1 + 4**: every word capitalized, roman.
+    - **Brahmaswarup Sadhu** (with definite article *the* and doctrinal context) — adjective + reverential noun naming the Satpurush → **Rule 3**: both capitalized, roman.
+    - **Bhagwan Swaminarayan** — named person → **Rule 4**: capitalized, roman.
+    - **Param Ekantik Sant** — adjective + reverential noun naming the Satpurush, definite article cue → **Rule 3**: both capitalized, roman.
+    - **brahmaswarup** (in *the state of brahmaswarup*) — generic descriptive use of the quality → **Rule 2**: lowercase, italic.
+    - **ekantik** (in *to become ekantik*) — generic descriptive use → **Rule 2**: lowercase, italic.
+
 ## 3.5.2 Quick Decision Guide
 Ask these questions in order, and stop at the first **yes**:
 

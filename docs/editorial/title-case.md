@@ -22,6 +22,24 @@ The basic rule for titles of works lives at [3.3.1.3](capitalization.md#3313-tit
 
 This follows CMS, which treats word *class* as the deciding factor — not word length. (AP capitalizes prepositions of four or more letters; SAP does not.)
 
+??? example "Show me — that title broken down word by word"
+
+    *The Vachanamrut: A Reader's Guide to the Discourses of Bhagwan Swaminarayan*
+
+    | Word | Cap? | Why |
+    |---|---|---|
+    | **The** | ✅ | First word — always capitalized. |
+    | **Vachanamrut** | ✅ | Noun (and a proper noun — title of a work). |
+    | **:** | — | Colon. The next word is capitalized because it begins a complete-ish clause ([3.4.3](#343-first-word-after-a-colon)). |
+    | **A** | ✅ | First word after the colon (in title case). |
+    | **Reader's** | ✅ | Noun. |
+    | **Guide** | ✅ | Noun. |
+    | **to** | ❌ | Infinitive marker — always lowercase. |
+    | **the** | ❌ | Article — always lowercase (not first or last word). |
+    | **Discourses** | ✅ | Noun. |
+    | **of** | ❌ | Preposition — always lowercase. |
+    | **Bhagwan Swaminarayan** | ✅ | Proper noun (last word block) — always capitalized. |
+
 ## 3.4.2 Hyphenated Words in Titles
 - **Capitalize the first element** always.
 - **Capitalize subsequent elements** unless they are articles, prepositions, or coordinating conjunctions.

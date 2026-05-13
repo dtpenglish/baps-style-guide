@@ -19,6 +19,35 @@ All items in a list must share the same logical and grammatical structure:
 
 When the structure breaks, the meaning becomes ambiguous and the list looks ragged.
 
+??? example "Show me — broken vs parallel"
+
+    ❌ **Broken — items mix nouns, gerunds, and full sentences:**
+
+    > The retreat schedule includes
+    >
+    > - morning *arti* and *darshan*,
+    > - meditating on the *murti*,
+    > - the kothari will lead a discourse, and
+    > - free time.
+
+    ✅ **Parallel — all noun phrases:**
+
+    > The retreat schedule includes
+    >
+    > - morning *arti* and *darshan*,
+    > - meditation on the *murti*,
+    > - a discourse led by the kothari, and
+    > - free time.
+
+    ✅ **Parallel — all full sentences (use capitals + periods):**
+
+    > The retreat schedule is as follows:
+    >
+    > - Morning *arti* and *darshan* begin at 6 a.m.
+    > - Meditation on the *murti* follows from 7 to 8 a.m.
+    > - The kothari leads a discourse at 9 a.m.
+    > - Free time runs from 10 a.m. to noon.
+
 ## 3.13.3 Punctuation and Capitalization
 The conventions depend on whether the items are short fragments that continue from the lead-in, or full sentences in their own right.
 

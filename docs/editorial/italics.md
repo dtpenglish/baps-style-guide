@@ -21,6 +21,17 @@ flowchart TD
 
 Follow this for the common case. The rules below cover edge cases (multiword phrases, titles of works, English emphasis, verses).
 
+??? example "Show me — multiple italics decisions in one paragraph"
+
+    > Bhagwan Swaminarayan visited Sarangpur Mandir during Janmashtami and addressed the assembly. The discourse drew from the *Vachanamrut* and the *Shikshapatri*, and turned to the practice of *mansi puja*. Devotees performed *dandvats* and received *prasad*. The discourse ended with the blessing *Patthar satsang karavshe* — 'the stones will spread the glory of satsang'.
+
+    - *Bhagwan Swaminarayan*, *Sarangpur Mandir*, *Janmashtami* — names, place names, and festivals: **roman, capitalized, no italic** ([3.6.1.2](#3612-names-and-capitalized-proper-nouns-not-italicized)).
+    - *Vachanamrut*, *Shikshapatri* — titles of works: **italic** ([3.6.1.4](#3614-titles-short-stories-poems-art)).
+    - *mansi puja* — multiword Indic phrase, whole phrase italicized as a unit ([3.6.1.5](#3615-multiword-sanskrit-and-indic-phrases-italicize-the-whole-phrase)).
+    - *dandvats* — Indic term not in the OED: **italic, lowercase** ([3.6.1.1](#3611-indic-words-and-phrases-not-anglicized)). Note the plural takes an italic *s* — see [Plurals §3.7.1.1](plurals.md#3711-plurals-of-transliterated-indic-words).
+    - *prasad* — in the OED: **roman, no italic** ([3.6.1.3](#3613-anglicized-terms-not-italicized)).
+    - *Patthar satsang karavshe* — quoted Gujarati phrase: italic; the English gloss in single quotes is roman ([3.9.1.4](quotation-marks.md#3914-mottoes-and-slogans-presented-as-phrases-single-quotes)).
+
 ## 3.6.1 The Rules
 ### 3.6.1.1 Indic Words and Phrases (Not Anglicized)
 Indic words and phrases that are **not anglicized** – i.e. not found in the OED – are **italicized** in:

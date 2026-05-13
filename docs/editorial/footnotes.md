@@ -14,6 +14,16 @@ Place the superscript number **after the punctuation** when the note refers to t
 
 There is **no space** before a footnote superscript. See [3.10.5 Spacing](punctuation.md#3105-spacing).
 
+??? example "Show me — five footnote placements in one paragraph"
+
+    > The early historians of Satsang¹ recorded that Bhagwan Swaminarayan visited Loj in V.S. 1857.² Modern scholars have argued for a slightly earlier date – based on a single colophon³ – but the majority view stands.⁴ The term used in the source was 'bahyadrashti'⁵.
+
+    - **¹** — refers specifically to *historians of Satsang* (which scholars?). Goes immediately after the word, **before** any following punctuation.
+    - **²** — refers to the **whole sentence**. Goes **after** the period.
+    - **³** — refers to the parenthetical aside *based on a single colophon*. Goes **before** the closing spaced en dash (the dash exception — see below).
+    - **⁴** — refers to the **whole sentence**. Goes **after** the period.
+    - **⁵** — refers to the specific term *bahyadrashti* inside the quotes. Goes immediately after the closing quote and **before** the period ([3.11.3](#3113-footnote-numbers-with-quoted-material)).
+
 ## 3.11.2 Footnote Numbers with Colons, Semicolons, and Other Punctuation
 The general rule above applies uniformly to **every** punctuation mark — period, comma, semicolon, colon, question mark, exclamation point. When the note refers to the whole sentence or phrase, the superscript follows the punctuation:
 

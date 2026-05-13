@@ -10,6 +10,16 @@ When to spell out numbers in words and when to use numerals.
 
 This departs from CMS (which spells out one through one hundred) and aligns more closely with AP-style usage. The shorter spell-out range keeps narrative prose readable while making longer counts easier to scan.
 
+??? example "Show me — numbers in a paragraph"
+
+    > Sundarji Suthar lived in V.S.&nbsp;1781 and travelled three hundred miles in his lifetime — though only seven of those journeys are documented. The Sanstha now operates 1,200 mandirs across 50 countries; in 2024 alone, 213 footnotes were added to the glossary, of which 47 cite the *Shikshapatri*, 31 cite the *Vachanamrut*, and 8 cite the *Swamini Vato*. The morning *arti* begins at 6 a.m.; the evening *arti* at 7.30 p.m.
+
+    - *V.S.&nbsp;1781* — V.S. years are **always numerals** ([3.8.4.5](#3845-vs-vikram-samvat-years)).
+    - *three hundred miles*, *seven of those journeys* — narrative counts ≤ ten, spelled out ([3.8.1](#381-the-rule)).
+    - *1,200 mandirs*, *50 countries* — counts > ten, numerals.
+    - *213*, *47*, *31*, *8* — **all numerals**, because they're in the same passage as 213. The *8* would normally be spelled out but follows numerals for consistency ([3.8.4.2](#3842-mixing-words-and-numerals-in-one-passage)).
+    - *6 a.m.*, *7.30 p.m.* — **times of day**: always numerals with periods in *a.m.* / *p.m.*
+
 ## 3.8.2 Spell out (words)
 | Use | Example |
 |---|---|

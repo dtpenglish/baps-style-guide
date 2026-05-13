@@ -29,6 +29,17 @@ Anglicized plurals **may** be used on words that are found in the OED (and thus 
 - pandits
 - gurus
 
+??? example "Show me — plural decisions in a paragraph"
+
+    > The cart sold *rotla* by the dozen and chapatis by the kilo. One *rotlo* costs five rupees; a pack of ten chapatis costs forty. The vendor, a Kathiyavadi from Junagadh, also kept a small box of *prasad* for the pandits — sweets received from that morning's *arti*. Several gurus had passed through earlier; one of them had blessed the day's *rotla*.
+
+    - *rotla* — **native plural** of *rotlo*: italic (not in OED).
+    - *chapatis* — **OED plural**: roman, no italic.
+    - *rotlo* (singular) — italic, lowercase.
+    - *Kathiyavadi* — proper-adjective derived from a place name: **roman, capitalized** ([3.3.2.6](capitalization.md#3326-proper-adjectives-derived-from-names-places-religions-and-scriptures)).
+    - *prasad* — anglicized term in OED: **roman**, no italic, no plural form needed (uncount).
+    - *pandits*, *gurus* — anglicized terms: **roman**, plural with English ‑*s*.
+
 ## 3.7.2 Decision Summary
 | Source word | Form in OED? | Plural |
 |---|---|---|
