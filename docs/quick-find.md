@@ -34,6 +34,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Calques from Gujarati (the doing of X, going for darshan)** → [3.15.3](editorial/pitfalls.md#3153-translation-from-gujarati-patterns)
 - **Capitalization — general** → [3.3](editorial/capitalization.md)
 - **Capitalization of *He / His* for divine reference (don't)** → [3.15.4.1](editorial/pitfalls.md#31541-capitalizing-pronouns-for-reverence-he-his)
+- ***Cousin-sister* / *cousin-brother* (avoid)** → [3.15.2.4](editorial/pitfalls.md#31524-cousin-sister-cousin-brother)
 - **Capitalization — *Earth* / *earth*** → [3.3.2.3](editorial/capitalization.md#3323-earth-earth)
 - **Capitalization — definitions (sentence case)** → [3.3.2.16](editorial/capitalization.md#33216-definitions-use-sentence-case-not-title-case)
 - **Capitalization — direct address (*Sergeant*, *Father*)** → [3.3.2.13](editorial/capitalization.md#33213-terms-of-address-direct-address-and-family-relationships)
@@ -58,6 +59,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## D
 - **Dashes — en dash for ranges** → [3.10.2](editorial/punctuation.md#3102-dashes)
 - **Devotional register pitfalls** → [3.15.4](editorial/pitfalls.md#3154-devotional-register-pitfalls)
+- ***Discuss about* / *return back* / *reach at* (pleonastic prepositions, avoid)** → [3.15.2.9](editorial/pitfalls.md#31529-pleonastic-prepositions-discuss-about-return-back-reach-at-mention-about)
 - ***Do the needful* / *kindly revert* (avoid)** → [3.15.2.1](editorial/pitfalls.md#31521-do-the-needful-kindly-revert)
 - **Dashes — spaced en dash for parenthetical breaks** → [3.10.2](editorial/punctuation.md#3102-dashes)
 - **Dashes — em dash NOT used** → [3.10.2](editorial/punctuation.md#3102-dashes)
@@ -100,11 +102,15 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Hyphens — possessive nouns (*one week's pay*)** → [3.8.5.5](editorial/numbers.md#3855-no-hyphen-with-a-possessive-noun)
 - **Hyphens — symbols and unit abbreviations (no hyphen)** → [3.8.5.3](editorial/numbers.md#3853-no-hyphen-before-symbols-or-unit-abbreviations)
 
+## G
+- ***Good name* / *What is your good name?* (avoid)** → [3.15.2.7](editorial/pitfalls.md#31527-good-name-what-is-your-good-name)
+
 ## I
 - **i.e. — comma rules** → [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc)
 - **InDesign — character styles** → [6.3](indesign/character-styles.md)
 - **Indian-English pitfalls** → [3.15.2](editorial/pitfalls.md#3152-indian-english-patterns)
 - **Intensifiers — overuse of *very*, *especially*, *particularly*** → [3.15.3.3](editorial/pitfalls.md#31533-overuse-of-very-especially-particularly)
+- ***Intimate* as verb (= inform, avoid)** → [3.15.2.8](editorial/pitfalls.md#31528-intimate-as-a-verb-inform)
 - **InDesign — master pages** → [6.5](indesign/master-pages.md)
 - **InDesign — object styles** → [6.4](indesign/object-styles.md)
 - **InDesign — paragraph styles** → [6.2](indesign/paragraph-styles.md)
@@ -128,6 +134,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## M
 - **Macron-only convention** → [5.3](diacritics/macron-convention.md)
+- ***Myself X* as self-introduction (avoid)** → [3.15.2.10](editorial/pitfalls.md#315210-myself-x-as-self-introduction)
 - **Mandirs (open questions)** → [10.2](discussions/sanstha-and-mandirs.md)
 - **Master pages (InDesign)** → [6.5](indesign/master-pages.md)
 - **Mottoes / slogans** → [3.9.1.4](editorial/quotation-marks.md#3914-mottoes-and-slogans-presented-as-phrases-single-quotes)
@@ -135,6 +142,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## N
 - **Names — initials (*T.S. Eliot*)** → [3.12.1](editorial/abbreviations.md#3121-periods-truncations-vs-contractions)
 - **Names — italicization** → [3.6.1.2](editorial/italics.md#3612-names-and-capitalized-proper-nouns-not-italicized)
+- ***Native place* (avoid)** → [3.15.2.11](editorial/pitfalls.md#315211-native-place)
 - **Numbers — general rule (1–10 spelled out)** → [3.8.1](editorial/numbers.md#381-the-rule)
 - **Numbers — currency** → [3.8.3](editorial/numbers.md#383-use-numerals)
 - **Numbers — fractions and decimals** → [3.8.4.4](editorial/numbers.md#3844-fractions-and-decimals)
@@ -146,11 +154,15 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Object Export Options (EPUB)** → [7.2](epub/alt-text.md)
 - **Object styles (InDesign)** → [6.4](indesign/object-styles.md)
 - **Open compounds in titles** → [3.4.4](editorial/title-case.md#344-phrasal-verbs-and-open-compounds-in-titles)
+- ***Out of station* (avoid)** → [3.15.2.5](editorial/pitfalls.md#31525-out-of-station)
+- **Over-formal business English (*the same*, *the undersigned*, *please find attached herewith*)** → [3.15.2.14](editorial/pitfalls.md#315214-over-formal-business-english-the-same-the-undersigned-please-find-attached-herewith)
 - **Oxford comma** → [3.10.3](editorial/punctuation.md#3103-series-and-the-oxford-comma)
 
 ## P
 - **Paragraph styles (InDesign)** → [6.2](indesign/paragraph-styles.md)
+- ***Pass out* (= graduate, avoid)** → [3.15.2.6](editorial/pitfalls.md#31526-pass-out-graduate)
 - **Pitfalls (Indian-English, Gujarati calques, devotional register)** → [3.15](editorial/pitfalls.md)
+- **Pleonastic prepositions (*discuss about*, *return back*, etc.)** → [3.15.2.9](editorial/pitfalls.md#31529-pleonastic-prepositions-discuss-about-return-back-reach-at-mention-about)
 - ***Prepone* (avoid in general-readership prose)** → [3.15.2.2](editorial/pitfalls.md#31522-prepone)
 - **Periods — abbreviations** → [3.12.1](editorial/abbreviations.md#3121-periods-truncations-vs-contractions)
 - **Periods — spacing** → [3.10.5](editorial/punctuation.md#3105-spacing)
@@ -195,6 +207,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## T
 - **Terms of address (*Sergeant*, *Father*, *sir*)** → [3.3.2.13](editorial/capitalization.md#33213-terms-of-address-direct-address-and-family-relationships)
+- ***Too* used for *very* (avoid)** → [3.15.2.13](editorial/pitfalls.md#315213-too-for-very)
 - **Terms of works (titles)** → [3.3.1.3](editorial/capitalization.md#3313-titles-of-works), [3.4](editorial/title-case.md)
 - **Title Case — full rules** → [3.4](editorial/title-case.md)
 - **Tithis (named lunar days)** → [4](tithis/index.md)
@@ -220,6 +233,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## Y
 - **Years — apostrophe of omission (*'75*, *'60s*)** → [3.14.6](editorial/apostrophes.md#3146-apostrophes-in-degrees-and-years)
+- ***Years back* / *days back* (= years ago, avoid)** → [3.15.2.12](editorial/pitfalls.md#315212-years-back-days-back-years-ago)
 - **Yoga / yogic** → [3.3.2.7](editorial/capitalization.md#3327-yogic-vs-yoga)
 - **Yugas (Satyuga, Tretayuga, Dvaparayuga, Kaliyuga)** → [3.3.2.14](editorial/capitalization.md#33214-ages-and-time-periods)
 

@@ -64,6 +64,119 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Indian-English kinship terminology, documented in Mukherjee, *Indian English: Variation and Change* (Benjamins, 2010).
 
+### 3.15.2.5 *Out of Station*
+**The error:** *Out of station* (= away from one's home base, travelling) is a Raj-era idiom still current in Indian English but unfamiliar to readers outside India.
+
+- ❌ *Pramukh Swami Maharaj will be out of station next week.*
+- ✅ *Pramukh Swami Maharaj will be away next week.* / *Pramukh Swami Maharaj will be travelling next week.* / *Pramukh Swami Maharaj will be on tour next week.*
+
+**Why:** Originated as a British military / administrative term — *station* meant the location to which an officer was posted, and *out of station* meant absent from that posting. The sense has long died out in BrE and AmE but survived in Indian English. General readers will misread or notice it as archaic.
+
+**Source:** OED entry for *station* (n.), sense for *out of station*, marked "chiefly Indian English."
+
+### 3.15.2.6 *Pass Out* (= Graduate)
+**The error:** *Pass out* in Indian English means "complete a course of training, especially graduate from college." In general English, *pass out* means "lose consciousness, faint" — producing accidental comedy.
+
+- ❌ *He passed out of the University of Mumbai in 1965.*
+- ✅ *He graduated from the University of Mumbai in 1965.*
+
+**Why:** A military sense ("complete officer training") has migrated into civilian use in India and Pakistan, while in international English the only common sense is "faint." For a general readership, *graduate* / *qualify* / *complete* is unambiguous.
+
+**Source:** OED entry for *pass out* (sense "complete a course of training, esp. military"): marked "chiefly Indian and Pakistan English." Garner's *Modern English Usage* (5th ed.) flags the conflict.
+
+### 3.15.2.7 *Good Name* / *What Is Your Good Name?*
+**The error:** Politely asking someone's name using *good name* — a calque of Hindi *shubh naam* / Gujarati *shubh naam* — reads as obsequious or oddly archaic in general English.
+
+- ❌ *May I know your good name, sir?* / *What is your good name?*
+- ✅ *May I have your name, please?* / *What is your name?*
+
+**Why:** Hindi/Gujarati formal address attaches *shubh* ("auspicious") as a politeness marker to nouns of address. English politeness is conveyed by phrasing (*may I…*, *please*), not by adjectival doubling.
+
+**Source:** Classic Indian-English calque documented in Kachru, *The Indianization of English* (Oxford, 1983); Mukherjee, *Indian English: Variation and Change* (Benjamins, 2010).
+
+### 3.15.2.8 *Intimate* as a Verb (= Inform)
+**The error:** Using *intimate* as a verb meaning "inform" is standard in Indian official and business writing but rare elsewhere, where the verb sense reads as legalistic or quaint.
+
+- ❌ *Kindly intimate us of your arrival time.*
+- ✅ *Please let us know your arrival time.* / *Please inform us of your arrival time.*
+
+**Why:** *Intimate* (v.) in the sense "make known, announce" exists in general English but has become rare outside legal and Indian-English contexts. Where the meaning is plain *inform*, use *inform* or *tell*.
+
+**Source:** OED entry for *intimate* (v.), sense 2, "to make known formally, announce; to notify": now chiefly formal or in Indian English.
+
+### 3.15.2.9 Pleonastic Prepositions (*Discuss About*, *Return Back*, *Reach At*, *Mention About*)
+**The error:** Indian English routinely adds prepositions to verbs that don't need them.
+
+- ❌ *We discussed about the new project.*
+- ✅ *We discussed the new project.*
+- ❌ *He returned back to the mandir.*
+- ✅ *He returned to the mandir.* (and never *revert back* — see [3.15.2.1](#31521-do-the-needful-kindly-revert))
+- ❌ *We reached at the venue by 9 a.m.*
+- ✅ *We reached the venue by 9 a.m.* / *We arrived at the venue by 9 a.m.*
+- ❌ *He mentioned about the discourse.*
+- ✅ *He mentioned the discourse.*
+
+**Why:** These verbs are already transitive or already directional; the added preposition is redundant. The redundancy is strongly established in Indian English but flagged as nonstandard by all major usage guides.
+
+**Source:** Garner's *Modern English Usage* (5th ed.) — entries for *discuss about*, *return back*, and similar pleonasms — flags as nonstandard. *Hindu* style guide treats as forms to correct in copy.
+
+### 3.15.2.10 *Myself X* as Self-Introduction
+**The error:** Beginning a self-introduction with *Myself* (= "I am") is standard in Indian-English speech and informal writing but ungrammatical in general English.
+
+- ❌ *Myself Pratik Patel, from Mumbai.*
+- ✅ *I am Pratik Patel, from Mumbai.* / *My name is Pratik Patel.*
+
+**Why:** *Myself* is a reflexive / intensive pronoun, not a copula substitute. The Indian-English usage is calqued on Hindi/Gujarati structures in which the subject pronoun can be omitted and the reflexive carries the deictic weight.
+
+**Source:** Kachru, *The Indianization of English* (1983); Mukherjee (2010) lists as a defining feature of Indian English. Garner's *Modern English Usage* flags as nonstandard.
+
+### 3.15.2.11 *Native Place*
+**The error:** *Native place* (= ancestral hometown, the village or town one's family is from) is a strongly Indian-English idiom that reads as dated or colonial elsewhere.
+
+- ❌ *His native place is Chansad in Gujarat.*
+- ✅ *His ancestral home is Chansad, in Gujarat.* / *He is originally from Chansad, Gujarat.* / *His family is from Chansad, in Gujarat.*
+
+**Why:** *Native place* in international English carries an old colonial or anthropological tone and has largely fallen out of use. Indian English retains it as a neutral term, but general readers will notice it as a regionalism.
+
+**Source:** Mukherjee, *Indian English: Variation and Change* (Benjamins, 2010), lists as among the most cited Indian-English idioms in biographical and journalistic writing.
+
+### 3.15.2.12 *Years Back* / *Days Back* (= Years Ago)
+**The error:** Indian English uses *X years back* where general English uses *X years ago*.
+
+- ❌ *The mandir was built fifty years back.*
+- ✅ *The mandir was built fifty years ago.*
+
+**Why:** *Back* as a substitute for *ago* is a calque from Hindi *pahle* / Gujarati *pahela* used in the same syntactic slot. In general English, *back* is used with time only in fixed phrases (*looking back*, *back in 1965*, *years back* meaning "much earlier in one's life"), not as a free substitute for *ago*.
+
+**Source:** Kachru, *The Indianization of English* (1983); Mukherjee (2010).
+
+### 3.15.2.13 *Too* for *Very*
+**The error:** Indian English uses *too* as a plain intensifier where general English uses *too* only for "excessively, more than appropriate."
+
+- ❌ *The discourse was too good.* (intended: *very good*)
+- ✅ *The discourse was very good.* / *The discourse was excellent.*
+- ✅ (kept) *The discourse was too long.* (= excessively long — appropriate use of *too*)
+
+**Why:** In general English, *too* carries an implication of "more than is desirable" (*too hot*, *too late*). Praising something as *too good* reads as accidentally critical. Indian English has weakened *too* to a plain intensifier on the model of Hindi *bahut* / Gujarati *khub*.
+
+**Source:** Garner's *Modern English Usage* (5th ed.) entry on *too*; Mukherjee (2010).
+
+### 3.15.2.14 Over-Formal Business English (*The Same*, *The Undersigned*, *Please Find Attached Herewith*)
+**The error:** Indian-English formal correspondence and reports preserve legalistic or over-formal constructions that read as stilted in general English.
+
+- ❌ *We have received your letter and shall reply to the same shortly.*
+- ✅ *We have received your letter and will reply shortly.*
+- ❌ *The undersigned will attend the meeting on your behalf.*
+- ✅ *I will attend the meeting on your behalf.*
+- ❌ *Please find attached herewith the requested document for your kind perusal.*
+- ✅ *Please see the attached document.* / *I have attached the document you asked for.*
+- ❌ *Awaiting your kind response, I remain, Yours faithfully…*
+- ✅ *I look forward to your reply. Yours sincerely,*
+
+**Why:** These constructions are residues of nineteenth-century British administrative English, preserved in Indian official, legal, and business writing. They survive in some legal contexts but are replaced in modern English by direct phrasing.
+
+**Source:** *Plain English Campaign* style guides (UK); GOV.UK style guide. The *Hindu* style guide treats these as forms to avoid in news writing.
+
 ## 3.15.3 Translation-from-Gujarati Patterns
 
 ### 3.15.3.1 *The Doing of X* / Excessive Nominalization
