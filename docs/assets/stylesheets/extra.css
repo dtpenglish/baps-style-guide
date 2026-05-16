@@ -1,0 +1,88 @@
+/* ---------------------------------------------------------------
+   Horizontal scroll arrows on the top tab bar.
+   When the tabs overflow the viewport, two arrow buttons appear
+   (one left, one right) so the reader can scroll to hidden tabs
+   without needing to know the keyboard shortcut.
+
+   The arrows are injected by docs/assets/javascripts/extra.js;
+   this stylesheet handles their appearance.
+   --------------------------------------------------------------- */
+
+/* Make the tab list scrollable when it overflows */
+.md-tabs__list {
+  overflow-x: auto;
+  scrollbar-width: none;        /* Firefox: hide the native scrollbar */
+  -ms-overflow-style: none;     /* IE / legacy Edge */
+  scroll-behavior: smooth;
+  flex-wrap: nowrap;            /* prevent wrapping; force horizontal scroll */
+}
+
+/* WebKit (Chrome, Safari, new Edge): hide the native scrollbar */
+.md-tabs__list::-webkit-scrollbar {
+  display: none;
+}
+
+/* Make sure individual tabs don't shrink so they stay readable */
+.md-tabs__item {
+  flex-shrink: 0;
+}
+
+/* Position the scroll-arrow buttons over the ends of the tab bar */
+.md-tabs {
+  position: relative;
+}
+
+.md-tabs__scroll-arrow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 2.6rem;
+  display: none;                /* shown by JS only when overflow exists */
+  align-items: center;
+  justify-content: center;
+  z-index: 5;
+  border: 0;
+  cursor: pointer;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--md-primary-bg-color);
+  padding: 0;
+  font-weight: 700;
+}
+
+.md-tabs__scroll-arrow--left {
+  left: 0;
+  background: linear-gradient(
+    to right,
+    var(--md-primary-fg-color) 0%,
+    var(--md-primary-fg-color) 60%,
+    transparent 100%
+  );
+}
+
+.md-tabs__scroll-arrow--right {
+  right: 0;
+  background: linear-gradient(
+    to left,
+    var(--md-primary-fg-color) 0%,
+    var(--md-primary-fg-color) 60%,
+    transparent 100%
+  );
+}
+
+.md-tabs__scroll-arrow:hover {
+  color: var(--md-accent-fg-color);
+}
+
+.md-tabs__scroll-arrow:focus {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: -2px;
+}
+
+/* Hide on mobile/narrow widths -- Material already collapses tabs
+   into a side-drawer at that point, so arrows aren't needed. */
+@media screen and (max-width: 76.1875em) {
+  .md-tabs__scroll-arrow {
+    display: none !important;
+  }
+}
