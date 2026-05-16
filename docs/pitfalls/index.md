@@ -271,13 +271,15 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 ## 11.4 Devotional-Register Pitfalls
 
-### 11.4.1 Capitalizing Pronouns for Reverence (*He*, *His*)
+### 11.4.1 Capitalizing Pronouns for Reverence (*He*, *His*, *Him*)
 **The error:** Translating Gujarati devotional texts, English drafts sometimes capitalize *He / His / Him* referring to Bhagwan Swaminarayan or the gurus — a convention common in older English devotional writing but increasingly avoided in modern usage.
 
-- ❌ *Bhagwan Swaminarayan addressed the assembly. He explained the nature of dharma. His words moved the devotees.*
-- ✅ *Bhagwan Swaminarayan addressed the assembly. He explained the nature of dharma. His words moved the devotees.* (lowercase *he*, *his*)
+- ❌ *When Bhagwan Swaminarayan spoke, He addressed the assembly, and His words moved the devotees deeply. They followed Him for years afterwards.*
+- ✅ *When Bhagwan Swaminarayan spoke, he addressed the assembly, and his words moved the devotees deeply. They followed him for years afterwards.*
 
 **Why:** Modern English style, including most contemporary religious publishing, uses lowercase pronouns for divine reference. Capitalization can read as old-fashioned or sectarian to a general readership. Reverence is conveyed by the choice of nouns (*Bhagwan*, *the Guru*, *the Satpurush*) and the surrounding register, not by pronoun case.
+
+**Note:** This applies to **mid-sentence** pronouns only. A pronoun at the **start of a sentence** is still capitalized for ordinary English sentence-case rules — *Bhagwan Swaminarayan addressed the assembly. **He** spoke for two hours.* — and that capital is grammatical, not reverential.
 
 **Source:** *Chicago Manual of Style* §8.95 ("Religious names — pronouns referring to God and other deities are lowercased"). *New Hart's Rules* §5.2 takes the same line.
 

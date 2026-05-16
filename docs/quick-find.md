@@ -34,7 +34,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## C
 - **Calques from Gujarati (the doing of X, going for darshan)** → [11.3](pitfalls/index.md#113-translation-from-gujarati-patterns)
 - **Capitalization — general** → [3.3](editorial/capitalization.md)
-- **Capitalization of *He / His* for divine reference (don't)** → [11.4.1](pitfalls/index.md#1141-capitalizing-pronouns-for-reverence-he-his)
+- **Capitalization of *He / His / Him* for divine reference (don't)** → [11.4.1](pitfalls/index.md#1141-capitalizing-pronouns-for-reverence-he-his-him)
 - ***Cousin-sister* / *cousin-brother* (avoid)** → [11.2.4](pitfalls/index.md#1124-cousin-sister-cousin-brother)
 - **Capitalization — *Earth* / *earth*** → [3.3.2.3](editorial/capitalization.md#3323-earth-earth)
 - **Capitalization — definitions (sentence case)** → [3.3.2.16](editorial/capitalization.md#33216-definitions-use-sentence-case-not-title-case)
