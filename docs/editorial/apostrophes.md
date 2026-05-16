@@ -18,11 +18,11 @@ This follows Chicago and Oxford convention. (AP style would use *Dickens'*, *Hop
 
 ??? example "Show me — apostrophes in a paragraph"
 
-    > Dickens's novels and Hopkins's poetry both appear in the syllabus. Bess's reflections on Pramukh Swami Maharaj's teachings drew on the *Vachanamrut*'s opening discourses. The kothari's office is next to the sadhus' assembly hall — the boys' hostel is upstairs. Bhagwan Swaminarayan's birthday is celebrated as Swaminarayan Jayanti.
+    > Dickens's novels and Hopkins's poetry both appear in the syllabus. Bess's reflections on Pramukh Swami Maharaj's teachings drew on the Vachanamrut's opening discourses. The kothari's office is next to the sadhus' assembly hall — the boys' hostel is upstairs. Bhagwan Swaminarayan's birthday is celebrated as Swaminarayan Jayanti.
 
     - *Dickens's*, *Hopkins's*, *Bess's* — singular nouns ending in *s* / sibilant: **'s** (Chicago / Oxford).
     - *Pramukh Swami Maharaj's*, *Bhagwan Swaminarayan's* — singular proper nouns: **'s**.
-    - *Vachanamrut's* — singular title of a work: **'s** (note the italics carry over to the title but the apostrophe and *s* stay roman).
+    - *Vachanamrut's* — Hindu shastra title (roman per [3.15.7](citations.md#3157-hindu-shastra-citations)) + possessive: **'s**.
     - *kothari's* — singular common noun: **'s**.
     - *sadhus'*, *boys'* — plural nouns ending in *s*: **apostrophe only**.
 

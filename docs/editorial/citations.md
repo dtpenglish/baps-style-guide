@@ -16,7 +16,7 @@ For the placement of footnote superscripts in running text (after a period, befo
     > 2. Raymond Brady Williams, *An Introduction to Swaminarayan Hinduism* (Cambridge: Cambridge University Press, 2001), 14–22.
     > 3. Pramukh Swami Maharaj, "Glory of Bhakti" (discourse, BAPS Mandir, Sarangpur, August 5, 1995).
 
-    Note the two BAPS-specific conventions on shastra citations: (a) shastra titles (*Vachanamrut*, *Bhagavad Gita*) are **roman, not italicized**; (b) **no punctuation** between title and reference (*Gadhada I 1*, not *Gadhada I.1*). See [3.15.7](#3157-hindu-shastra-citations).
+    Note the two BAPS-specific conventions on shastra citations: (a) shastra titles (Vachanamrut, Bhagavad Gita) are **roman, not italicized**; (b) **no punctuation** between title and reference (*Gadhada I 1*, not *Gadhada I.1*). See [3.15.7](#3157-hindu-shastra-citations).
 
 ## 3.15.1 When to Cite
 Cite any source you draw on, not just direct quotations.
@@ -239,7 +239,7 @@ Use the established English transliteration of each title — without diacritica
 - Mahabharat
 - Ramayan
 - Shrimad Bhagvat
-- Upanishads (*Katha Upanishad*, *Isha Upanishad*, *Mundaka Upanishad*, …)
+- Upanishads (Katha Upanishad, Isha Upanishad, Mundaka Upanishad, …)
 
 **Generic categories take lowercase** — these are common nouns, not titles:
 
@@ -298,9 +298,9 @@ Preferred form:
 | Jetalpur | Jet. | J |
 | Bhugol-Khagol | Bhu-Kha | BK |
 
-**Examples in long-abbreviated form:** *Vach. Gadh. I 54*, *Vach. Kar. 5*, *Vach. Loya 7*.
+**Examples in long-abbreviated form:** Vach. Gadh. I 54, Vach. Kar. 5, Vach. Loya 7.
 
-**Examples in short-abbreviated form:** *V G I 54*, *V K 5*, *V L 7*.
+**Examples in short-abbreviated form:** V G I 54, V K 5, V L 7.
 
 **Footnote format (academic):**
 
@@ -357,7 +357,7 @@ Chapter number first, then verse number, separated by a period.
 
 **Avoid:** *Bhagavad Gita Chapter 4 Verse 7* — verbose and inconsistent with the system used for other shastras.
 
-**Abbreviation (academic or citation-heavy contexts only):** *BG 4.7*. Define on first use.
+**Abbreviation (academic or citation-heavy contexts only):** BG 4.7. Define on first use.
 
 ### 3.15.7.7 Upanishads
 Use the recognized textual divisions of each Upanishad. Subdivision schemes vary — follow the standard for each.
@@ -371,12 +371,12 @@ Use the recognized textual divisions of each Upanishad. Subdivision schemes vary
 ### 3.15.7.8 Other Hindu Shastras
 Apply the same pattern — established English title followed by the recognized textual division:
 
-- **Mahabharat** — *Mahabharat Shanti Parva 12.45* (parva + chapter); in-text references often drop the parva when context is clear.
-- **Ramayan** — *Ramayan 2.10.5* (kanda.sarga.verse).
-- **Shrimad Bhagvat** — *Shrimad Bhagvat 1.1.1* (canto.chapter.verse).
+- **Mahabharat** — Mahabharat Shanti Parva 12.45 (parva + chapter); in-text references often drop the parva when context is clear.
+- **Ramayan** — Ramayan 2.10.5 (kanda.sarga.verse).
+- **Shrimad Bhagvat** — Shrimad Bhagvat 1.1.1 (canto.chapter.verse).
 
 ### 3.15.7.9 Use of Abbreviations
-Abbreviated forms (*Vach. Gadh. I 1*, *BG 4.7*) **aid scanning** in academic or citation-heavy work — scholarly articles, footnote-dense reference books, comparative studies. They are **discouraged** in:
+Abbreviated forms (Vach. Gadh. I 1, BG 4.7) **aid scanning** in academic or citation-heavy work — scholarly articles, footnote-dense reference books, comparative studies. They are **discouraged** in:
 
 - devotional writing,
 - youth-oriented publications,
@@ -456,7 +456,7 @@ When citing a source again after intervening notes from other sources, use the *
 
 - ❌ **Missing publication city.** Always include the city of publication for books.
 - ❌ **Inconsistent author-name order.** Footnotes always use *Firstname Lastname*; bibliography always uses *Lastname, Firstname* (first author only).
-- ❌ **Italics on the title of an article or chapter.** Article and chapter titles take **quotation marks**, not italics. Italics are reserved for **whole works** — book titles, journal names, film titles. **Exception:** Hindu shastra titles (*Bhagavad Gita*, *Vachanamrut*, *Shikshapatri*, etc.) are **roman**, not italicized — a BAPS-specific departure from CMS. See [3.15.7](#3157-hindu-shastra-citations).
+- ❌ **Italics on the title of an article or chapter.** Article and chapter titles take **quotation marks**, not italics. Italics are reserved for **whole works** — book titles, journal names, film titles. **Exception:** Hindu shastra titles (Bhagavad Gita, Vachanamrut, Shikshapatri, etc.) are **roman**, not italicized — a BAPS-specific departure from CMS. See [3.15.7](#3157-hindu-shastra-citations).
 - ❌ **Missing DOI for an online article.** Always prefer the DOI over the raw URL when both are available.
 - ❌ **Putting personal communications in the bibliography.** Personal communications are cited in footnotes only ([3.15.6.6](#31566-personal-communication)).
 - ❌ **Using *op. cit.* or *loc. cit.*** Deprecated; use the shortened form ([3.15.8.2](#31582-shortened-form-non-immediate-repeat)).

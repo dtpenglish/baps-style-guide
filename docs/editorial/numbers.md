@@ -12,7 +12,7 @@ This departs from CMS (which spells out one through one hundred) and aligns more
 
 ??? example "Show me — numbers in a paragraph"
 
-    > Sundarji Suthar lived in V.S.&nbsp;1781 and travelled three hundred miles in his lifetime — though only seven of those journeys are documented. The Sanstha now operates 1,200 mandirs across 50 countries; in 2024 alone, 213 footnotes were added to the glossary, of which 47 cite the *Shikshapatri*, 31 cite the *Vachanamrut*, and 8 cite the *Swamini Vato*. The morning *arti* begins at 6 a.m.; the evening *arti* at 7.30 p.m.
+    > Sundarji Suthar lived in V.S.&nbsp;1781 and travelled three hundred miles in his lifetime — though only seven of those journeys are documented. The Sanstha now operates 1,200 mandirs across 50 countries; in 2024 alone, 213 footnotes were added to the glossary, of which 47 cite the Shikshapatri, 31 cite the Vachanamrut, and 8 cite the Swamini Vato. The morning *arti* begins at 6 a.m.; the evening *arti* at 7.30 p.m.
 
     - *V.S.&nbsp;1781* — V.S. years are **always numerals** ([3.8.4.5](#3845-vs-vikram-samvat-years)).
     - *three hundred miles*, *seven of those journeys* — narrative counts ≤ ten, spelled out ([3.8.1](#381-the-rule)).

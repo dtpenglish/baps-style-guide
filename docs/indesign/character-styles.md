@@ -20,7 +20,7 @@ A common convention is `Element.Variant`:
 | Style name | Use |
 |---|---|
 | `Italic.Indic` | Italicised Indic terms (*sadhu*, *darshan*) |
-| `Italic.Title` | Italicised titles of works (*Vachanamrut*, *Shikshapatri*) |
+| `Italic.Title` | Italicised titles of non-shastra works — book, journal, and film titles (e.g., *War and Peace*, *Journal of Hindu Studies*). Hindu shastra titles (Vachanamrut, Shikshapatri, Bhagavad Gita, etc.) are **roman, not italic** per [3.15.7](../editorial/citations.md#3157-hindu-shastra-citations) — so this style does **not** apply to them. |
 | `Italic.Emphasis` | English emphasis (use sparingly) |
 | `Bold.Term` | Bolded term being defined |
 | `SmallCaps.VS` | Small-cap *V.S.* before a Vikram Samvat year |

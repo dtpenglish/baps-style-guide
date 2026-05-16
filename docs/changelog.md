@@ -5,6 +5,21 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.27] – 2026-05-17
+
+### Changed
+- **Site-wide sweep: shastra titles deroled from italics.** Following the rule established in 3.15.7 ([1.26](#126--2026-05-17)), all italicized references to Hindu shastra titles (Vachanamrut, Shikshapatri, Swamini Vato, Bhagavad Gita, Mahabharat, Ramayan, Shrimad Bhagvat, Upanishads) are now set roman in:
+  - **3.6 Italics** — "Show me" worked example, Decision Summary table (new row added for shastra titles), §3.6.2 Punctuation Adjacent example. Added an admonition under [3.6.1.4](editorial/italics.md#3614-titles-short-stories-poems-art) pointing to 3.15.7 for the rule.
+  - **3.8 Numbers** — "Show me" worked example.
+  - **3.14 Apostrophes** — "Show me" worked example.
+  - **3.15 Citations** — residual italics in the chapter intro, in 3.15.7 examples, and in 3.15.9 Common Pitfalls.
+  - **5.2 SAP Diacritics Policy** — example bullet.
+  - **6.3 Character Styles** — *Italic.Title* row reworked: examples replaced with non-shastra titles; explicit note added that this style does not apply to shastra titles.
+  - **10.4 Shastras** (open discussion) — restructured: italicization, citation format, and section-separator questions marked Resolved with pointers to 3.15.7; only the 'Shri' honorific question remains open.
+- **Word-as-word italics preserved.** Where a shastra title or variant spelling appears in a discussion of *spelling itself* (e.g., comparing IAST *Śikṣāpatrī* against the SAP form, or comparing *Vachanamrut* vs *Wachanamrut* for letter choice), italics is retained as word-as-word usage. Affected files: [5.3 Macron-Only Convention](diacritics/macron-convention.md), [10.6 Transliteration](discussions/transliteration.md).
+
+---
+
 ## [1.26] – 2026-05-17
 
 ### Changed

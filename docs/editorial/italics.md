@@ -23,10 +23,10 @@ Follow this for the common case. The rules below cover edge cases (multiword phr
 
 ??? example "Show me — multiple italics decisions in one paragraph"
 
-    > Bhagwan Swaminarayan visited Sarangpur Mandir during Janmashtami and addressed the assembly. The discourse drew from the *Vachanamrut* and the *Shikshapatri*, and turned to the practice of *mansi puja*. Devotees performed *dandvats* and received *prasad*. The discourse ended with the blessing *Patthar satsang karavshe* — 'the stones will spread the glory of satsang'.
+    > Bhagwan Swaminarayan visited Sarangpur Mandir during Janmashtami and addressed the assembly. The discourse drew from the Vachanamrut and the Shikshapatri, and turned to the practice of *mansi puja*. Devotees performed *dandvats* and received *prasad*. The discourse ended with the blessing *Patthar satsang karavshe* — 'the stones will spread the glory of satsang'.
 
-    - *Bhagwan Swaminarayan*, *Sarangpur Mandir*, *Janmashtami* — names, place names, and festivals: **roman, capitalized, no italic** ([3.6.1.2](#3612-names-and-capitalized-proper-nouns-not-italicized)).
-    - *Vachanamrut*, *Shikshapatri* — titles of works: **italic** ([3.6.1.4](#3614-titles-short-stories-poems-art)).
+    - Bhagwan Swaminarayan, Sarangpur Mandir, Janmashtami — names, place names, and festivals: **roman, capitalized, no italic** ([3.6.1.2](#3612-names-and-capitalized-proper-nouns-not-italicized)).
+    - Vachanamrut, Shikshapatri — **Hindu shastra titles**: roman, **not italicized** — a BAPS-specific convention. See [3.15.7](citations.md#3157-hindu-shastra-citations).
     - *mansi puja* — multiword Indic phrase, whole phrase italicized as a unit ([3.6.1.5](#3615-multiword-sanskrit-and-indic-phrases-italicize-the-whole-phrase)).
     - *dandvats* — Indic term not in the OED: **italic, lowercase** ([3.6.1.1](#3611-indic-words-and-phrases-not-anglicized)). Note the plural takes an italic *s* — see [Plurals §3.7.1.1](plurals.md#3711-plurals-of-transliterated-indic-words).
     - *prasad* — in the OED: **roman, no italic** ([3.6.1.3](#3613-anglicized-terms-not-italicized)).
@@ -76,6 +76,9 @@ Indic terms that have become **anglicized** are in **roman, lowercase**.
 - Short stories
 - Poems
 
+!!! note "Hindu shastra titles — roman, not italicized"
+    Hindu shastra titles (Vachanamrut, Shikshapatri, Swamini Vato, Bhagavad Gita, Mahabharat, Ramayan, Upanishads, etc.) are **roman, capitalized, not italicized** — a BAPS-specific departure from CMS, which would italicize them as titles of works. The full rule, with citation formats and the recognized list of shastras, is at [3.15.7 Hindu Shastra Citations](citations.md#3157-hindu-shastra-citations).
+
 ### 3.6.1.5 Multiword Sanskrit and Indic Phrases – Italicize the Whole Phrase
 If any essential part of a multiword phrase is non-naturalized, italicize the **entire** phrase as a single foreign lexical unit. Splitting italicization across the phrase implies the parts are independent words rather than a unified concept.
 
@@ -97,7 +100,7 @@ The default rule: punctuation appears in the same font as the **surrounding text
 
 - *kem chho*? – the question mark stays roman.
 - *Bhagwan bhaji leva*. – the period stays roman.
-- He cited the *Vachanamrut*, the *Shikshapatri*, and the *Swamini Vato* – the commas stay roman.
+- He cited the novels *Anna Karenina*, *War and Peace*, and *Crime and Punishment* – the commas stay roman. (Hindu shastra titles — Vachanamrut, Shikshapatri, Swamini Vato — would themselves be roman per [3.15.7](citations.md#3157-hindu-shastra-citations); the punctuation rule shown here applies whenever the surrounding word is italicized.)
 
 ### Exception – Punctuation that Belongs to the Italicized Title
 When a question mark, exclamation point, or other terminal punctuation is **part of an italicized title or work**, italicize the punctuation along with it:
@@ -141,6 +144,7 @@ If the verse is unfamiliar to the readership, italicize the first appearance of 
 | Personal/place name | Bhagwan Swaminarayan, Sarangpur | No |
 | Festival, holy day | Janmashtami, Diwali | No |
 | Tithi (named lunar day) | Padvo, Ekadashi, Punam | No (exception – see [Tithis](../tithis/index.md)) |
+| **Hindu shastra title** | Vachanamrut, Shikshapatri, Bhagavad Gita | **No** (BAPS-specific – see [3.15.7](citations.md#3157-hindu-shastra-citations)) |
 | Fortnight designator | *sud*, *vad* | Yes (italic, lowercase) |
 | Other Indic term in prose | *dandvat*, *kothari*, *patshala* | Yes |
 | Title of a poem/short story | 'Akshar Anubhuti' | No |

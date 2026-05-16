@@ -27,7 +27,7 @@ Examples:
 - Bhagwan Swaminarayan (not *Bhagwān Swāminārāyaṇ*)
 - Sarangpur (not *Sāraṅgpur*)
 - BAPS Swaminarayan Sanstha (not *BAPS Swāminārāyaṇ Sansthā*)
-- *Vachanamrut* (the title of the work – not *Vachanāmṛt*)
+- Vachanamrut (the title of the work – not *Vachanāmṛt*)
 
 ## 5.2.3 Verses – Diacritics May Be Used
 For transliterations of **bhajans, *shlokas*, *padas*, and other scripture-verse content**, diacritics may be used. This is where IAST or another diacritic system is appropriate, because the precision matters for prosody, recitation, and scholarly cross-reference.

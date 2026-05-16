@@ -1,19 +1,22 @@
 ﻿# 10.4 Shastras
 
-*Last reviewed by the SAP DTP team: 2026-05-13.*
+*Last reviewed by the SAP DTP team: 2026-05-17.*
 
 Open questions on naming, citing, and formatting our scriptural texts.
 
+!!! success "Several questions on this page have been resolved"
+    The italicization, citation format, and section-separator questions in 10.4.1 are now settled — see [3.15.7 Hindu Shastra Citations](../editorial/citations.md#3157-hindu-shastra-citations). The 'Shri' question at 10.4.2 remains open.
+
 ## 10.4.1 Title Forms
-> Full and abbreviated titles / which to italicize / how to hyphenate to facilitate pronunciation / referencing conventions / ?use '.' as section separator.
 
-Open questions:
+### Resolved
+- **Which titles are italicized?** → **Not italicized.** Hindu shastra titles (Vachanamrut, Shikshapatri, Swamini Vato, Bhagavad Gita, etc.) are **roman, capitalized**. See [3.15.7](../editorial/citations.md#3157-hindu-shastra-citations).
+- **Citation format?** → **Vachanamrut Gadhada I 1** (full); **Vach. Gadh. I 1** (long-abbreviated); **V G I 1** (short-abbreviated). See [3.15.7.3](../editorial/citations.md#31573-vachanamrut).
+- **Section separator?** → **None.** No punctuation between title and reference, no punctuation between Roman-numeral volume and discourse number.
+- **Full vs abbreviated titles?** → Use the full form in devotional / youth-oriented writing; abbreviated forms aid scanning in academic / citation-heavy work. See [3.15.7.9](../editorial/citations.md#31579-use-of-abbreviations).
 
-- For each scripture, what is the **full title** for first mention vs the **abbreviated title** for subsequent mentions? (E.g., *Vachanamrut Gadhada I 1* vs *Gadh. I 1*.)
-- Which titles are **italicized** (as titles of works)? Are *Vachanamrut*, *Shikshapatri*, *Swamini Vato* always in italics?
-- How do we **hyphenate** long compound titles to aid pronunciation?
-- What's the **citation format** – *Vachanamrut Gadhada I 1*, *Vach. Gadh. I 1*, *Gadh. I 1*?
-- Should the **section separator** in citations be a period (`I.1`) or another mark?
+### Still Open
+- How do we **hyphenate** long compound titles to aid pronunciation? (Shriharililamrut, Haricharitramrutsagar, etc.)
 
 ## 10.4.2 'Shri' – Honorific or Part of the Title?
 > Also, is it 'Shriharililamrut' or 'Shri Harililamrut' or 'Shrihari Lilamrut' – is 'Shri' an honorific or part of the title? Same with Shriharililakalpataru, etc.
