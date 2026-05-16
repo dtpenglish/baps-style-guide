@@ -104,7 +104,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** OED entry for *intimate* (v.), sense 2, "to make known formally, announce; to notify": now chiefly formal or in Indian English.
 
-### 3.15.2.9 Pleonastic Prepositions (*Discuss About*, *Return Back*, *Reach At*, *Mention About*)
+### 3.15.2.9 Pleonastic Prepositions (*Discuss About*, *Return Back*, *Reach At*, *Mention About*, *Order For*)
 **The error:** Indian English routinely adds prepositions to verbs that don't need them.
 
 - ❌ *We discussed about the new project.*
@@ -115,6 +115,8 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 - ✅ *We reached the venue by 9 a.m.* / *We arrived at the venue by 9 a.m.*
 - ❌ *He mentioned about the discourse.*
 - ✅ *He mentioned the discourse.*
+- ❌ *I ordered for two copies of the book.*
+- ✅ *I ordered two copies of the book.* (*ordered for* is fine when *for* introduces a beneficiary — *I ordered for him*, *I placed an order for two copies* — but not before a direct object.)
 
 **Why:** These verbs are already transitive or already directional; the added preposition is redundant. The redundancy is strongly established in Indian English but flagged as nonstandard by all major usage guides.
 
@@ -176,6 +178,61 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 **Why:** These constructions are residues of nineteenth-century British administrative English, preserved in Indian official, legal, and business writing. They survive in some legal contexts but are replaced in modern English by direct phrasing.
 
 **Source:** *Plain English Campaign* style guides (UK); GOV.UK style guide. The *Hindu* style guide treats these as forms to avoid in news writing.
+
+### 3.15.2.15 Progressive Aspect on Stative Verbs
+**The error:** Indian English freely uses the *-ing* (progressive) form with **stative** verbs — verbs that describe ongoing states rather than actions: *know*, *understand*, *believe*, *want*, *mean*, *prefer*, *contain*, *possess*, *deserve*, *recognize*, and *have* in the sense of possession.
+
+- ❌ *I am understanding the discourse.*
+- ✅ *I understand the discourse.*
+- ❌ *He is having two brothers.* (sense: possession)
+- ✅ *He has two brothers.*
+- ❌ *We are knowing him for many years.*
+- ✅ *We have known him for many years.*
+- ❌ *She is believing in the guru's words.*
+- ✅ *She believes in the guru's words.*
+
+**Why:** Hindi and Gujarati don't make the stative/dynamic distinction English does — the same verbal form covers both. Indian English calques the source-language pattern, extending the English progressive to verbs that general English keeps in the simple present.
+
+**Source:** B. B. Kachru, *The Indianization of English* (1983); a defining feature of Indian English noted in Sailaja, *Indian English* (Edinburgh, 2009) and Mukherjee (2010). Garner's *Modern English Usage* (5th ed.) flags the conflict.
+
+**Note:** *Having* in the sense of "experiencing" or "consuming" is fine in general English (*I am having lunch*, *She is having a difficult time*). The pitfall is specifically the **possessive** sense.
+
+### 3.15.2.16 *Same to Same* / Reduplication for Emphasis
+**The error:** Indian English uses reduplication (*same to same*, *no-no*, *very very*, *quickly quickly*) as a discourse-level intensifier — a calque from Hindi/Gujarati emphatic reduplication. In general English this reads as informal or childlike.
+
+- ❌ *The two manuscripts are same to same.* (= identical)
+- ✅ *The two manuscripts are identical.* / *The two manuscripts are exactly the same.*
+- ❌ *He came running running.*
+- ✅ *He ran towards us.* / *He came running quickly.*
+- ❌ *She was very very moved by the discourse.*
+- ✅ *She was deeply moved by the discourse.* (and see [3.15.3.3](#31533-overuse-of-very-especially-particularly) on intensifier overuse)
+
+**Why:** Hindi and Gujarati use reduplication freely as an emphatic, distributive, or aspectual marker (*haste haste* "while laughing", *dheere dheere* "slowly, gradually"). English uses repetition rarely and only in fixed rhetorical patterns (*now now*, *come come*) — never as a free emphasizer.
+
+**Source:** Indian-English reduplication is documented as a defining feature in Mukherjee (2010); Kachru (1983); Sailaja (2009).
+
+### 3.15.2.17 Articles (*A*, *An*, *The*) — Omission and Overuse
+**The error:** Indian-English article use diverges from general English — articles drop where general English requires them, or get added where general English uses zero article, a possessive, or a demonstrative.
+
+**Omission** (article missing where general English needs one):
+
+- ❌ *He is doctor.*
+- ✅ *He is a doctor.*
+- ❌ *She went to mandir at 6 a.m.*
+- ✅ *She went to the mandir at 6 a.m.*
+- ❌ *Sadhu has come from Sarangpur.* (introducing a previously unmentioned person)
+- ✅ *A sadhu has come from Sarangpur.*
+
+**Overuse** (definite article used where the noun is not yet known to the reader):
+
+- ❌ *She entered the office to talk to the boss.* (when no specific office or boss has been introduced)
+- ✅ *She entered an office to talk to a manager.* / *She entered her office to talk to her manager.* (if a specific one)
+
+**Why:** Hindi and Gujarati have no articles; definiteness and indefiniteness are conveyed by word order, demonstratives, and context. Indian-English speakers calibrate article use to a different (and often internally inconsistent) pattern.
+
+**Source:** Article use is the single most-studied feature of Indian English. See Kachru (1983); Sailaja, *Indian English* (Edinburgh, 2009); Mukherjee (2010). Garner's *Modern English Usage* (5th ed.) notes article use as the most common Indian-English departure from general English grammar.
+
+**Editing note:** This is the hardest Indian-English pattern to catch because it's **systemic and grammatical**, not a phrase to find-and-replace. When reviewing translations from Gujarati, a dedicated **article pass** — reading the manuscript once specifically to check every noun phrase for the right article — catches what a general read misses.
 
 ## 3.15.3 Translation-from-Gujarati Patterns
 

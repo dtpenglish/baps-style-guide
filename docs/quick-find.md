@@ -5,6 +5,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## A
 - **Abbreviations — *i.e.* / *e.g.* / *etc.*** → [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc)
+- **Articles (*a* / *an* / *the*) — omission and overuse** → [3.15.2.17](editorial/pitfalls.md#315217-articles-a-an-the-omission-and-overuse)
 - **Abbreviations — periods (*Mr*, *Dr*, *V.S.*, *Mon.*, *etc.*)** → [3.12.1](editorial/abbreviations.md#3121-periods-truncations-vs-contractions)
 - **Abbreviations — plurals (*CDs*, *NGOs*, *1920s*)** → [3.12.6](editorial/abbreviations.md#3126-plurals-of-abbreviations)
 - **Abbreviations — first mention (spell out, then abbreviate)** → [3.12.5](editorial/abbreviations.md#3125-first-mention-spell-out-then-abbreviate)
@@ -59,7 +60,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## D
 - **Dashes — en dash for ranges** → [3.10.2](editorial/punctuation.md#3102-dashes)
 - **Devotional register pitfalls** → [3.15.4](editorial/pitfalls.md#3154-devotional-register-pitfalls)
-- ***Discuss about* / *return back* / *reach at* (pleonastic prepositions, avoid)** → [3.15.2.9](editorial/pitfalls.md#31529-pleonastic-prepositions-discuss-about-return-back-reach-at-mention-about)
+- ***Discuss about* / *return back* / *reach at* (pleonastic prepositions, avoid)** → [3.15.2.9](editorial/pitfalls.md#31529-pleonastic-prepositions-discuss-about-return-back-reach-at-mention-about-order-for)
 - ***Do the needful* / *kindly revert* (avoid)** → [3.15.2.1](editorial/pitfalls.md#31521-do-the-needful-kindly-revert)
 - **Dashes — spaced en dash for parenthetical breaks** → [3.10.2](editorial/punctuation.md#3102-dashes)
 - **Dashes — em dash NOT used** → [3.10.2](editorial/punctuation.md#3102-dashes)
@@ -162,8 +163,9 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Paragraph styles (InDesign)** → [6.2](indesign/paragraph-styles.md)
 - ***Pass out* (= graduate, avoid)** → [3.15.2.6](editorial/pitfalls.md#31526-pass-out-graduate)
 - **Pitfalls (Indian-English, Gujarati calques, devotional register)** → [3.15](editorial/pitfalls.md)
-- **Pleonastic prepositions (*discuss about*, *return back*, etc.)** → [3.15.2.9](editorial/pitfalls.md#31529-pleonastic-prepositions-discuss-about-return-back-reach-at-mention-about)
+- **Pleonastic prepositions (*discuss about*, *return back*, *order for*, etc.)** → [3.15.2.9](editorial/pitfalls.md#31529-pleonastic-prepositions-discuss-about-return-back-reach-at-mention-about-order-for)
 - ***Prepone* (avoid in general-readership prose)** → [3.15.2.2](editorial/pitfalls.md#31522-prepone)
+- **Progressive aspect on stative verbs (*I am understanding*, *He is having*)** → [3.15.2.15](editorial/pitfalls.md#315215-progressive-aspect-on-stative-verbs)
 - **Periods — abbreviations** → [3.12.1](editorial/abbreviations.md#3121-periods-truncations-vs-contractions)
 - **Periods — spacing** → [3.10.5](editorial/punctuation.md#3105-spacing)
 - **Phrasal verbs in titles** → [3.4.4](editorial/title-case.md#344-phrasal-verbs-and-open-compounds-in-titles)
@@ -187,6 +189,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Reverential capitalization** → [3.5](editorial/doctrinal-titles.md)
 
 ## S
+- ***Same to same* / reduplication for emphasis (avoid)** → [3.15.2.16](editorial/pitfalls.md#315216-same-to-same-reduplication-for-emphasis)
 - **Sampradaya** → [3.3.2.8](editorial/capitalization.md#3328-sampradaya)
 - **Sanstha & mandirs (open questions)** → [10.2](discussions/sanstha-and-mandirs.md)
 - ***Satsang* / *satsang*** → [3.3.2.11](editorial/capitalization.md#33211-satsang-as-a-doctrinal-term)
