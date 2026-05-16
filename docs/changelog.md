@@ -5,6 +5,31 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.26] – 2026-05-17
+
+### Changed
+- **3.15.7 fully revised** ([editorial/citations.md](editorial/citations.md#3157-hindu-shastra-citations)) per the *Hindu Shastra Citation Summary Guide*. Section retitled from *BAPS-Specific References* to *Hindu Shastra Citations* and expanded from 6 sub-sections to 13.
+- **Two convention changes** — both BAPS-specific departures from CMS, now documented explicitly:
+  - **Shastra titles are roman, not italicized.** *Bhagavad Gita*, *Vachanamrut*, *Shikshapatri*, etc., are set roman with caps. Existing examples in citations.md updated.
+  - **No punctuation between title and reference.** *Vachanamrut Gadhada I 1* (not *Gadhada I.1*); *Bhagavad Gita 2.47* (not *Bhagavad Gita, 2.47*).
+- The two departures are flagged in the [3.15.9 Common Pitfalls](editorial/citations.md#3159-common-pitfalls) section so editors don't mistakenly italicize shastra titles when applying the general CMS rule.
+
+### Added
+- **3.15.7.1 Recognized Shastras** — established English forms for BAPS shastras (Vachanamrut, Swamini Vato, Shikshapatri, Satsang Diksha, Bhaktachintamani, Harililamrut, Haricharitramrut Sagar) and the broader Hindu corpus (Bhagavad Gita, Mahabharat, Ramayan, Shrimad Bhagvat, Upanishads).
+- **3.15.7.3 Full Vachanamrut section-abbreviations table** — long form (*Vach.*, *Gadh. I*, *Sar.*, *Kar.*, *Lo.*, *Pan.*, *Gadh. II*, *Var.*, *Amd.*, *Gadh. III*, *Ash.*, *Jet.*, *Bhu-Kha*) and short form (*V*, *G I*, *S*, *K*, *L*, *P*, *G II*, *V*, *A*, *G III*, *As*, *J*, *BK*).
+- **3.15.7.6 Bhagavad Gita** — chapter.verse format (*Bhagavad Gita 2.47*); abbreviation *BG 4.7* permitted in academic / citation-heavy contexts only; verbose form *"Chapter 4 Verse 7"* discouraged.
+- **3.15.7.7 Upanishads** — examples for the major Upanishads (Katha, Isha, Mundaka).
+- **3.15.7.8 Other Hindu Shastras** — formats for Mahabharat (parva + chapter), Ramayan (kanda.sarga.verse), Shrimad Bhagvat (canto.chapter.verse).
+- **3.15.7.9 Use of Abbreviations** — abbreviated forms aid scanning in academic / citation-heavy work; discouraged in devotional or youth-oriented writing.
+- **3.15.7.10 Quoting Shastras** — short quotations in prose with quotation marks; long quotations as block quotations (no quotation marks; citation prefixed with spaced en dash).
+- **3.15.7.11 Placement of Shastra Citations** — inline, parenthetical, and quotation-attribution forms with examples.
+- Quick Find: new entries for Bhagavad Gita, Block quotations, Shastra citations, Shikshapatri, Swamini Vato, Upanishads; existing Vachanamrut entry updated for the new sub-section numbering.
+
+### Notes
+- **Site-wide implication flagged.** Other chapters of this guide currently italicize shastra titles (*Vachanamrut*, *Shikshapatri*, etc.) — see examples in [3.6 Italics](editorial/italics.md), [3.3 Capitalization](editorial/capitalization.md), and [3.4 Title Case](editorial/title-case.md). Under the new 3.15.7 convention these should be roman. A site-wide sweep is a separate decision; for now the new rule lives in 3.15.7 only.
+
+---
+
 ## [1.25] – 2026-05-13
 
 ### Added

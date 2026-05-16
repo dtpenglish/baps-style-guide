@@ -1,21 +1,22 @@
 # 3.15 Citations & References
 
-*Last reviewed by the SAP DTP team: 2026-05-13.*
+*Last reviewed by the SAP DTP team: 2026-05-17.*
 
-How to cite books, articles, websites, scriptures, and other sources in SAP English publications. SAP follows the **Chicago Manual of Style (CMS), Notes–Bibliography (NB) system** — the convention used in history, religion, and other humanities disciplines.
+How to cite books, articles, websites, scriptures, and other sources in SAP English publications. SAP follows the **Chicago Manual of Style (CMS), Notes–Bibliography (NB) system** — the convention used in history, religion, and other humanities disciplines — with **BAPS-specific departures for Hindu shastra citations** (see [3.15.7](#3157-hindu-shastra-citations)).
 
 For the placement of footnote superscripts in running text (after a period, before a comma, etc.), see [3.11 Footnotes](footnotes.md). This page covers the **content and structure** of each citation; 3.11 covers **where** the superscript goes.
 
 ??? example "Show me — citations in a paragraph"
 
-    > The Vachanamrut records that Bhagwan Swaminarayan delivered 273 discourses between V.S. 1875 and V.S. 1886.¹ The Shikshapatri summarizes the doctrinal foundations of the Sampradaya.² For an overview of the early development of the tradition in English-language scholarship, see Williams.³ Pramukh Swami Maharaj's own commentary on these texts is preserved in recorded discourses.⁴
+    > The Vachanamrut records that Bhagwan Swaminarayan delivered 273 discourses between V.S. 1875 and V.S. 1886 (Vachanamrut Gadhada I 1).¹ Bhagwan Krishna's teaching on disciplined action without attachment to results is foundational here (Bhagavad Gita 2.47). For an overview of the early development of the tradition in English-language scholarship, see Williams.² Pramukh Swami Maharaj's own commentary on these texts is preserved in recorded discourses.³
     >
     > ---
     >
-    > 1. Bhagwan Swaminarayan, *Vachanamrut* (Amdavad: Swaminarayan Aksharpith, 1981), Gadhada I.1.
-    > 2. *Ibid.*, *Shikshapatri*, verse 1.
-    > 3. Raymond Brady Williams, *An Introduction to Swaminarayan Hinduism* (Cambridge: Cambridge University Press, 2001), 14–22.
-    > 4. Pramukh Swami Maharaj, "Glory of Bhakti" (discourse, BAPS Mandir, Sarangpur, August 5, 1995).
+    > 1. Bhagwan Swaminarayan, Vachanamrut (Amdavad: Swaminarayan Aksharpith, 1981), Gadhada I 1.
+    > 2. Raymond Brady Williams, *An Introduction to Swaminarayan Hinduism* (Cambridge: Cambridge University Press, 2001), 14–22.
+    > 3. Pramukh Swami Maharaj, "Glory of Bhakti" (discourse, BAPS Mandir, Sarangpur, August 5, 1995).
+
+    Note the two BAPS-specific conventions on shastra citations: (a) shastra titles (*Vachanamrut*, *Bhagavad Gita*) are **roman, not italicized**; (b) **no punctuation** between title and reference (*Gadhada I 1*, not *Gadhada I.1*). See [3.15.7](#3157-hindu-shastra-citations).
 
 ## 3.15.1 When to Cite
 Cite any source you draw on, not just direct quotations.
@@ -108,7 +109,7 @@ Include the translator after the title.
 
 > 6. Author Name, *Title of Book*, trans. Firstname Lastname (City: Publisher, Year), page.
 
-For BAPS translations from Gujarati, see [3.15.7.5](#31575-translation-note).
+For BAPS translations from Gujarati, see [3.15.7.12](#315712-translation-note).
 
 ## 3.15.4 Periodicals
 
@@ -211,52 +212,224 @@ Personal communications (interviews, letters, emails) are cited in **footnotes o
 
 > 18. Jane Doe, "Devotional Movements in Nineteenth-Century Gujarat" (PhD diss., University of Oxford, 2018), 102.
 
-## 3.15.7 BAPS-Specific References
-The reference types in this section are not covered by the standard CMS guides and have evolved within the BAPS tradition. The in-text forms below are the **current SAP convention**; the formal academic forms can be used in scholarly publications.
+## 3.15.7 Hindu Shastra Citations
+SAP uses a citation convention for Hindu shastras that **differs from standard CMS NB style** in two specific ways:
 
-### 3.15.7.1 Vachanamrut
-**In-text form (SAP convention):** *Vach.* + section abbreviation + volume in Roman numerals + chapter.
+- **Shastra titles are roman, capitalized, not italicized** (CMS would italicize them as titles of works).
+- **No punctuation between the title and the reference numbers** — *Bhagavad Gita 2.47*, not *Bhagavad Gita, 2.47* or *Bhagavad Gita 2.47*.
 
-> *Vach. Gadh. I 1*  /  *Vach. Kar. 6*  /  *Vach. Loya 7*  /  *Vach. Pan. 4*  /  *Vach. Var. 11*  /  *Vach. Amd. 3*  /  *Vach. Asl. 9*
+The convention balances **academic clarity, scriptural authenticity, devotional sensitivity**, and **readability for a general or youth audience**. It applies in prose, captions, footnotes, and bibliography entries throughout SAP publications.
 
-For the full conventions — including range citations and section abbreviations — see [10.4 Shastras](../discussions/shastras.md).
+### 3.15.7.1 Recognized Shastras (Established English Forms)
+Use the established English transliteration of each title — without diacritical marks unless the publication follows a strict academic system (see [5.2 SAP Diacritics Policy](../diacritics/sap-policy.md)). Capitalize as proper nouns; do not italicize.
+
+**BAPS shastras:**
+
+- Vachanamrut
+- Swamini Vato
+- Shikshapatri
+- Satsang Diksha
+- Bhaktachintamani
+- Harililamrut
+- Haricharitramrut Sagar
+
+**Broader Hindu corpus:**
+
+- Bhagavad Gita
+- Mahabharat
+- Ramayan
+- Shrimad Bhagvat
+- Upanishads (*Katha Upanishad*, *Isha Upanishad*, *Mundaka Upanishad*, …)
+
+**Generic categories take lowercase** — these are common nouns, not titles:
+
+- the Hindu scriptures
+- the shastras
+- sacred texts
+- the epics
+
+### 3.15.7.2 Citation Format
+The general structure for in-text and parenthetical citations is:
+
+> **Scripture Name** + space + **Reference**
+
+with no punctuation between title and reference.
+
+**Examples:**
+
+- Vachanamrut Gadhada I 1
+- Vachanamrut Kariyani 5
+- Bhagavad Gita 2.47
+- Shikshapatri 116
+- Swamini Vato 5.23
+- Katha Upanishad 1.2.18
+
+### 3.15.7.3 Vachanamrut
+Preferred form:
+
+> **Vachanamrut** + **Section** + **Discourse Number**
+
+- **Roman numerals** are retained for the three Gadhada sub-divisions (Gadh. I, Gadh. II, Gadh. III).
+- **No punctuation** between division and discourse number.
+
+**Examples:**
+
+- Vachanamrut Gadhada I 54
+- Vachanamrut Gadhada II 13
+- Vachanamrut Gadhada III 27
+- Vachanamrut Loya 7
+- Vachanamrut Kariyani 5
+
+**Section abbreviations.** In citation-heavy or academic contexts, use the abbreviated forms below; define on first use and use consistently thereafter. Two abbreviation systems are in use — a **long form** and a **short form** — pick one per publication.
+
+| Section | Long form | Short form |
+|---|---|---|
+| Vachanamrut | Vach. | V |
+| Gadhada I | Gadh. I | G I |
+| Sarangpur | Sar. | S |
+| Kariyani | Kar. | K |
+| Loya | Lo. | L |
+| Panchala | Pan. | P |
+| Gadhada II | Gadh. II | G II |
+| Vartal | Var. | V |
+| Ahmedabad | Amd. | A |
+| Gadhada III | Gadh. III | G III |
+| Ashlali | Ash. | As |
+| Jetalpur | Jet. | J |
+| Bhugol-Khagol | Bhu-Kha | BK |
+
+**Examples in long-abbreviated form:** *Vach. Gadh. I 54*, *Vach. Kar. 5*, *Vach. Loya 7*.
+
+**Examples in short-abbreviated form:** *V G I 54*, *V K 5*, *V L 7*.
 
 **Footnote format (academic):**
 
-> 19. Bhagwan Swaminarayan, *Vachanamrut* (Amdavad: Swaminarayan Aksharpith, 1981), Gadhada I.1.
+> 19. Bhagwan Swaminarayan, Vachanamrut (Amdavad: Swaminarayan Aksharpith, 1981), Gadhada I 1.
 
 **Bibliography format:**
 
-> Bhagwan Swaminarayan. *Vachanamrut*. Amdavad: Swaminarayan Aksharpith, 1981.
+> Bhagwan Swaminarayan. Vachanamrut. Amdavad: Swaminarayan Aksharpith, 1981.
 
-### 3.15.7.2 Shikshapatri
-**In-text form:** *Shikshapatri 1* (verse number).
+For the open-discussion history of this convention, see [10.4 Shastras](../discussions/shastras.md).
+
+### 3.15.7.4 Swamini Vato
+Preferred form:
+
+> **Swamini Vato** + **Chapter (***prakaran***)** + **.** + **Vaat**
+
+**Examples:**
+
+- Swamini Vato 1.1
+- Swamini Vato 5.132
 
 **Footnote format:**
 
-> 20. Bhagwan Swaminarayan, *Shikshapatri* (Amdavad: Swaminarayan Aksharpith, 1985), verse 1.
+> 20. Aksharbrahma Gunatitanand Swami, Swamini Vato (Amdavad: Swaminarayan Aksharpith, 1980), 5.132.
 
-### 3.15.7.3 Swamini Vato
-**In-text form:** *Swamini Vato 1.1* (volume.discourse).
+### 3.15.7.5 Shikshapatri
+Preferred form:
+
+> **Shikshapatri** + **Verse Number**
+
+The verse number alone — no "verse" prefix in the in-text form.
+
+**Examples:**
+
+- Shikshapatri 1
+- Shikshapatri 116
 
 **Footnote format:**
 
-> 21. Aksharbrahma Gunatitanand Swami, *Swamini Vato* (Amdavad: Swaminarayan Aksharpith, 1980), 1.1.
+> 21. Bhagwan Swaminarayan, Shikshapatri (Amdavad: Swaminarayan Aksharpith, 1985), 116.
 
-### 3.15.7.4 Other BAPS Scriptures and Publications
-Apply the same pattern: italicized title, publisher (Amdavad: Swaminarayan Aksharpith) in most cases, year, and the section / chapter / verse number.
+### 3.15.7.6 Bhagavad Gita
+Preferred form:
 
-### 3.15.7.5 Translation Note
-When citing a Gujarati source in English, indicate the translator:
+> **Bhagavad Gita** + **Chapter.Verse**
 
-> 22. Bhagwan Swaminarayan, *Vachanamrut*, trans. Sadhu Swayamprakashdas (Amdavad: Swaminarayan Aksharpith, 2014), Gadhada I.1.
+Chapter number first, then verse number, separated by a period.
 
-For an English-language work translated from Gujarati more broadly, the translator is essential and goes after the title.
+**Examples:**
 
-### 3.15.7.6 Recorded Discourses
-For published recordings (Pramukh Swami Maharaj's *katha* series, etc.), treat as Audio/Video Recording ([3.15.6.5](#31565-audio-or-video-recording)).
+- Bhagavad Gita 2.47
+- Bhagavad Gita 4.7
+- Bhagavad Gita 18.66
 
-For unpublished recordings (private discourses, internal Sanstha archives), treat as Personal Communication ([3.15.6.6](#31566-personal-communication)).
+**Avoid:** *Bhagavad Gita Chapter 4 Verse 7* — verbose and inconsistent with the system used for other shastras.
+
+**Abbreviation (academic or citation-heavy contexts only):** *BG 4.7*. Define on first use.
+
+### 3.15.7.7 Upanishads
+Use the recognized textual divisions of each Upanishad. Subdivision schemes vary — follow the standard for each.
+
+**Examples:**
+
+- Katha Upanishad 1.2.18
+- Isha Upanishad 1
+- Mundaka Upanishad 3.2.4
+
+### 3.15.7.8 Other Hindu Shastras
+Apply the same pattern — established English title followed by the recognized textual division:
+
+- **Mahabharat** — *Mahabharat Shanti Parva 12.45* (parva + chapter); in-text references often drop the parva when context is clear.
+- **Ramayan** — *Ramayan 2.10.5* (kanda.sarga.verse).
+- **Shrimad Bhagvat** — *Shrimad Bhagvat 1.1.1* (canto.chapter.verse).
+
+### 3.15.7.9 Use of Abbreviations
+Abbreviated forms (*Vach. Gadh. I 1*, *BG 4.7*) **aid scanning** in academic or citation-heavy work — scholarly articles, footnote-dense reference books, comparative studies. They are **discouraged** in:
+
+- devotional writing,
+- youth-oriented publications,
+- magazines, biographies, and pastoral material.
+
+Full forms are preferred for **clarity and reverence**. When abbreviations are used, **define them once** on first appearance, and apply consistently throughout the publication.
+
+### 3.15.7.10 Quoting Shastras
+
+**Short quotations** are incorporated directly into the prose with quotation marks. The citation follows immediately, parenthetically or inline:
+
+> As the Bhagavad Gita states, "One who gives up all material desires and lives free from a sense of greed, proprietorship, and egoism, attains perfect peace" (Bhagavad Gita 2.71).
+
+**Long quotations** (more than three lines, or any verse-form passage) are formatted as block quotations:
+
+- separated from the main text,
+- **no quotation marks** around the block,
+- citation placed immediately after the quotation, prefixed with a spaced en dash.
+
+> Whenever dharma declines and adharma rises, I manifest myself to protect the righteous and destroy the wicked, and to establish dharma again.
+> – Bhagavad Gita 4.7–4.8
+
+For the typographic treatment of transliterated verse text within a block (italics, Sanskrit text, macron-only diacritics), see [3.6.4 Shlokas, Padas, and Other Quoted Verses](italics.md#364-shlokas-padas-and-other-quoted-verses).
+
+### 3.15.7.11 Placement of Shastra Citations
+
+**Inline citations** — the reference is integrated into the prose:
+
+> Bhagwan Swaminarayan explains in Vachanamrut Gadhada I 54 that true association shapes one's inner inclinations.
+>
+> Bhagwan Swaminarayan explains in Vachanamrut Kariyani 5 that desires motivated by worldly enjoyment bind the *jiva*.
+
+**Parenthetical citations** — the reference is at the end of the supporting clause, in parentheses:
+
+> True spiritual progress depends upon association with the Satpurush (Vachanamrut Gadhada I 54).
+>
+> The Bhagavad Gita teaches disciplined action without attachment to results (Bhagavad Gita 2.47).
+
+**Quotation attribution** — verse or scripture quoted as a block, with the reference following on its own line, prefixed by a spaced en dash:
+
+> "One who gives up all material desires and lives free from a sense of greed, proprietorship, and egoism, attains perfect peace."
+> – Bhagavad Gita 2.71
+
+### 3.15.7.12 Translation Note
+When citing a published English translation of a Gujarati or Sanskrit shastra, indicate the translator in the **footnote** form (the in-text shastra citation stays the same):
+
+> *In-text:* Vachanamrut Gadhada I 1
+> *Footnote:* 22. Bhagwan Swaminarayan, Vachanamrut, trans. Sadhu Swayamprakashdas (Amdavad: Swaminarayan Aksharpith, 2014), Gadhada I 1.
+
+### 3.15.7.13 Recorded Discourses
+For **published** recordings of Pramukh Swami Maharaj's or Mahant Swami Maharaj's discourses (the *katha* series, commemorative volumes, etc.), treat as Audio/Video Recording ([3.15.6.5](#31565-audio-or-video-recording)).
+
+For **unpublished** or internal Sanstha recordings (private discourses, archive material), treat as Personal Communication ([3.15.6.6](#31566-personal-communication)).
 
 ## 3.15.8 *Ibid.* and Shortened-Form Citations
 
@@ -283,7 +456,7 @@ When citing a source again after intervening notes from other sources, use the *
 
 - ❌ **Missing publication city.** Always include the city of publication for books.
 - ❌ **Inconsistent author-name order.** Footnotes always use *Firstname Lastname*; bibliography always uses *Lastname, Firstname* (first author only).
-- ❌ **Italics on the title of an article or chapter.** Article and chapter titles take **quotation marks**, not italics. Italics are reserved for **whole works** — book titles, journal names, film titles.
+- ❌ **Italics on the title of an article or chapter.** Article and chapter titles take **quotation marks**, not italics. Italics are reserved for **whole works** — book titles, journal names, film titles. **Exception:** Hindu shastra titles (*Bhagavad Gita*, *Vachanamrut*, *Shikshapatri*, etc.) are **roman**, not italicized — a BAPS-specific departure from CMS. See [3.15.7](#3157-hindu-shastra-citations).
 - ❌ **Missing DOI for an online article.** Always prefer the DOI over the raw URL when both are available.
 - ❌ **Putting personal communications in the bibliography.** Personal communications are cited in footnotes only ([3.15.6.6](#31566-personal-communication)).
 - ❌ **Using *op. cit.* or *loc. cit.*** Deprecated; use the shortened form ([3.15.8.2](#31582-shortened-form-non-immediate-repeat)).

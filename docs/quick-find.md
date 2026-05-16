@@ -28,7 +28,9 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## B
 - **BAPS (initialism, no article)** → [3.12.4](editorial/abbreviations.md#3124-articles-before-acronyms-and-initialisms)
 - **Base style manual (open question)** → [10.7](discussions/base-style-manual.md)
+- **Bhagavad Gita citation (chapter.verse)** → [3.15.7.6](editorial/citations.md#31576-bhagavad-gita)
 - **Bibliography format (CMS)** → [3.15.2.3](editorial/citations.md#31523-bibliography-conventions)
+- **Block quotations (shastras)** → [3.15.7.10](editorial/citations.md#315710-quoting-shastras)
 - **Book citation format** → [3.15.3](editorial/citations.md#3153-books)
 - **BrE vs AmE (body language)** → [3.1.3](editorial/index.md#313-british-vs-american-english)
 - **Bullets (vertical lists)** → [3.13.1](editorial/lists.md#3131-bullets-numbers-or-letters)
@@ -207,6 +209,9 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - ***Same to same* / reduplication for emphasis (avoid)** → [11.2.16](pitfalls/index.md#11216-same-to-same-reduplication-for-emphasis)
 - **Sampradaya** → [3.3.2.8](editorial/capitalization.md#3328-sampradaya)
 - **Sanstha & mandirs (open questions)** → [10.2](discussions/sanstha-and-mandirs.md)
+- **Shastra citations (Hindu — no italics, no punctuation between title and reference)** → [3.15.7](editorial/citations.md#3157-hindu-shastra-citations)
+- **Shikshapatri citation** → [3.15.7.5](editorial/citations.md#31575-shikshapatri)
+- **Swamini Vato citation** → [3.15.7.4](editorial/citations.md#31574-swamini-vato)
 - ***Satsang* / *satsang*** → [3.3.2.11](editorial/capitalization.md#33211-satsang-as-a-doctrinal-term)
 - **Scripts (JSX) — overview** → [8.1](scripts/index.md)
 - **Scripts (JSX) — reference** → [8.2](scripts/jsx-reference.md)
@@ -237,9 +242,11 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## U
 - **Unit abbreviations (no hyphen)** → [3.8.5.3](editorial/numbers.md#3853-no-hyphen-before-symbols-or-unit-abbreviations), [3.8.5.4](editorial/numbers.md#3854-use-singular-form-in-compound-modifiers)
 - **Units — singular form in compound modifiers (*10-foot tree*)** → [3.8.5.4](editorial/numbers.md#3854-use-singular-form-in-compound-modifiers)
+- **Upanishads citation** → [3.15.7.7](editorial/citations.md#31577-upanishads)
 
 ## V
-- **Vachanamrut citation (Vach. Gadh. I 1)** → [3.15.7.1](editorial/citations.md#31571-vachanamrut)
+- **Vachanamrut citation (Vach. Gadh. I 1)** → [3.15.7.3](editorial/citations.md#31573-vachanamrut)
+- **Vachanamrut section abbreviations table** → [3.15.7.3](editorial/citations.md#31573-vachanamrut)
 - **V.S. (Vikram Samvat) years** → [3.8.4.5](editorial/numbers.md#3845-vs-vikram-samvat-years)
 - **Verses — italics** → [3.6.4](editorial/italics.md#364-shlokas-padas-and-other-quoted-verses)
 - **Verses — macron-only diacritics** → [5.3](diacritics/macron-convention.md)
