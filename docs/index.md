@@ -3,7 +3,7 @@ Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) p
 
 Most of our English-language work consists of **translations from Gujarati source texts**. Smaller proportions involve Sanskrit material (typically scriptural verses and commentaries embedded in larger Gujarati→English projects) and Hindi material (similarly embedded). A significant body of work is also written **originally in English**.
 
-This site documents the editorial, design, and production conventions for all of that – across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar; authors and editors work collaboratively on grammatical questions, drawing on standard references where needed.
+This site documents the editorial, design, and production conventions for all of that – across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar (Garner / Fowler / CMS handle that), but the recurrent patterns SAP editors fix in BAPS manuscripts — Indian-English usages, Gujarati-translation calques, devotional-register issues — are documented at [3.15 Common Editorial Pitfalls](editorial/pitfalls.md).
 
 !!! tip "How to use this guide"
     Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? See [Feedback](feedback.md) – one click sends an email to the maintainer.

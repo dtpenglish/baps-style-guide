@@ -31,7 +31,9 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Bullets (vertical lists)** → [3.13.1](editorial/lists.md#3131-bullets-numbers-or-letters)
 
 ## C
+- **Calques from Gujarati (the doing of X, going for darshan)** → [3.15.3](editorial/pitfalls.md#3153-translation-from-gujarati-patterns)
 - **Capitalization — general** → [3.3](editorial/capitalization.md)
+- **Capitalization of *He / His* for divine reference (don't)** → [3.15.4.1](editorial/pitfalls.md#31541-capitalizing-pronouns-for-reverence-he-his)
 - **Capitalization — *Earth* / *earth*** → [3.3.2.3](editorial/capitalization.md#3323-earth-earth)
 - **Capitalization — definitions (sentence case)** → [3.3.2.16](editorial/capitalization.md#33216-definitions-use-sentence-case-not-title-case)
 - **Capitalization — direct address (*Sergeant*, *Father*)** → [3.3.2.13](editorial/capitalization.md#33213-terms-of-address-direct-address-and-family-relationships)
@@ -55,6 +57,8 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## D
 - **Dashes — en dash for ranges** → [3.10.2](editorial/punctuation.md#3102-dashes)
+- **Devotional register pitfalls** → [3.15.4](editorial/pitfalls.md#3154-devotional-register-pitfalls)
+- ***Do the needful* / *kindly revert* (avoid)** → [3.15.2.1](editorial/pitfalls.md#31521-do-the-needful-kindly-revert)
 - **Dashes — spaced en dash for parenthetical breaks** → [3.10.2](editorial/punctuation.md#3102-dashes)
 - **Dashes — em dash NOT used** → [3.10.2](editorial/punctuation.md#3102-dashes)
 - **Decimals** → [3.8.4.4](editorial/numbers.md#3844-fractions-and-decimals)
@@ -99,6 +103,8 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## I
 - **i.e. — comma rules** → [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc)
 - **InDesign — character styles** → [6.3](indesign/character-styles.md)
+- **Indian-English pitfalls** → [3.15.2](editorial/pitfalls.md#3152-indian-english-patterns)
+- **Intensifiers — overuse of *very*, *especially*, *particularly*** → [3.15.3.3](editorial/pitfalls.md#31533-overuse-of-very-especially-particularly)
 - **InDesign — master pages** → [6.5](indesign/master-pages.md)
 - **InDesign — object styles** → [6.4](indesign/object-styles.md)
 - **InDesign — paragraph styles** → [6.2](indesign/paragraph-styles.md)
@@ -144,6 +150,8 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## P
 - **Paragraph styles (InDesign)** → [6.2](indesign/paragraph-styles.md)
+- **Pitfalls (Indian-English, Gujarati calques, devotional register)** → [3.15](editorial/pitfalls.md)
+- ***Prepone* (avoid in general-readership prose)** → [3.15.2.2](editorial/pitfalls.md#31522-prepone)
 - **Periods — abbreviations** → [3.12.1](editorial/abbreviations.md#3121-periods-truncations-vs-contractions)
 - **Periods — spacing** → [3.10.5](editorial/punctuation.md#3105-spacing)
 - **Phrasal verbs in titles** → [3.4.4](editorial/title-case.md#344-phrasal-verbs-and-open-compounds-in-titles)
