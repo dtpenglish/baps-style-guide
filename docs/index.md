@@ -16,6 +16,7 @@ Common entry points organized by task, not topic:
 - **… decide whether to use diacritics** → [5 Diacritics](diacritics/index.md) (with decision tree)
 - **… check the comma rule for *i.e.* / *e.g.* / *etc.*** → [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc)
 - **… place a footnote superscript correctly** → [3.11 Footnotes](editorial/footnotes.md)
+- **… cite a book, article, website, or scripture** → [3.15 Citations & References](editorial/citations.md)
 - **… set the title of a book or chapter** → [3.4 Title Case in Detail](editorial/title-case.md)
 - **… look up a specific topic A–Z** → [Quick Find](quick-find.md)
 - **… set up an InDesign character style** → [6.3 Character Styles](indesign/character-styles.md)

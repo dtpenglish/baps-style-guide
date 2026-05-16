@@ -20,6 +20,7 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 - [Abbreviations & Acronyms](abbreviations.md) – periods, plurals, *i.e.* / *e.g.* / *etc.*
 - [Vertical Lists](lists.md) – bullets, numbering, parallel construction
 - [Apostrophes & Possessives](apostrophes.md) – possessives, plurals of letters, apostrophe of omission
+- [Citations & References](citations.md) – CMS Notes–Bibliography style for books, articles, websites, scriptures, and BAPS-specific sources
 
 Common errors to avoid (Indian-English, Gujarati-translation calques, devotional-register issues) now live in their own Part — see [11 Common Editorial Pitfalls](../pitfalls/index.md).
 

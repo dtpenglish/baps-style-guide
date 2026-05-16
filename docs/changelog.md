@@ -5,6 +5,25 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.25] – 2026-05-13
+
+### Added
+- **New chapter 3.15 Citations & References** ([editorial/citations.md](editorial/citations.md)). A full citations chapter following the **Chicago Manual of Style (CMS), Notes–Bibliography (NB) system** — the standard for humanities and religion publishing.
+- Covers the **three coordinated components** of a CMS citation (in-text superscript, footnote, bibliography entry), with generic format + worked example for every reference type:
+  - **Books** (1 author, 2–3 authors, 4+ authors, edited volume, chapter in an edited book, translated book).
+  - **Periodicals** (scholarly journal article with DOI, magazine article, newspaper article).
+  - **Online sources** (web page, whole website, blog post, social media post).
+  - **Specialized references** (encyclopedia / dictionary entry, government document, film, lecture / unpublished talk, audio / video recording, personal communication, thesis or dissertation).
+  - **BAPS-specific references** (Vachanamrut, Shikshapatri, Swamini Vato, translated scriptures, recorded discourses) — with both the **current SAP in-text convention** (*Vach. Gadh. I 1*) and the **academic CMS form**.
+- ***Ibid.* and shortened-form** repeat-citation rules ([3.15.8](editorial/citations.md#3158-ibid-and-shortened-form-citations)); *op. cit.* / *loc. cit.* deprecated.
+- **Common citation pitfalls** ([3.15.9](editorial/citations.md#3159-common-pitfalls)) — missing publication city, article titles in italics (wrong — quotation marks), personal communications in the bibliography (wrong — footnote only), etc.
+- Synthesized from two CMS reference sheets (Yeshiva University Beren Writing Center; Lewis University Writing Center) plus BAPS-specific reference types not covered in standard CMS guides.
+- Site home: new entry in the "I Need To…" section — *"cite a book, article, website, or scripture → 3.15"*.
+- Editorial chapter index updated with the new chapter.
+- Quick Find: 14 new entries (Bibliography format, Book citation, Chapter in edited book, Citations general, CMS, Film, Government document, *Ibid.*, Journal article, Lecture, Magazine, Newspaper, Personal communication, Vachanamrut citation, Webpage, Whole website).
+
+---
+
 ## [1.24] – 2026-05-13
 
 ### Added

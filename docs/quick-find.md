@@ -28,6 +28,8 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## B
 - **BAPS (initialism, no article)** → [3.12.4](editorial/abbreviations.md#3124-articles-before-acronyms-and-initialisms)
 - **Base style manual (open question)** → [10.7](discussions/base-style-manual.md)
+- **Bibliography format (CMS)** → [3.15.2.3](editorial/citations.md#31523-bibliography-conventions)
+- **Book citation format** → [3.15.3](editorial/citations.md#3153-books)
 - **BrE vs AmE (body language)** → [3.1.3](editorial/index.md#313-british-vs-american-english)
 - **Bullets (vertical lists)** → [3.13.1](editorial/lists.md#3131-bullets-numbers-or-letters)
 
@@ -35,6 +37,9 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Calques from Gujarati (the doing of X, going for darshan)** → [11.3](pitfalls/index.md#113-translation-from-gujarati-patterns)
 - **Capitalization — general** → [3.3](editorial/capitalization.md)
 - **Capitalization of *He / His / Him* for divine reference (don't)** → [11.4.1](pitfalls/index.md#1141-capitalizing-pronouns-for-reverence-he-his-him)
+- **Chapter / essay in an edited book — citation** → [3.15.3.5](editorial/citations.md#31535-chapter-or-essay-in-an-edited-book)
+- **Citations & References (CMS Notes–Bibliography)** → [3.15](editorial/citations.md)
+- **CMS citation style** → [3.15](editorial/citations.md)
 - ***Cousin-sister* / *cousin-brother* (avoid)** → [11.2.4](pitfalls/index.md#1124-cousin-sister-cousin-brother)
 - **Capitalization — *Earth* / *earth*** → [3.3.2.3](editorial/capitalization.md#3323-earth-earth)
 - **Capitalization — definitions (sentence case)** → [3.3.2.16](editorial/capitalization.md#33216-definitions-use-sentence-case-not-title-case)
@@ -82,6 +87,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## F
 - **Feedback (how to send)** → [Feedback](feedback.md)
+- **Film citation** → [3.15.6.3](editorial/citations.md#31563-film-or-video)
 - **First mention — spell out, then abbreviate** → [3.12.5](editorial/abbreviations.md#3125-first-mention-spell-out-then-abbreviate)
 - **Fortnight (*sud* / *vad*) — italic, lowercase, always** → [4](tithis/index.md)
 - **Footnotes — placement** → [3.11.1](editorial/footnotes.md#3111-placement)
@@ -105,8 +111,10 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## G
 - ***Good name* / *What is your good name?* (avoid)** → [11.2.7](pitfalls/index.md#1127-good-name-what-is-your-good-name)
+- **Government document citation** → [3.15.6.2](editorial/citations.md#31562-government-document)
 
 ## I
+- ***Ibid.* (repeat citation)** → [3.15.8.1](editorial/citations.md#31581-ibid-immediate-repeat)
 - **i.e. — comma rules** → [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc)
 - **InDesign — character styles** → [6.3](indesign/character-styles.md)
 - **Indian-English pitfalls** → [11.2](pitfalls/index.md#112-indian-english-patterns)
@@ -126,8 +134,12 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Italics — shlokas, padas, quoted verses** → [3.6.4](editorial/italics.md#364-shlokas-padas-and-other-quoted-verses)
 - **Italics — for English emphasis** → [3.6.3](editorial/italics.md#363-italics-for-english-emphasis)
 
+## J
+- **Journal article citation (with DOI)** → [3.15.4.1](editorial/citations.md#31541-scholarly-journal-article)
+
 ## L
 - **Latin abbreviations (*V.S.*, *e.g.*, *i.e.*, *etc.*, *a.m.*, *p.m.*)** → [3.12.1](editorial/abbreviations.md#3121-periods-truncations-vs-contractions)
+- **Lecture or discourse citation** → [3.15.6.4](editorial/citations.md#31564-lecture-discourse-or-unpublished-talk)
 - **Lists — vertical** → [3.13](editorial/lists.md)
 - **Lists — colon vs no-colon introduction** → [3.13.4](editorial/lists.md#3134-introducing-a-list)
 - **Lists — parallel construction** → [3.13.2](editorial/lists.md#3132-parallel-construction)
@@ -135,6 +147,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 
 ## M
 - **Macron-only convention** → [5.3](diacritics/macron-convention.md)
+- **Magazine article citation** → [3.15.4.2](editorial/citations.md#31542-magazine-article)
 - ***Myself X* as self-introduction (avoid)** → [11.2.10](pitfalls/index.md#11210-myself-x-as-self-introduction)
 - **Mandirs (open questions)** → [10.2](discussions/sanstha-and-mandirs.md)
 - **Master pages (InDesign)** → [6.5](indesign/master-pages.md)
@@ -144,6 +157,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Names — initials (*T.S. Eliot*)** → [3.12.1](editorial/abbreviations.md#3121-periods-truncations-vs-contractions)
 - **Names — italicization** → [3.6.1.2](editorial/italics.md#3612-names-and-capitalized-proper-nouns-not-italicized)
 - ***Native place* (avoid)** → [11.2.11](pitfalls/index.md#11211-native-place)
+- **Newspaper article citation** → [3.15.4.3](editorial/citations.md#31543-newspaper-article)
 - **Numbers — general rule (1–10 spelled out)** → [3.8.1](editorial/numbers.md#381-the-rule)
 - **Numbers — currency** → [3.8.3](editorial/numbers.md#383-use-numerals)
 - **Numbers — fractions and decimals** → [3.8.4.4](editorial/numbers.md#3844-fractions-and-decimals)
@@ -162,6 +176,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 ## P
 - **Paragraph styles (InDesign)** → [6.2](indesign/paragraph-styles.md)
 - ***Pass out* (= graduate, avoid)** → [11.2.6](pitfalls/index.md#1126-pass-out-graduate)
+- **Personal communication (citation in footnote only)** → [3.15.6.6](editorial/citations.md#31566-personal-communication)
 - **Pitfalls (Indian-English, Gujarati calques, devotional register)** → [11](pitfalls/index.md)
 - **Pleonastic prepositions (*discuss about*, *return back*, *order for*, etc.)** → [11.2.9](pitfalls/index.md#1129-pleonastic-prepositions-discuss-about-return-back-reach-at-mention-about-order-for)
 - ***Prepone* (avoid in general-readership prose)** → [11.2.2](pitfalls/index.md#1122-prepone)
@@ -224,6 +239,7 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Units — singular form in compound modifiers (*10-foot tree*)** → [3.8.5.4](editorial/numbers.md#3854-use-singular-form-in-compound-modifiers)
 
 ## V
+- **Vachanamrut citation (Vach. Gadh. I 1)** → [3.15.7.1](editorial/citations.md#31571-vachanamrut)
 - **V.S. (Vikram Samvat) years** → [3.8.4.5](editorial/numbers.md#3845-vs-vikram-samvat-years)
 - **Verses — italics** → [3.6.4](editorial/italics.md#364-shlokas-padas-and-other-quoted-verses)
 - **Verses — macron-only diacritics** → [5.3](diacritics/macron-convention.md)
@@ -231,6 +247,8 @@ For full-text search, press <kbd>/</kbd> or use the search bar (top right).
 - **Versioning rules (file outputs)** → [9.2](workflows/versioning.md)
 
 ## W
+- **Webpage / online article citation** → [3.15.5.1](editorial/citations.md#31551-web-page-or-online-article)
+- **Website (whole site) citation** → [3.15.5.2](editorial/citations.md#31552-whole-website)
 - **Workflows** → [9](workflows/index.md)
 - **Writing tone** → [3.2](editorial/tone-and-voice.md)
 
