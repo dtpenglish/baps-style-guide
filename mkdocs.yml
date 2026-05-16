@@ -149,6 +149,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Quick Find: quick-find.md
+  - Changelog: changelog.md
   - Concepts: concepts/index.md
   - Translation:
       - "2.1 Translation & Transliteration": translation/index.md
@@ -202,7 +203,6 @@ nav:
   - Pitfalls: pitfalls/index.md
   - Downloads: downloads/index.md
   - Feedback: feedback.md
-  - Changelog: changelog.md
 
 # ---------------------------------------------------------------
 # Extra

@@ -5,6 +5,66 @@ The format follows [Keep a Changelog](https://keepachangelog.com/). Versions are
 
 ---
 
+## [1.24] – 2026-05-13
+
+### Added
+- **New Part 11 Common Editorial Pitfalls** ([pitfalls/index.md](pitfalls/index.md)). A curated, evidence-based list of patterns SAP editors recurrently fix in BAPS manuscripts. Three sections:
+  - **11.2 Indian-English Patterns** (17 items): *do the needful* / *kindly revert*, *prepone*, emphatic *only* / *itself*, *cousin-sister* / *cousin-brother*, *out of station*, *pass out* (= graduate), *good name* / *what is your good name?*, *intimate* (v. = inform), pleonastic prepositions (*discuss about*, *return back*, *reach at*, *mention about*, *order for*), *myself X* as self-introduction, *native place*, *years back* / *days back*, *too* for *very*, over-formal business English (*the same*, *the undersigned*, *please find attached herewith*), progressive aspect on stative verbs (*I am understanding*), *same to same* / reduplication for emphasis, articles (*a* / *an* / *the*) — omission and overuse.
+  - **11.3 Translation-from-Gujarati Patterns** (3 items): *the doing of X* / excessive nominalization, *going for darshan*, overuse of intensifiers (*very*, *especially*, *particularly*).
+  - **11.4 Devotional-Register Pitfalls** (2 items): capitalizing *He* / *His* for divine reference (don't), default-translating *mahima* as *glory*.
+- Each pitfall cites a real source — OED, Garner's *Modern English Usage*, Mukherjee (2010), Kachru (1983), Sailaja (2009), CMS, Hart's, Plain English Campaign, GOV.UK, or *SAP editorial review* for BAPS-internal rules.
+- **11.1 What Goes On This Page (and What Doesn't)** sets the bar for adding a pitfall: fixed in ≥ 3 manuscripts, not already in mainstream guides, team-agreed, citable.
+- **11.5 How to Propose a New Pitfall** documents the workflow.
+- **11.6 Reliable Sources** lists the canonical references to consult when checking whether a pattern is Indian English or general English.
+- Site home: scope statement updated to reference Part 11; new card added to the Sections at a Glance grid.
+- [Quick Find](quick-find.md) gains 22 entries across A, C, D, G, I, M, N, O, P, S, T, Y for the Indian-English / Gujarati-calque / devotional-register patterns.
+
+### Changed
+- **Site scope language relaxed.** Home page formerly said "does not cover general English grammar; authors and editors work collaboratively…"; now says "does not cover general English grammar (Garner / Fowler / CMS handle that), but the recurrent patterns SAP editors fix in BAPS manuscripts … are documented in Part 11."
+- **Promoted from chapter to Part.** The pitfalls section started life as chapter 3.15 inside Editorial; promoted to its own top-level Part 11 because (a) it's conceptually distinct ('avoid this' vs. the rest of Editorial's 'do this'), and (b) it's expected to grow over time. File moved from `docs/editorial/pitfalls.md` to `docs/pitfalls/index.md`; all 22 cross-references in Quick Find updated.
+
+---
+
+## [1.23] – 2026-05-13
+
+### Added
+- **Quick Find — A-Z Topic Index** ([quick-find.md](quick-find.md)). A flat alphabetical index of every rule on the site with deep links. New top-level nav entry between Home and Concepts. For lookups when you know the topic but not the section number.
+- **Hover-tooltip abbreviations.** The `abbr` extension is wired up via `pymdownx.snippets` auto-append. Every *SAP*, *BAPS*, *CMS*, *OED*, *V.S.*, *BrE*, *EPUB*, *NATO*, etc. on the site now hovers to the full term. Definitions maintained in [includes/abbreviations.md](https://github.com/dtpenglish/baps-style-guide/blob/main/includes/abbreviations.md).
+- **Decision-tree diagrams** (Mermaid) at the top of the three hardest decision pages: [3.6 Italics](editorial/italics.md#quick-decision), [3.3 Capitalization](editorial/capitalization.md#quick-decision), and [5.1 Diacritics](diacritics/index.md#quick-decision). Lets readers find the answer without reading the full chapter.
+- **'I Need To…' section** on the home page with 12 task-oriented entry points (italicize a term, capitalize a term, place a footnote, set a book title, look up a topic A-Z, set up an InDesign character style, draft alt text, version a script, run a JSX script, etc.).
+- **'Recently Updated' section** on the home page with hand-curated highlights from the last few releases.
+- **'Last reviewed by the SAP DTP team: 2026-05-13' line** under the H1 of all 43 chapter / reference pages. Distinct from git's "last edited" timestamp — this records when the team actively confirmed the rule is current.
+- **Collapsible 'Show me' worked examples** added to 11 high-value rule pages (italics, capitalization, doctrinal titles, title case, dashes, quotation marks, footnotes, periods, parallel construction, apostrophes, numbers, plurals). Click to expand a substantive sample paragraph showing the rule applied in real SAP-style prose, with annotations cross-referencing each phrase back to its sub-rule.
+
+### Changed
+- **Left sidebar exposes every subsection.** Enabled Material's `toc.integrate` feature. Every H2/H3 of the current page now appears as a clickable, indented entry in the left navigation, under the page title. Eliminates the prior gap where the left sidebar stopped at the page level.
+- **Breadcrumbs above page titles.** Enabled `navigation.path`. Each page now displays its position in the hierarchy.
+- **Long chapters split into focused multi-page chapters.**
+  - **3.3 Capitalization** (271 lines) → **3.3 Capitalization** + new **3.4 Title Case in Detail**.
+  - **3.9 Punctuation** (362 lines) → **3.10 Punctuation** + new **3.11 Footnotes** + new **3.12 Abbreviations & Acronyms** + new **3.13 Vertical Lists** + new **3.14 Apostrophes & Possessives**.
+  - Cascade renumbers under Editorial: 3.4 Doctrinal Titles → 3.5; 3.5 Italics → 3.6; 3.6 Plurals → 3.7; 3.7 Numbers → 3.8; 3.8 Quotation Marks → 3.9.
+  - All cross-references in `editorial/`, `diacritics/`, `indesign/`, and `CLAUDE.md` updated. Anchor slugs in this very page are stale for the moved content — historical references to *3.9.6 Footnotes*, *3.9.7 Abbreviations*, etc. remain as written but are no longer clickable (the underlying anchors live at *3.11*, *3.12*, etc.). Documented but not rewritten; the changelog records history.
+
+### Notes
+- The post-restructure footprint: Editorial grows from 9 chapters to 14, and chapter pages become shorter and more scannable. Coupled with `toc.integrate`, the navigation is materially better for readers who arrive on a long page.
+
+---
+
+## [1.22] – 2026-05-13
+
+### Changed
+- ***i.e.* / *e.g.* — trailing comma dropped.** SAP now follows the BrE convention (Oxford, Hart's, *The Economist*): comma before *i.e.* / *e.g.*; **no** comma after. Reversed the earlier choice (1.18) to retain the trailing comma. Rule at [3.12.7](editorial/abbreviations.md#3127-commas-with-ie-eg-and-etc). CLAUDE.md updated.
+- ***Earth* / *earth* expanded** with theological-context examples ([3.3.2.3](editorial/capitalization.md#3323-earth-earth)). Basic rule (planet → cap; soil/world → lowercase) unchanged; added examples for theological writing — lowercase for *earthly pleasures*, *the earth element*, *beings on earth*; capitalize for *all beings living on Earth*.
+- **Footnote dash exception clarified** at [3.11.2](editorial/footnotes.md#3112-footnote-numbers-with-colons-semicolons-and-other-punctuation). The exception (cue precedes the dash) does apply to the SAP spaced en dash, since the rule covers any dash. Previously the page said the exception "doesn't arise" because SAP doesn't use the em dash — which conflated em dash with all dashes. Added an example: *The findings were controversial⁷ – and widely disputed.*
+- **Interrupted dialogue and trailing speech** documented at [3.10.2.1](editorial/punctuation.md#31021-interrupted-dialogue): spaced en dash for sharply cut-off speech; ellipsis for trailing-off speech.
+- ***From* / *between* with range dashes** documented at [3.10.2.2](editorial/punctuation.md#31022-ranges-with-from-and-between): don't combine the word pair with a range dash (*from 1990 to 2000* or *1990–2000*, not *from 1990–2000*).
+- **8.2.4 ExtendScript Gotchas expanded** from a five-bullet terse list into five H3 subsections, each with what-goes-wrong / fix / why-it-matters-for-our-scripts structure.
+
+### Removed
+- **10.7 Web — BrE or AmE?** open question deleted. BrE is the working default elsewhere in the guide, so the question is no longer open. Base Style Manual renumbered 10.8 → 10.7.
+
+---
+
 ## [1.21] – 2026-05-08
 
 ### Changed
