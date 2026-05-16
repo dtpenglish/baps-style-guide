@@ -1,4 +1,4 @@
-# 3.15 Common Editorial Pitfalls
+﻿# 11 Common Editorial Pitfalls
 
 *Last reviewed by the SAP DTP team: 2026-05-13.*
 
@@ -8,7 +8,7 @@ A curated, evidence-based list of errors and patterns SAP editors **recurrently 
 2. **Translation from Gujarati** — calques and structural patterns that don't transfer cleanly into English.
 3. **Devotional register** — register-level pitfalls in translating religious / devotional prose.
 
-## 3.15.1 What Goes On This Page (and What Doesn't)
+## 11.1 What Goes On This Page (and What Doesn't)
 Add a pitfall to this page when **all** of the following are true:
 
 - It has been **fixed in at least three different BAPS manuscripts** by SAP editors. One-off corrections don't belong here.
@@ -18,9 +18,9 @@ Add a pitfall to this page when **all** of the following are true:
 
 If a candidate fails any of the above, raise it at the next editorial review meeting rather than adding it here.
 
-## 3.15.2 Indian-English Patterns
+## 11.2 Indian-English Patterns
 
-### 3.15.2.1 *Do the Needful* / *Kindly Revert*
+### 11.2.1 *Do the Needful* / *Kindly Revert*
 **The error:** Indian-English business formulas that read as stilted or unclear to a general BAPS readership outside India.
 
 - ❌ *Kindly revert with your comments at the earliest.*
@@ -33,7 +33,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Both phrases carry a "chiefly Indian English" usage note in the [Oxford English Dictionary](https://www.oed.com/) (s.v. *needful*, *revert*). Garner's *Modern English Usage* (5th ed.) flags *revert* in the "reply" sense as "primarily an Indian-English usage; nonstandard elsewhere."
 
-### 3.15.2.2 *Prepone*
+### 11.2.2 *Prepone*
 **The error:** *Prepone* (= reschedule earlier) is well-established in Indian English but unrecognized outside India.
 
 - ❌ *The meeting has been preponed to 9 a.m.*
@@ -43,7 +43,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** OED entry for *prepone*, marked "Indian English."
 
-### 3.15.2.3 *Only* and *Itself* for Emphasis
+### 11.2.3 *Only* and *Itself* for Emphasis
 **The error:** Indian-English uses *only* and *itself* as discourse-level emphasizers in positions where general English would use intonation or rephrasing.
 
 - ❌ *I told him that itself.* / *He came yesterday only.*
@@ -54,7 +54,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Documented as a defining feature of Indian English in B. B. Kachru, *The Indianization of English* (Oxford, 1983); see also the Indian English usage notes in Garner's *Modern English Usage*.
 
-### 3.15.2.4 *Cousin-Sister* / *Cousin-Brother*
+### 11.2.4 *Cousin-Sister* / *Cousin-Brother*
 **The error:** Indian English compounds *cousin* with the gendered sibling term to distinguish cousins from siblings.
 
 - ❌ *His cousin-sister is studying in London.*
@@ -64,7 +64,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Indian-English kinship terminology, documented in Mukherjee, *Indian English: Variation and Change* (Benjamins, 2010).
 
-### 3.15.2.5 *Out of Station*
+### 11.2.5 *Out of Station*
 **The error:** *Out of station* (= away from one's home base, travelling) is a Raj-era idiom still current in Indian English but unfamiliar to readers outside India.
 
 - ❌ *Pramukh Swami Maharaj will be out of station next week.*
@@ -74,7 +74,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** OED entry for *station* (n.), sense for *out of station*, marked "chiefly Indian English."
 
-### 3.15.2.6 *Pass Out* (= Graduate)
+### 11.2.6 *Pass Out* (= Graduate)
 **The error:** *Pass out* in Indian English means "complete a course of training, especially graduate from college." In general English, *pass out* means "lose consciousness, faint" — producing accidental comedy.
 
 - ❌ *He passed out of the University of Mumbai in 1965.*
@@ -84,7 +84,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** OED entry for *pass out* (sense "complete a course of training, esp. military"): marked "chiefly Indian and Pakistan English." Garner's *Modern English Usage* (5th ed.) flags the conflict.
 
-### 3.15.2.7 *Good Name* / *What Is Your Good Name?*
+### 11.2.7 *Good Name* / *What Is Your Good Name?*
 **The error:** Politely asking someone's name using *good name* — a calque of Hindi *shubh naam* / Gujarati *shubh naam* — reads as obsequious or oddly archaic in general English.
 
 - ❌ *May I know your good name, sir?* / *What is your good name?*
@@ -94,7 +94,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Classic Indian-English calque documented in Kachru, *The Indianization of English* (Oxford, 1983); Mukherjee, *Indian English: Variation and Change* (Benjamins, 2010).
 
-### 3.15.2.8 *Intimate* as a Verb (= Inform)
+### 11.2.8 *Intimate* as a Verb (= Inform)
 **The error:** Using *intimate* as a verb meaning "inform" is standard in Indian official and business writing but rare elsewhere, where the verb sense reads as legalistic or quaint.
 
 - ❌ *Kindly intimate us of your arrival time.*
@@ -104,13 +104,13 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** OED entry for *intimate* (v.), sense 2, "to make known formally, announce; to notify": now chiefly formal or in Indian English.
 
-### 3.15.2.9 Pleonastic Prepositions (*Discuss About*, *Return Back*, *Reach At*, *Mention About*, *Order For*)
+### 11.2.9 Pleonastic Prepositions (*Discuss About*, *Return Back*, *Reach At*, *Mention About*, *Order For*)
 **The error:** Indian English routinely adds prepositions to verbs that don't need them.
 
 - ❌ *We discussed about the new project.*
 - ✅ *We discussed the new project.*
 - ❌ *He returned back to the mandir.*
-- ✅ *He returned to the mandir.* (and never *revert back* — see [3.15.2.1](#31521-do-the-needful-kindly-revert))
+- ✅ *He returned to the mandir.* (and never *revert back* — see [11.2.1](#1121-do-the-needful-kindly-revert))
 - ❌ *We reached at the venue by 9 a.m.*
 - ✅ *We reached the venue by 9 a.m.* / *We arrived at the venue by 9 a.m.*
 - ❌ *He mentioned about the discourse.*
@@ -122,7 +122,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Garner's *Modern English Usage* (5th ed.) — entries for *discuss about*, *return back*, and similar pleonasms — flags as nonstandard. *Hindu* style guide treats as forms to correct in copy.
 
-### 3.15.2.10 *Myself X* as Self-Introduction
+### 11.2.10 *Myself X* as Self-Introduction
 **The error:** Beginning a self-introduction with *Myself* (= "I am") is standard in Indian-English speech and informal writing but ungrammatical in general English.
 
 - ❌ *Myself Pratik Patel, from Mumbai.*
@@ -132,7 +132,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Kachru, *The Indianization of English* (1983); Mukherjee (2010) lists as a defining feature of Indian English. Garner's *Modern English Usage* flags as nonstandard.
 
-### 3.15.2.11 *Native Place*
+### 11.2.11 *Native Place*
 **The error:** *Native place* (= ancestral hometown, the village or town one's family is from) is a strongly Indian-English idiom that reads as dated or colonial elsewhere.
 
 - ❌ *His native place is Chansad in Gujarat.*
@@ -142,7 +142,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Mukherjee, *Indian English: Variation and Change* (Benjamins, 2010), lists as among the most cited Indian-English idioms in biographical and journalistic writing.
 
-### 3.15.2.12 *Years Back* / *Days Back* (= Years Ago)
+### 11.2.12 *Years Back* / *Days Back* (= Years Ago)
 **The error:** Indian English uses *X years back* where general English uses *X years ago*.
 
 - ❌ *The mandir was built fifty years back.*
@@ -152,7 +152,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Kachru, *The Indianization of English* (1983); Mukherjee (2010).
 
-### 3.15.2.13 *Too* for *Very*
+### 11.2.13 *Too* for *Very*
 **The error:** Indian English uses *too* as a plain intensifier where general English uses *too* only for "excessively, more than appropriate."
 
 - ❌ *The discourse was too good.* (intended: *very good*)
@@ -163,7 +163,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Garner's *Modern English Usage* (5th ed.) entry on *too*; Mukherjee (2010).
 
-### 3.15.2.14 Over-Formal Business English (*The Same*, *The Undersigned*, *Please Find Attached Herewith*)
+### 11.2.14 Over-Formal Business English (*The Same*, *The Undersigned*, *Please Find Attached Herewith*)
 **The error:** Indian-English formal correspondence and reports preserve legalistic or over-formal constructions that read as stilted in general English.
 
 - ❌ *We have received your letter and shall reply to the same shortly.*
@@ -179,7 +179,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** *Plain English Campaign* style guides (UK); GOV.UK style guide. The *Hindu* style guide treats these as forms to avoid in news writing.
 
-### 3.15.2.15 Progressive Aspect on Stative Verbs
+### 11.2.15 Progressive Aspect on Stative Verbs
 **The error:** Indian English freely uses the *-ing* (progressive) form with **stative** verbs — verbs that describe ongoing states rather than actions: *know*, *understand*, *believe*, *want*, *mean*, *prefer*, *contain*, *possess*, *deserve*, *recognize*, and *have* in the sense of possession.
 
 - ❌ *I am understanding the discourse.*
@@ -197,7 +197,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Note:** *Having* in the sense of "experiencing" or "consuming" is fine in general English (*I am having lunch*, *She is having a difficult time*). The pitfall is specifically the **possessive** sense.
 
-### 3.15.2.16 *Same to Same* / Reduplication for Emphasis
+### 11.2.16 *Same to Same* / Reduplication for Emphasis
 **The error:** Indian English uses reduplication (*same to same*, *no-no*, *very very*, *quickly quickly*) as a discourse-level intensifier — a calque from Hindi/Gujarati emphatic reduplication. In general English this reads as informal or childlike.
 
 - ❌ *The two manuscripts are same to same.* (= identical)
@@ -205,13 +205,13 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 - ❌ *He came running running.*
 - ✅ *He ran towards us.* / *He came running quickly.*
 - ❌ *She was very very moved by the discourse.*
-- ✅ *She was deeply moved by the discourse.* (and see [3.15.3.3](#31533-overuse-of-very-especially-particularly) on intensifier overuse)
+- ✅ *She was deeply moved by the discourse.* (and see [11.3.3](#1133-overuse-of-very-especially-particularly) on intensifier overuse)
 
 **Why:** Hindi and Gujarati use reduplication freely as an emphatic, distributive, or aspectual marker (*haste haste* "while laughing", *dheere dheere* "slowly, gradually"). English uses repetition rarely and only in fixed rhetorical patterns (*now now*, *come come*) — never as a free emphasizer.
 
 **Source:** Indian-English reduplication is documented as a defining feature in Mukherjee (2010); Kachru (1983); Sailaja (2009).
 
-### 3.15.2.17 Articles (*A*, *An*, *The*) — Omission and Overuse
+### 11.2.17 Articles (*A*, *An*, *The*) — Omission and Overuse
 **The error:** Indian-English article use diverges from general English — articles drop where general English requires them, or get added where general English uses zero article, a possessive, or a demonstrative.
 
 **Omission** (article missing where general English needs one):
@@ -234,9 +234,9 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Editing note:** This is the hardest Indian-English pattern to catch because it's **systemic and grammatical**, not a phrase to find-and-replace. When reviewing translations from Gujarati, a dedicated **article pass** — reading the manuscript once specifically to check every noun phrase for the right article — catches what a general read misses.
 
-## 3.15.3 Translation-from-Gujarati Patterns
+## 11.3 Translation-from-Gujarati Patterns
 
-### 3.15.3.1 *The Doing of X* / Excessive Nominalization
+### 11.3.1 *The Doing of X* / Excessive Nominalization
 **The error:** Gujarati often uses verbal nouns (*karavu*, *thavu*) where English would use a finite verb. Direct translation produces stilted nominal phrases.
 
 - ❌ *The doing of bhakti is essential for the aspirant.*
@@ -249,7 +249,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** SAP editorial review; translation-team analysis of Gujarati→English calques.
 
-### 3.15.3.2 *Going for Darshan / Arti*
+### 11.3.2 *Going for Darshan / Arti*
 **The error:** Indian-English uses *going for [event]* where general English uses *attending / going to [event]*.
 
 - ❌ *We went for darshan at 6 a.m.*
@@ -259,7 +259,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** SAP editorial review; pattern recurrent in translation from Gujarati sources.
 
-### 3.15.3.3 Overuse of *Very*, *Especially*, *Particularly*
+### 11.3.3 Overuse of *Very*, *Especially*, *Particularly*
 **The error:** Gujarati emphasis particles (*khub*, *atishay*, *vishesh*) often translate into English as repeated intensifiers, which read as overwrought in devotional prose.
 
 - ❌ *The devotee was very, very deeply moved by the discourse, especially by the part where Bhagwan Swaminarayan particularly explained the nature of bhakti.*
@@ -269,9 +269,9 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** Standard editorial guidance; cf. Strunk & White ("omit needless words"), Zinsser, *On Writing Well*. SAP-specific application to devotional prose.
 
-## 3.15.4 Devotional-Register Pitfalls
+## 11.4 Devotional-Register Pitfalls
 
-### 3.15.4.1 Capitalizing Pronouns for Reverence (*He*, *His*)
+### 11.4.1 Capitalizing Pronouns for Reverence (*He*, *His*)
 **The error:** Translating Gujarati devotional texts, English drafts sometimes capitalize *He / His / Him* referring to Bhagwan Swaminarayan or the gurus — a convention common in older English devotional writing but increasingly avoided in modern usage.
 
 - ❌ *Bhagwan Swaminarayan addressed the assembly. He explained the nature of dharma. His words moved the devotees.*
@@ -281,7 +281,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** *Chicago Manual of Style* §8.95 ("Religious names — pronouns referring to God and other deities are lowercased"). *New Hart's Rules* §5.2 takes the same line.
 
-### 3.15.4.2 *Glory* / *Greatness* as Default Translations
+### 11.4.2 *Glory* / *Greatness* as Default Translations
 **The error:** Gujarati *mahima* is reflexively translated as *glory* or *greatness*, even where a more precise English word would better fit the context.
 
 - ❌ *He spoke of the glory of bhakti in every discourse.*
@@ -291,7 +291,7 @@ If a candidate fails any of the above, raise it at the next editorial review mee
 
 **Source:** SAP editorial review; translation-team analysis.
 
-## 3.15.5 How to Propose a New Pitfall
+## 11.5 How to Propose a New Pitfall
 Send a note via [Feedback](../feedback.md) with the subject *Pitfall: [short description]*. Include:
 
 1. The error pattern (one sentence).
@@ -301,7 +301,7 @@ Send a note via [Feedback](../feedback.md) with the subject *Pitfall: [short des
 
 The maintainer reviews submissions monthly; accepted pitfalls go into the next page revision.
 
-## 3.15.6 Reliable Sources
+## 11.6 Reliable Sources
 For checking whether a pattern is "Indian English" or general English, consult in this order:
 
 1. **[Oxford English Dictionary](https://www.oed.com/) (OED)** — has explicit "Indian English" usage notes on the affected entries (*prepone*, *needful*, *revert*).
@@ -312,8 +312,9 @@ For checking whether a pattern is "Indian English" or general English, consult i
 
 For general English errors (not on this page), use Garner or Fowler directly.
 
-## 3.15.7 See Also
-- [3.2 Tone & Voice](tone-and-voice.md) — register expectations; some pitfalls here are tone problems in disguise.
-- [3.6 Italics](italics.md) — formatting of Indic terms (separate from whether to keep or replace them).
+## 11.7 See Also
+- [3.2 Tone & Voice](../editorial/tone-and-voice.md) — register expectations; some pitfalls here are tone problems in disguise.
+- [3.6 Italics](../editorial/italics.md) — formatting of Indic terms (separate from whether to keep or replace them).
 - [Translation rules](../translation/translation-rules.md) — when to translate vs. transliterate vs. anglicize.
 - [Open Discussions: Indic Words](../discussions/indic-words.md) — open questions about words that may shift between Indian-English and general-English usage.
+

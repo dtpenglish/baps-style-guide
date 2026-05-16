@@ -20,7 +20,8 @@ For when to translate vs transliterate vs anglicize, see [Translation Rules](../
 - [Abbreviations & Acronyms](abbreviations.md) – periods, plurals, *i.e.* / *e.g.* / *etc.*
 - [Vertical Lists](lists.md) – bullets, numbering, parallel construction
 - [Apostrophes & Possessives](apostrophes.md) – possessives, plurals of letters, apostrophe of omission
-- [Common Editorial Pitfalls](pitfalls.md) – Indian-English patterns, Gujarati-translation calques, devotional-register issues
+
+Common errors to avoid (Indian-English, Gujarati-translation calques, devotional-register issues) now live in their own Part — see [11 Common Editorial Pitfalls](../pitfalls/index.md).
 
 ## 3.1.2 Quick Reference
 | Question | Short answer |

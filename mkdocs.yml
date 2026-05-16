@@ -168,7 +168,6 @@ nav:
       - "3.12 Abbreviations & Acronyms": editorial/abbreviations.md
       - "3.13 Vertical Lists": editorial/lists.md
       - "3.14 Apostrophes & Possessives": editorial/apostrophes.md
-      - "3.15 Common Editorial Pitfalls": editorial/pitfalls.md
   - Tithis: tithis/index.md
   - Diacritics:
       - "5.1 Diacritics & Transliteration": diacritics/index.md
@@ -200,6 +199,7 @@ nav:
       - "10.5 Indic Words": discussions/indic-words.md
       - "10.6 Transliteration": discussions/transliteration.md
       - "10.7 Base Style Manual": discussions/base-style-manual.md
+  - Pitfalls: pitfalls/index.md
   - Downloads: downloads/index.md
   - Feedback: feedback.md
   - Changelog: changelog.md

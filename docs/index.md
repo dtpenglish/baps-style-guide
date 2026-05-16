@@ -3,7 +3,7 @@ Welcome to the in-house style guide for the BAPS Swaminarayan Aksharpith (SAP) p
 
 Most of our English-language work consists of **translations from Gujarati source texts**. Smaller proportions involve Sanskrit material (typically scriptural verses and commentaries embedded in larger Gujarati→English projects) and Hindi material (similarly embedded). A significant body of work is also written **originally in English**.
 
-This site documents the editorial, design, and production conventions for all of that – across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar (Garner / Fowler / CMS handle that), but the recurrent patterns SAP editors fix in BAPS manuscripts — Indian-English usages, Gujarati-translation calques, devotional-register issues — are documented at [3.15 Common Editorial Pitfalls](editorial/pitfalls.md).
+This site documents the editorial, design, and production conventions for all of that – across Sanskrit, Gujarati, Hindi, and English material. It does **not** cover general English grammar (Garner / Fowler / CMS handle that), but the recurrent patterns SAP editors fix in BAPS manuscripts — Indian-English usages, Gujarati-translation calques, devotional-register issues — are documented in [Part 11 Common Editorial Pitfalls](pitfalls/index.md).
 
 !!! tip "How to use this guide"
     Use the search bar (top right, or press <kbd>/</kbd>) to find a rule or term quickly. Browse the navigation tabs above to read sections in order. Found something out of date or unclear? See [Feedback](feedback.md) – one click sends an email to the maintainer.
@@ -115,6 +115,14 @@ Hand-curated; full history in the [Changelog](changelog.md).
     Conventions the team has not yet settled – Sanstha names, mandir names, gurus, transliteration choices, and more.
 
     [:octicons-arrow-right-24: Open questions](discussions/index.md)
+
+-   :material-alert-circle-outline: __Common Editorial Pitfalls__
+
+    ---
+
+    Indian-English usages, Gujarati-translation calques, and devotional-register issues SAP editors fix recurrently in BAPS manuscripts.
+
+    [:octicons-arrow-right-24: Pitfalls](pitfalls/index.md)
 
 </div>
 
