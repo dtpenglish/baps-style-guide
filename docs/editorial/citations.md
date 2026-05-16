@@ -12,7 +12,7 @@ For the placement of footnote superscripts in running text (after a period, befo
     >
     > ---
     >
-    > 1. Bhagwan Swaminarayan, Vachanamrut (Amdavad: Swaminarayan Aksharpith, 1981), Gadhada I 1.
+    > 1. Bhagwan Swaminarayan, Vachanamrut (Ahmedabad: Swaminarayan Aksharpith, 1981), Gadhada I 1.
     > 2. Raymond Brady Williams, *An Introduction to Swaminarayan Hinduism* (Cambridge: Cambridge University Press, 2001), 14–22.
     > 3. Pramukh Swami Maharaj, "Glory of Bhakti" (discourse, BAPS Mandir, Sarangpur, August 5, 1995).
 
@@ -304,11 +304,11 @@ Preferred form:
 
 **Footnote format (academic):**
 
-> 19. Bhagwan Swaminarayan, Vachanamrut (Amdavad: Swaminarayan Aksharpith, 1981), Gadhada I 1.
+> 19. Bhagwan Swaminarayan, Vachanamrut (Ahmedabad: Swaminarayan Aksharpith, 1981), Gadhada I 1.
 
 **Bibliography format:**
 
-> Bhagwan Swaminarayan. Vachanamrut. Amdavad: Swaminarayan Aksharpith, 1981.
+> Bhagwan Swaminarayan. Vachanamrut. Ahmedabad: Swaminarayan Aksharpith, 1981.
 
 For the open-discussion history of this convention, see [10.4 Shastras](../discussions/shastras.md).
 
@@ -324,7 +324,7 @@ Preferred form:
 
 **Footnote format:**
 
-> 20. Aksharbrahma Gunatitanand Swami, Swamini Vato (Amdavad: Swaminarayan Aksharpith, 1980), 5.132.
+> 20. Aksharbrahma Gunatitanand Swami, Swamini Vato (Ahmedabad: Swaminarayan Aksharpith, 1980), 5.132.
 
 ### 3.15.7.5 Shikshapatri
 Preferred form:
@@ -340,7 +340,7 @@ The verse number alone — no "verse" prefix in the in-text form.
 
 **Footnote format:**
 
-> 21. Bhagwan Swaminarayan, Shikshapatri (Amdavad: Swaminarayan Aksharpith, 1985), 116.
+> 21. Bhagwan Swaminarayan, Shikshapatri (Ahmedabad: Swaminarayan Aksharpith, 1985), 116.
 
 ### 3.15.7.6 Bhagavad Gita
 Preferred form:
@@ -424,7 +424,7 @@ For the typographic treatment of transliterated verse text within a block (itali
 When citing a published English translation of a Gujarati or Sanskrit shastra, indicate the translator in the **footnote** form (the in-text shastra citation stays the same):
 
 > *In-text:* Vachanamrut Gadhada I 1
-> *Footnote:* 22. Bhagwan Swaminarayan, Vachanamrut, trans. Sadhu Swayamprakashdas (Amdavad: Swaminarayan Aksharpith, 2014), Gadhada I 1.
+> *Footnote:* 22. Bhagwan Swaminarayan, Vachanamrut, trans. Sadhu Swayamprakashdas (Ahmedabad: Swaminarayan Aksharpith, 2014), Gadhada I 1.
 
 ### 3.15.7.13 Recorded Discourses
 For **published** recordings of Pramukh Swami Maharaj's or Mahant Swami Maharaj's discourses (the *katha* series, commemorative volumes, etc.), treat as Audio/Video Recording ([3.15.6.5](#31565-audio-or-video-recording)).
