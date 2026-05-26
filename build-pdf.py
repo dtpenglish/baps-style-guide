@@ -30,6 +30,9 @@ SITE = ROOT / "site"
 PRINT_PAGE = SITE / "print_page" / "index.html"
 PRINT_CSS = ROOT / "resources" / "print.css"
 OUTPUT = SITE / "pdf" / "baps-style-guide.pdf"
+# Also publish the PDF to docs/downloads/files/ so it's picked up by
+# the next site build and served from the Downloads page.
+DOWNLOADS_COPY = ROOT / "docs" / "downloads" / "files" / "baps-style-guide.pdf"
 
 
 def build_site() -> None:
@@ -99,10 +102,20 @@ async def render_pdf() -> None:
     print(f"\n[OK] Wrote {OUTPUT.relative_to(ROOT)} ({size_mb:.1f} MB)")
 
 
+def publish_to_downloads() -> None:
+    """Copy the freshly built PDF into docs/downloads/files/ so the
+    next mkdocs build (and the live site) serves it from the
+    Downloads page."""
+    DOWNLOADS_COPY.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy(OUTPUT, DOWNLOADS_COPY)
+    print(f"[OK] Copied to {DOWNLOADS_COPY.relative_to(ROOT)} for the site Downloads page.")
+
+
 def main() -> None:
     build_site()
     inject_print_css()
     asyncio.run(render_pdf())
+    publish_to_downloads()
 
 
 if __name__ == "__main__":
