@@ -89,6 +89,18 @@ plugins:
       width: 100%
       height: auto
       zoomable: true
+  # PDF export — opt-in. Routine `mkdocs serve` / `mkdocs build` skip
+  # PDF generation (it adds ~1-2 min). To build the PDF, run:
+  #   $env:ENABLE_PDF_EXPORT = "true"; python -m mkdocs build
+  # The PDF lands at site/pdf/baps-style-guide.pdf.
+  # First time only: `python -m playwright install chromium`.
+  - exporter:
+      formats:
+        pdf:
+          enabled: !ENV [ENABLE_PDF_EXPORT, false]
+          aggregator:
+            enabled: true
+            output: pdf/baps-style-guide.pdf
 
 # ---------------------------------------------------------------
 # Markdown extensions

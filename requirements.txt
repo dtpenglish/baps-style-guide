@@ -6,3 +6,8 @@ mkdocs-material>=9.5.0
 mkdocs-git-revision-date-localized-plugin>=1.2.4
 mkdocs-glightbox>=0.3.7
 mike>=2.0.0
+# PDF export -- opt-in via the ENABLE_PDF_EXPORT env var.
+# Uses Playwright/Chromium under the hood. First-time setup:
+#   python -m playwright install chromium
+# See mkdocs.yml `plugins.exporter` for configuration.
+mkdocs-exporter>=6.0.0
