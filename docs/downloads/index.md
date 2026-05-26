@@ -1,4 +1,4 @@
-﻿# 11 Downloads
+﻿# Downloads
 
 *Last reviewed by the SAP DTP team: 2026-05-13.*
 
@@ -11,7 +11,7 @@ Files for the BAPS DTP team – JSX scripts, InDesign templates, glossary downlo
 
 If you're a team member who'd like a file added or updated, send a note via [Feedback](../feedback.md).
 
-## 11.1 Style Guide PDF
+## Style Guide PDF
 A consolidated PDF of this entire style guide for desktop / offline reference. The PDF reflects the state of the site at the most recent commit; the cover page shows the version number and date.
 
 | File | Description |
@@ -27,35 +27,35 @@ A consolidated PDF of this entire style guide for desktop / offline reference. T
     python -m playwright install chromium
     ```
 
-## 11.2 JSX Scripts
+## JSX Scripts
 InDesign scripts. See [Scripts & Tools](../scripts/index.md) and the [JSX Scripts Reference](../scripts/jsx-reference.md) for usage notes and known behaviours. To install: download, then drop into InDesign's User Scripts folder.
 
 | File | Version | Description |
 |---|---|---|
 | *No files yet* | | Drop a `.jsx` file into `docs/downloads/files/` and add a row here. |
 
-## 11.3 InDesign Templates
+## InDesign Templates
 Master pages, paragraph styles, and other reusable InDesign assets.
 
 | File | Description |
 |---|---|
 | *No files yet* | Drop an `.indt` / `.indd` file into `docs/downloads/files/` and add a row here. |
 
-## 11.4 Glossary
+## Glossary
 Spelling, transliteration, and capitalization reference. See [5.4 Glossary Reference](../diacritics/glossary-reference.md) for the rationale and macron-only convention.
 
 | File | Version | Date | Description |
 |---|---|---|---|
 | *No files yet* | | | Drop a `.xlsx` file into `docs/downloads/files/` and add a row here. |
 
-## 11.5 Other Files
+## Other Files
 Anything else of use to the team – checklists, transliteration tables, training material, fonts, etc.
 
 | File | Description |
 |---|---|
 | *No files yet* | Drop the file into `docs/downloads/files/` and add a row here. |
 
-## 11.6 Notes
+## Notes
 - **File size**: GitHub allows up to 100 MB per file. For files larger than that, use a [GitHub Release](https://github.com/dtpenglish/baps-style-guide/releases) and link to it from this page instead of placing the file directly in the repo.
 - **Versioning**: every file dropped here should follow the [versioning rule](../workflows/versioning.md) – the version goes in the filename and (where the format allows) in an internal version string.
 - **Don't delete previous versions**. Keep older copies alongside the latest one – disk is cheap, lost work is not. See [9.2 versioning rationale](../workflows/versioning.md#925-why-this-rule-exists).
