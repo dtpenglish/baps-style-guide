@@ -6,8 +6,14 @@ mkdocs-material>=9.5.0
 mkdocs-git-revision-date-localized-plugin>=1.2.4
 mkdocs-glightbox>=0.3.7
 mike>=2.0.0
-# PDF export -- opt-in via the ENABLE_PDF_EXPORT env var.
-# Uses Playwright/Chromium under the hood. First-time setup:
+# PDF export support.
+# - mkdocs-print-site-plugin generates a consolidated /print_page/
+#   containing every page in nav order.
+# - Playwright drives headless Chromium to print that page to PDF.
+# First-time setup on a fresh machine:
+#   pip install -r requirements.txt
 #   python -m playwright install chromium
-# See mkdocs.yml `plugins.exporter` for configuration.
-mkdocs-exporter>=6.0.0
+# Then build the PDF with:
+#   python build-pdf.py
+mkdocs-print-site-plugin>=2.8
+playwright>=1.40.0

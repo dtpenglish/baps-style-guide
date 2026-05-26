@@ -89,18 +89,25 @@ plugins:
       width: 100%
       height: auto
       zoomable: true
-  # PDF export — opt-in. Routine `mkdocs serve` / `mkdocs build` skip
-  # PDF generation (it adds ~1-2 min). To build the PDF, run:
-  #   $env:ENABLE_PDF_EXPORT = "true"; python -m mkdocs build
-  # The PDF lands at site/pdf/baps-style-guide.pdf.
-  # First time only: `python -m playwright install chromium`.
-  - exporter:
-      formats:
-        pdf:
-          enabled: !ENV [ENABLE_PDF_EXPORT, false]
-          aggregator:
-            enabled: true
-            output: pdf/baps-style-guide.pdf
+  # Print-site plugin: generates one consolidated HTML page at
+  # /print_page/ containing every site page in nav order. That page
+  # is then printed to PDF by `build-pdf.py` (using Playwright /
+  # Chromium). The plugin itself is always on; it's harmless on the
+  # live site (one extra hidden page) and required for the PDF
+  # workflow. To build the PDF:
+  #   python build-pdf.py
+  - print-site:
+      add_to_navigation: false
+      print_page_title: "BAPS SAP Style Guide — Print Edition"
+      add_print_site_banner: false
+      enumerate_headings: false
+      enumerate_figures: false
+      add_full_urls: false
+      add_table_of_contents: true
+      toc_title: "Contents"
+      toc_depth: 2
+      add_cover_page: true
+      cover_page_template: "resources/cover.html.j2"
 
 # ---------------------------------------------------------------
 # Markdown extensions
